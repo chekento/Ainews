@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-15 22:27 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-15 22:34 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
 | 01 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [The AI data center boom is colliding with cities scarred by big industry](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/) |
-| 02 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 03 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) |
-| 04 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Making sovereign, open-weight AI the technology frontier - mistral.ai](https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5) |
-| 05 | **Google Research** | Research | ◈ | ● HIGH | [Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train - Google Research](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjYwVDI5dkh1QzFCaFhNbzlvRW9jRV9XMVhKSXhWblAwMy10VDBabFM4QkoxWDg4NGo3blNuSUlWbTA3M2RzdE5rTC1iVXRCUnN0X2RvczN2em5tUFVubkEyUFduQUdGeENObWNnRWFjX0FDZWoxeU5sM2xiMlREVXpDX2R2TDRKWDZWaFhDUUZfMFJtVkJlcEhuODZubmkzRjFXa1VVSGR3QnBmSjNoSjdJTWpLWm8?oc=5) |
-| 06 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) |
-| 08 | **Axios AI** | Industry | ◈ | ◐ MED | [Voters give edge to GOP over Dems on AI - Axios](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVFFLSll4alRvRkd0M3lHOG5xcXB0djRybTllQlJ6VnBuRm5fMU80clJJSDdFS0I1cC16d3ZacWk2aGZFMXJpNnoxenhSSEx4ODYtckZvV0djZHV6TDVnM2hqeS1wbEoyNU1zUnVfdnQ?oc=5) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/) |
-| 10 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost](https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/) |
-| 11 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’](https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 02 | **Together AI Blog** | Research | ◈ | ● HIGH | [Research Blog - Together AI](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fN1p0cm14MWlTeWVnWUQteGVyR1B1WlhJRzFWT0VuS2N4YUt0QlhkQzhvTjlRZnp4cFIzZW9CaF9VRkIyYzFmNkhMVlVaa2g0YUhuUHRRYk1RMjlOR3dPUXN5djQ?oc=5) |
+| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 04 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) |
+| 05 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Making sovereign, open-weight AI the technology frontier - mistral.ai](https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5) |
+| 06 | **Google Research** | Research | ◈ | ● HIGH | [Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train - Google Research](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjYwVDI5dkh1QzFCaFhNbzlvRW9jRV9XMVhKSXhWblAwMy10VDBabFM4QkoxWDg4NGo3blNuSUlWbTA3M2RzdE5rTC1iVXRCUnN0X2RvczN2em5tUFVubkEyUFduQUdGeENObWNnRWFjX0FDZWoxeU5sM2xiMlREVXpDX2R2TDRKWDZWaFhDUUZfMFJtVkJlcEhuODZubmkzRjFXa1VVSGR3QnBmSjNoSjdJTWpLWm8?oc=5) |
+| 07 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) |
+| 09 | **Axios AI** | Industry | ◈ | ◐ MED | [Voters give edge to GOP over Dems on AI - Axios](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVFFLSll4alRvRkd0M3lHOG5xcXB0djRybTllQlJ6VnBuRm5fMU80clJJSDdFS0I1cC16d3ZacWk2aGZFMXJpNnoxenhSSEx4ODYtckZvV0djZHV6TDVnM2hqeS1wbEoyNU1zUnVfdnQ?oc=5) |
+| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/) |
+| 11 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost](https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/) |
+| 12 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
@@ -131,7 +131,7 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 
 Copilot is a **contextual intelligence layer**, not a detached chatbot. It follows the selected story, Discover filters, provider context or the full enabled feed and retrieves a source-diverse evidence set across titles, excerpts, tags, providers, categories, provenance and recency.
 
-**Built in:** evidence cards · primary-source boost · Summary · Why it matters · Compare · Timeline · Risk & policy · Source check · Morning / Evening / Since-last-visit briefings · session-only follow-up context · inline Copilot actions.
+**Built in:** evidence cards · primary-source boost · Summary · Why it matters · Compare · Timeline · Risk & policy · Source check · Morning / Evening / Since-last-visit briefings · session-only follow-up context · inline Copilot actions · direct Widget → Copilot story summary.
 
 > Copilot output is experimental. Source grounding reduces error risk but does not eliminate it; inspect the evidence and original publication for important claims.
 
@@ -145,7 +145,7 @@ Copilot is a **contextual intelligence layer**, not a detached chatbot. It follo
 
 Android 3.2 keeps **Latest · For You · High Signal · Story Clusters · Brief** and adds a more deliberate Discover experience: opening Discover no longer focuses the search field or opens the keyboard. Search starts only after an explicit tap.
 
-**New in 3.2:** Smart Brief presets for Morning / Evening / Since last visit · quick Smart-Watch templates · Widget Studio presets · local For-You reset/control · expanded core+extended source registry · 147 AI sources · 60 provider ecosystems.
+**New in 3.2:** Smart Brief presets for Morning / Evening / Since last visit · quick Smart-Watch templates · Widget Studio presets · direct Widget → Copilot story summary · local For-You reset/control · expanded core+extended source registry · 147 AI sources · 60 provider ecosystems.
 
 > **Development status:** this is an active beta/test build. Bugs, incomplete functions and breaking changes are possible. **Use at your own risk / Nutzung auf eigene Gefahr.**
 
@@ -174,7 +174,7 @@ The APK uses a local mobile interface rather than depending on GitHub Pages. It 
 
 Android **3.2** ships nine native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock · Live AI Radar**.
 
-Widgets share source exclusions, expose configurable content mode/accent/text scale/density/summary/metadata, support **Next ›** plus **Refresh ↻**, and now include one-tap **Widget Studio presets** for balanced, minimal, dense and desk-specific setups.
+Widgets share source exclusions, expose configurable content mode/accent/text scale/density/summary/metadata, support **Next › · ✦ Copilot Summary · Refresh ↻**, and include one-tap **Widget Studio presets** for balanced, minimal, dense and desk-specific setups. The ✦ action passes the currently visible story into Copilot and opens an evidence-grounded summary context.
 
 > Widget refresh timing and rendering can vary by Android device, launcher and battery-management policy. This remains beta functionality.
 
