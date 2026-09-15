@@ -38,6 +38,7 @@ jobs:
         run: |
           node --check android/app/src/main/assets/app.js
           node --check android/app/src/main/assets/media.js
+          node --check android/app/src/main/assets/copilot-v2.js
           node --check scripts/fetch-news.mjs
           node -e "const fs=require('fs'); JSON.parse(fs.readFileSync('config/sources.json','utf8')); JSON.parse(fs.readFileSync('config/providers.json','utf8')); console.log('Mobile assets OK')"
       - name: Refresh bundled AI-only data
@@ -56,7 +57,7 @@ jobs:
           sha256sum dist/AI-News.apk > dist/AI-News.apk.sha256
       - uses: actions/upload-artifact@v4
         with:
-          name: AI-News-Android-2.1
+          name: AI-News-Android-2.2
           path: |
             dist/AI-News.apk
             dist/AI-News.apk.sha256
@@ -67,10 +68,10 @@ jobs:
         run: |
           git tag -f android-latest "$GITHUB_SHA"
           git push origin refs/tags/android-latest --force
-          NOTES="AI News Android 2.1 • Visual Intelligence. New A+Broadcast app identity and launcher icon, feed-provided article images with no page scraping, ten built-in cyber fallback visuals, richer branded news cards, refreshed repository identity, and the existing AI-only discovery, source controls, Copilot and eight configurable home-screen widgets. Publisher images are used only when explicitly exposed by RSS/Atom metadata; otherwise the app uses local vector fallbacks. Debug-signed for direct testing."
+          NOTES="AI News Android 2.2 • Copilot Intelligence. Copilot is now a contextual intelligence layer across stories, filters, providers and the full enabled feed. It adds intent-aware retrieval, weighted title/summary/provider/tag/category matching, source diversity, recency and primary-source boosts, evidence cards, story/view/feed scopes, descriptive provider comparison, timelines, risk & policy analysis, source checks, evidence-backed briefs, session follow-up memory, inline Why/Compare/Timeline/Risk actions, and configurable Copilot behavior. Existing AI-only news, visual cards, source controls and eight widgets remain included. Debug-signed for direct testing."
           if gh release view android-latest >/dev/null 2>&1; then
             gh release upload android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --clobber
-            gh release edit android-latest --title "AI News Android 2.1 • Visual Intelligence" --notes "$NOTES"
+            gh release edit android-latest --title "AI News Android 2.2 • Copilot Intelligence" --notes "$NOTES"
           else
-            gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --title "AI News Android 2.1 • Visual Intelligence" --notes "$NOTES"
+            gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --title "AI News Android 2.2 • Copilot Intelligence" --notes "$NOTES"
           fi

@@ -36,7 +36,17 @@ public class MainActivity extends Activity {
         settings.setCacheMode(WebSettings.LOAD_DEFAULT);
         webView.setBackgroundColor(Color.rgb(5, 7, 17));
         webView.setWebChromeClient(new WebChromeClient());
-        webView.setWebViewClient(new WebViewClient());
+        webView.setWebViewClient(new WebViewClient() {
+            @Override
+            public void onPageFinished(WebView view, String url) {
+                super.onPageFinished(view, url);
+                String bootstrap = "(function(){" +
+                    "if(!document.getElementById('copilot-v2-css')){var l=document.createElement('link');l.id='copilot-v2-css';l.rel='stylesheet';l.href='copilot-v2.css';document.head.appendChild(l);}" +
+                    "if(!document.getElementById('copilot-v2-js')){var s=document.createElement('script');s.id='copilot-v2-js';s.src='copilot-v2.js';document.body.appendChild(s);}" +
+                    "})();";
+                view.evaluateJavascript(bootstrap, null);
+            }
+        });
         webView.addJavascriptInterface(new AndroidBridge(this), "AndroidBridge");
         webView.loadUrl("file:///android_asset/index.html");
     }
