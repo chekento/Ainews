@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
 
     <application
         android:allowBackup="true"
@@ -16,38 +18,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <service android:name=".WatchJobService" android:permission="android.permission.BIND_JOB_SERVICE" android:exported="false" />
 
-        <receiver android:name=".widget.BreakingWidget" android:exported="true" android:label="AI News • Breaking">
-            <intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter>
-            <meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" />
-        </receiver>
-        <receiver android:name=".widget.TopStoryWidget" android:exported="true" android:label="AI News • Primary Signal">
-            <intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter>
-            <meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" />
-        </receiver>
-        <receiver android:name=".widget.ProviderWireWidget" android:exported="true" android:label="AI News • LLM Wire">
-            <intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter>
-            <meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" />
-        </receiver>
-        <receiver android:name=".widget.GovernanceWidget" android:exported="true" android:label="AI News • Governance Radar">
-            <intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter>
-            <meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" />
-        </receiver>
-        <receiver android:name=".widget.ResearchWidget" android:exported="true" android:label="AI News • R&amp;D / Infra">
-            <intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter>
-            <meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" />
-        </receiver>
-        <receiver android:name=".widget.CompactStackWidget" android:exported="true" android:label="AI News • Signal Stack">
-            <intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter>
-            <meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" />
-        </receiver>
-        <receiver android:name=".widget.NeonMatrixWidget" android:exported="true" android:label="AI News • Neon Matrix">
-            <intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter>
-            <meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" />
-        </receiver>
-        <receiver android:name=".widget.SignalClockWidget" android:exported="true" android:label="AI News • Signal Clock">
-            <intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter>
-            <meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" />
-        </receiver>
+        <receiver android:name=".widget.BreakingWidget" android:exported="true" android:label="AI News • Breaking"><intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter><meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" /></receiver>
+        <receiver android:name=".widget.TopStoryWidget" android:exported="true" android:label="AI News • Primary Signal"><intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter><meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" /></receiver>
+        <receiver android:name=".widget.ProviderWireWidget" android:exported="true" android:label="AI News • LLM Wire"><intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter><meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" /></receiver>
+        <receiver android:name=".widget.GovernanceWidget" android:exported="true" android:label="AI News • Governance Radar"><intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter><meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" /></receiver>
+        <receiver android:name=".widget.ResearchWidget" android:exported="true" android:label="AI News • R&amp;D / Infra"><intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter><meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" /></receiver>
+        <receiver android:name=".widget.CompactStackWidget" android:exported="true" android:label="AI News • Signal Stack"><intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter><meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" /></receiver>
+        <receiver android:name=".widget.NeonMatrixWidget" android:exported="true" android:label="AI News • Neon Matrix"><intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter><meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" /></receiver>
+        <receiver android:name=".widget.SignalClockWidget" android:exported="true" android:label="AI News • Signal Clock"><intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter><meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" /></receiver>
+        <receiver android:name=".widget.LiveRadarWidget" android:exported="true" android:label="AI News • Live AI Radar"><intent-filter><action android:name="android.appwidget.action.APPWIDGET_UPDATE" /></intent-filter><meta-data android:name="android.appwidget.provider" android:resource="@xml/widget_info" /></receiver>
     </application>
 </manifest>

@@ -1,22 +1,32 @@
 package cloud.kosch.ainews;
 
+import android.Manifest;
 import android.app.Activity;
+import android.app.job.JobInfo;
+import android.app.job.JobScheduler;
+import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.graphics.Color;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.VibrationEffect;
 import android.os.Vibrator;
+import android.speech.tts.TextToSpeech;
 import android.webkit.JavascriptInterface;
 import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import cloud.kosch.ainews.widget.BaseNewsWidget;
+import java.util.Locale;
 
 public class MainActivity extends Activity {
+    private static final int WATCH_JOB_ID = 44021;
     private WebView webView;
+    private TextToSpeech tts;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,80 +47,121 @@ public class MainActivity extends Activity {
         webView.setBackgroundColor(Color.rgb(5, 7, 17));
         webView.setWebChromeClient(new WebChromeClient());
         webView.setWebViewClient(new WebViewClient() {
-            @Override
-            public void onPageFinished(WebView view, String url) {
+            @Override public void onPageFinished(WebView view, String url) {
                 super.onPageFinished(view, url);
                 String bootstrap = "(function(){" +
-                    "if(!document.getElementById('copilot-v2-css')){var l=document.createElement('link');l.id='copilot-v2-css';l.rel='stylesheet';l.href='copilot-v2.css';document.head.appendChild(l);}" +
-                    "if(!document.getElementById('copilot-v2-js')){var s=document.createElement('script');s.id='copilot-v2-js';s.src='copilot-v2.js';document.body.appendChild(s);}" +
+                    "function css(id,href){if(!document.getElementById(id)){var l=document.createElement('link');l.id=id;l.rel='stylesheet';l.href=href;document.head.appendChild(l);}}" +
+                    "function js(id,src){if(!document.getElementById(id)){var s=document.createElement('script');s.id=id;s.src=src;document.body.appendChild(s);}}" +
+                    "css('copilot-v2-css','copilot-v2.css');css('intelligence-v3-css','intelligence-v3.css');" +
+                    "js('copilot-v2-js','copilot-v2.js');js('intelligence-v3-js','intelligence-v3.js');" +
                     "})();";
                 view.evaluateJavascript(bootstrap, null);
             }
         });
         webView.addJavascriptInterface(new AndroidBridge(this), "AndroidBridge");
         webView.loadUrl("file:///android_asset/index.html");
+        scheduleWatchJob();
     }
 
-    @Override
-    public void onBackPressed() {
+    public void scheduleWatchJob() {
+        String rules = getSharedPreferences("intelPrefs", MODE_PRIVATE).getString("watchlists", "[]");
+        JobScheduler js = (JobScheduler) getSystemService(JOB_SCHEDULER_SERVICE);
+        if (js == null) return;
+        if (rules == null || rules.equals("[]")) { js.cancel(WATCH_JOB_ID); return; }
+        JobInfo info = new JobInfo.Builder(WATCH_JOB_ID, new ComponentName(this, WatchJobService.class))
+            .setRequiredNetworkType(JobInfo.NETWORK_TYPE_ANY)
+            .setPeriodic(15 * 60 * 1000L)
+            .setPersisted(true)
+            .build();
+        js.schedule(info);
+    }
+
+    private void requestAlertPermission() {
+        if (Build.VERSION.SDK_INT >= 33 && checkSelfPermission(Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED) {
+            requestPermissions(new String[]{Manifest.permission.POST_NOTIFICATIONS}, 501);
+        }
+    }
+
+    private void speakText(String text, String languageTag) {
+        if (text == null || text.trim().isEmpty()) return;
+        runOnUiThread(() -> {
+            if (tts != null) {
+                Locale locale = Locale.forLanguageTag(languageTag == null || languageTag.isEmpty() ? "en" : languageTag);
+                tts.setLanguage(locale);
+                tts.speak(text, TextToSpeech.QUEUE_FLUSH, null, "ai-news-brief");
+                return;
+            }
+            tts = new TextToSpeech(getApplicationContext(), status -> {
+                if (status == TextToSpeech.SUCCESS) {
+                    Locale locale = Locale.forLanguageTag(languageTag == null || languageTag.isEmpty() ? "en" : languageTag);
+                    tts.setLanguage(locale);
+                    tts.speak(text, TextToSpeech.QUEUE_FLUSH, null, "ai-news-brief");
+                }
+            });
+        });
+    }
+
+    @Override protected void onDestroy() {
+        if (tts != null) { tts.stop(); tts.shutdown(); tts = null; }
+        if (webView != null) webView.destroy();
+        super.onDestroy();
+    }
+
+    @Override public void onBackPressed() {
         if (webView != null && webView.canGoBack()) webView.goBack();
         else super.onBackPressed();
     }
 
     public static class AndroidBridge {
-        private final Context context;
-        AndroidBridge(Context context) { this.context = context; }
+        private final MainActivity activity;
+        AndroidBridge(MainActivity activity) { this.activity = activity; }
 
-        @JavascriptInterface
-        public void openExternal(String url) {
+        @JavascriptInterface public void openExternal(String url) {
             try {
-                Uri uri = Uri.parse(url);
-                String scheme = uri.getScheme();
+                Uri uri = Uri.parse(url); String scheme = uri.getScheme();
                 if (!"https".equalsIgnoreCase(scheme) && !"http".equalsIgnoreCase(scheme)) return;
-                Intent intent = new Intent(Intent.ACTION_VIEW, uri);
-                intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                context.startActivity(intent);
+                activity.startActivity(new Intent(Intent.ACTION_VIEW, uri));
             } catch (Exception ignored) { }
         }
 
-        @JavascriptInterface
-        public void share(String text) {
+        @JavascriptInterface public void share(String text) {
             try {
-                Intent send = new Intent(Intent.ACTION_SEND);
-                send.setType("text/plain");
-                send.putExtra(Intent.EXTRA_TEXT, text);
-                send.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-                context.startActivity(Intent.createChooser(send, "Share AI News").addFlags(Intent.FLAG_ACTIVITY_NEW_TASK));
+                Intent send = new Intent(Intent.ACTION_SEND); send.setType("text/plain"); send.putExtra(Intent.EXTRA_TEXT, text);
+                activity.startActivity(Intent.createChooser(send, "Share AI News"));
             } catch (Exception ignored) { }
         }
 
-        @JavascriptInterface
-        public void haptic() {
+        @JavascriptInterface public void haptic() {
             try {
-                Vibrator vibrator = (Vibrator) context.getSystemService(Context.VIBRATOR_SERVICE);
+                Vibrator vibrator = (Vibrator) activity.getSystemService(Context.VIBRATOR_SERVICE);
                 if (vibrator != null && vibrator.hasVibrator()) vibrator.vibrate(VibrationEffect.createOneShot(18, VibrationEffect.DEFAULT_AMPLITUDE));
             } catch (Exception ignored) { }
         }
 
-        @JavascriptInterface
-        public void setDisabledSources(String json) {
+        @JavascriptInterface public void setDisabledSources(String json) {
             try {
-                context.getSharedPreferences("widgetPrefs", Context.MODE_PRIVATE).edit().putString("disabledSources", json == null ? "[]" : json).apply();
-                BaseNewsWidget.refreshAll(context);
+                activity.getSharedPreferences("widgetPrefs", Context.MODE_PRIVATE).edit().putString("disabledSources", json == null ? "[]" : json).apply();
+                BaseNewsWidget.refreshAll(activity);
             } catch (Exception ignored) { }
         }
 
-        @JavascriptInterface
-        public void setWidgetSettings(String json) {
+        @JavascriptInterface public void setWidgetSettings(String json) {
             try {
-                context.getSharedPreferences("widgetPrefs", Context.MODE_PRIVATE).edit().putString("settings", json == null ? "{}" : json).apply();
-                BaseNewsWidget.refreshAll(context);
+                activity.getSharedPreferences("widgetPrefs", Context.MODE_PRIVATE).edit().putString("settings", json == null ? "{}" : json).apply();
+                BaseNewsWidget.refreshAll(activity);
             } catch (Exception ignored) { }
         }
 
-        @JavascriptInterface
-        public void refreshWidgets() {
-            try { BaseNewsWidget.refreshAll(context); } catch (Exception ignored) { }
+        @JavascriptInterface public void refreshWidgets() { try { BaseNewsWidget.refreshAll(activity); } catch (Exception ignored) { } }
+
+        @JavascriptInterface public void setWatchlists(String json) {
+            try {
+                activity.getSharedPreferences("intelPrefs", Context.MODE_PRIVATE).edit().putString("watchlists", json == null ? "[]" : json).apply();
+                activity.runOnUiThread(() -> { activity.scheduleWatchJob(); activity.requestAlertPermission(); });
+            } catch (Exception ignored) { }
         }
+
+        @JavascriptInterface public void speak(String text, String languageTag) { activity.speakText(text, languageTag); }
+        @JavascriptInterface public void stopSpeech() { activity.runOnUiThread(() -> { if (activity.tts != null) activity.tts.stop(); }); }
     }
 }
