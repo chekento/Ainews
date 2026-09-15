@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T22:21:48.187Z",
+  "generatedAt": "2026-09-15T22:25:24.466Z",
   "refreshMinutes": 30,
   "aiOnly": true,
   "filterVersion": 4,
@@ -26,27 +26,27 @@
   "failedProviderMonitors": [],
   "providerCoverage": {
     "openai": 37,
-    "anthropic": 32,
+    "anthropic": 31,
     "google": 25,
-    "microsoft": 12,
+    "microsoft": 11,
     "meta": 9,
-    "xai": 6,
-    "mistral": 6,
+    "xai": 7,
+    "mistral": 5,
     "cohere": 6,
-    "perplexity": 7,
+    "perplexity": 8,
     "qwen": 1,
     "kimi": 3,
     "deepseek": 9,
     "zai": 3,
-    "minimax": 1,
+    "minimax": 2,
     "ai21": 4,
     "amazon": 14,
-    "nvidia": 15,
+    "nvidia": 14,
     "ibm": 5,
     "huggingface": 13,
     "apple": 4,
     "databricks": 5,
-    "together": 2,
+    "together": 5,
     "groq": 1,
     "cerebras": 1,
     "stability": 0,
@@ -58,7 +58,7 @@
     "sakana": 7,
     "reka": 3,
     "liquid": 0,
-    "baidu": 2,
+    "baidu": 3,
     "tencent": 3,
     "bytedance": 2,
     "yi": 0,
@@ -70,12 +70,12 @@
     "openrouter": 3,
     "fireworks": 3,
     "salesforce": 2,
-    "adobe": 1,
+    "adobe": 2,
     "intel": 4,
-    "amd": 5,
+    "amd": 6,
     "qualcomm": 5,
     "cognition": 4,
-    "cursor": 3,
+    "cursor": 4,
     "windsurf": 2,
     "midjourney": 4,
     "luma": 5,
@@ -98,12 +98,12 @@
     "Mistral AI": 3,
     "Cohere": 0,
     "xAI": 3,
-    "Perplexity": 2,
+    "Perplexity": 3,
     "AWS Machine Learning": 12,
     "GitHub AI & ML": 6,
     "IBM Research AI": 2,
     "Apple Machine Learning Research": 0,
-    "MIT News AI": 9,
+    "MIT News AI": 10,
     "Stanford HAI": 2,
     "arXiv cs.AI": 12,
     "arXiv cs.LG": 12,
@@ -116,7 +116,7 @@
     "The Verge AI": 10,
     "IEEE Spectrum AI": 10,
     "The Decoder": 8,
-    "AI News": 12,
+    "AI News": 0,
     "European AI Office": 2,
     "EU AI Act": 0,
     "NIST Artificial Intelligence": 3,
@@ -132,7 +132,7 @@
     "Ai2 Blog": 1,
     "Berkeley AI Research": 0,
     "DeepLearning.AI The Batch": 2,
-    "Together AI Blog": 1,
+    "Together AI Blog": 2,
     "Groq Blog": 0,
     "Cerebras Blog": 1,
     "Scale AI Blog": 3,
@@ -143,7 +143,7 @@
     "ElevenLabs Blog": 3,
     "Epoch AI": 3,
     "METR": 1,
-    "MLCommons": 1,
+    "MLCommons": 2,
     "Center for AI Safety": 1,
     "UK AI Security Institute": 0,
     "Artificial Analysis": 3,
@@ -164,7 +164,7 @@
     "Salesforce AI Research": 0,
     "Adobe AI": 1,
     "ServiceNow AI Research": 0,
-    "Snowflake AI & ML": 2,
+    "Snowflake AI & ML": 3,
     "Oracle AI": 2,
     "Google Research": 3,
     "Microsoft Research AI": 2,
@@ -180,7 +180,7 @@
     "Liquid AI": 0,
     "Nous Research": 3,
     "TII Falcon": 1,
-    "Baidu ERNIE": 1,
+    "Baidu ERNIE": 2,
     "Tencent Hunyuan": 0,
     "ByteDance Seed": 0,
     "01.AI": 0,
@@ -248,6 +248,27 @@
       "tags": [],
       "providers": [],
       "monitor": false,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
+      "id": "88c9bb8a0128228a36",
+      "title": "Research Blog - Together AI",
+      "summary": "AI-only source monitor surfaced this update from Together AI Blog. Open the original publication for full context.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fN1p0cm14MWlTeWVnWUQteGVyR1B1WlhJRzFWT0VuS2N4YUt0QlhkQzhvTjlRZnp4cFIzZW9CaF9VRkIyYzFmNkhMVlVaa2g0YUhuUHRRYk1RMjlOR3dPUXN5djQ?oc=5",
+      "source": "Together AI Blog",
+      "publishedAt": "2026-09-15T20:54:23.000Z",
+      "category": "Research",
+      "provenance": "primary",
+      "tags": [
+        "Source monitor",
+        "Research"
+      ],
+      "providers": [
+        "together"
+      ],
+      "monitor": true,
       "aiConfidence": "high",
       "image": null,
       "imageOrigin": null
@@ -998,8 +1019,8 @@
       "imageOrigin": null
     },
     {
-      "id": "78d74c8a0efb6923bb",
-      "title": "Have it both ways: stay discoverable in search while disallowing AI training - blog.cloudflare.com",
+      "id": "c8f06dddd50d668fea",
+      "title": "Have it both ways: stay discoverable in search while disallowing AI training - Cloudflare Blog",
       "summary": "AI-only source monitor surfaced this update from Cloudflare AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCcWdhMDF6WGFhT0toa1BiNm5keVM2UlJHOHF3bGp5Rk8zbTZXVU5VWEpjXzZpZHRiTlFoamViX3F2S2o1ekllSXJDVTVrSG1aMS0xNFBrYXA0THNtOFVPdkFqRGV2R2w1TVM0dGpQNA?oc=5",
       "source": "Cloudflare AI",
@@ -1016,8 +1037,8 @@
       "imageOrigin": null
     },
     {
-      "id": "ea7f317474af6c4dcb",
-      "title": "Give every teammate and agent the right level of access to your Workers - blog.cloudflare.com",
+      "id": "a30f0f45d94bd5a89c",
+      "title": "Give every teammate and agent the right level of access to your Workers - Cloudflare Blog",
       "summary": "AI-only source monitor surfaced this update from Cloudflare AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoZjBfeFNzVUk5WkhFUmdwVktHNE9nMFNuTzZDTU5BakN5dF81VFhIWTQ2dnA4ZE5rdVJGaEJ6RDZiVWRDaWVKSnRYQ1dad0o0a1ZfaVNBbFlvLVpuNndBOVhfalA0NWJCYXlj?oc=5",
       "source": "Cloudflare AI",
@@ -1168,8 +1189,8 @@
       "imageOrigin": null
     },
     {
-      "id": "3a644238a68246b4c0",
-      "title": "Salesforce debuts Koa, a specialized model built to reason about CRM data - siliconangle.com",
+      "id": "3e8edc09b731622211",
+      "title": "Salesforce debuts Koa, a specialized model built to reason about CRM data - SiliconANGLE",
       "summary": "AI-only source monitor surfaced this update from SiliconANGLE AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMEdDMTV4T3BtTFN2MTN3WkR6T3dYcVB1VWNvUWRNYU5pcEdnX1lTLS1ic3dPYXFiT1owV1RPX0tyc1R3MmR6ekVzZFRsMmVhMEwyb1lQQ2lHX3VWakF6Tk9Eb25qMHpLd1ZWVmtuY05ocFBtT3RmUV9UMGtxTGlZYzRfYVoyTkszN1pDOEd5OTk2TFpQSHFuYTEwSkVpUVZjRUJnUnhNV21oTUdN?oc=5",
       "source": "SiliconANGLE AI",
@@ -1222,24 +1243,6 @@
       "aiConfidence": "high",
       "image": null,
       "imageOrigin": null
-    },
-    {
-      "id": "3e913ee3f3ef38c49b",
-      "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
-      "summary": "Pony.ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Vehicle for freight supply chains. Unveiled at IAA Transportation 2026, this Level 4 (L4) heavy rig marks the fourth-generation (Gen-4) iteration of Pony.ai’s Robotruck platform. It builds on GAC Commercial Vehicle’s T9 battery-electric truck architecture, with mass production set to start […] The post Pony.ai unveil",
-      "url": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
-      "source": "AI News",
-      "publishedAt": "2026-09-15T11:15:57.000Z",
-      "category": "Research",
-      "provenance": "journalism",
-      "tags": [
-        "Robotics"
-      ],
-      "providers": [],
-      "monitor": false,
-      "aiConfidence": "high",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-      "imageOrigin": "feed"
     },
     {
       "id": "97ee51b72d666039aa",
@@ -1396,22 +1399,6 @@
         "lg"
       ],
       "monitor": true,
-      "aiConfidence": "high",
-      "image": null,
-      "imageOrigin": null
-    },
-    {
-      "id": "fb48850daca11bd239",
-      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
-      "summary": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly becoming a retention problem. By Sunny Sandhu, Senior Immigration Associate, AY&J Solicitors For years, the offer that brought skilled engineers to Britain was straightforward: work here […] The post The AI Talent Britain Fought to Hire May ",
-      "url": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
-      "source": "AI News",
-      "publishedAt": "2026-09-15T07:14:47.000Z",
-      "category": "Industry",
-      "provenance": "journalism",
-      "tags": [],
-      "providers": [],
-      "monitor": false,
       "aiConfidence": "high",
       "image": null,
       "imageOrigin": null
@@ -2868,8 +2855,8 @@
       "imageOrigin": null
     },
     {
-      "id": "d61866a07f3e8cb9d3",
-      "title": "DeepSeek-V4.1-Flash on Fireworks: Astra-level DeepSWE at 1/15th the cost - fireworks.ai",
+      "id": "4ab5df31eb6b8e3051",
+      "title": "DeepSeek-V4.1-Flash on Fireworks: Astra-level DeepSWE at 1/15th the cost - Fireworks AI",
       "summary": "AI-only source monitor surfaced this update from Fireworks AI Blog. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82VDJ6b1BjdFRwemtQc1o4b2VJNWVNT0tUWWVhNWRPNk41aFBib0FOSnI3Y201TGVaVkhURV9Vb1hmWF90Q0Z2SDFFNE1NUWJYT2VQSzhCV25iTlhJTFhwQQ?oc=5",
       "source": "Fireworks AI Blog",
@@ -2951,7 +2938,7 @@
       "title": "Sakana AI Researchers Introduce PC-ALM, a Layer-Local Alternative to Backpropagation That Trains 1000-Layer Networks",
       "summary": "AI provider-monitor coverage surfaced for Sakana AI. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQVRXakFUdTN1dWhLQWdQYkdONm50aWR0VXNITjlDa1R0b0xvR2RlS1VsT3ZOZU1mUzBwSlVfRnZHcExzOWV2NXBYTmVlWmt5eXBlT21ObHhwc3ZMMHR2bndOVXFlNjR6Wjk0dmFVa0gtQmt6eU8xWWd3aDZHZEZnNW96SDlRNnpyZE9DWWNsazgyb1lWVGd6V1llbmFSZ0x5QUl6YmRUTWxRY1hPdGk1X2RwVnIyTmM3WXU4alJhWmwzYzZncU50Z255VlY2T2FyNUs2SzJ0TjdBZUxTejNEdzlmQzIzYzNGazVnY9IB8gFBVV95cUxPVEpWVTBIc3NiOGZpdEJKUnFfcUF1RmRiUE40M3owa09zZVBKWmk0ODRuN2V3VElSdzBHNy1HVXdIZXJGYW1lUTNDdDlLcGJlaC1NREVvRjF5aGVGdlhiT1pGclQxcVpPSmxYUjVDbGJUclBIRm9NYWtOcDhUZmc3QW5RVVctaWNvc3k4OUxDaHdzSk9yeV9wRGQ2V1FWemZXUWVTbTVTRG1UeXp6T09kUUJWWk5hUnB3QU0zRHNqLVFUOUl0SDk2Wm5BUEZGODExNDJTN19EZGc0VkxQSEFuTkltQWJVaThwOXBBcmxmQ2wwUQ?oc=5",
-      "source": "marktechpost.com · provider monitor",
+      "source": "MarkTechPost · provider monitor",
       "publishedAt": "2026-09-14T20:46:16.000Z",
       "category": "Research",
       "provenance": "journalism",
@@ -2994,7 +2981,7 @@
       "title": "Former Palmyra teacher sentenced to two years in prison in sex abuse case",
       "summary": "AI provider-monitor coverage surfaced for Writer. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVRtZGFUZzNnbnNVUFk4a29JRTVFUGRwNHV2N3owb2RrYThrbER3OVJlQ0l0eHpERzNTY0JrOFQ1RlpvVUVrQ1hudU5oRFljUmRSdmxSS1RLbmdCTTZMR2FaNzV2SEJVREN2TnI5NVl5VVhiLWJ3Qk91ODNYdWJDTXF6aXdLMFFMTGFLSkg0U0pjRXJJWXhfdHVSVzc5VUFGTGfSAbYBQVVfeXFMTkZIM19uc3FQekZ4QVRUVVdPUVlPeTl5NlZoeDNDYWNDcUI0VnNEVlZSRmdTanNmYnE1ZGVSMGtNbG5KRW1jYVlVRV8wUjR3UEtZV2VpcHpsRWhCam9SX1BleGcyT3VOUVBMWFVqOFBZU2VfMTlrc2VYZEQ2VG8yQ3dIMGd5SHF5bFMyOS10LXNZQWppNEJERlcyTEJUYlpjUTZWb09FYnBmNGdUTVJMY3pOTXpsSlE?oc=5",
-      "source": "1011now.com · provider monitor",
+      "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE · provider monitor",
       "publishedAt": "2026-09-14T20:18:00.000Z",
       "category": "Industry",
       "provenance": "journalism",
@@ -3015,7 +3002,7 @@
       "title": "From ISEF finalist to Midjourney founder: David Holz reflects on creativity, entrepreneurship and the role of AI",
       "summary": "AI provider-monitor coverage surfaced for Midjourney. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdVcwWDZCMjFCdFhEQXg2OEt4Z1RHdmZkSXlyVTFCWkFDMmU1UHN2TU15dnRmd1lUM3FlaFFrWE5pRlo4a3lTQm0xVWhMV05mWS1XbnhmRWFzZ1IwOVoyRUlraEdESVNwbVluRGhXRS15TTlFR3k5c2FNcFBpT0Y4QXdBMjJMT3djVlE?oc=5",
-      "source": "Society for Science · provider monitor",
+      "source": "societyforscience.org · provider monitor",
       "publishedAt": "2026-09-14T20:07:29.000Z",
       "category": "Industry",
       "provenance": "journalism",
@@ -3169,7 +3156,7 @@
       "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
       "summary": "AI provider-monitor coverage surfaced for Apple AI / ML. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSC1HOXpaRUhXR3lZTlN5M3d5dGFyOEp6SWl4Vm50Ym1RUVN2ZWtLRkZfY2NDYkhscmNuZm9FeFlFNHYzRUNscGV3V0QwMmJScklkRXhNYnlFUlJ4M0JBaGM1eU1hYjVIMGRneTNJMzdpUjlENmtPYUdfaXNPZFZpOFNqS3hFOUZNU1lHRm5uOU5OT1dTd2FkNEswWUsyeHl3WUtIVUt0TXlBbWpTUHBNdkFlVTV6NlBweUNZZmZqQWlaNE9UdUFkLWExU0U2UlJGUTQtT1BEeWF1aTF4?oc=5",
-      "source": "TechCrunch · provider monitor",
+      "source": "techcrunch.com · provider monitor",
       "publishedAt": "2026-09-14T17:00:00.000Z",
       "category": "Industry",
       "provenance": "journalism",
@@ -3199,6 +3186,27 @@
       "aiConfidence": "high",
       "image": "https://media.wired.com/photos/6aa81a44054ce52476eda4d7/master/pass/Security_New%20York%20Seizes%20More%20Than%20a%20Dozen%20Celebrity%20Deepfake%20Websites_v1.jpg",
       "imageOrigin": "feed"
+    },
+    {
+      "id": "8b4c0194fd6b032d7a",
+      "title": "CobbleDB: Rebuilding AI Search Storage for Lower Latency and Cost - Perplexity",
+      "summary": "AI-only source monitor surfaced this update from Perplexity. Open the original publication for full context.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VTm5ycDBuZGpxTGFqc2RqaTBKa3p4TDllNTFqcnBiRG1PdEZTNmVCZU1uNW91bTVrSkJuV0RQa2dMOHRCenZuWUZZUDRndHR4TWlGeDV3?oc=5",
+      "source": "Perplexity",
+      "publishedAt": "2026-09-14T16:36:07.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [
+        "Source monitor",
+        "RAG"
+      ],
+      "providers": [
+        "perplexity"
+      ],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "b7579cc84b67fd3970",
@@ -3380,6 +3388,24 @@
       "imageOrigin": "feed"
     },
     {
+      "id": "21ae0487ffbdf017ea",
+      "title": "tupik/story-actor-ai - LM Studio",
+      "summary": "AI-only source monitor surfaced this update from LM Studio Blog. Open the original publication for full context.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5Ty1iNHhxVmxZcjFTOElEcXJsVFdNU2NzN0xNV1F1YVJMRmgtTEpON1BDQ2ZQWTluSUtBUFZqNFlhY0JrN2ZCNVhPMWM3UFdIRGNmNkJPX2phZw?oc=5",
+      "source": "LM Studio Blog",
+      "publishedAt": "2026-09-14T15:45:19.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [
+        "Source monitor"
+      ],
+      "providers": [],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
       "id": "9a6896525c8ada4d99",
       "title": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
       "summary": "Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act loop on Databricks and Amazon Quick that reconciles demand surges against live supplier availability and places replenishment orders unattended, escalating to a human only when no supplier can cover a surge.",
@@ -3418,27 +3444,6 @@
       "aiConfidence": "high",
       "image": null,
       "imageOrigin": null
-    },
-    {
-      "id": "78db507dee496cf96b",
-      "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
-      "summary": "Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultation on operational constraints for model training and deployment. The draft serves as a technical manual defining system behaviour, operational boundaries, and oversight protocols across MAI frontier models. It builds on the division’s humanist superintelligence framework announced last November, establishing […] The po",
-      "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
-      "source": "AI News",
-      "publishedAt": "2026-09-14T15:30:41.000Z",
-      "category": "Industry",
-      "provenance": "journalism",
-      "tags": [
-        "Multimodal",
-        "Enterprise"
-      ],
-      "providers": [
-        "microsoft"
-      ],
-      "monitor": false,
-      "aiConfidence": "high",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-      "imageOrigin": "feed"
     },
     {
       "id": "1e018c16fdd97e7233",
@@ -3907,78 +3912,6 @@
       "imageOrigin": "feed"
     },
     {
-      "id": "c6a07e434151de5151",
-      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
-      "summary": "Deloitte’s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to organisation-wide use. Adoption is nearly universal; deployment is rare. The difference is not model […] The post Why Most Enterprise Agent Pilots Never Reach Deployment appeare",
-      "url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
-      "source": "AI News",
-      "publishedAt": "2026-09-14T08:04:35.000Z",
-      "category": "Research",
-      "provenance": "journalism",
-      "tags": [
-        "Agents",
-        "Research",
-        "Enterprise"
-      ],
-      "providers": [],
-      "monitor": false,
-      "aiConfidence": "high",
-      "image": null,
-      "imageOrigin": null
-    },
-    {
-      "id": "d898ff0a119693131b",
-      "title": "AI stocks sink while cybersecurity shares rally on slowdown fears - CNBC",
-      "summary": "AI-only source monitor surfaced this update from CNBC AI. Open the original publication for full context.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UN3ZhUXVyYjUwVGJwSXNkLWpiUmxnTks1M1BHU2E1dHJheFY3SzVjZEExWFY2c181bnp3Z1FPUFFabUVJeFVES1JMZ3I1Z2VmQmE0V1dWX3NlamRxUXZJRFRENUI2RDcxUnlCWGNmOVlndVdSRFRFd9IBfkFVX3lxTFBxTmthMDNxMUIyNjBMMEdTS3FuSkVHSXh2NTN1Nm1NVEs2bV9iZmJXN0UweF9kUmVxR013LVByUG5JNUJDZkpDbUkxSkpSQ0lJdVRUOGdxT0RwN1R5V19JYzc1aUlKUFFoWVlZMnEwOEpycDAyWGdPZHlsUnV1UQ?oc=5",
-      "source": "CNBC AI",
-      "publishedAt": "2026-09-14T08:00:08.000Z",
-      "category": "Industry",
-      "provenance": "journalism",
-      "tags": [
-        "Source monitor"
-      ],
-      "providers": [],
-      "monitor": true,
-      "aiConfidence": "medium",
-      "image": null,
-      "imageOrigin": null
-    },
-    {
-      "id": "c13fefa08ab05382bc",
-      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
-      "summary": "A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI, things can become a lot more interesting. To an artificial intelligence system, that same video can become speech to transcribe, faces […] The post From Video to Data: How AI Is Transforming Multimedia Content Processing appeared first on ",
-      "url": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
-      "source": "AI News",
-      "publishedAt": "2026-09-14T07:56:45.000Z",
-      "category": "Industry",
-      "provenance": "journalism",
-      "tags": [
-        "Multimodal"
-      ],
-      "providers": [],
-      "monitor": false,
-      "aiConfidence": "high",
-      "image": null,
-      "imageOrigin": null
-    },
-    {
-      "id": "a54d251980271c5f67",
-      "title": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
-      "summary": "Live translation has long been one of travel’s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once. Vox Group, a 25-year-old guiding technology company operating in over 150 countries, has spent the past year rebuilding its AI-powered technology, Aura, to close that gap, […] The post How Vox Group’s AI-Powered Technology Is Solving Real-Time T",
-      "url": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
-      "source": "AI News",
-      "publishedAt": "2026-09-14T07:39:28.000Z",
-      "category": "Industry",
-      "provenance": "journalism",
-      "tags": [],
-      "providers": [],
-      "monitor": false,
-      "aiConfidence": "high",
-      "image": null,
-      "imageOrigin": null
-    },
-    {
       "id": "0ea9f58bd516688cc4",
       "title": "AnySimLite: A Lightweight Few-Shot Similarity Encoder for On-Device Speech-Adjacent Classification - Samsung Research",
       "summary": "AI-only source monitor surfaced this update from Samsung Research AI. Open the original publication for full context.",
@@ -4190,6 +4123,24 @@
       "imageOrigin": null
     },
     {
+      "id": "bd4842ba4952ffdde3",
+      "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries - CNBC",
+      "summary": "AI-only source monitor surfaced this update from CNBC AI. Open the original publication for full context.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56T19JYmliVjZ3M2lqZ0FKSzdrbHQxcE5TdnF2TGRGdzhzbE1NdjlmT1QzYjZlSHZGLVFBMGdYVUxmR2trN25ZOTZmalpuUjBZYUFiN2FIME5ja0dmenNkZjk4NUpYY3B6eGNB0gFwQVVfeXFMTWRBRzRGN1ViMm5jamJfX2k5VXFIY2dBMV9sTDRYVmdCSlRKQ1B5Sk1USHV0TzZlNXVKVGlMeU9FelpJZ1pqY1BFSDdmUkV5djFzR21OYl95RFhkanRuNVhMaHBHWjM0ZzdEMVYxOEdBVg?oc=5",
+      "source": "CNBC AI",
+      "publishedAt": "2026-09-13T11:17:12.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Source monitor"
+      ],
+      "providers": [],
+      "monitor": true,
+      "aiConfidence": "medium",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
       "id": "0ae8bb3819b2c04546",
       "title": "AI Agents Are Thirsty for Power",
       "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
@@ -4308,7 +4259,7 @@
       "title": "Why Black Forest Labs chose a US corporate structure",
       "summary": "AI provider-monitor coverage surfaced for Black Forest Labs. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaElmck9HUXhsM0p0ZlpHekpBR2tMVWxIalFRNzdvSHR4dGlJUmkwRjVjQ1F2M1NlSnhLMzEzRHd2VEY4Y19aYzAtbEZpdEw2R0NCV2JwZGRWUURJOFdRUWs5WFM3Vi1XbWtIT1ZXMlh5dC1MbmlwM1d2NFNTUFZwSWl0VDJOTkNFRzhXSmYtbw?oc=5",
-      "source": "Dealroom · provider monitor",
+      "source": "app.dealroom.co · provider monitor",
       "publishedAt": "2026-09-12T21:51:22.000Z",
       "category": "Industry",
       "provenance": "journalism",
@@ -4519,6 +4470,24 @@
       "providers": [],
       "monitor": true,
       "aiConfidence": "medium",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
+      "id": "2ed807cd1742d2c6b2",
+      "title": "Financial Services - MLCommons",
+      "summary": "AI-only source monitor surfaced this update from MLCommons. Open the original publication for full context.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaDV2aXBETEJMeVFITEtzNW5Hb3V6Nk5OWTUtNXdTWWFoWk5hZlBILWg3Y0ctaXRpbjFRLXA5VHVwbU5ycm82eE5QeC1KaE5xYmVYYV90eE5DQ3ZOOTBUN3ktbGxramJQeWVWMkFzMVNVeEYzVzN1Sks2TWt4R1gyTlJB?oc=5",
+      "source": "MLCommons",
+      "publishedAt": "2026-09-12T02:27:53.000Z",
+      "category": "Industry",
+      "provenance": "research",
+      "tags": [
+        "Source monitor"
+      ],
+      "providers": [],
+      "monitor": true,
+      "aiConfidence": "high",
       "image": null,
       "imageOrigin": null
     },
@@ -4839,7 +4808,7 @@
       "title": "A NASA and IBM AI wants to improve the map of the Moon",
       "summary": "AI provider-monitor coverage surfaced for IBM. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwZGZtaFg3YjhTNy1sak9uNXgxbmc5RURvUjlVWThvWkhWekZ1dmFkQVJGNm9hNldJNlA0M3AxUmdYN3ctVklRQVhzQnEtbWJEUnA4ZmdYVTNyS3prRlhNNVJjMnpldWM?oc=5",
-      "source": "korben.info · provider monitor",
+      "source": "Korben · provider monitor",
       "publishedAt": "2026-09-11T15:12:40.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
@@ -5005,8 +4974,8 @@
       "imageOrigin": null
     },
     {
-      "id": "20dee50c3e0022a3d6",
-      "title": "Introducing automatic remediation policies with Cloudflare CASB - blog.cloudflare.com",
+      "id": "93dc049ea4a0eae49c",
+      "title": "Introducing automatic remediation policies with Cloudflare CASB - Cloudflare Blog",
       "summary": "AI-only source monitor surfaced this update from Cloudflare AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRc0UtMmRtWG8zMnJvbTRHSVRBTUpacmE2Zkx2Wjl0QVpoZGhPZEU0UzdRUHc3ZDdaWVFUUGo5aW1rRkZhZ1ZWdTVHUW80M0FUTVJ6YQ?oc=5",
       "source": "Cloudflare AI",
@@ -5045,24 +5014,6 @@
       "imageOrigin": null
     },
     {
-      "id": "a075cc4a6f286ffaf9",
-      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
-      "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-to-rack (the transit from fab output to an assembled data centre system) and time-to-token (which covers power, cooling, networking, and day-one software […] The post Palantir Found",
-      "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
-      "source": "AI News",
-      "publishedAt": "2026-09-11T12:00:18.000Z",
-      "category": "Industry",
-      "provenance": "journalism",
-      "tags": [],
-      "providers": [
-        "nvidia"
-      ],
-      "monitor": false,
-      "aiConfidence": "high",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/nvidia-nemotron-3-5-lightning-model-hardware-allocation-ai-benchmarks-1024x576.jpg",
-      "imageOrigin": "feed"
-    },
-    {
       "id": "95d369b6d44ea36012",
       "title": "Introducing Music v2.5, our best music model yet - ElevenLabs",
       "summary": "AI-only source monitor surfaced this update from ElevenLabs Blog. Open the original publication for full context.",
@@ -5083,8 +5034,8 @@
       "imageOrigin": null
     },
     {
-      "id": "ae998cd2e96f314046",
-      "title": "Single Reporting Platform (SRP) - ENISA",
+      "id": "ebe905787aa55cc2dd",
+      "title": "Single Reporting Platform (SRP) - enisa.europa.eu",
       "summary": "AI-only source monitor surfaced this update from ENISA AI Security. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdElxUTlZSW1JMUFVeVZtMUdwZmdBM1JhNEhBaGctVi02MkNDSVRQdHJWdjlNdGU4UGR5amQwdkllek9nUXg3WGRjTlhGODViazNyVF9zd1dSYXUtbng1SXBsazBLbFpTQzhhcWZjM1l6eXdwVm9lbnlkQ2RoSXdmcXZRNUpKLXRT?oc=5",
       "source": "ENISA AI Security",
@@ -5160,8 +5111,8 @@
       "imageOrigin": null
     },
     {
-      "id": "7987e6764961136e61",
-      "title": "UNESCO Goodwill Ambassadors gather in Athens for an exchange on people and peace in a changing world - unesco.org",
+      "id": "80e93ebe5c87aa14e2",
+      "title": "UNESCO Goodwill Ambassadors gather in Athens for an exchange on people and peace in a changing world - UNESCO",
       "summary": "AI-only source monitor surfaced this update from UNESCO AI Ethics. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0IwUnZZOXNUNW1lYkJMZDRUZVRKbjlVbndIREpFUkxlSXVXZERiY2JRb0JYTnBILXJqb0YyY2V1eENMT1N1eVYyOENhSzlZbzZfWXRkVzdzb3hSQ0NpcmNLMUlBWXJISVNTZHRvZkhZaktLQ1g2d0l1MnVFdG9wSTVOd05DRXNkLVg1RGYxLW9lQ2I3Vk5wamx0TEh1M3pRcnVFdDltMTdDYko0U2FzYzlPVy1lQzAw?oc=5",
       "source": "UNESCO AI Ethics",
@@ -5389,8 +5340,8 @@
       "imageOrigin": null
     },
     {
-      "id": "676ca34182359afb52",
-      "title": "Salesforce introduces Enterprise AI Harness, AI Control Plane - siliconangle.com",
+      "id": "038b722b5e82e531a7",
+      "title": "Salesforce introduces Enterprise AI Harness, AI Control Plane - SiliconANGLE",
       "summary": "AI-only source monitor surfaced this update from SiliconANGLE AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdU1uaENsLXBOS0JpQXFUYTJ4eWNPUVJoSTI4dHFPNGtQWVl5RnVoMEIyOVZaWkxBNzFIcDFGRmdBVm5tMjBKd2Q2Z3NVc2FoOXB1MjVYbG04UWNuLXV1YXpCX3FtV2V4Q2h1cFlraWVKSjdLTmxYamNsMUoyakxOZWFZZGxheHNXTUFpWU5yaGpXSkR0ZW1fWGFGbEUyUQ?oc=5",
       "source": "SiliconANGLE AI",
@@ -5404,6 +5355,26 @@
       "providers": [],
       "monitor": true,
       "aiConfidence": "medium",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
+      "id": "72bd565d25b5176cc5",
+      "title": "Tencent (Hunyuan) Models - Pika",
+      "summary": "AI-only source monitor surfaced this update from Pika. Open the original publication for full context.",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fU0xVVzZOMWJBaHl3SHBNNkhfakRQQVd1ZTZVV0tUaEJKU0VmSWdIbEo1OFA5cENKbTlBbzN5WjM0TTBqRGJCYXhkaw?oc=5",
+      "source": "Pika",
+      "publishedAt": "2026-09-10T23:25:32.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [
+        "Source monitor"
+      ],
+      "providers": [
+        "pika"
+      ],
+      "monitor": true,
+      "aiConfidence": "high",
       "image": null,
       "imageOrigin": null
     },
@@ -5450,29 +5421,8 @@
       "imageOrigin": null
     },
     {
-      "id": "07ab9308520d14e344",
-      "title": "Anthropic Claude Fable 5.1 - Pika",
-      "summary": "AI-only source monitor surfaced this update from Pika. Open the original publication for full context.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13bzIxWFRmNXJIdktkcDNTRlMyT2thNzl1VWczWVhWM0lHdy1scWFWT3lJT1BEbmQ2QkFoNGk3ZmJ1TTVjaWtpaDRZNEZheWtXM2ZESlJlSE04WHlKcU1wajl1S21rN0hiTnhlTl9HQ2EtdG8?oc=5",
-      "source": "Pika",
-      "publishedAt": "2026-09-10T23:25:16.000Z",
-      "category": "Frontier Models",
-      "provenance": "primary",
-      "tags": [
-        "Source monitor"
-      ],
-      "providers": [
-        "anthropic",
-        "pika"
-      ],
-      "monitor": true,
-      "aiConfidence": "high",
-      "image": null,
-      "imageOrigin": null
-    },
-    {
-      "id": "13bc324ca04cbf5055",
-      "title": "Anthropic says AI now lets lone operators run state-level hacking campaigns - siliconangle.com",
+      "id": "89af300fc6894290a2",
+      "title": "Anthropic says AI now lets lone operators run state-level hacking campaigns - SiliconANGLE",
       "summary": "AI-only source monitor surfaced this update from SiliconANGLE AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2JvSl95bWxiZ2hWV1hlaFdYNUdsaXh0ODM1SXVPaG1PRmppWGJqWEk4STNvUjAwQnNMTmlvWG15c0wxcUY4aFl4WlE1SWxqbFZ2YXNnQUlXT0djQmhPeEJTbzltTlVEMks3bjcwbFczV3NaTkRRR3lkZ0FWT3h1QVl3aktYU2VrR2V6X3FBNzlGMk5EVEM2UmFMYk5HNHo2SzVQSFhfWDZZRThfdFN6TlRR?oc=5",
       "source": "SiliconANGLE AI",
@@ -5630,8 +5580,8 @@
       "imageOrigin": null
     },
     {
-      "id": "a3651a381b7439a45b",
-      "title": "DeepSeek V4.1 Flash API & Playground - fireworks.ai",
+      "id": "0d6aa9d3247fb85a3f",
+      "title": "DeepSeek V4.1 Flash API & Playground - Fireworks AI",
       "summary": "AI-only source monitor surfaced this update from Fireworks AI Blog. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QVWZ1NU1QT25KdmtDQVNMWXY2TXdrYmQwaEhmR0IwM202OFE0NXluVDBLU1FvQ3Q4RzQ2NXdHZjBPRWM1N25yZzZwTUhLSEREN2JXWEM0OGc3MC1SZE5OU1JQNFhkZmZiYTRB?oc=5",
       "source": "Fireworks AI Blog",
@@ -5693,7 +5643,7 @@
       "title": "Detecting and countering misuse of AI: September 2026",
       "summary": "AI provider-monitor coverage surfaced for Anthropic. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
-      "source": "Anthropic · provider monitor",
+      "source": "anthropic.com · provider monitor",
       "publishedAt": "2026-09-10T17:10:27.000Z",
       "category": "Safety & Security",
       "provenance": "journalism",
@@ -5709,8 +5659,8 @@
       "imageOrigin": null
     },
     {
-      "id": "72fb3f748fdec14651",
-      "title": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models - Anthropic",
+      "id": "7c6b9cd4fc6b8c4463",
+      "title": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models - anthropic.com",
       "summary": "AI-only source monitor surfaced this update from Anthropic News. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTY0c01YMl93bHRWWDNiU0VMYnQwM1VHdDlkZ0VYdlRnOTFoM3RKYTczWVNQZlhtdVkwdkFmbGFWLU9qWmFDOWZfUlJMWl9nUnBoODhCb2ZRWGo0ZnQ5emtNbkstZXpScUlaXzNQd3FKWUcxZXJYV2VmZmIwZDFhcWRfdUpkTGpkNXpfcmhIaFhKaWZldGc?oc=5",
       "source": "Anthropic News",
@@ -5729,8 +5679,8 @@
       "imageOrigin": null
     },
     {
-      "id": "a94a0f4444247aac2f",
-      "title": "Safe Participation Framework: Opportunity and Safety for the Next Generation in the Age of AI - The Official Microsoft Blog",
+      "id": "34f7cb26b3123c73b8",
+      "title": "Safe Participation Framework: Opportunity and Safety for the Next Generation in the Age of AI - blogs.microsoft.com",
       "summary": "AI-only source monitor surfaced this update from Microsoft AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVUd2eWZpblJfdXE2ZXdHWDk1SEtRVDBhaDJpbUZRdjk5LWpnSHlpaE90bm5UVk1wQndBdEtxVmFfdU15cDdpbWRuNkwwQVZmRHZRb252bmxwM3N5UUJFRlRtdnBpUXZnSEFUMXdqaUw1b1FsWjhTNGctLTJ3a2ItVlRhdGlhV0dINEtTbUQxVkUwalFkcFBfcXNUdjV5RC1EOGpuV1NfZ2RnZFUxNHR5d0dISHRHdmVVSFUta0pCeFA0bkt1dnpWcFFZNkZhVDE4ZWo3aXhsMzl0SUZqREkw?oc=5",
       "source": "Microsoft AI",
@@ -5768,26 +5718,6 @@
       "aiConfidence": "high",
       "image": null,
       "imageOrigin": null
-    },
-    {
-      "id": "a154bce96fe5f2773c",
-      "title": "Supply chains detect fast, act slow: How AI agents fix it",
-      "summary": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms happen, costs follow.) Treated as a product specification instead, it highlights an operating model that can […] The post Supply chains detect fast, act slow: How AI agents fix it ",
-      "url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
-      "source": "AI News",
-      "publishedAt": "2026-09-10T16:34:43.000Z",
-      "category": "Safety & Security",
-      "provenance": "journalism",
-      "tags": [
-        "Agents",
-        "Safety",
-        "Enterprise"
-      ],
-      "providers": [],
-      "monitor": false,
-      "aiConfidence": "high",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-      "imageOrigin": "feed"
     },
     {
       "id": "323ff18cf6a076ba0b",
@@ -5924,6 +5854,27 @@
       "imageOrigin": null
     },
     {
+      "id": "8248f0e8053328d4c9",
+      "title": "AI Productivity at Scale: From Everyday Assistance to Autonomous Execution",
+      "summary": "AI provider-monitor coverage surfaced for AMD AI. Open the linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJNkVla0VUQU9CdHhUb3dDMzZXaWJZU0d4dmU1OGdhSU9yd0FnOElMUmRhSDJJV0swOExGNE5hMUFGMm4tOFJvLWRfeTRNX1NZT25pRnZkckRJQkI3bUpkN0JfVVpOOGtKOW9sN25OeGg?oc=5",
+      "source": "AMD · provider monitor",
+      "publishedAt": "2026-09-10T14:20:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Chips"
+      ],
+      "providers": [
+        "amd"
+      ],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
       "id": "353e0eca7732efeda9",
       "title": "Universal Music Group and ElevenLabs to Launch AI-Powered Music Platform in Expansive Licensing Deal",
       "summary": "AI provider-monitor coverage surfaced for ElevenLabs. Open the linked publication for the complete report and context.",
@@ -5950,7 +5901,7 @@
       "title": "UNIVERSAL MUSIC GROUP AND ELEVENLABS ANNOUNCE MULTI-YEAR STRATEGIC AGREEMENT, BEGINNING WITH A NEW LICENSED AI MUSIC CREATION PLATFORM",
       "summary": "AI provider-monitor coverage surfaced for ElevenLabs. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSVJNbnA1S2ljdFB5Qkd0ajNNSXQwZkQwNnA5cVQ4LXZsR181RV9raWk4OEtaYXR6dGpGakNIX05GWnZQcDNScDJoT1BqaVlzdTJTOGlCNUhKQ3JMTTNTeTJRcy1CaW9xQktWbW1DYTZLNzA4UkVJMUJ4aV8yYVF6SEpTXzZYNXBqR1FCNGR6YW53YVp5dHo1UUQ1OUJDbUgxNEVYUnNCY0E2c19mT05QRDloSmJESV9GZC0wd3ZKVjJhYVFldjVMWlVpbFRWNEpQQkt0eTh5UnFzYXNCLTFnYldKaWMxcEZPenFJR0ZVbHlBaEJUUzFjXw?oc=5",
-      "source": "Universal Music Group · provider monitor",
+      "source": "universalmusic.com · provider monitor",
       "publishedAt": "2026-09-10T14:10:18.000Z",
       "category": "Products & Agents",
       "provenance": "journalism",
@@ -6134,24 +6085,6 @@
       "imageOrigin": null
     },
     {
-      "id": "cf60ea0c43aa2a796f",
-      "title": "JD.com expands physical AI in logistics with 3 million robots",
-      "summary": "JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 million autonomous vehicles, and 100,000 delivery drones. The company launched the plan at JDDiscovery 2026 in Beijing. JD Logistics also unveiled its industrial Wolf Robot series, designed […] The post JD.com expands physical AI in logistics w",
-      "url": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
-      "source": "AI News",
-      "publishedAt": "2026-09-10T10:00:00.000Z",
-      "category": "Robotics & Embodied AI",
-      "provenance": "journalism",
-      "tags": [
-        "Robotics"
-      ],
-      "providers": [],
-      "monitor": false,
-      "aiConfidence": "high",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/image.png",
-      "imageOrigin": "feed"
-    },
-    {
       "id": "1bb353db5d87223913",
       "title": "Beyond the algorithm : AI and equality in Europe - Join us on 17th September for the closing event - coe.int",
       "summary": "AI-only source monitor surfaced this update from Council of Europe AI. Open the original publication for full context.",
@@ -6208,8 +6141,8 @@
       "imageOrigin": null
     },
     {
-      "id": "b00ca7a73799471071",
-      "title": "Mike Jackson - The Official Microsoft Blog",
+      "id": "9cb6a95f74906e21af",
+      "title": "Mike Jackson - blogs.microsoft.com",
       "summary": "AI-only source monitor surfaced this update from Microsoft AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIOWJZWTRFOEhyN19RYXlRNC1NZEhOQXR1OHBhTWFhdVlpRm5Cc19tR3FMOERlaHlldkNYbnRhcW5FU0I3eGlzaVpKVXp6aV9HeG5FQThDRGRuOHlBWGE2YXpHeUhsMmJaMTFhZ2NB?oc=5",
       "source": "Microsoft AI",
@@ -6248,8 +6181,8 @@
       "imageOrigin": null
     },
     {
-      "id": "84596721dd4427649c",
-      "title": "Education Ministers call for education to remain a common good in the - unesco.org",
+      "id": "b3e7deef39e302c115",
+      "title": "Education Ministers call for education to remain a common good in the - UNESCO",
       "summary": "AI-only source monitor surfaced this update from UNESCO AI Ethics. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLU40akh1OTgwMElVdk1nOE5ybzFKU3Vsd3BaSG9ZQzEzTFdRWmNJSzVyelRLYWVraDBQR0FFbmRUQ1g2TzZkYXdPMHVPTkI4dl9xYWZiYl9zMzg2dTE5a2gwY0ctSzlGRW9sQzVJZi0zdTdhOWl3WGt5NHpPcWdiTjdFWVlqQU9mM1FXamxybmVCN3FNcmxMZEpxanZyN2hMaW5oZWlRUnJFamZKZnF5MTgzR1lYWDNKeUxIbXZETlp6VjQ?oc=5",
       "source": "UNESCO AI Ethics",
@@ -6289,7 +6222,7 @@
       "title": "AI21 Labs Revenue 2024: $57.8M Est. ARR",
       "summary": "AI provider-monitor coverage surfaced for AI21 Labs. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95bzFYWENoTV9WMVJfR1VpTjhfNHdBY2lQVlM4RGVXY21RSVF1MUVBTEs3RzhsZXRzM2xzM3BZdUxDbXlJamFtYWRVb2tTTlFZ?oc=5",
-      "source": "getlatka.com · provider monitor",
+      "source": "GetLatka · provider monitor",
       "publishedAt": "2026-09-10T07:00:00.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
@@ -6309,7 +6242,7 @@
       "title": "Reka AI Revenue 2025: $10.9M Est. ARR, $1B Valuation",
       "summary": "AI provider-monitor coverage surfaced for Reka AI. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfRVNnQ1RrQWZxVDVqNkNuSmlaYlFhNzZwaHdFamVBZUJSeWJ0WGQweWdsVi11dkc1cUZQUnowdkNRU0FKUjNNTGpsejRlRGc?oc=5",
-      "source": "getlatka.com · provider monitor",
+      "source": "GetLatka · provider monitor",
       "publishedAt": "2026-09-10T07:00:00.000Z",
       "category": "Industry",
       "provenance": "journalism",
@@ -6330,7 +6263,7 @@
       "title": "Poolside AI Revenue 2025: $50M Est. ARR, $12B Valuation",
       "summary": "AI provider-monitor coverage surfaced for Poolside. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5S2xZX3kyY3JBMXM1TnpPWHc0aUlwM05KRHdQd2IzaVFfQ08yVVNKNVg0RHEtank5VjFBdlljTnBPZWxjSVlsRV94TUVhZ3AybVlCVw?oc=5",
-      "source": "getlatka.com · provider monitor",
+      "source": "GetLatka · provider monitor",
       "publishedAt": "2026-09-10T07:00:00.000Z",
       "category": "Products & Agents",
       "provenance": "journalism",
@@ -6393,7 +6326,7 @@
       "title": "China's DeepSeek launches V4.1-Flash model",
       "summary": "AI provider-monitor coverage surfaced for DeepSeek. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVzlkZDJjakNKZnV2VEtEYUU4b3VmQWtHWnI3eFp4WlFDRzdTM3dfTENUMWtiY2FrcUFnYVZMeGR6ZEczWDBzZDZHWVhvd0FRUnRibnlBOXk5Q2h2aTRUWnAzZVMzcEtscnZxcjVxSEI5ZmRBYmVXVHd6TmQ0ekhNVUZTYzgzbHM3VExhbEZhZENzN1dWaUZwR3Bjcw?oc=5",
-      "source": "Reuters · provider monitor",
+      "source": "reuters.com · provider monitor",
       "publishedAt": "2026-09-10T06:32:00.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
@@ -6442,6 +6375,26 @@
       ],
       "providers": [
         "windsurf"
+      ],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
+      "id": "6e358391081343e751",
+      "title": "AI indexing（The internet content adoption mechanism of generative AI search）_Baiduwiki - 百度百科",
+      "summary": "AI-only source monitor surfaced this update from Baidu ERNIE. Open the original publication for full context.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96d3B6cUZsaU1GVnFGTVIteHJsSkk4MFBhaUdnWGZ6Z1dCem9kRDNwcjdISkxzM2NyNlhuc205Tjhaa3h4aklhbW1wazJxeDlxUTFNWjlRTHZ6YmRFTlI1RVkzZw?oc=5",
+      "source": "Baidu ERNIE",
+      "publishedAt": "2026-09-10T01:39:56.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [
+        "Source monitor"
+      ],
+      "providers": [
+        "baidu"
       ],
       "monitor": true,
       "aiConfidence": "high",
@@ -6640,8 +6593,8 @@
       "imageOrigin": null
     },
     {
-      "id": "e08d046499da1dd33c",
-      "title": "NEWSLETTER: Some researchers want AI to slow down. The labs can’t afford to - Reuters",
+      "id": "9e43d85e042f013202",
+      "title": "NEWSLETTER: Some researchers want AI to slow down. The labs can’t afford to - reuters.com",
       "summary": "AI-only source monitor surfaced this update from Reuters AI & Technology. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcnJuNjkzMXZOd21xYXZRQ0pKRXUxSFNzQ1pWTFlUX18yOEpXZWx3LUtJX2xqYzlvWk1aMHBVZ0dRbE45LXl4UThnSDdFMElmQkVNNV9HcV9TS3dpQzFNSDkyYlZIT2praGZNcVV5WW9GcjE1N3FrSGVMSm55Xzh2Qk1ETXNidUQtVF84a282OFU3TFpoNklGejZpZndmeGtYVGVXcjZ5dVhxODNiTlE3Ym5sNkM0UjB4bl9nWlo4dko3c0NxM09Lag?oc=5",
       "source": "Reuters AI & Technology",
@@ -6687,26 +6640,6 @@
         "Source monitor"
       ],
       "providers": [],
-      "monitor": true,
-      "aiConfidence": "high",
-      "image": null,
-      "imageOrigin": null
-    },
-    {
-      "id": "1763ede0905b80343e",
-      "title": "He Helped Build Powerful AI at OpenAI and Anthropic. Now He's Afraid It Could Kill Us",
-      "summary": "AI provider-monitor coverage surfaced for Anthropic. Open the linked publication for the complete report and context.",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0temJ5Q1lqZzdnLXdGOU9GcjdyTWdxcEtUM0QtNTcwQjR6aXBvRzVyTVRobkdGZmhXWDNQMXlabGVxbktEa0lyUm9CaVEwTXU2eVphbkRuUG1CWFl2VEFSaGdQck1EVDFSaHJrN0FOZ2pnc1AwNmpB?oc=5",
-      "source": "Time Magazine · provider monitor",
-      "publishedAt": "2026-09-09T20:21:30.000Z",
-      "category": "Frontier Models",
-      "provenance": "journalism",
-      "tags": [
-        "Provider monitor"
-      ],
-      "providers": [
-        "anthropic"
-      ],
       "monitor": true,
       "aiConfidence": "high",
       "image": null,
@@ -6984,8 +6917,8 @@
       "imageOrigin": null
     },
     {
-      "id": "0494d8520a618b073d",
-      "title": "Rafay and Red Hat publish joint reference architecture for sovereign AI cloud as a service - redhat.com",
+      "id": "147ca9ab15814135d3",
+      "title": "Rafay and Red Hat publish joint reference architecture for sovereign AI cloud as a service - Red Hat",
       "summary": "AI-only source monitor surfaced this update from Red Hat AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcVFHZGRfTFZrZzhiN2JKLTByeWhlNlBvcl9CZ1lLSVFOdjJUcVFlb2hfRzNBMGF6YkQ0RDQ1ZzZVd0Q0WjROYlAwcTJCQUpSWFpreVplZUpNZUxoZVFjMERRaHVKeWxXRVd0UzY1R1YwX2w3RGJtUW5HNmJyOVpfT2t3NGpXVzd0eHNCeW9NZ2ZjM0FmUEpKOGViOEJ5cHhWbXFoSmtlQVJlMkRLNmhvdzJ3?oc=5",
       "source": "Red Hat AI",
@@ -7025,8 +6958,28 @@
       "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy",
       "summary": "AI provider-monitor coverage surfaced for Anthropic. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zbl9Ya1QyeGVtRDVaTTNqVktBeFFUdXVza1VOdVh1UDZEX0FzR0hsVTdEaDg4ZG9OYWVoZlhTM0s3SHZZT3M3cG5LWFpPdThrUzJPRWdwWjEzRFU4WnZuRTYtREFXam5pV2Qwby1ta1c5bjQ?oc=5",
-      "source": "NPR · provider monitor",
+      "source": "npr.org · provider monitor",
       "publishedAt": "2026-09-09T13:34:48.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "anthropic"
+      ],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
+      "id": "7b693dd0c1de5035bf",
+      "title": "Anthropic insiders warn AI could kill all humans",
+      "summary": "AI provider-monitor coverage surfaced for Anthropic. Open the linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3NGZXN5Vkw0MC1ZM0RPX0Uybzl3SmREbEtvVmpoT0g2SWhHbjVMMjhGSWxSSWpJbFBXQTdhOVFjM1N2RnFWZFJqYUxiOWtMTTFWSkV1bUUzMThmZnF6RUVWYnA1aW5SQXk4dUNtN1YxbmNpZGFnTFBTX1Bib3RRQmRTaHh3X18z?oc=5",
+      "source": "Axios · provider monitor",
+      "publishedAt": "2026-09-09T13:11:22.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
       "tags": [
@@ -7163,22 +7116,6 @@
       "imageOrigin": null
     },
     {
-      "id": "cdd38ddeef138248be",
-      "title": "CloudNC aims to accelerate AI supply chain machining",
-      "summary": "CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks. The investment round was led by US venture investor Nimble Ventures, with participation from Calculus Venture Capital, Entrepreneur First, and LM Ventures, the venture capital fund of Lockheed Martin. Founded in 2015, CloudNC operates from […] The post CloudNC aims to accelerate AI supply",
-      "url": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
-      "source": "AI News",
-      "publishedAt": "2026-09-09T10:34:20.000Z",
-      "category": "Industry",
-      "provenance": "journalism",
-      "tags": [],
-      "providers": [],
-      "monitor": false,
-      "aiConfidence": "high",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-      "imageOrigin": "feed"
-    },
-    {
       "id": "5f7d5f92500d94f307",
       "title": "China’s Regulators Take Aim at “AI Boyfriends”",
       "summary": "In the first weeks of July, a wave of sad posts rolled through Chinese social media, as people lamented friends and lovers they were about to lose. “He has become a bond in my life, rooted deep in my heart, my spiritual pillar,” one user of Bytedance’s Douboa wrote , according to the Taipei Times . “I really felt like I couldn’t go on living,” another woman, a 19-year-old student, told a journalist for Malaysia’s The",
@@ -7249,24 +7186,22 @@
       "imageOrigin": null
     },
     {
-      "id": "274befa971b5d29fbd",
-      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
-      "summary": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and France. Samsung will integrate Mistral’s software suite – including its flagship Mistral Large model – into internal semiconductor facilities to build customised […] The post Samsung tap",
-      "url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
-      "source": "AI News",
-      "publishedAt": "2026-09-09T08:52:19.000Z",
-      "category": "Infrastructure",
-      "provenance": "journalism",
+      "id": "4bb0cdf9229b17a67f",
+      "title": "Data Science Manager, Liquidity and Funding Management Job at BMO Financial Group in Ontario - Vector Digital Talent Hub",
+      "summary": "AI-only source monitor surfaced this update from Vector Institute. Open the original publication for full context.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOENQOXNQNHVxS2EtbmN2azB6cE92Z2dOUUZKTTFuZnc3Y3NNejE5ekE4cnhwU2hGQ0dXdmFTVTFaejJoc2FJQ3ZmRWlRNURMTjM3RmFidFlTNFBydXZMWHdCR1kzZk1XOHdRbVcxYTRaNTlCV2ljUjJXZkpLWG94MEE0M0RUa1NZRERVUjRfWExobkNoaGRuWVBYZzkyUXNwV2JzbFE2aXJHcHZCcXY2YVFSQjV1YmtXZXJhYXFDYWFNSEVGdlVV?oc=5",
+      "source": "Vector Institute",
+      "publishedAt": "2026-09-09T07:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
       "tags": [
-        "Chips"
+        "Source monitor"
       ],
-      "providers": [
-        "mistral"
-      ],
-      "monitor": false,
+      "providers": [],
+      "monitor": true,
       "aiConfidence": "high",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/08/ai-expo-banner-2025.png",
-      "imageOrigin": "feed"
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "671d0a82da0b2f1e50",
@@ -7309,8 +7244,8 @@
       "imageOrigin": null
     },
     {
-      "id": "2d1dcd7a00dc34db93",
-      "title": "Bay Area Tech Economics Seminar with Rehan Khan - hai.stanford.edu",
+      "id": "85b080cf3a25ef08d0",
+      "title": "Bay Area Tech Economics Seminar with Rehan Khan - Stanford HAI",
       "summary": "AI-only source monitor surfaced this update from Stanford HAI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80aFdVWXFmS0hiQTZuYmd1SDVpR2xGM1BxSndxUEdEQ3F3cjFfZjJkNkJNOG1TZHNkeDQwMm4zT3lUREFiLUU2VW94eFhLR29uN2hxSGFORWpHV3k0V0dIc0N2d3ZQZmY3anF0MFpFQVI1emhuRkR3THZOeXE?oc=5",
       "source": "Stanford HAI",
@@ -7435,7 +7370,7 @@
       "title": "Cognition AI raises $2 billion at $48 billion valuation",
       "summary": "AI provider-monitor coverage surfaced for Cognition. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc3hsV1U1MTdYTkgwaHJhanppVTU1cUZVLW94amhlM3liQjE1SUVFdnJtRFlvcExWRkI5RURMMllzd1djSlhUT09VTGotRHhFZm1NTmdDTXpEYmdNaVhITU1STXdTSVE3NlhQVVAySTE1WUVhXzZSZzdSUl9DRVlmVWVpaEl0cXR5ZzBjYUZlaDRzbkVfSFllNVJEOWlHQQ?oc=5",
-      "source": "Reuters · provider monitor",
+      "source": "reuters.com · provider monitor",
       "publishedAt": "2026-09-08T21:52:55.000Z",
       "category": "Products & Agents",
       "provenance": "journalism",
@@ -7531,8 +7466,8 @@
       "imageOrigin": null
     },
     {
-      "id": "c7c2e7638ee3e52256",
-      "title": "Muse: Meta's personal AI agent, features & capabilities - AI at Meta",
+      "id": "0b4a37ddd53242739b",
+      "title": "Muse: Meta's personal AI agent, features & capabilities - ai.meta.com",
       "summary": "AI-only source monitor surfaced this update from Meta AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5fLV8wMFJYVllGcUE4UkFJVGZQS3NDR1hCN21Fd2RmUTVOSXFibS0zRGdxV1A3dldXekZxbmd3?oc=5",
       "source": "Meta AI",
@@ -7552,8 +7487,8 @@
       "imageOrigin": null
     },
     {
-      "id": "485d16ff4ebdb9a649",
-      "title": "Agentic AI examples: Real-world use cases across industries - AI at Meta",
+      "id": "b0766ff9913302f1ab",
+      "title": "Agentic AI examples: Real-world use cases across industries - ai.meta.com",
       "summary": "AI-only source monitor surfaced this update from Meta AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JX0paTS1aekFFSUdhbXQwS0o1cVdnMUpaOUs4ZXJnMnM1ejFMeFk2QlpLWmlsUnVsNFpLQTg1dGxkQjFKaE1WeVZtbHRkaUpZVlBHT1pyYnV3QmIzTFZyQzlEOHVCbGI5?oc=5",
       "source": "Meta AI",
@@ -7573,8 +7508,8 @@
       "imageOrigin": null
     },
     {
-      "id": "2d808faeab26473622",
-      "title": "AI agents explained: What they are and how they work - AI at Meta",
+      "id": "b9006bb9ead88e280d",
+      "title": "AI agents explained: What they are and how they work - ai.meta.com",
       "summary": "AI-only source monitor surfaced this update from Meta AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGUl9LOFFBMnNsaV9LQldxbG02MEdWSWVLLUNWT19IY1pPMXM4V1kyT2VRRUJSSlFwUTZmc25JX0V1X0tVVUVCNjFPSkxyMEdKM2VkYncxSDdRQmZHZ1d5SEg4aWdjTTA?oc=5",
       "source": "Meta AI",
@@ -7587,26 +7522,6 @@
       ],
       "providers": [
         "meta"
-      ],
-      "monitor": true,
-      "aiConfidence": "high",
-      "image": null,
-      "imageOrigin": null
-    },
-    {
-      "id": "67bd2f878419790ad1",
-      "title": "Accelerating innovation in Vietnam. - Qualcomm",
-      "summary": "AI-only source monitor surfaced this update from Qualcomm AI. Open the original publication for full context.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbW5BejZlVDM4bldYZGRhbjRSN2RJa09NRmNFbHpWTy1wcGFRNTZ6LW9KMGphY2JSc2RVeG1VSVFmNEh4ZXJEMGVkdjVnczZGRzJ1ZERvV1NBTl9BZkJuMmt1X2ZYbWNDTHFiZVhUcXBQdzliN1dSamNmQkNkbXFTZHQ0aV9jQQ?oc=5",
-      "source": "Qualcomm AI",
-      "publishedAt": "2026-09-08T18:53:00.000Z",
-      "category": "Industry",
-      "provenance": "primary",
-      "tags": [
-        "Source monitor"
-      ],
-      "providers": [
-        "qualcomm"
       ],
       "monitor": true,
       "aiConfidence": "high",
@@ -7793,8 +7708,8 @@
       "imageOrigin": null
     },
     {
-      "id": "28a2e45199079ed223",
-      "title": "Global consultations on education in the age of AI - unesco.org",
+      "id": "e47879532cd0324ccb",
+      "title": "Global consultations on education in the age of AI - UNESCO",
       "summary": "AI-only source monitor surfaced this update from UNESCO AI Ethics. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX1lQN2NZVmEzZ0RXbUFfTkRYTEduTUxDbjVXU1R0WnpVQ1daZGV4T3ZzVGdfdGY0bVVDeWtWcWdaWTZteTVFN1V5U1J0TXpkQTFOTnY1VEdJWUpMaWtPRV9uTmpaQzVMSmZ0V0tnekRzQU1mbGFuWTkyTkdmT1RJVmt0dV90X28?oc=5",
       "source": "UNESCO AI Ethics",
@@ -7908,25 +7823,6 @@
       "imageOrigin": null
     },
     {
-      "id": "e913fa970cb0a208ce",
-      "title": "Arm launches Total Design for Physical AI and robotics framework",
-      "summary": "Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries – spanning mining, agriculture, manufacturing, and global transport – account for trillions of dollars in economic activity and an estimated $200 billion annual compute opportunity by the 2030s. To address engineering fragmentation […] The post Arm launches T",
-      "url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
-      "source": "AI News",
-      "publishedAt": "2026-09-08T11:44:10.000Z",
-      "category": "Robotics & Embodied AI",
-      "provenance": "journalism",
-      "tags": [
-        "Robotics",
-        "RAG"
-      ],
-      "providers": [],
-      "monitor": false,
-      "aiConfidence": "high",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/arm-robotics-capability-framework-1024x576.jpg",
-      "imageOrigin": "feed"
-    },
-    {
       "id": "c07d37692e21c3a78d",
       "title": "Runway AI Video Generator on Pollo AI Review",
       "summary": "AI provider-monitor coverage surfaced for Runway. Open the linked publication for the complete report and context.",
@@ -7986,26 +7882,6 @@
       "imageOrigin": null
     },
     {
-      "id": "17bd3c146ece074dbd",
-      "title": "allenleee/ai-safety-and-mechanistic-interpretability-research - LM Studio",
-      "summary": "AI-only source monitor surfaced this update from LM Studio Blog. Open the original publication for full context.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdzh5SEhBTmhzeVBRRHhPWXpXbVlsTElaZjhNN0M5Y0V2WXdGOFFwZ0w1SjcwcUtnUUxhZ2J5dEViUkl0eUdKQXhXWE1ET00xYlpsMlhzZTBEVnd1OUFOdHgwRVVXVld2TGZySHJQdU1CUGVJWngxS2hqcFIxUWJpdUpoeGFBcnFV?oc=5",
-      "source": "LM Studio Blog",
-      "publishedAt": "2026-09-08T09:41:59.000Z",
-      "category": "Safety & Security",
-      "provenance": "primary",
-      "tags": [
-        "Source monitor",
-        "Safety",
-        "Research"
-      ],
-      "providers": [],
-      "monitor": true,
-      "aiConfidence": "high",
-      "image": null,
-      "imageOrigin": null
-    },
-    {
       "id": "0c4234e0c2539dfa6c",
       "title": "Are Chinese AI stars Z.ai and MiniMax stuck in losses through 2030?",
       "summary": "AI provider-monitor coverage surfaced for Z.AI / Zhipu. Open the linked publication for the complete report and context.",
@@ -8026,8 +7902,8 @@
       "imageOrigin": null
     },
     {
-      "id": "b920ba6667d2f0a9ac",
-      "title": "Making Local Law Legible: LLM-Assisted Detection of Discrimination - hai.stanford.edu",
+      "id": "7965e77cbe3c53b683",
+      "title": "Making Local Law Legible: LLM-Assisted Detection of Discrimination - Stanford HAI",
       "summary": "AI-only source monitor surfaced this update from Stanford HAI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFNMSG1nU1hhd3h3QnFlWDFLcTFJYUdkZGlHa2toOHFqeE5kNUxEaEQzMURiSjlSWXJpRDRFR3NhVk1WZ2xhM0lUb09HRDExVldpOHlEcjV0ek9JWVZ0N2NKQ0VFMk5pY1NPSDZnZWZrMTFSRUpSTEtqNGRIeV9EOFBjWGNkdkYtRU4xa0JTZkRhTWsyU2JOa0R2MFEzZw?oc=5",
       "source": "Stanford HAI",
@@ -8122,8 +7998,8 @@
       "imageOrigin": null
     },
     {
-      "id": "52e56c161524756c43",
-      "title": "Introducing Flat Rate CDN - Vercel",
+      "id": "47e05f13d47c9e8f72",
+      "title": "Introducing Flat Rate CDN - vercel.com",
       "summary": "AI-only source monitor surfaced this update from Vercel AI SDK. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wRWQtOWZvSlU0Q2NhTXFrWHA5Y3JUcUNNYWJaeENOMi1NeGpVbXFraEl6RHg2ZF9iSThwOUZJV19jaEhKVS1GVTdNN3dJNjhBek9sbTVNbVY4SnRVSUE?oc=5",
       "source": "Vercel AI SDK",
@@ -8346,24 +8222,6 @@
       "providers": [
         "luma"
       ],
-      "monitor": true,
-      "aiConfidence": "high",
-      "image": null,
-      "imageOrigin": null
-    },
-    {
-      "id": "2ab7a0c37262476617",
-      "title": "AI Engineer - Decision Science Job at BMO Financial Group in Ontario - Vector Digital Talent Hub",
-      "summary": "AI-only source monitor surfaced this update from Vector Institute. Open the original publication for full context.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQalFlS2c0THVzOUZCNzNmUzlQQ0JoaW55WUhqZlVtTDZEeGRNa3J3Wmd0eld5N0o1c3RhVDZtTmFVcTluOGJnVW5ZZkJ4NFJDYXRrdTh3V09CRWFORTFQUy1VaWFRdTdUUnEyNmRqcU9jenhKcHhJYlNEb2xyZVpiLWZfT3kzb25Mdk1abE5QWnNnMHN4Yzg5YW50VEt4LTc2azJKMHZn?oc=5",
-      "source": "Vector Institute",
-      "publishedAt": "2026-09-06T07:00:00.000Z",
-      "category": "Research",
-      "provenance": "research",
-      "tags": [
-        "Source monitor"
-      ],
-      "providers": [],
       "monitor": true,
       "aiConfidence": "high",
       "image": null,
@@ -8667,7 +8525,7 @@
       "title": "Musk’s xAI loses court bid to block Minnesota's AI ‘nudification’ ban",
       "summary": "AI provider-monitor coverage surfaced for xAI. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1VRQXhtR19VS2tKbVEzTnB6YjFUNl8zV3NFSURDZDRTcmZRS2tHa0RPOHdlMklXMWVSckNXdm5HWjdYNWhSTlFNeUlkdWFxWHo2SFdXU19ieWlQaUlEUjNrUjJkV1JSajZaNGxxUkVkM19qR2NOMkZvcWMwRHpIVTJybUlQZFB2ZmpvRy1CeURQcmp0ZFctU3RzMnItM29yajY5blZoT1ZjY0cwWFg1aVFoSGtpZw?oc=5",
-      "source": "Reuters · provider monitor",
+      "source": "reuters.com · provider monitor",
       "publishedAt": "2026-09-04T07:00:00.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
@@ -8687,7 +8545,7 @@
       "title": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say",
       "summary": "AI provider-monitor coverage surfaced for Moonshot AI / Kimi. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT3M0Q2ZhaUlPQkc5bzU5MUEyMlpEaFFMVU5uakRWOEJkek85Z2ZsVWxjc0JnR3NrTFdXOGRIdDRQWmhobmhCZU9iVE9sakxTTVE0ejBhRnAyX1BaM0huMlVvZEJHREh6YzRQMzRLaXZRU2xtRld0THVvODFwTmJwa3BhOU9TQ1ZoQ2UxMldKVzlwcThoWTlEcVctbjhuZ2FqQVc4UTZwejhYeGtvWXJCdTBMaHVnSTVFbDVZSG1nVXYwOEtp?oc=5",
-      "source": "Reuters · provider monitor",
+      "source": "reuters.com · provider monitor",
       "publishedAt": "2026-09-04T07:00:00.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
@@ -8736,6 +8594,26 @@
       ],
       "providers": [
         "characterai"
+      ],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
+      "id": "4a7b089962451d214b",
+      "title": "Grok 4.6 Now Available on Snowflake Cortex AI - Snowflake",
+      "summary": "AI-only source monitor surfaced this update from Snowflake AI & ML. Open the original publication for full context.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11X0NXVEh2cXEta25oYVVycktnMlVFMDMxN2VGb1dLci1rMjIxbk9vOUo5WTVrV3FBYWtnOFRWNEw5QVpGLUtXTDQyamEzMHdQUFctVW9DOTd5OVd3UWdyWEJYVzRwWDU0aEswVVVQWDJlbGZLZy03bkprbDNBckU?oc=5",
+      "source": "Snowflake AI & ML",
+      "publishedAt": "2026-09-04T02:08:45.000Z",
+      "category": "Frontier Models",
+      "provenance": "primary",
+      "tags": [
+        "Source monitor"
+      ],
+      "providers": [
+        "xai"
       ],
       "monitor": true,
       "aiConfidence": "high",
@@ -8984,7 +8862,7 @@
       "title": "Will enterprises learn to love Meta AI models again?",
       "summary": "AI provider-monitor coverage surfaced for Meta AI. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaVZGQmZ1YkxDSnJnUFp2S2wyNG1TcXV4Yy1RNXNHX0plM0o0VzFjR2hmWTY1emZQdmpsNm9yMUkwOXJyWmxBSTMzNjd3Nk52OUtXdjR3dm9tRGZlQTlmWllNbVNJX2NOVFNnM2pGMnp0ZE5qWDBKQmwzVFhMTG1Zb3JKeVZrN2ZWMkRZSHNsWFVrX01fQkNBMQ?oc=5",
-      "source": "constellationr.com · provider monitor",
+      "source": "Constellation Research · provider monitor",
       "publishedAt": "2026-09-03T11:22:03.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
@@ -9022,8 +8900,8 @@
       "imageOrigin": null
     },
     {
-      "id": "bf4ec6ae84d0d1548a",
-      "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI — and it imploded. Answering readers’ questions on Reddit - Reuters",
+      "id": "4ffccfeb0d05275554",
+      "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI — and it imploded. Answering readers’ questions on Reddit - reuters.com",
       "summary": "AI-only source monitor surfaced this update from Reuters AI & Technology. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMUhhTnFBSEg4VHB4TjZiR3hPeHp3VmJ6UEt0ZTNkWXR6bWE2bElhOHc1SmJNeUdjUW5WSEFmNHFuSEpFc1RzMDA0U0VxNW4wME40OG44emg1TVBtbGxkQXBXMjNqSnRPVXc4R2dyRFVQdUNaM2tfSUdqWkxNYko2aHNGeThEdkdVUzd0c2FnbUlCVzFFcFFRRDRkVnlSbGtfNVRfd3M1bE1WUVNlZmpDaFYzRHktaXZJVXpNZlFCajlrbDFBcTY1NW1uUVZHQW5DSEY1LUFMZlJmY21MN2JPMXVUVQ?oc=5",
       "source": "Reuters AI & Technology",
@@ -9040,8 +8918,8 @@
       "imageOrigin": null
     },
     {
-      "id": "47baea82fb1d43cb81",
-      "title": "Privacy Policy - docs.midjourney.com",
+      "id": "d64a819c300139d642",
+      "title": "Privacy Policy - Midjourney",
       "summary": "AI-only source monitor surfaced this update from Midjourney Updates. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdTVfSzM3V2Zfdk5zemhtLUlISjZYSTA5S0pQUTludHU3Yk9WTVd4dUd2RWFFa1k4MVNKS25GS21nWk9PdHpxclc2Z0xHaFA5RE1BbWo3Q3ZES0pjWnZGRmh6ZHVhU0Z0cFp6VlJndlBxWUdlT241SEczc280UW1JSQ?oc=5",
       "source": "Midjourney Updates",
@@ -9255,28 +9133,6 @@
       ],
       "providers": [
         "alephalpha"
-      ],
-      "monitor": true,
-      "aiConfidence": "high",
-      "image": null,
-      "imageOrigin": null
-    },
-    {
-      "id": "92f4ce5d54209a4b89",
-      "title": "Lenovo’s IdeaPad Vibe laptops stand out with seven colors and swappable keycaps – 14,15-inch models with Snapdragon X and AMD AI 400 CPUs to start at $699",
-      "summary": "AI provider-monitor coverage surfaced for AMD AI. Open the linked publication for the complete report and context.",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxONXhXOVJfZTRLMjdTQjJlRzRGakhNSlFDUEdsaktheElUdHBjaVVabWM5bnN1eHFLZ0pGMGxyOVEwTVZ0U1hMMHVfN3dWWnhnZTk2V3hCNkFrRzFwSS11VzR4a1FCZzJDeG1WTDN5S2ptWTRDMEQ1VUNYT3RULUQ3clRoZmRES2hNbExINWZCMFNJeGlwR3pvelIzOVAzbkZuYzV4dlllYS0ta1BvSmlVTVR6azd3X1o3RmZvaktPeGd5X2c4QkpBT19Mb0txTXhNUkRGdkNQa1lIeTJTS2tlU3BmRW9FWE41MDJxWVdiempiRHRXWVhHd0NIcjYtVEMxY1kyZjRQUDdGbEFHZWJNRW1rdXB1bnF2aWc?oc=5",
-      "source": "Tom's Hardware · provider monitor",
-      "publishedAt": "2026-09-03T07:00:00.000Z",
-      "category": "Industry",
-      "provenance": "journalism",
-      "tags": [
-        "Provider monitor",
-        "Chips",
-        "RAG"
-      ],
-      "providers": [
-        "amd"
       ],
       "monitor": true,
       "aiConfidence": "high",
@@ -9660,6 +9516,27 @@
       "imageOrigin": null
     },
     {
+      "id": "b8029e79bff75d3e67",
+      "title": "Equinix Accelerates AI Inference for Enterprises with NVIDIA and Together AI",
+      "summary": "AI provider-monitor coverage surfaced for Together AI. Open the linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZThiY3ZTZmpnZkRnd2cyZGxKRVUzZ2NDZXAzYmw1dGR2WXNRcGk2T2Z0QTMwT3V2endXTHNfTUtrUlNhSUpBa25aRXA5SzZVQWx0ZTBUNk9hSVlsdHh4OGZpcjBrODRLNFdadXdQYUluRnFVQVk5SW9EdkdoUVRqbF9EV2pOX2JtdnhSRUIzYUY2cFRCbm5kYjFBbnZWWnBQbGxtVlR6MHo5TS1BWmh4MG1ibnE4cTIxc3NpeE5xbGdPVWFxcnZhaWk4cVd4cVFZYlNV?oc=5",
+      "source": "TradingView · provider monitor",
+      "publishedAt": "2026-09-02T07:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Enterprise"
+      ],
+      "providers": [
+        "together"
+      ],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
       "id": "1e57db131d25df3413",
       "title": "Voice AI Startup ElevenLabs Hires OpenAI Executive to Oversee Revenue",
       "summary": "AI provider-monitor coverage surfaced for ElevenLabs. Open the linked publication for the complete report and context.",
@@ -9830,6 +9707,26 @@
       "imageOrigin": "feed"
     },
     {
+      "id": "72448acefbb6423059",
+      "title": "IQ-2390 Processor - Qualcomm",
+      "summary": "AI-only source monitor surfaced this update from Qualcomm AI. Open the original publication for full context.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTzZjYS1hR1pTbDVQclEtZWxRV2tiSTc3a2pNNFNBZS00NlFiMm4tb21iWjFiV3ZvOEtPU2Q5YmRqSVRZMVFfaTg3T1hwcm5rOGIwSWZUYzJVMzFON0hnWEJYRFVwWHNkdDhkWGk1T3FKdzRXX2ZZNWEzUkNjNnYyRjJCZ0R6R3J1SFp0enU5MEkxR2ktbXdfbGF3cXdiM0k1dS03NjN0UklfaGxqZWtaRlRyclpQRTA?oc=5",
+      "source": "Qualcomm AI",
+      "publishedAt": "2026-09-01T14:59:27.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [
+        "Source monitor"
+      ],
+      "providers": [
+        "qualcomm"
+      ],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
       "id": "70d8bd496fc931e6ae",
       "title": "Cash In on the AI Boom by Renting Out Your Spare Compute",
       "summary": "If you own an at-home server, a gaming computer, or just a laptop that doesn’t get much love, listen up. You can now put that spare computing power to use and earn some passive income in the process. AI companies are hungry for more compute to run AI inference—the process of using a pretrained model to respond to queries—and they’re willing to pay you for it. “Imagine Uber or Airbnb, but for AI-inference computing ta",
@@ -9846,8 +9743,8 @@
       "imageOrigin": "feed"
     },
     {
-      "id": "ac5aaf58c54b9322b8",
-      "title": "The yield imperative: Turning AI infrastructure into useful intelligence - The Official Microsoft Blog",
+      "id": "868941be6bcbfc66cf",
+      "title": "The yield imperative: Turning AI infrastructure into useful intelligence - blogs.microsoft.com",
       "summary": "AI-only source monitor surfaced this update from Microsoft AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWhLYjZIT01zTWNoQUxoVXgtcld2cnc3eHVOWE93clFKWU5LOVRoYl9HR3Uzb1QtWG1lMVl1NWpsYkRvS0l5SXRla3RSTGQtMldGT0xSMUFnanBwTWl6eUJJR1BiX3BQeThObFVtcEppWk1HbFBId1MzeXQzTTUxYWdFWEp1cHJzUkdsdkZpcTh4UGpjTXFWQkhMOWJhcnZlWmFaVUhGOFhHQ1pwaU9kZzVnYjlsY0U?oc=5",
       "source": "Microsoft AI",
@@ -10172,8 +10069,8 @@
       "imageOrigin": null
     },
     {
-      "id": "e5e43b30c9b77a8632",
-      "title": "How our agents build on-brand pages with design.md - Vercel",
+      "id": "a89b2f4b36b46f4bbb",
+      "title": "How our agents build on-brand pages with design.md - vercel.com",
       "summary": "AI-only source monitor surfaced this update from Vercel AI SDK. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xYmVUTEQyZS0wQWZzUGZMWlRSTk4taW5vSUx3ano4VlBadndWUG5qSi1Zc2Nlb3ZqWGt0aTNsdlZKRzUyWWZlb2JfdnFMZEFVcWVJazd1QnVrZ1hmeWJmMEo3Q3gwUFVacW9VNXVsTkY1R3RBLXd1dV94WmlEOHM?oc=5",
       "source": "Vercel AI SDK",
@@ -10191,8 +10088,8 @@
       "imageOrigin": null
     },
     {
-      "id": "fd1ad7d6da1517b026",
-      "title": "YaRN: Efficient Context Window Extension of Large Language Models - eleuther.ai",
+      "id": "b0559dac41499f5b3a",
+      "title": "YaRN: Efficient Context Window Extension of Large Language Models - EleutherAI",
       "summary": "AI-only source monitor surfaced this update from EleutherAI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeWRKZjdCMFVOMUxhendhM3ZVQnZ5dVN0NDNxTnVfa1FJWVZDbnZ3ck1DN1c1TWFVTUR5dkVpX1VXTUh3VHpzOS1sYjczY2tneVIwR1E2SHFlUUhOeE9vaHM5MVlSWU1yYUJrcW9qUy04MTE1MFRzQ0ZkQm5xTmdxOVRSY05oOVZBa1NWOFhZcUJFQUZaenNmM0JaeXB2cWVhdnc?oc=5",
       "source": "EleutherAI",
@@ -10234,7 +10131,7 @@
       "title": "China's Zhipu AI revenue quintuples in first half, loss narrows",
       "summary": "AI provider-monitor coverage surfaced for Z.AI / Zhipu. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGVpZmlzQ09VYkdFQktNaG5fWmNRTlZiV1czLXREc3FWcEtINjg0RF9rM2RUcER4T05pSlVMUkYzejJKWFNuTFZHYzhnZXFoaktSeU5JUTlMRC1mT2pzdkNuT19mQ2NQbTNySllWZUdLa1RhUEpFWHpSOVFpalU3dDZBMjFVaERCckE5NVVHV2NOMm9TeEJEZEUxNWFjR1k?oc=5",
-      "source": "Reuters · provider monitor",
+      "source": "reuters.com · provider monitor",
       "publishedAt": "2026-08-31T07:00:00.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
@@ -10248,6 +10145,127 @@
       "aiConfidence": "high",
       "image": null,
       "imageOrigin": null
+    },
+    {
+      "id": "01a62a406f23911e4e",
+      "title": "MiniMax H3 Max Speeds Up AI Video Creation for Everyone",
+      "summary": "AI provider-monitor coverage surfaced for MiniMax. Open the linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fRjM1M1d3MlpWd0t5M1M4cTNneHpzNElMS0R0VEdwTHNjZ2kzcXYxRk8xSXRPLTdZLUR3d3Azd1RvT2JMSlVzQWoxbjlqMXMtRHI4ZThOZw?oc=5",
+      "source": "x.com · provider monitor",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Multimodal"
+      ],
+      "providers": [
+        "minimax"
+      ],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
+      "id": "429e712641ce171e31",
+      "title": "HUMAIN taps AMD, Cisco and Together AI for Saudi Arabia AI infrastructure push",
+      "summary": "AI provider-monitor coverage surfaced for Together AI. Open the linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0J5ZHZzc3RwbVhaS2JkaEJ6XzVZLUFEdkhDejhIdWY2a2pkSkVWVWcwWjRFS2U4NkNnWUl6V3RUcmJmOVZxNU1NcWhXT1F2LTloUmNVQklZNHdRSzFmdnd5SEdHYXVKMnlrRDduaGR1R1N6RHBldnBKUWpGaW9fbUd5QTJhWTBTWGE2bkFFSVlLQUdRb05vOUtoelJWS0paZktjOWdDLXlfVF92WTY0WndwVQ?oc=5",
+      "source": "Fierce Network · provider monitor",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "category": "Infrastructure",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "together"
+      ],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
+      "id": "8fef9047702a28b4f2",
+      "title": "Adobe Firefly: Key Features and Use Cases",
+      "summary": "AI provider-monitor coverage surfaced for Adobe AI. Open the linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1saG40aVRyRTBLT081VlpNR2Fib1Y5N1pLUmtwalZiWkNpOXk0RFhwbElTNUM2bGNVTy1PUzE2XzdXaFhVTjEtM2x6MkR4QzJtbURxcWpVTUtHTDg?oc=5",
+      "source": "coursera.org · provider monitor",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "adobe"
+      ],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
+      "id": "1ea24b5cc006b4e295",
+      "title": "AMD, Cisco and HUMAIN Expand Saudi Arabia’s AI Infrastructure as AMD Instinct Systems Go Live",
+      "summary": "AI provider-monitor coverage surfaced for AMD AI. Open the linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWG83X2tmSzIyRm1IdlZ1Um1FeFhEeFpPYW1CSVR6eExmb1lBYlFHQ3Bud1ZCY0g2OGlfUXJYNlNwSEo0bnZPdE9ONWxuRlhnLWNPdU9HbUV3Mmp0dGRma0pYMTR3cEg0UXBiVldkSnFXTkd4U3RyTDd3dmFSeGtlcjdKX3gwU05uZVN5b18zcjlpQlZtV1Z2Nm9JcEtmaFltUFozX25mZ0s1aDlQQ1cxNF9CcVZ0NjBGYVJXSzItS0k5cnItTFJmeTk0NWZ4cVEwSmxPRVluc042VlctZ2trUHVQc0NoUWtkdUpYMktoaF90N3hoYXdv?oc=5",
+      "source": "GlobeNewswire · provider monitor",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "category": "Infrastructure",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Chips"
+      ],
+      "providers": [
+        "amd"
+      ],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
+      "id": "e62f70ec8fefeff536",
+      "title": "OpenAI cutting off Cursor AI model access after SpaceX deal",
+      "summary": "AI provider-monitor coverage surfaced for Cursor / Anysphere. Open the linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN1BkVnF6bW1tUEszUjZNdTJDTm81Q0xwbjMtTERuR2xqTEhSUXQtbmZSXzNoYUNBTFhxeGwxUFdjLXdwdm5YNkZ5ZlhyWTlReWJUSDhhWGtNcDlLZ1ZENzFwQ2Rva2tjZWU1eXNLcGJadlhKNE1HQlc0VzdTM3pUZ1VjTWY4cHZiaTRFTTlWTVNJZXlfd240?oc=5",
+      "source": "Yahoo Finance · provider monitor",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Agents"
+      ],
+      "providers": [
+        "cursor"
+      ],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
+      "id": "d53be681a3e20a591d",
+      "title": "How an MIT research project became a global programming language",
+      "summary": "With millions of users across the world, Julia has been used to conduct cutting-edge research and to design new drugs, jet engines, heat pumps, and more.",
+      "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+      "source": "MIT News AI",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Research"
+      ],
+      "providers": [],
+      "monitor": false,
+      "aiConfidence": "high",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-JuliaHubDyad-01-press.jpg?itok=vvjznZ8d",
+      "imageOrigin": "feed"
     }
   ]
 }
