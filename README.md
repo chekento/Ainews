@@ -1,261 +1,138 @@
 <div align="center">
 
-# ◈ AI NEWS // LIVE
+# ◈ AI NEWS // HYPERINTELLIGENCE
 
-### AI Intelligence Portal
+### AI-only news terminal · Android 2.0 · live source radar
 
-**Only artificial intelligence. One signal layer for models, providers, research, agents, infrastructure, governance and ethics.**
+**Frontier models. Agents. Research. Infrastructure. Robotics. Safety. Governance. Nothing else.**
 
-[![Android APK](https://img.shields.io/badge/DOWNLOAD_ANDROID_APK-65F7C4?style=for-the-badge&logo=android&logoColor=07111f)](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
-[![Live News](https://img.shields.io/badge/LIVE_AI_NEWS-7AA7FF?style=for-the-badge&logo=rss&logoColor=white)](portal/news.md)
-[![LLM Provider Wire](https://img.shields.io/badge/18_LLM_PROVIDERS-A993FF?style=for-the-badge&logo=openai&logoColor=white)](portal/llm-wire.md)
+[![Download Android](https://img.shields.io/badge/DOWNLOAD_ANDROID_2.0-65F7C4?style=for-the-badge&logo=android&logoColor=07111f)](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+[![Live Feed](https://img.shields.io/badge/LIVE_AI_FEED-7AA7FF?style=for-the-badge&logo=rss&logoColor=white)](portal/news.md)
+[![Sources](https://img.shields.io/badge/60_AI_SOURCES-A993FF?style=for-the-badge)](config/sources.json)
+[![Providers](https://img.shields.io/badge/18_LLM_ECOSYSTEMS-FF78C8?style=for-the-badge)](config/providers.json)
 
-[![Build Android APK](https://github.com/chekento/Ainews/actions/workflows/android-apk.yml/badge.svg)](https://github.com/chekento/Ainews/actions/workflows/android-apk.yml)
-[![Refresh AI news](https://github.com/chekento/Ainews/actions/workflows/refresh-news.yml/badge.svg)](https://github.com/chekento/Ainews/actions/workflows/refresh-news.yml)
+[![Android build](https://github.com/chekento/Ainews/actions/workflows/android-apk.yml/badge.svg)](https://github.com/chekento/Ainews/actions/workflows/android-apk.yml)
+[![AI feed refresh](https://github.com/chekento/Ainews/actions/workflows/refresh-news.yml/badge.svg)](https://github.com/chekento/Ainews/actions/workflows/refresh-news.yml)
 
-**42 curated AI sources · 18 LLM/provider monitors · refreshed every 30 minutes · Android app · source-first · no tracking · no social scraping**
+**60 curated AI sources · 18 provider monitors · 30-minute refresh · strict AI relevance gate · no tracking · no social scraping**
 
 </div>
 
 ---
 
 <!-- LATEST_AI_NEWS:START -->
-## 🔴 Latest AI News
+## 🔴 Live AI Intelligence
 
-**Live snapshot · 2026-09-15 19:51 UTC · refreshed automatically every 30 minutes**
-
-| # | Source | Desk | Headline |
-|---:|---|---|---|
-| 01 | **TechCrunch AI** | Industry | [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) |
-| 02 | **TechCrunch AI** | Industry | [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/) |
-| 03 | **The Decoder** | Frontier Models | [Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost](https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/) |
-| 04 | **WIRED AI** | Industry | [AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’](https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/) |
-| 05 | **The Decoder** | Research | [AI labs have a data trust problem that their policies haven't solved](https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/) |
-| 06 | **MIT Technology Review AI** | Industry | [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/) |
-| 07 | **TechCrunch AI** | Industry | [AI agents now have a place to snitch](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/) |
-| 08 | **Google DeepMind** | Frontier Models | [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) |
-| 09 | **TechCrunch AI** | Industry | [Meta expands subscription push with new AI-focused plans](https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/) |
-| 10 | **The Verge AI** | Compliance & Ethics | [What execs and politicians are saying about slowing down AI development](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei) |
-
-[→ Open the complete generated feed](data/news.json) · [→ Source registry](config/sources.json) · [→ GitHub-native News portal](portal/news.md)
-
-> **Source control:** the Android app provides persistent multi-select source controls. Disabled sources are also excluded from all Android home-screen widgets. GitHub README pages cannot execute JavaScript, so this frontpage snapshot itself remains a combined live feed.
+The automated refresh workflow will place the newest verified AI-only headlines here.
 <!-- LATEST_AI_NEWS:END -->
 
 ---
 
+## 📱 Android 2.0 — rebuilt around discovery
+
+The Android app is no longer just a feed with tabs. Version 2.0 is a configurable **AI intelligence workspace**:
+
+| Surface | What changed |
+|---|---|
+| **Home / Command Center** | New briefing-first frontpage, top signal, AI pulse, provider radar and one-tap topic routes |
+| **Discover** | Full-text + structured search, time range, source, provider, category, provenance, tags, monitor/paper controls and relevance sorting |
+| **Search syntax** | `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `before:`, `is:saved`, `is:primary`, negative terms and quoted phrases |
+| **Source control** | Multi-select sources, searchable registry, source classes and persistent exclusions shared with widgets |
+| **Appearance** | Cyber / OLED / Light themes, multiple accents, font scale, density, card style, visual previews, summaries and motion controls |
+| **Feed behavior** | Default time window, sorting, primary-source boost, provider-monitor toggle, paper toggle and in-app auto refresh |
+| **Saved** | Local-only bookmarks with the same filtering/search model |
+| **Copilot** | Context uses only the currently enabled, AI-only news corpus |
+
+### [⬇ Download the latest AI News APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+
+> Direct test builds are debug-signed. A Play Store production build should use a dedicated release key/AAB pipeline.
+
+---
+
 <!-- ANDROID_WIDGETS:START -->
-## ⚡ Android Hypercyber Widgets
+## ⚡ Hypercyber Android Widgets
 
-The latest APK includes **8 native Android home-screen widgets**. They fetch the live AI dataset directly, refresh automatically, support manual ↻ refresh and fall back to the dataset bundled in the APK when offline.
-
-**BREAKING** · **PRIMARY SIGNAL** · **LLM PROVIDER WIRE** · **GOVERNANCE RADAR** · **R&D / INFRA** · **SIGNAL STACK** · **NEON MATRIX** · **SIGNAL CLOCK**
-
-All eight widgets inherit the source choices made inside the app. Turn a source off once and it disappears from the mobile feed **and** the widgets.
-
-### [⬇ Download AI News Android 1.1](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+Android 2.0 includes eight configurable native widgets.
 <!-- ANDROID_WIDGETS:END -->
 
 ---
 
-## 📱 AI News for Android
+## 🧠 AI-only pipeline
 
-The Android edition is designed as a real mobile news experience rather than a thin link to GitHub Pages. It has its own local interface, pulls the current news dataset directly from this repository, and carries an offline fallback inside the APK.
+The aggregator treats **relevance as a data-quality constraint**, not a visual filter applied after ingestion.
 
-### [⬇ Download the latest AI News APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+1. AI-dedicated first-party, research and governance streams are explicitly registered as AI-native.
+2. Broad feeds must match AI/model/provider terminology before entering the dataset.
+3. Provider-monitor results must actually mention the monitored provider/model family.
+4. RSS-less sources use domain-scoped Google News monitors; failing RSS feeds can fall back to the same mechanism.
+5. Every accepted item receives `aiConfidence`, category, provenance, tags and provider mappings.
+6. Deduplication removes repeated titles/URLs before the dataset is published.
 
-**Modern mobile features:** horizontal **swipe tabs**, fixed bottom navigation, Home signal dashboard, News stream, 18-provider LLM Wire, Governance Radar, Official Social Wire, local Saved stories, native sharing, external-source handoff and an **AI News Copilot** bottom sheet.
-
-> The direct APK is debug-signed for testing and direct installation. Android may ask you once to allow installation from your browser or file manager. A Play Store build should later use a dedicated release signing key.
-
----
-
-## Enter the portal
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◉ Live AI News Stream
-
-Continuously refreshed AI headlines and brief source excerpts across frontier models, agents, research, chips, open source, safety and business.
-
-**[→ Open live news](portal/news.md)**  
-[Live dataset](data/news.json) · [Source registry](config/sources.json)
-
-</td>
-<td width="50%" valign="top">
-
-### ✦ AI News Copilot
-
-Research stories against the loaded news corpus, related providers, safety and governance context.
-
-**[→ Open Copilot portal](portal/copilot.md)**
-
-The Android app exposes Copilot directly as a floating bottom-sheet assistant.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⬡ LLM Provider Wire
-
-Dedicated intelligence radar for 18 model vendors and foundation-model labs, combining first-party announcements with independent reporting.
-
-**[→ Open Provider Wire](portal/llm-wire.md)**  
-[Provider registry](config/providers.json)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚖ Governance Radar
-
-Separate desk for **EU AI Act, European AI Office, WAICO, NIST, OECD.AI, UNESCO, Council of Europe, AI safety, standards, ethics and compliance**.
-
-**[→ Open Governance Radar](portal/governance.md)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◎ Official Social Wire
-
-Official LinkedIn, Instagram and Facebook channels are surfaced where they can be identified reliably.
-
-**[→ Open Official Social](portal/social.md)**
-
-Links only. No copying or scraping of social posts, images or video.
-
-</td>
-<td width="50%" valign="top">
-
-### ⌁ Source Matrix
-
-Primary labs, official institutions, research and independent journalism remain visibly separated so every signal keeps its provenance.
-
-**[→ Explore sources](config/sources.json)**
-
-</td>
-</tr>
-</table>
+The generated JSON carries `aiOnly: true` and the filter version so clients can verify which pipeline produced it.
 
 ---
 
-## Android interaction model
+## 🌐 Source universe
 
-The APK uses a mobile-first **swipeable page rail**:
+**Primary / labs / platforms:** OpenAI, Anthropic, Google DeepMind, Google AI, Microsoft AI, NVIDIA, Meta AI, Hugging Face, Mistral, Cohere, xAI, Perplexity, AWS ML, GitHub AI & ML, IBM Research AI, Apple ML Research, Together AI, Groq, Cerebras, Scale AI, Databricks AI, LangChain, LlamaIndex, Stability AI, ElevenLabs.
 
-`HOME` ⇆ `NEWS` ⇆ `LLMs` ⇆ `GOVERNANCE` ⇆ `SOCIAL` ⇆ `SAVED`
+**Research / benchmarking:** MIT News AI, Stanford HAI, arXiv cs.AI, arXiv cs.LG, Ai2, Berkeley AI Research, Epoch AI, METR, MLCommons, Artificial Analysis.
 
-The swipe position is synchronized with both the top tab rail and the fixed bottom navigation. Provider cards jump directly into filtered News; article cards expose **Ask AI**, source, share and bookmark controls. The app downloads the current JSON feed from `raw.githubusercontent.com` and falls back to the dataset bundled at build time if the network is unavailable.
+**Independent AI reporting:** Reuters AI & Technology, TechCrunch AI, MIT Technology Review AI, VentureBeat AI, WIRED AI, Ars Technica AI, The Verge AI, IEEE Spectrum AI, The Decoder, AI News, DeepLearning.AI The Batch.
 
----
+**Governance / safety / institutions:** European AI Office, EU AI Act, NIST AI, OECD.AI, UNESCO AI Ethics, Council of Europe AI, IAPP AI Governance Center, Partnership on AI, AI Now Institute, Ada Lovelace Institute, AlgorithmWatch, WAICO / China MFA, Center for AI Safety, UK AI Security Institute.
 
-## LLM / Foundation Model Radar
-
-| Provider | Models / ecosystem | Provider | Models / ecosystem |
-|---|---|---|---|
-| **OpenAI** | GPT · ChatGPT · Sora | **Anthropic** | Claude |
-| **Google DeepMind** | Gemini · Veo · Imagen | **Microsoft AI** | Copilot · MAI |
-| **Meta AI** | Llama · Meta AI | **xAI** | Grok |
-| **Mistral AI** | Mistral · Magistral · Codestral | **Cohere** | Command · Aya |
-| **Perplexity** | Sonar | **Alibaba** | Qwen |
-| **Moonshot AI** | Kimi | **DeepSeek** | DeepSeek models |
-| **Z.AI / Zhipu** | GLM | **MiniMax** | MiniMax · Hailuo |
-| **AI21 Labs** | Jamba | **Amazon AI** | Nova · Bedrock |
-| **NVIDIA** | Nemotron · NIM | **IBM** | Granite · watsonx |
-
-**[Open the 18-provider wire →](portal/llm-wire.md)**
+[Inspect the machine-readable source registry →](config/sources.json)
 
 ---
 
-## Live intelligence access
+## 🛰 Intelligence surfaces
 
-| Surface | Direct access |
+| Surface | Open |
 |---|---|
-| 📱 Latest Android APK | **[AI-News.apk](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)** |
-| 📰 GitHub-native News portal | [`portal/news.md`](portal/news.md) |
-| 🧠 LLM/provider portal | [`portal/llm-wire.md`](portal/llm-wire.md) |
-| ⚖ Governance & Ethics | [`portal/governance.md`](portal/governance.md) |
-| ◎ Official Social | [`portal/social.md`](portal/social.md) |
-| ✦ AI News Copilot | [`portal/copilot.md`](portal/copilot.md) |
-| 🔴 Current generated dataset | [`data/news.json`](data/news.json) |
-| ⚙ Automated feed refresh | [GitHub Actions · Refresh AI news](https://github.com/chekento/Ainews/actions/workflows/refresh-news.yml) |
-| 🤖 Android build pipeline | [GitHub Actions · Build Android APK](https://github.com/chekento/Ainews/actions/workflows/android-apk.yml) |
-
----
-
-<div align="center">
-
-### Source first. AI only. Signal over noise.
-
-Headlines and short excerpts remain connected to the original publisher. Full articles are not mirrored. Social content is not scraped. No paywall bypass. No analytics by default.
-
-</div>
+| Android 2.0 APK | **[AI-News.apk](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)** |
+| GitHub-native live news | [`portal/news.md`](portal/news.md) |
+| LLM Provider Wire | [`portal/llm-wire.md`](portal/llm-wire.md) |
+| Governance Radar | [`portal/governance.md`](portal/governance.md) |
+| Official Social links | [`portal/social.md`](portal/social.md) |
+| AI News Copilot notes | [`portal/copilot.md`](portal/copilot.md) |
+| Generated AI-only dataset | [`data/news.json`](data/news.json) |
+| Source registry | [`config/sources.json`](config/sources.json) |
+| Provider registry | [`config/providers.json`](config/providers.json) |
 
 ---
 
 <details>
-<summary><strong>⚙ Repository / Technical details — click to expand</strong></summary>
+<summary><strong>Technical architecture</strong></summary>
 
-<br>
+### Repository
 
-### Architecture
+- `scripts/fetch-news.mjs` — feed ingestion, AI relevance gate, source monitors, provider monitors, classification and deduplication
+- `scripts/update-readme-news.mjs` — writes current headlines and build information onto this frontpage
+- `config/sources.json` — 60-source registry
+- `config/providers.json` — 18-provider/model registry
+- `data/news.json` — generated AI-only intelligence dataset
+- `android/` — native Android shell + local HTML/CSS/JS intelligence UI + native widgets
+- `.github/workflows/refresh-news.yml` — AI feed/frontpage refresh twice per hour
+- `.github/workflows/android-apk.yml` — Android build + stable `android-latest` release asset
 
-- `index.html` / `styles.css` / `app.js` — interactive web newsroom
-- `portal/*.md` — GitHub-native portal pages that work without GitHub Pages
-- `config/sources.json` — curated AI source registry
-- `config/providers.json` — LLM aliases, official newsrooms and verified social links
-- `scripts/fetch-news.mjs` — aggregation, provider monitors, AI-only filtering and deduplication
-- `data/news.json` — generated live intelligence dataset
-- `android/` — Android application project
-- `android/app/src/main/assets/` — local mobile UI with swipe tabs and Copilot
-- `.github/workflows/refresh-news.yml` — scheduled feed refresh
-- `.github/workflows/android-apk.yml` — APK build, artifact and stable `android-latest` release
-- `.github/workflows/pages.yml` — optional GitHub Pages deployment
-
-### Android build
+### Android baseline
 
 Package: `cloud.kosch.ainews`  
 Minimum Android: API 26  
 Target / compile SDK: 35  
-Java: 17  
-Android Gradle Plugin: 8.7.3  
-Gradle: 8.9
+Java: 17
 
-The Actions workflow copies the current news/provider/source JSON into the app as an offline fallback, builds `app-debug.apk`, renames it to `AI-News.apk`, creates a SHA-256 checksum and publishes both under the stable release tag `android-latest`.
+### Privacy / copyright
 
-### GitHub Pages status / previous 404
-
-The repository portal no longer depends on Pages. All visible portal navigation above points to actual GitHub files, so these routes work even while Pages is disabled.
-
-The optional browser app can still be deployed through GitHub Pages later. GitHub requires the account-level one-time activation under **Repository → Settings → Pages → Source → GitHub Actions** before the Pages workflow can create the public site.
-
-### AI News Copilot
-
-Built-in local research uses loaded headlines, brief excerpts, source metadata, categories and provider tags. The Android sheet also permits an optional OpenAI-compatible endpoint; no permanent API token is committed to the repository or APK.
-
-### Social / copyright policy
-
-1. Official social profiles are linked only when identified as official.
-2. LinkedIn, Instagram and Facebook content is not scraped.
-3. Social post text, photos, videos and thumbnails are not copied.
-4. Future post-level integrations should use official APIs or authorized embed mechanisms.
-5. News cards use publisher headlines and short feed excerpts and link to canonical sources.
-6. Visual previews are generated by the UI instead of copying publisher artwork.
-
-### Project
-
-Repository: `chekento/Ainews`  
-Primary branch: `main`  
-Tracking: none by default
+No analytics by default. No social scraping. No paywall bypass. News cards retain source attribution and link to the original publication. The UI creates its own visual treatment rather than copying publisher artwork.
 
 </details>
 
 <div align="center">
 
-<sub>AI NEWS // LIVE · GitHub portal + Android app</sub>
+### SIGNAL > NOISE // AI > EVERYTHING ELSE
+
+<sub>AI NEWS // HYPERINTELLIGENCE · KoSch</sub>
 
 </div>

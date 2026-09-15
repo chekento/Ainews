@@ -25,7 +25,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
         with:
@@ -33,13 +33,14 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Validate JavaScript and JSON
+      - name: Validate application, aggregator and registries
         run: |
           node --check app.js
+          node --check android/app/src/main/assets/app.js
           node --check scripts/fetch-news.mjs
           node --check scripts/update-readme-news.mjs
-          node -e "JSON.parse(require('fs').readFileSync('config/sources.json','utf8')); JSON.parse(require('fs').readFileSync('config/providers.json','utf8')); console.log('JSON OK')"
-      - name: Build AI-only news dataset
+          node -e "const fs=require('fs'); const s=JSON.parse(fs.readFileSync('config/sources.json','utf8')); const p=JSON.parse(fs.readFileSync('config/providers.json','utf8')); if(s.sources.length<50) process.exit(2); console.log('JSON OK:',s.sources.length,'sources,',p.providers.length,'providers')"
+      - name: Build strict AI-only news dataset
         run: node scripts/fetch-news.mjs
       - name: Refresh repository frontpage
         run: node scripts/update-readme-news.mjs
@@ -52,6 +53,6 @@ jobs:
           git config user.name "ai-news-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/news.json README.md
-          git commit -m "data: refresh AI news and frontpage"
+          git commit -m "data: refresh strict AI-only feed and frontpage"
           git pull --rebase origin main
           git push origin HEAD:main
