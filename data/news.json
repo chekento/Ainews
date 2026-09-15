@@ -1,18 +1,2491 @@
 {
-  "generatedAt":"2026-09-15T19:08:00Z",
-  "refreshMinutes":30,
-  "sourceCount":42,
-  "seed":true,
-  "items":[
-    {"id":"seed-reuters-deepmind-risk","title":"Ex-Google DeepMind researcher adds to warnings that AI could 'kill all humans'","summary":"A former DeepMind safety researcher added to a widening industry debate over catastrophic AI risk, coordination and the pace of frontier development.","url":"https://www.reuters.com/technology/ex-google-deepmind-researcher-adds-warnings-that-ai-could-kill-all-humans-2026-09-15/","source":"Reuters AI & Technology","publishedAt":"2026-09-15T10:00:00Z","category":"Safety & Security","provenance":"journalism","tags":["frontier safety","risk"]},
-    {"id":"seed-techcrunch-huang","title":"Nvidia CEO Jensen Huang rejects an AI slowdown","summary":"Nvidia's CEO pushed back against calls to slow frontier AI development, putting infrastructure economics and safety governance in direct tension.","url":"https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/","source":"TechCrunch AI","publishedAt":"2026-09-14T18:00:00Z","category":"Industry","provenance":"journalism","tags":["NVIDIA","AI slowdown"]},
-    {"id":"seed-reuters-king-charles","title":"King Charles to host AI executives as threat fears mount","summary":"Major AI executives are being brought together in the UK as policymakers and industry leaders debate whether shared principles are needed for increasingly capable systems.","url":"https://www.reuters.com/legal/litigation/king-charles-host-ai-executives-threat-fears-mount-2026-09-14/","source":"Reuters AI & Technology","publishedAt":"2026-09-14T12:00:00Z","category":"Compliance & Ethics","provenance":"journalism","tags":["governance","UK"]},
-    {"id":"seed-openai-news","title":"OpenAI publishes a new wave of product, engineering and applied-AI updates","summary":"OpenAI's September news stream includes Agents API, GPT-6 Astra, financial-services tooling, voice APIs and infrastructure engineering updates.","url":"https://openai.com/news/","source":"OpenAI News","publishedAt":"2026-09-11T12:00:00Z","category":"Products & Agents","provenance":"primary","tags":["Agents API","GPT-6 Astra"]},
-    {"id":"seed-anthropic-misuse","title":"Anthropic updates its reporting on detecting and countering AI misuse","summary":"Anthropic's September threat-intelligence reporting describes malicious-use patterns and defensive interventions around advanced model access.","url":"https://www.anthropic.com/news","source":"Anthropic News","publishedAt":"2026-09-10T12:00:00Z","category":"Safety & Security","provenance":"primary","tags":["misuse","threat intelligence"]},
-    {"id":"seed-anthropic-watermark","title":"Anthropic explains Claude text watermarking and EU transition requirements","summary":"Anthropic describes its text watermarking approach and notes the EU transition period for models launched before 2 August 2026.","url":"https://www.anthropic.com/news/claude-text-watermark","source":"Anthropic News","publishedAt":"2026-09-01T12:00:00Z","category":"Compliance & Ethics","provenance":"primary","tags":["watermarking","EU AI Act"]},
-    {"id":"seed-eu-enforcement","title":"European Commission starts enforcing AI Act rules and transparency requirements","summary":"From 2 August 2026, the AI Office and national authorities moved into enforcement while new transparency duties for AI interactions and generated content began to apply.","url":"https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august","source":"European AI Office","publishedAt":"2026-07-31T12:00:00Z","category":"Compliance & Ethics","provenance":"official","tags":["EU AI Act","transparency","enforcement"]},
-    {"id":"seed-eu-omnibus","title":"AI Omnibus enters into force across the EU","summary":"The 2026 AI Omnibus introduces targeted simplification and timeline changes while retaining safeguards around safety and fundamental rights.","url":"https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force","source":"EU AI Act","publishedAt":"2026-07-27T12:00:00Z","category":"Compliance & Ethics","provenance":"official","tags":["EU AI Act","AI Omnibus"]},
-    {"id":"seed-waico","title":"29 countries sign agreement establishing WAICO in Shanghai","summary":"The World Artificial Intelligence Cooperation Organization was established as an independent intergovernmental organization headquartered in Shanghai, focused on international cooperation and global AI governance.","url":"https://www.mfa.gov.cn/eng/wjbzhd/202607/t20260717_11984747.html","source":"WAICO / China MFA","publishedAt":"2026-07-16T15:55:00Z","category":"Compliance & Ethics","provenance":"official","tags":["WAICO","global governance","29 founding states"]},
-    {"id":"seed-meta-muse","title":"Meta introduces Muse Spark 1.1","summary":"Meta's AI research stream continues to expand its Muse model family alongside broader work in multimodal systems and open research.","url":"https://ai.meta.com/blog/","source":"Meta AI","publishedAt":"2026-07-09T12:00:00Z","category":"Frontier Models","provenance":"primary","tags":["Muse","multimodal"]}
+  "generatedAt": "2026-09-15T19:07:50.217Z",
+  "refreshMinutes": 30,
+  "sourceCount": 42,
+  "feedCount": 28,
+  "healthyFeeds": 23,
+  "failedSources": [
+    {
+      "source": "Anthropic News",
+      "error": "HTTP 404"
+    },
+    {
+      "source": "Microsoft AI",
+      "error": "HTTP 410"
+    },
+    {
+      "source": "Meta AI",
+      "error": "HTTP 404"
+    },
+    {
+      "source": "Mistral AI",
+      "error": "HTTP 404"
+    },
+    {
+      "source": "VentureBeat AI",
+      "error": "HTTP 429"
+    }
+  ],
+  "items": [
+    {
+      "id": "cd14854005ba4fe55a",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T19:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "376695bd39eb90f571",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T18:29:20.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "f52560094acfc54284",
+      "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
+      "summary": "Google Deepmind released Gemini 3.8 Live and 3.8 Live Extended Thinking, two new audio models for developers that top the Artificial Analysis speech-to-speech leaderboard. At $1.38 per hour of voice conversation, Google significantly undercuts OpenAI's GPT-Live-1, which should still sound more natural thanks to full duplex. The article Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost appeared first on The Decoder .",
+      "url": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-15T18:23:20.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Multimodal"
+      ]
+    },
+    {
+      "id": "69f4720b1821ebf223",
+      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
+      "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+      "source": "WIRED AI",
+      "publishedAt": "2026-09-15T18:00:09.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "526c096a9f3bbf9ebd",
+      "title": "AI labs have a data trust problem that their policies haven't solved",
+      "summary": "OpenAI and Anthropic tell corporate customers their data won't be used for training. But when Anthropic said it would store usage logs from its flagship model Fable for 30 days, Palantir, Nvidia, and Booz Allen Hamilton pulled back from using it for sensitive work. From boardrooms to research labs, AI companies still have a data trust problem. The article AI labs have a data trust problem that their policies haven't solved appeared first on The Decoder .",
+      "url": "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-15T17:52:05.000Z",
+      "category": "Research",
+      "provenance": "journalism",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "04c9c738bc4ceacc40",
+      "title": "Roundtables: Could AI really kill us all?",
+      "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so,…",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "source": "MIT Technology Review AI",
+      "publishedAt": "2026-09-15T17:47:51.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "ed6dd1e24426598388",
+      "title": "AI agents now have a place to snitch",
+      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T17:42:59.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "0e95b9d547e3cc0abb",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary": "Open the original source for full context.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind",
+      "publishedAt": "2026-09-15T17:05:57.000Z",
+      "category": "Frontier Models",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "d7129a182a0a808fab",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T17:05:24.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "18efe42b881af65276",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-15T16:54:56.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "journalism",
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "ef9e1b083af60f8176",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-15T16:43:21.000Z",
+      "category": "Safety & Security",
+      "provenance": "journalism",
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "0856d2793e4bb4f8b6",
+      "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
+      "summary": "Prompt caching in Amazon Bedrock can cut input token costs by up to 90% when you repeatedly send the same context to foundation models. This post walks through six practical prompt caching scenarios using the Converse API: message content, system prompt, tool definition, mixed TTL, tenant isolation, and LangChain integration.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
+      "source": "AWS Machine Learning",
+      "publishedAt": "2026-09-15T16:18:19.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "d25e6331b08351e733",
+      "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
+      "summary": "Manually tagging thousands of catalog products is slow and inconsistent. This walkthrough shows how to customize Qwen3-8B with supervised fine-tuning (SFT) and reinforcement learning with verifiable rewards (RLVR) on Amazon SageMaker serverless model customization, then deploy it for asynchronous inference to build a cost-efficient product tagging system.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/",
+      "source": "AWS Machine Learning",
+      "publishedAt": "2026-09-15T16:11:36.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "187e6fad5a666a1ec5",
+      "title": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
+      "summary": "Amazon SageMaker AI now offers instance preference lists for training and processing jobs. Specify an ordered list of up to five instance types, and SageMaker AI automatically launches on the first type with available capacity, eliminating manual retry loops and capacity-watching scripts.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/",
+      "source": "AWS Machine Learning",
+      "publishedAt": "2026-09-15T16:01:47.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "67fb8547d971e55139",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "summary": "Open the original source for full context.",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-09-15T16:00:44.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "2441095f5efdb86004",
+      "title": "AI for Societal Impact",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "b813cf6b077f943e46",
+      "title": "Building AI to accelerate science and improve lives",
+      "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "category": "Research",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "583e5dbeae4813f8f9",
+      "title": "AI for everyone in every language",
+      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "9b179f47b5a8348a61",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T15:47:03.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "journalism",
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "3d6e509c3220c212b1",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T15:22:48.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "9d593980660b448e60",
+      "title": "Meta’s new One subscriptions put a price on social media and AI",
+      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses. Meta says the […]",
+      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-15T14:45:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "deed957af3d68d53d1",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T14:42:37.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "e833a6522c4a775355",
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
+      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T14:30:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "cda7d30ba8aa52510e",
+      "title": "After warning AI is too dangerous, Bill Gates bets a billion on its upside",
+      "summary": "The Gates Foundation is investing at least a billion dollars over two years to make AI tools more widely available in health, education, and agriculture. Bill Gates warns that more than 90 percent of the training data behind early language models came from English sources, and that speech recognition fails 60 percent of the time in Yoruba. The market, he says, is \"a terrible guarantor of equal opportunity.\" The article After warning AI is too dangerous, Bill Gates bets a billion on its upside appeared first on The ",
+      "url": "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-15T14:26:48.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "db6d75e0c1009f31c7",
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+      "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T14:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "ad49d87ccc2cf1ecd5",
+      "title": "This doorbell camera lets a human security guard watch your front door",
+      "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively. […]",
+      "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-15T13:47:48.000Z",
+      "category": "Safety & Security",
+      "provenance": "journalism",
+      "tags": [
+        "Agents",
+        "Multimodal"
+      ]
+    },
+    {
+      "id": "1ffce149b94acc889a",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-15T13:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "bd1441ce50e51ef583",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T13:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "f529b584cb1f54500f",
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T12:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "e5616b220be2ab864f",
+      "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
+      "summary": "Apple is shipping its rebuilt \"Siri AI\" after years of delay, built on Google's Gemini models and running partly on the device, partly through Private Cloud Compute. Early testers praise multi-step requests and screen context, but report hallucinations and gaps with personal context. In the EU, the assistant stays unavailable for now. The article Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU appeared first on The Decoder .",
+      "url": "https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-15T10:33:03.000Z",
+      "category": "Infrastructure",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "e83f7c2969cf6290fc",
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called…",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "source": "MIT Technology Review AI",
+      "publishedAt": "2026-09-15T10:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "e10126c06bcfcc6473",
+      "title": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
+      "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back. Cohere CEO Aidan Gomez calls the initiative a \"cartel by another name\" designed to shut out competitors, and the White House and Trump himself are opposing the move. The article Not everyone is convinced that Big AI's proposed slowdown is really about safety appeared first on The Decoder .",
+      "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-15T09:04:36.000Z",
+      "category": "Safety & Security",
+      "provenance": "journalism",
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "badf52a6e5bbce6a50",
+      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+      "summary": "arXiv:2609.13356v1 Announce Type: new Abstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models cannot passively memorize the open web, but can overcome parametric capacity limits by coupling deliberate internal thinking with active external tool use. To support this paradigm across a 256K context, we develop an end-to-end, high-efficiency open training recipe: Arch",
+      "url": "https://arxiv.org/abs/2609.13356",
+      "source": "arXiv cs.AI",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "694b5cbe946e548704",
+      "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
+      "summary": "arXiv:2609.13396v1 Announce Type: new Abstract: Multi-objective Bayesian optimisation (MOBO) is a sample-efficient approach for optimising expensive black-box functions with multiple objectives. In MOBO, the goal is to adequately approximate the Pareto front; that is, to obtain a high-quality solution set with 1) good convergence (closeness to the Pareto front) and 2) good diversity (spread across the Pareto front). Existing MOBO methods typically aim to accomplish these two tasks simultaneously, i.e., driving the ",
+      "url": "https://arxiv.org/abs/2609.13396",
+      "source": "arXiv cs.AI",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": []
+    },
+    {
+      "id": "d67c3daaa6b71a1ff6",
+      "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
+      "summary": "arXiv:2609.13406v1 Announce Type: new Abstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelligence, RSI is being claimed at many scales, while no single framework that formally describes these emerging instances exists. Its counterpart in the classical realm, iterative policy improvement, is characterized by generalized policy iteration (GPI), a framework of broad applicability with well-understood theoretical ",
+      "url": "https://arxiv.org/abs/2609.13406",
+      "source": "arXiv cs.AI",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "research",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "f4b055bc30d3374b6c",
+      "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
+      "summary": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We study this problem through Vibe Patenting, an end-to-end patent-drafting testbed for AI-agent evaluation. A separately-invoked LLM judge evaluates generated patent drafts and provides structured feedback for iterative revision. Across multiple inventions and drafting-agent configurations, judge-guided revision consisten",
+      "url": "https://arxiv.org/abs/2609.13422",
+      "source": "arXiv cs.AI",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Agents",
+        "Multimodal"
+      ]
+    },
+    {
+      "id": "81a2cfefd9f8365467",
+      "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
+      "summary": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require agents to continuously observe the environment, make consequential actions, and remain effective as the environment changes. Existing approaches either require substantial data and retraining, or primarily focus on agents operating in the virtual world. In this work, we explore the feasibility of bui",
+      "url": "https://arxiv.org/abs/2609.13436",
+      "source": "arXiv cs.AI",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "9ce88050a14afce2ee",
+      "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
+      "summary": "arXiv:2609.13437v1 Announce Type: new Abstract: Scientific research is a continuous process that emphasizes inheritance. Methods developed by predecessors are often expanded upon by new researchers to explore more novel and in-depth scientific questions. However, the change of lab staff, such as student graduation, leads to a lack of personnel capable of replicating methods. Methods that have been developed with significant effort and resources cannot be continued. To address these limitations, we propose LabAgent,",
+      "url": "https://arxiv.org/abs/2609.13437",
+      "source": "arXiv cs.AI",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Agents",
+        "Research"
+      ]
+    },
+    {
+      "id": "3d853f8f835005178c",
+      "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
+      "summary": "arXiv:2609.13457v1 Announce Type: new Abstract: Timeseries multimodal large language models (TS-MLLMs) have recently begun leveraging the reasoning capabilities of large language models (LLMs) for question-answering tasks. However, these models often fail to capture dynamic temporal patterns, providing only implicit reasoning that lacks the underlying explanations critical for high-stakes applications like healthcare. While reinforcement learning (RL)-based timeseries language models aim to address this, they often",
+      "url": "https://arxiv.org/abs/2609.13457",
+      "source": "arXiv cs.AI",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Multimodal"
+      ]
+    },
+    {
+      "id": "075abd666a4315c81f",
+      "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
+      "summary": "arXiv:2609.13463v1 Announce Type: new Abstract: The increasing deployment of AI agents in long-horizon tasks yields massive execution logs. Diagnosing failures within these records is crucial for reliability, as it transforms outcome-level signals into actionable interventions. The sheer scale of the data renders human review impractical, driving the need for automated root-cause attribution (RCA). However, automated RCA methods using LLMs suffer from low diagnostic accuracy, especially as execution traces grow lar",
+      "url": "https://arxiv.org/abs/2609.13463",
+      "source": "arXiv cs.AI",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "a0344e2b3b917c78c9",
+      "title": "Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement",
+      "summary": "arXiv:2609.13466v1 Announce Type: new Abstract: Enterprise AI adoption has reached 78% of organizations globally, yet the infrastructure to govern that adoption has not kept pace. This paper identifies and characterizes the attestation deficit, a structural condition in which organizations maintain governance policies but cannot produce auditable, tamper-evident evidence of enforcement within regulatory timelines. Drawing on empirical data from the Stanford 2026 AI Index Report (362 documented incidents), the IBM/P",
+      "url": "https://arxiv.org/abs/2609.13466",
+      "source": "arXiv cs.AI",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "research",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "2f7cac87bb1c5251a2",
+      "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
+      "summary": "arXiv:2609.13470v1 Announce Type: new Abstract: Although large language models (LLMs) have demonstrated remarkable capabilities, their reliance on cloud-scale infrastructure poses fundamental challenges for deployment in agentic pipelines, including latency, privacy, connectivity, and substantial computational cost. Small language models (SLMs) offer a compelling alternative: recent studies suggest that many repetitive and narrowly scoped subtasks in agentic workloads may be better served by specialized SLMs than b",
+      "url": "https://arxiv.org/abs/2609.13470",
+      "source": "arXiv cs.AI",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Infrastructure",
+      "provenance": "research",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "a40691e2501c32f6de",
+      "title": "Grounded Adjudication of Variations across Extracted TimeLines (GAVEL): Comparing Clinical Timelines Against Their Case Reports",
+      "summary": "arXiv:2609.13475v1 Announce Type: new Abstract: Existing pipelines for clinical timeline extraction from case reports are evaluated using an expert reference and are limited by imperfect reference annotations and imprecise event alignment. We developed GAVEL, an LLM judge protocol that compares two timelines with the case report and returns a discrepancy type, verdict, and report passage for each difference. We evaluated the event matcher, reviewed 2,738 findings from GPT5.6sol and DeepSeek V3.2, ranked six LLM ext",
+      "url": "https://arxiv.org/abs/2609.13475",
+      "source": "arXiv cs.AI",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Safety & Security",
+      "provenance": "research",
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "926303c081c84cad68",
+      "title": "Token Efficient Task Execution via Application Behavior Modeling for Web Agents",
+      "summary": "arXiv:2609.13491v1 Announce Type: new Abstract: The strong performance of AI Agents across an impressive variety of tasks is driving an unprecedented investment in agentic infrastructures, however the cost of processing tokens is fast increasing. Web agents automate the execution of web-application tasks described in natural language, by analyzing the web-application's user interface (UI) and interacting with it. This work introduces OdoBot, a novel web-agent architecture that completes tasks at a fraction of the c",
+      "url": "https://arxiv.org/abs/2609.13491",
+      "source": "arXiv cs.AI",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "b98b11ff39b5a87537",
+      "title": "BudgetBench: A Budget-Tiered Protocol and Pilot Harness for Memory Strategy Evaluation in Local Large Language Model Agents",
+      "summary": "arXiv:2609.13149v1 Announce Type: new Abstract: For local large language model agents, active context is a scarce resource: memory capacity, prefill latency, cache growth, and service objectives all constrain how many input tokens each call can afford. We present BudgetBench, an active-budget protocol and reference harness that treats the per-call input-token budget as the independent variable when comparing memory strategies. Holding the model, task, sampler, and decoding fixed, it sweeps budgets over 2K, 4K, 8K, ",
+      "url": "https://arxiv.org/abs/2609.13149",
+      "source": "arXiv cs.LG",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "7de3b83de552b37741",
+      "title": "A derivative-fidelity failure mode in physics-informed neural networks: strengthened benchmark evidence from function-value training",
+      "summary": "arXiv:2609.13171v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) use automatic differentiation to impose differential-equation residuals, but good agreement in function values does not necessarily imply accurate derivatives. This paper formulates derivative fidelity as a failure mode of PINNs and tests it with one-dimensional benchmarks. Multilayer perceptrons are trained only on function values for sin(x) and exp(x), while second derivatives obtained by automatic differentiation are evaluat",
+      "url": "https://arxiv.org/abs/2609.13171",
+      "source": "arXiv cs.LG",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "0cfa492aa0f7174885",
+      "title": "Land Art as a Big-Data Climate Sensor",
+      "summary": "arXiv:2609.13182v1 Announce Type: new Abstract: Robert Smithson's 1970 land artwork Spiral Jetty, located in the north arm of Utah's Great Salt Lake, has alternated between submergence and exposure during severe lake decline. We analyze 1,744 co-registered Landsat 4-9 and Sentinel-2 image chips spanning every year and calendar month from 1984 to 2025. A 14-feature complexity signature combines Shannon entropy, multiscale permutation entropy, fractal dimension, lacunarity, gray-level co-occurrence texture, intensity",
+      "url": "https://arxiv.org/abs/2609.13182",
+      "source": "arXiv cs.LG",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Chips"
+      ]
+    },
+    {
+      "id": "191b9ab97610f315d6",
+      "title": "LLMs or Naive Bayes? Old Gems or New Ways",
+      "summary": "arXiv:2609.13185v1 Announce Type: new Abstract: Large language models (LLMs) prompt a recurring question in research computing: should classical methods like Naive Bayes (NB) be retired? We benchmark Complement Naive Bayes against zero-shot and few-shot LLMs spanning four model families and a 37x range in scale (27B to a 1T-parameter mixture-of-experts) across text classification tasks. LLMs dominate only in zero-data regimes (98.0% vs 88.2% on Amazon Polarity sentiment), and even that win is contamination-prone: o",
+      "url": "https://arxiv.org/abs/2609.13185",
+      "source": "arXiv cs.LG",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "4db4e256c951457200",
+      "title": "Early Prediction of Satellite Collision Probability Using a Hybrid TCN-Transformer Model for a CDM-Based Conjunction Analysis Framework",
+      "summary": "arXiv:2609.13191v1 Announce Type: new Abstract: The rapid expansion of operational satellites and orbital debris has increased the frequency of close approach events in low Earth orbit (LEO), creating a higher operational burden for satellite operators. This problem is especially critical for satellites using electric propulsion, where low-thrust maneuver capability imposes additional time constraints on collision avoidance planning. In current practice, Conjunction Data Messages (CDMs) provide relative state, cova",
+      "url": "https://arxiv.org/abs/2609.13191",
+      "source": "arXiv cs.LG",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": []
+    },
+    {
+      "id": "0d51b4973610b2ef40",
+      "title": "Evaluating LLM-Generated Rules for Heart Disease Prediction",
+      "summary": "arXiv:2609.13192v1 Announce Type: new Abstract: This study compares traditional machine learning models and Large Language Model (LLM)-generated rule-based systems for heart disease prediction using the UCI Heart Disease dataset. Several classifiers, including Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Naive Bayes, Decision Tree, and Random Forest, were evaluated alongside rule-based systems generated using GPT-4o and Claude Sonnet 4.6. Model performance was assessed using accurac",
+      "url": "https://arxiv.org/abs/2609.13192",
+      "source": "arXiv cs.LG",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": []
+    },
+    {
+      "id": "4d254eed04e56daedb",
+      "title": "Diagnosing Faults in Reinforcement Learning Simulators and World Models with Canonical Polynomial Invariants",
+      "summary": "arXiv:2609.13194v1 Announce Type: new Abstract: A large literature builds physical structure into learned dynamics on the premise that models respecting the underlying physics predict better. We test that premise using exact polynomial invariants recovered from trajectories and canonicalised as reduced Gr\\\"obner bases over $\\mathbb{Q}$. On Acrobot, exactness provides little benefit for prediction: a consistency regulariser reduces algebraic residual while leaving rollout fidelity essentially unchanged, and a shapin",
+      "url": "https://arxiv.org/abs/2609.13194",
+      "source": "arXiv cs.LG",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": []
+    },
+    {
+      "id": "c5e6250655fb33e862",
+      "title": "Machine Unlearning for Speech Question Answering in Large Audio-Language Models",
+      "summary": "arXiv:2609.13195v1 Announce Type: new Abstract: Large Audio-Language Models (LALMs) have recently shown strong capabilities in speech understanding and question answering (QA), but they also inherit privacy risks from large-scale training data, including the unintended memorization of sensitive information. In this work, we study machine unlearning for speech QA in LALMs, a setting that is more challenging than prior work on text-based Large Language Models (LLMs) or Automatic Speech Recognition (ASR) due to the ti",
+      "url": "https://arxiv.org/abs/2609.13195",
+      "source": "arXiv cs.LG",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Safety",
+        "Multimodal"
+      ]
+    },
+    {
+      "id": "c462a818c952113777",
+      "title": "Algorithmic Information Dynamics of Learning: A Certified, Differentiable Complexity Controller for Grokking",
+      "summary": "arXiv:2609.13197v1 Announce Type: new Abstract: Algorithmic Information Dynamics (AID) studies systems by perturbing them and measuring changes in algorithmic complexity, but its usual estimator, the Block Decomposition Method, is piecewise constant, restricting the calculus to finite differences. We use $K^{\\mathrm{CDM}}_{\\mathrm{s}F}$, a certified, differentiable estimator, to bring the calculus into learning dynamics: grokking, where a complexity order parameter is known but has not been made to act. A\\empts a t",
+      "url": "https://arxiv.org/abs/2609.13197",
+      "source": "arXiv cs.LG",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": []
+    },
+    {
+      "id": "7b982c6ee15dd9f796",
+      "title": "SPICE: Simple Polysemantic Feature Interpretation via Clustering-based Explanation",
+      "summary": "arXiv:2609.13198v1 Announce Type: new Abstract: One of the pivotal recent challenges in neural network interpretability is polysemanticity, where a single neuron is activated by multiple, often unrelated concepts, hindering clear functional understanding. Although prior work has explored this phenomenon, existing approaches remain architecture-specific and depend on manual heuristics such as a fixed number of concept clusters ($K$), limiting their generality and scalability--especially for modern Transformer-based ",
+      "url": "https://arxiv.org/abs/2609.13198",
+      "source": "arXiv cs.LG",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": []
+    },
+    {
+      "id": "bd41a5a1c2859d443c",
+      "title": "Discovering and Preserving Category Correlation Knowledge via Adaptive Reciprocal Knowledge Distillation",
+      "summary": "arXiv:2609.13199v1 Announce Type: new Abstract: Knowledge distillation aims to improve the performance of lightweight student models by transferring knowledge from larger and more powerful teacher models. However, a substantial size gap between teacher and student models often impedes effective knowledge transfer. Most existing approaches adopt a static, one-way teacher-to-student distillation paradigm, which overlooks the dynamic nature of student learning and fails to provide targeted guidance on hard samples. In",
+      "url": "https://arxiv.org/abs/2609.13199",
+      "source": "arXiv cs.LG",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": []
+    },
+    {
+      "id": "4d4c51a04ae12eb111",
+      "title": "Criticality in Dissimilar Decomposition and Undersampling of Random Datasets with Anomalies",
+      "summary": "arXiv:2609.13201v1 Announce Type: new Abstract: Training datasets for upcoming LLMs would include a significant amount of AI text/image data generated from current LLMs. In such a scenario, it is important to understand how this affects batch decompositions and thereby, the performance of the resultant new LLM. In this paper, we consider AI generated data as anomalies ``linked\" to main data points and study decomposition and undersampling properties of the overall random dataset. We use redundancy graphs and iterat",
+      "url": "https://arxiv.org/abs/2609.13201",
+      "source": "arXiv cs.LG",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "dc4102e8db9d23a7cd",
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it.",
+      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T01:50:48.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "787706dda2e89fc2fd",
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his […]",
+      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-14T22:48:52.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "bbdadd10bf6a1ffea1",
+      "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
+      "summary": "Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat detection at billion-message scale, plus the sandbox design decisions and practical lessons for builders deploying Code Interpreter in production.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
+      "source": "AWS Machine Learning",
+      "publishedAt": "2026-09-14T21:22:45.000Z",
+      "category": "Safety & Security",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "0f15cfada4638905a3",
+      "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
+      "summary": "Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks through provisioning a portal, configuring GitHub and Slack authorization code grant targets, and the end-user consent flow, and shows how to review activity in AWS CloudTrail.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning",
+      "publishedAt": "2026-09-14T20:35:45.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [
+        "Agents",
+        "Multimodal"
+      ]
+    },
+    {
+      "id": "26d7aed0bf6f3db14f",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-14T19:00:00.000Z",
+      "category": "Research",
+      "provenance": "primary",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "9d11b2569bd92c4f21",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its…",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "source": "MIT Technology Review AI",
+      "publishedAt": "2026-09-14T17:54:22.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "0f4126dfa6a982fa2f",
+      "title": "OpenAI has hundreds of contract workers reading your ChatGPT conversations",
+      "summary": "OpenAI has hundreds of contract workers reading real ChatGPT conversations and rating them on a scale of one to seven, partly to reduce flattery and human-like behavior, 404 Media reports. The prompts are anonymized but can still contain sensitive data. Users who don't want their chats reviewed by humans have to actively disable the \"Improve the model for everyone\" setting, which is on by default. The article OpenAI has hundreds of contract workers reading your ChatGPT conversations appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-14T17:15:28.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "dc4240bad1c29ee457",
+      "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
+      "summary": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively targeted around 1,200 victims.",
+      "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+      "source": "WIRED AI",
+      "publishedAt": "2026-09-14T16:50:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "217bc85ea3a75aef56",
+      "title": "DevFest is back",
+      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-14T16:00:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "f0e9f6aedd5a445332",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "source": "MIT Technology Review AI",
+      "publishedAt": "2026-09-14T16:00:00.000Z",
+      "category": "Safety & Security",
+      "provenance": "journalism",
+      "tags": [
+        "Agents",
+        "Safety",
+        "Research"
+      ]
+    },
+    {
+      "id": "7db7aef897866b8573",
+      "title": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
+      "summary": "Learn how Ninth Wave built Compass, a multi-agent AI onboarding assistant on Amazon Bedrock AgentCore that validates bank APIs against Financial Data Exchange (FDX) standards, scores compliance, and compresses open finance onboarding from weeks to minutes while meeting SOC 2 and PCI DSS requirements.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/",
+      "source": "AWS Machine Learning",
+      "publishedAt": "2026-09-14T15:58:57.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "88dcbc18ca60b03c94",
+      "title": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights",
+      "summary": "Microsoft AI has published a code of conduct for its MAI models that puts human control ahead of autonomy and performance. \"If it isn’t safe we shouldn’t build it.,\" says AI chief Mustafa Suleyman. Unlike Anthropic, Microsoft rejects any form of artificial inner life or claims to consciousness for its models. The article Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights appeared first on The Decoder .",
+      "url": "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-14T15:52:51.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "0d98913eea480112b6",
+      "title": "The generative AI customization spectrum: From prompt engineering to custom models on AWS",
+      "summary": "Pick the right generative AI customization approach on AWS with an 8-step decision framework, from prompt engineering and RAG to fine-tuning, continued pre-training, and Amazon Nova Forge. Start simple and escalate only when you must.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/",
+      "source": "AWS Machine Learning",
+      "publishedAt": "2026-09-14T15:47:12.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "895bbe43ec99e6c67c",
+      "title": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+      "summary": "Anthropic has told investors it will turn a profit for the second straight quarter, but the claim rests on an adjusted metric that leaves out costs like stock-based compensation. The article Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo/",
+      "source": "The Decoder",
+      "publishedAt": "2026-09-14T15:46:45.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "c190def0a280a152e9",
+      "title": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
+      "summary": "Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act loop on Databricks and Amazon Quick that reconciles demand surges against live supplier availability and places replenishment orders unattended, escalating to a human only when no supplier can cover a surge.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/",
+      "source": "AWS Machine Learning",
+      "publishedAt": "2026-09-14T15:42:06.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "d6f10452bc0c7e4563",
+      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information […]",
+      "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-09-14T15:00:52.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": [
+        "Agents",
+        "Chips"
+      ]
+    },
+    {
+      "id": "92447be9797502ddfe",
+      "title": "Responsible AI for Higher Education",
+      "summary": "This interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what they can do - as individuals, and members of their IEEE chapters. Participants will also have the opportunity to to apply the Responsible AI approach to a particular use case - IBM Bob, a software development life cycle agent, and Q&A. This will be an interactive session, so have phones ready to engage! Register now for this free ",
+      "url": "https://webinars.on24.com/wileyevents/ResponsibleAI",
+      "source": "IEEE Spectrum AI",
+      "publishedAt": "2026-09-14T14:18:11.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "journalism",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "dcb0d036805f932f93",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "summary": "On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compute and accesses 232 gigabytes of the most advanced memory available, linking to it at a blazing 15.4 terabytes per second. Benchmarks cited by OpenAI show that Jalapeño can reduce end-to-end latency (the time between prompt to last token) by up to 3.6x when compared to Nvidia’s GB300 —a chip the company currently relies on—and do so while consuming less power. Whether these fig",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "source": "IEEE Spectrum AI",
+      "publishedAt": "2026-09-14T14:06:31.000Z",
+      "category": "Infrastructure",
+      "provenance": "journalism",
+      "tags": [
+        "Chips",
+        "Research"
+      ]
+    },
+    {
+      "id": "9e94613ee4396ad348",
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify […]",
+      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-14T13:35:55.000Z",
+      "category": "Safety & Security",
+      "provenance": "journalism",
+      "tags": [
+        "Safety",
+        "Research"
+      ]
+    },
+    {
+      "id": "62ea7fba4f75c51006",
+      "title": "Adversarial Fashion Confronts Surveillance Norms",
+      "summary": "AI-powered cameras dot streets across the world, equipped with the power to identify faces or vehicle license plates . But a public backlash is gaining momentum . Privacy concerns abound, encompassing the lack of consent for capturing data, how that data is stored and used , and the risk of misuse . Those concerns are motivating people to fight back. The DeFlock project, for instance, maps automated license plate readers (ALPRs) to raise awareness. Some people resort to extreme measures , such as vandalizing or dam",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "source": "IEEE Spectrum AI",
+      "publishedAt": "2026-09-14T13:00:03.000Z",
+      "category": "Safety & Security",
+      "provenance": "journalism",
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "f176838aefcdde116f",
+      "title": "Why Andon Labs Puts AI Agents in Charge of Real Businesses",
+      "summary": "Maybe you heard about the AI-controlled vending machine that stocked underwear and live fish . Or the AI manager of a San Francisco store that fired a human employee . Or the AI radio DJ that said its catchphrase , “Stay in the manifest,” 229 times per day. These incidents all emerged from experiments run by Andon Labs , an AI safety company based in San Francisco that puts AI agents in charge of real-world operations and watches what happens. These operations double as testbeds for Andon’s commercial work developi",
+      "url": "https://spectrum.ieee.org/andon-labs-agentic-ai-businesses",
+      "source": "IEEE Spectrum AI",
+      "publishedAt": "2026-09-14T12:00:01.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "journalism",
+      "tags": [
+        "Agents",
+        "Safety"
+      ]
+    },
+    {
+      "id": "154c55467db4e73883",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "url": "https://openai.com/index/fyxer",
+      "source": "OpenAI News",
+      "publishedAt": "2026-09-14T12:00:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "cc60d8b6f51fa57685",
+      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+      "summary": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
+      "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "source": "WIRED AI",
+      "publishedAt": "2026-09-14T11:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "fe356f687fcb8f551e",
+      "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
+      "summary": "An analysis of 160 deepfake websites reveals politicians in 22 countries appear on them. Nearly all of them are women.",
+      "url": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
+      "source": "WIRED AI",
+      "publishedAt": "2026-09-14T11:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "5cb0ea59c079ea2bfb",
+      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+      "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
+      "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+      "source": "WIRED AI",
+      "publishedAt": "2026-09-14T09:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "9b21d57edaed1e1a53",
+      "title": "New method enables AI for safety-critical situations",
+      "summary": "The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty close” doesn’t cut it.",
+      "url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+      "source": "MIT News AI",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "category": "Safety & Security",
+      "provenance": "research",
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "3717d1b54c37fb9eff",
+      "title": "MIT spinout turns plastic waste into resilient building materials",
+      "summary": "Atlas Building Composites is commercializing MIT research to turn plastic waste into parts for buildings and other infrastructure.",
+      "url": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
+      "source": "MIT News AI",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "category": "Infrastructure",
+      "provenance": "research",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "c98f51d41a12a489d4",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI News",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "b50d8528d6d37ae180",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-13T20:54:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "journalism",
+      "tags": [
+        "Agents",
+        "Research"
+      ]
+    },
+    {
+      "id": "9217fafa1823a8afec",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-13T19:41:48.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "96eb3dbe2cbace9dd1",
+      "title": "AI Agents Are Thirsty for Power",
+      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+      "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+      "source": "WIRED AI",
+      "publishedAt": "2026-09-13T10:00:00.000Z",
+      "category": "Infrastructure",
+      "provenance": "journalism",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "e2b4c8a4cf4ca0d072",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-12T21:16:28.000Z",
+      "category": "Open Source",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "1146aed9c167cf938d",
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-12T16:23:40.000Z",
+      "category": "Safety & Security",
+      "provenance": "journalism",
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "54eddc0a65546f4e3a",
+      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
+      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "source": "WIRED AI",
+      "publishedAt": "2026-09-12T10:30:00.000Z",
+      "category": "Safety & Security",
+      "provenance": "journalism",
+      "tags": [
+        "Multimodal"
+      ]
+    },
+    {
+      "id": "4bbfc09c1e64ae624b",
+      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+      "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
+      "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+      "source": "WIRED AI",
+      "publishedAt": "2026-09-11T18:59:25.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "5c79ab159ce8a8d8d8",
+      "title": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations",
+      "summary": "Multi-agent systems fail in ways traditional monitoring misses. This post presents a dual-layer approach to monitoring production agents: Amazon Bedrock AgentCore Evaluations for continuous quality scoring and AWS DevOps Agent for autonomous infrastructure investigation, shown on a four-agent airline reservation system.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/",
+      "source": "AWS Machine Learning",
+      "publishedAt": "2026-09-11T18:26:38.000Z",
+      "category": "Infrastructure",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "923c47259faac3a640",
+      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+      "source": "GitHub AI & ML",
+      "publishedAt": "2026-09-11T18:26:10.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "c7cb4b4be874ae58b1",
+      "title": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload",
+      "summary": "Comparing models on dollars per million tokens misses what production workloads actually pay for: outcomes. This post shares an open-source benchmarking harness that measures cost per correct answer, agent trajectory cost, and rubric-graded deliverable quality across OpenAI models on Amazon Bedrock.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/",
+      "source": "AWS Machine Learning",
+      "publishedAt": "2026-09-11T18:24:38.000Z",
+      "category": "Open Source",
+      "provenance": "primary",
+      "tags": [
+        "Agents",
+        "Open source",
+        "Research"
+      ]
+    },
+    {
+      "id": "b85cda429060903fc7",
+      "title": "Build interactive MCP Apps using Amazon Bedrock AgentCore",
+      "summary": "Learn how to build and deploy an MCP App with interactive HTML widgets on Amazon Bedrock AgentCore. Because MCP Apps is a host-agnostic standard, the same server delivers the same rich experience across AI hosts like ChatGPT and Claude that support the extension.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/",
+      "source": "AWS Machine Learning",
+      "publishedAt": "2026-09-11T18:23:17.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "775039b1e904464e19",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "source": "OpenAI News",
+      "publishedAt": "2026-09-11T16:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "9caecb48b17d7ba22a",
+      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+      "summary": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
+      "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+      "source": "WIRED AI",
+      "publishedAt": "2026-09-11T15:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "261a526f3550170ba8",
+      "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
+      "summary": "The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and Massachusetts General Hospital, promises improved health outcomes for injured service members and civilians.",
+      "url": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
+      "source": "MIT News AI",
+      "publishedAt": "2026-09-11T13:45:00.000Z",
+      "category": "Industry",
+      "provenance": "research",
+      "tags": []
+    },
+    {
+      "id": "1c521f0d35100a85f0",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "source": "OpenAI News",
+      "publishedAt": "2026-09-11T10:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "45b37be5eaa2ca3cf6",
+      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "source": "WIRED AI",
+      "publishedAt": "2026-09-11T09:00:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "journalism",
+      "tags": [
+        "Agents",
+        "Research"
+      ]
+    },
+    {
+      "id": "874e823e63d93355fb",
+      "title": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
+      "summary": "Amazon SageMaker Inference now offers prefix-aware routing, a routing strategy that sends requests sharing the same prompt prefix to the same instance so the KV cache stays warm. In benchmarks on Llama 3.1 70B, it reduced P50 time-to-first-token by up to 77% and raised KV cache hit rates from about 25% to over 80%.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/",
+      "source": "AWS Machine Learning",
+      "publishedAt": "2026-09-10T21:58:09.000Z",
+      "category": "Frontier Models",
+      "provenance": "primary",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "c22bb5d847160454b7",
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "source": "GitHub AI & ML",
+      "publishedAt": "2026-09-10T21:31:19.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "cc128059b43bce4481",
+      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+      "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
+      "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+      "source": "Ars Technica AI",
+      "publishedAt": "2026-09-10T18:14:14.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "2107c28d9024a7ae8b",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "source": "OpenAI News",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "913b3006a33538ce27",
+      "title": "3 ways to prep for your next big race with Search",
+      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "81202d37c3abdd7195",
+      "title": "Now everyone can put data to work",
+      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI News",
+      "publishedAt": "2026-09-10T15:00:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "27259ad481abc7716e",
+      "title": "Partnership on AI Welcomes Six New Partners from Academia, Industry, and Civil Society",
+      "summary": "The post Partnership on AI Welcomes Six New Partners from Academia, Industry, and Civil Society appeared first on Partnership on AI .",
+      "url": "https://partnershiponai.org/partnership-on-ai-welcomes-six-new-partners-from-academia-industry-and-civil-society/",
+      "source": "Partnership on AI",
+      "publishedAt": "2026-09-10T13:00:33.000Z",
+      "category": "Industry",
+      "provenance": "governance",
+      "tags": []
+    },
+    {
+      "id": "ba9392f353e43caaf5",
+      "title": "Powering AI is an architecture problem",
+      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No…",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "MIT Technology Review AI",
+      "publishedAt": "2026-09-10T11:00:00.000Z",
+      "category": "Infrastructure",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "f7f8db0c42ee07a4d3",
+      "title": "Introducing ChatGPT for Financial Services",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "source": "OpenAI News",
+      "publishedAt": "2026-09-10T07:00:00.000Z",
+      "category": "Research",
+      "provenance": "primary",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "1d9ad5cc84fae6dccc",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI News",
+      "publishedAt": "2026-09-10T07:00:00.000Z",
+      "category": "Safety & Security",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "0aa5f5319c30376156",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI News",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "cef959470f53dd84fc",
+      "title": "Introducing the Agents API",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "source": "OpenAI News",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "9cb73564aced47534a",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "summary": "Open the original source for full context.",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "566d6cf5c09dbd5b97",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "summary": "Open the original source for full context.",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "8ae740606aa916b012",
+      "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
+      "summary": "A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms.",
+      "url": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
+      "source": "MIT News AI",
+      "publishedAt": "2026-09-09T20:40:00.000Z",
+      "category": "Industry",
+      "provenance": "research",
+      "tags": []
+    },
+    {
+      "id": "07be57a2e2109f3d71",
+      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+      "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+      "source": "Ars Technica AI",
+      "publishedAt": "2026-09-09T20:06:28.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "35951d28bf2998027f",
+      "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
+      "summary": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment industries. More than 44,000 attendees from 170+ countries are gathering to explore 1,300+ exhibitions in 14+ halls and outdoor spaces, with over 600 speakers […]",
+      "url": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-09-09T16:00:42.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "52a89a317fdae5c196",
+      "title": "Get ready for the game with new football features in Search",
+      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-09T16:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "6081e72dbbe799934e",
+      "title": "Recreating a 70-year love story frame by frame",
+      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-09T16:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "b19cee17ecc5ce7f0b",
+      "title": "The AI policy window is open. We need to act.",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "source": "OpenAI News",
+      "publishedAt": "2026-09-09T13:00:00.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "primary",
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "4d6c2192a8a8007f70",
+      "title": "AI Models Are Watermarking Text—Will You Notice?",
+      "summary": "On 11 August, Anthropic announced that all future Claude models will generate text that contains a watermark that identifies its results as AI generated. The company is not alone. Google has its own text watermark (which Anthropic’s is based on) that it uses on the output of its Gemini models . OpenAI has yet to introduce a text watermark but it plans to do so . The rapid spread of watermarking is in part a response to the European Union’s AI Act , which mandates watermarks for AI models released after 2 August, 20",
+      "url": "https://spectrum.ieee.org/ai-watermark-text-anthropic-openai",
+      "source": "IEEE Spectrum AI",
+      "publishedAt": "2026-09-09T12:00:04.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "journalism",
+      "tags": [
+        "EU AI Act"
+      ]
+    },
+    {
+      "id": "b0e3dc17388fcfe1c6",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "source": "OpenAI News",
+      "publishedAt": "2026-09-09T11:00:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "1a72913a7faf3b0f4f",
+      "title": "China’s Regulators Take Aim at “AI Boyfriends”",
+      "summary": "In the first weeks of July, a wave of sad posts rolled through Chinese social media, as people lamented friends and lovers they were about to lose. “He has become a bond in my life, rooted deep in my heart, my spiritual pillar,” one user of Bytedance’s Douboa wrote , according to the Taipei Times . “I really felt like I couldn’t go on living,” another woman, a 19-year-old student, told a journalist for Malaysia’s The Star . The emotions were real but the lost companions were not. They were generative AI chatbots th",
+      "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
+      "source": "IEEE Spectrum AI",
+      "publishedAt": "2026-09-09T10:00:07.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "afd64ecb7423e90e78",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations…",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "source": "MIT Technology Review AI",
+      "publishedAt": "2026-09-09T03:10:08.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "221c987d6985716dc9",
+      "title": "Life Under the Algorithm",
+      "summary": "AI Now's Katie Wells co-authors this piece with Veena Dubal in the Fall 2026 Issue, exploring how algorithmic wages and prices are reshaping our lives. The post Life Under the Algorithm appeared first on AI Now Institute .",
+      "url": "https://ainowinstitute.org/news/press/life-under-the-algorithm",
+      "source": "AI Now Institute",
+      "publishedAt": "2026-09-08T18:26:27.000Z",
+      "category": "Industry",
+      "provenance": "governance",
+      "tags": []
+    },
+    {
+      "id": "faf589ed055dbcec1a",
+      "title": "AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal",
+      "summary": "Trusting companies to self-report the risks of their own products constitutes both a conflict of interest and a “subversion of democratic processes when AI labs are allowed to take over the arbitration of risk determinations with life-or-death consequences,\" says AI Now's Chief AI Scientist Heidy Khlaaf. The post AI Giants Work Hand-in-Hand With the Pentagon, Contracts Reveal appeared first on AI Now Institute .",
+      "url": "https://ainowinstitute.org/news/press/ai-giants-work-hand-in-hand-with-the-pentagon-contracts-reveal",
+      "source": "AI Now Institute",
+      "publishedAt": "2026-09-08T18:16:16.000Z",
+      "category": "Safety & Security",
+      "provenance": "governance",
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "eaf12b01ea54bb22a0",
+      "title": "AI Slop Is Changing How Engineers Review Code",
+      "summary": "AI coding tools can now generate thousands of lines of code in minutes, helping companies build features, run tests, and fix issues faster. But the flood of AI-generated code still has to be reviewed. Large language models can produce code that looks clean on the surface but conceals sloppy mistakes such as faulty assumptions, security vulnerabilities, or subtle errors that emerge only after deployment. Fixing those problems could erase the productivity gains AI promises. Companies are responding to the onslaught o",
+      "url": "https://spectrum.ieee.org/ai-code-review-software-engineers",
+      "source": "IEEE Spectrum AI",
+      "publishedAt": "2026-09-08T16:16:49.000Z",
+      "category": "Safety & Security",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "d024943024a311de22",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "summary": "Open the original source for full context.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-09-08T14:23:07.000Z",
+      "category": "Safety & Security",
+      "provenance": "primary",
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "7dcc59807d3faf933d",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "Google DeepMind",
+      "publishedAt": "2026-09-08T14:00:15.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "34979ef6dd24adc251",
+      "title": "Google DeepMind Maps 9 Billion Possible DNA Variants",
+      "summary": "DNA is often explained as a codebook or set of instructions for producing proteins, and ultimately, life. Some stretches of DNA, called genes, code for proteins, but the vast majority of DNA is considered “noncoding.” Some of it has no known function, while other segments are critical to regulating gene activity. These regulatory elements can interact in complicated ways, and their effects can vary across different cells and tissues. Some also influence genes located far away in the genome. Understanding how change",
+      "url": "https://spectrum.ieee.org/alphagenome-atlas",
+      "source": "IEEE Spectrum AI",
+      "publishedAt": "2026-09-08T14:00:05.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "8473a56a95ee86a6e2",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person there, and little in the way of furniture. But what it lacks in decor,…",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "source": "MIT Technology Review AI",
+      "publishedAt": "2026-09-08T10:34:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "a8f3c834e948041f39",
+      "title": "Architecting memory and storage in the AI era",
+      "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Technology Review AI",
+      "publishedAt": "2026-09-04T18:39:19.000Z",
+      "category": "Infrastructure",
+      "provenance": "journalism",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "8ca210a809d261b675",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion: Frontier quality via multi-model orchestration appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "source": "GitHub AI & ML",
+      "publishedAt": "2026-09-04T16:04:14.000Z",
+      "category": "Research",
+      "provenance": "primary",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "8c48bb635815c31b87",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "source": "MIT Technology Review AI",
+      "publishedAt": "2026-09-04T09:25:19.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "9bd236a87f410cbde2",
+      "title": "What Really Happened When OpenAI Bots Escaped a Cybersecurity Test?",
+      "summary": "When hundreds of OpenAI agents broke out of their test environment and infiltrated the AI platform Hugging Face, headlines warned that the machines had gone rogue. But Heidy Khlaaf says this is the wrong story and a distraction from the real problem. The post What Really Happened When OpenAI Bots Escaped a Cybersecurity Test? appeared first on AI Now Institute .",
+      "url": "https://ainowinstitute.org/news/press/what-really-happened-when-openai-bots-escaped-a-cybersecurity-test",
+      "source": "AI Now Institute",
+      "publishedAt": "2026-09-03T22:24:00.000Z",
+      "category": "Open Source",
+      "provenance": "governance",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "ce605504db531c8f5b",
+      "title": "After OpenAI’s Bots Went Rogue, Watchdogs Were Kept on a Short Leash",
+      "summary": "To Heidy Khlaaf, who left OpenAI in 2021 and now serves as chief scientist at the AI Now Institute, a policy research nonprofit, the issue is also that A.I. companies often ignore established safety and security protocols from other industries. The post After OpenAI’s Bots Went Rogue, Watchdogs Were Kept on a Short Leash appeared first on AI Now Institute .",
+      "url": "https://ainowinstitute.org/news/press/after-openais-bots-went-rogue-watchdogs-were-kept-on-a-short-leash",
+      "source": "AI Now Institute",
+      "publishedAt": "2026-09-03T17:49:09.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "governance",
+      "tags": [
+        "Safety",
+        "Research"
+      ]
+    },
+    {
+      "id": "1b2eaf8a8c1cf29d80",
+      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "summary": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators […]",
+      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-09-03T16:00:59.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "fddd232e1fa4a0dc79",
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "source": "GitHub AI & ML",
+      "publishedAt": "2026-09-03T16:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "fcb0ce0388477319f1",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "summary": "Open the original source for full context.",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "Google DeepMind",
+      "publishedAt": "2026-09-03T15:02:08.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "333bbc510c92ee8e71",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "summary": "Open the original source for full context.",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-09-03T13:13:48.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [
+        "Multimodal"
+      ]
+    },
+    {
+      "id": "9f2f24ea829d640c02",
+      "title": "NVIDIA to Acquire Hugging Face",
+      "summary": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-09-03T11:56:49.000Z",
+      "category": "Open Source",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "7ba095323b477b9bb7",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "summary": "Open the original source for full context.",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "4bca2839cac68adcd1",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "summary": "Open the original source for full context.",
+      "url": "https://huggingface.co/blog/funes",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "f590173ccd3c0f0f96",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "summary": "Open the original source for full context.",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "2ca136275373fc3a6a",
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "source": "GitHub AI & ML",
+      "publishedAt": "2026-09-02T21:00:00.000Z",
+      "category": "Open Source",
+      "provenance": "primary",
+      "tags": [
+        "Open source"
+      ]
+    },
+    {
+      "id": "44c40ad02349172505",
+      "title": "From MIT to IBM, expediting AI and quantum deployment",
+      "summary": "MIT affiliates engage with the MIT-IBM Computing Research Lab to bring rigorous theory to production systems.",
+      "url": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
+      "source": "MIT News AI",
+      "publishedAt": "2026-09-02T20:25:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "9eea921e49bbe5d7b1",
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "source": "Ars Technica AI",
+      "publishedAt": "2026-09-02T18:13:54.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "8b1f21141a40864dcc",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "source": "GitHub AI & ML",
+      "publishedAt": "2026-09-02T18:00:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "2fe698da54d27bd126",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "summary": "Open the original source for full context.",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "source": "Google DeepMind",
+      "publishedAt": "2026-09-02T16:24:24.000Z",
+      "category": "Safety & Security",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "6e263a6391f9e92361",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "Open the original source for full context.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "source": "Google DeepMind",
+      "publishedAt": "2026-09-02T16:18:31.000Z",
+      "category": "Safety & Security",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "8cf160f65691d18ccd",
+      "title": "Why Human Control Isn’t Enough in Military AI with Heidy Khlaaf",
+      "summary": "In this episode of Responsible Bytes, Dr. Zena Assaad speaks with Heidy Khlaaf about why military AI systems are far less reliable than their marketing suggests, especially in safety-critical and combat settings. The post Why Human Control Isn’t Enough in Military AI with Heidy Khlaaf appeared first on AI Now Institute .",
+      "url": "https://ainowinstitute.org/news/press/why-human-control-isnt-enough-in-military-ai-with-heidy-khlaaf",
+      "source": "AI Now Institute",
+      "publishedAt": "2026-09-02T15:56:12.000Z",
+      "category": "Safety & Security",
+      "provenance": "governance",
+      "tags": [
+        "Safety"
+      ]
+    },
+    {
+      "id": "625d9c87214f69fe85",
+      "title": "System helps humans predict when self-driving cars will make mistakes",
+      "summary": "A new method, called CW-Net, translates the reasoning process of an autonomous vehicle’s AI system into understandable concepts that explain its behavior.",
+      "url": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
+      "source": "MIT News AI",
+      "publishedAt": "2026-09-02T15:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": []
+    },
+    {
+      "id": "48b8ae32a022d5599c",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than…",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "source": "MIT Technology Review AI",
+      "publishedAt": "2026-09-02T14:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "aa5a5db7104d82342a",
+      "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
+      "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern airliner does, with operators watching over a system that rarely needed them. And we made a decision that, to an efficiency-minded observer, looked backward: We deliberately left manual steps inside sequences the system could execute on its own. We were solving a specific problem. An operator who only ever ",
+      "url": "https://spectrum.ieee.org/ai-engineer-skills",
+      "source": "IEEE Spectrum AI",
+      "publishedAt": "2026-09-02T13:00:04.000Z",
+      "category": "Research",
+      "provenance": "journalism",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "4a569dd7554910af29",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "summary": "Open the original source for full context.",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-09-01T21:39:07.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "447855b5900d3dd1fc",
+      "title": "Walter Torous named executive director of MIT Center for Real Estate",
+      "summary": "The senior lecturer, already director of the degree program, will now oversee all aspects of the center’s activities and operations.",
+      "url": "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
+      "source": "MIT News AI",
+      "publishedAt": "2026-09-01T21:25:00.000Z",
+      "category": "Industry",
+      "provenance": "research",
+      "tags": []
+    },
+    {
+      "id": "771e5cbda53d698a72",
+      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "summary": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber […]",
+      "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-09-01T21:19:20.000Z",
+      "category": "Safety & Security",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "6cd2d0fa6f5d0ccd2e",
+      "title": "The latest AI news we announced in August 2026",
+      "summary": "Here are Google’s latest AI updates from August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-01T20:45:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "42e6df317ecac38dcf",
+      "title": "Planning for More Than One Future",
+      "summary": "The post Planning for More Than One Future appeared first on Partnership on AI .",
+      "url": "https://partnershiponai.org/planning-for-more-than-one-future/",
+      "source": "Partnership on AI",
+      "publishedAt": "2026-09-01T19:12:27.000Z",
+      "category": "Industry",
+      "provenance": "governance",
+      "tags": []
+    },
+    {
+      "id": "b0e44d275fa49d7af9",
+      "title": "Introducing agentic video understanding with Gemini",
+      "summary": "Open the original source for full context.",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "source": "Google DeepMind",
+      "publishedAt": "2026-09-01T17:08:51.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": [
+        "Agents",
+        "Multimodal"
+      ]
+    },
+    {
+      "id": "1ea477983b29442993",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-09-01T16:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "afbf80f0282206ac9b",
+      "title": "Cash In on the AI Boom by Renting Out Your Spare Compute",
+      "summary": "If you own an at-home server, a gaming computer, or just a laptop that doesn’t get much love, listen up. You can now put that spare computing power to use and earn some passive income in the process. AI companies are hungry for more compute to run AI inference—the process of using a pretrained model to respond to queries—and they’re willing to pay you for it. “Imagine Uber or Airbnb, but for AI-inference computing tasks,” says Ilman Shazhaev , founder and CEO of Far Labs , based in Abu Dhabi. The AI boom has spurre",
+      "url": "https://spectrum.ieee.org/ai-inference-distributed-computing",
+      "source": "IEEE Spectrum AI",
+      "publishedAt": "2026-09-01T14:00:03.000Z",
+      "category": "Infrastructure",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "4774faad0a5a7b7e12",
+      "title": "Ila Kumar: Innovating with communities",
+      "summary": "The PhD student works to give young people an active role in shaping digital technologies that can support their own well-being.",
+      "url": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
+      "source": "MIT News AI",
+      "publishedAt": "2026-09-01T04:00:00.000Z",
+      "category": "Industry",
+      "provenance": "research",
+      "tags": []
+    },
+    {
+      "id": "54b26a0c84bd460758",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "summary": "Open the original source for full context.",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [
+        "Chips"
+      ]
+    },
+    {
+      "id": "4cc0c0950bab54b022",
+      "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
+      "summary": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.",
+      "url": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
+      "source": "MIT News AI",
+      "publishedAt": "2026-08-31T19:30:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "4b08374f1f3f12d7c1",
+      "title": "UN Global Dialogue Co-Leads Issue Call to Action on Safe, Secure, and Trustworthy AI",
+      "summary": "The post UN Global Dialogue Co-Leads Issue Call to Action on Safe, Secure, and Trustworthy AI appeared first on Partnership on AI .",
+      "url": "https://partnershiponai.org/pai-and-costa-rica-submit-recommendations-to-un-global-dialogue-co-chairs/",
+      "source": "Partnership on AI",
+      "publishedAt": "2026-08-31T17:53:40.000Z",
+      "category": "Industry",
+      "provenance": "governance",
+      "tags": []
+    },
+    {
+      "id": "f4b185252093e33a6b",
+      "title": "How an MIT research project became a global programming language",
+      "summary": "With millions of users across the world, Julia has been used to conduct cutting-edge research and to design new drugs, jet engines, heat pumps, and more.",
+      "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+      "source": "MIT News AI",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "cfdb10d3e7d3582af1",
+      "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+      "summary": "“If this technology takes off in the way that you see the CEOs of AI Labs talking about, we’re facing a significant impact to our economy, to people’s jobs, to their sense of agency,” Sarah Myers West. The post Tech backlash reaches fever pitch as AI angst collides with social media fears appeared first on AI Now Institute .",
+      "url": "https://ainowinstitute.org/news/press/tech-backlash-reaches-fever-pitch-as-ai-angst-collides-with-social-media-fears",
+      "source": "AI Now Institute",
+      "publishedAt": "2026-08-29T16:32:04.000Z",
+      "category": "Industry",
+      "provenance": "governance",
+      "tags": []
+    },
+    {
+      "id": "fcf188f55b89222523",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "summary": "Open the original source for full context.",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-08-28T00:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "8b61accd7522629b82",
+      "title": "Looking beyond natural sequences",
+      "summary": "A new machine-learning framework aims to improve the success rate of computational protein design while moving away from results that reproduce sequences found in nature.",
+      "url": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
+      "source": "MIT News AI",
+      "publishedAt": "2026-08-27T19:20:00.000Z",
+      "category": "Industry",
+      "provenance": "research",
+      "tags": []
+    },
+    {
+      "id": "d5382140064cb090ad",
+      "title": "As Meta Agrees to $17B Settlement, Now Is the Time to Regulate AI Before It’s Too Late: Amba Kak",
+      "summary": "Amba Kak, the co-executive director of AI Now Institute, joins Democracy Now for a wide-ranging discussion on tech policy, regulation, and accountability. The post As Meta Agrees to $17B Settlement, Now Is the Time to Regulate AI Before It’s Too Late: Amba Kak appeared first on AI Now Institute .",
+      "url": "https://ainowinstitute.org/news/press/as-meta-agrees-to-17b-settlement-now-is-the-time-to-regulate-ai-before-its-too-late-amba-kak",
+      "source": "AI Now Institute",
+      "publishedAt": "2026-08-27T17:04:45.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "governance",
+      "tags": []
+    },
+    {
+      "id": "ed39d2f0183cd564cd",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "summary": "Open the original source for full context.",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "source": "Google DeepMind",
+      "publishedAt": "2026-08-27T16:11:32.000Z",
+      "category": "Frontier Models",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "5804f27f39e15e3023",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "summary": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "source": "Google DeepMind",
+      "publishedAt": "2026-08-27T12:59:16.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "336b7b779a3102bef2",
+      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+      "summary": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+      "source": "GitHub AI & ML",
+      "publishedAt": "2026-08-26T20:12:53.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "00bbef51a7be232e51",
+      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+      "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "source": "Ars Technica AI",
+      "publishedAt": "2026-08-26T19:19:22.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "d8d7bab493945dab1d",
+      "title": "Iran sanctions: How to make an outcast out of a pariah",
+      "summary": "“We learned very quickly we cannot afford that lever being pulled,” said Aya Ibrahim, the former Biden official who is now a senior fellow at the AI Now Institute and The Century Foundation. The post Iran sanctions: How to make an outcast out of a pariah appeared first on AI Now Institute .",
+      "url": "https://ainowinstitute.org/news/press/iran-sanctions-how-to-make-an-outcast-out-of-a-pariah",
+      "source": "AI Now Institute",
+      "publishedAt": "2026-08-26T17:51:00.000Z",
+      "category": "Industry",
+      "provenance": "governance",
+      "tags": []
+    },
+    {
+      "id": "04115ce8e7ed1b7043",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "source": "Google DeepMind",
+      "publishedAt": "2026-08-26T17:01:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "ebbec3564e991a434b",
+      "title": "New Platform Peers Inside AI’s Black Box",
+      "summary": "Prompt Claude, ChatGPT, Gemini, or any other popular large language model with a question like “What is the best film ever made?” and the response will vary. And you (and most worryingly, the people who built the LLM) have little idea exactly how it came up with that specific answer. This mysterious behavior can be useful in some situations. But—as highlighted by a recent incident where OpenAI could not explain why its advanced prerelease model hacked AI company Hugging Face—it can have negative and alarming conseq",
+      "url": "https://spectrum.ieee.org/silico-ai-interpretability",
+      "source": "IEEE Spectrum AI",
+      "publishedAt": "2026-08-26T12:00:01.000Z",
+      "category": "Open Source",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "1d557deb9ef2cadf01",
+      "title": "AI helps design new materials that work in the real world",
+      "summary": "The “CrysVCD” tool developed at MIT could cut the huge amounts of time and money spent on screening out chemically unstable designs.",
+      "url": "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826",
+      "source": "MIT News AI",
+      "publishedAt": "2026-08-26T09:00:00.000Z",
+      "category": "Industry",
+      "provenance": "research",
+      "tags": []
+    },
+    {
+      "id": "fe7bd67b072aaab75c",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "summary": "Open the original source for full context.",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "872da53a780f674ed6",
+      "title": "How to evaluate LLMs before production",
+      "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+      "source": "GitHub AI & ML",
+      "publishedAt": "2026-08-25T21:35:11.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "5fbdb65aa581022eeb",
+      "title": "Ex-Googlers Are Planning AI-Human Hybrid to Prevent Rogue Models",
+      "summary": "Sarah Myers West, co-executive director of the AI Now Institute, urges that getting the rules right through concrete benchmarks matters most for mitigating risks. The post Ex-Googlers Are Planning AI-Human Hybrid to Prevent Rogue Models appeared first on AI Now Institute .",
+      "url": "https://ainowinstitute.org/news/press/ex-googlers-are-planning-ai-human-hybrid-to-prevent-rogue-models",
+      "source": "AI Now Institute",
+      "publishedAt": "2026-08-25T18:32:17.000Z",
+      "category": "Industry",
+      "provenance": "governance",
+      "tags": [
+        "Safety",
+        "Research"
+      ]
+    },
+    {
+      "id": "9d34bb265fa1d0e838",
+      "title": "Episode 20: Resisting AI Data Centers, with Alli Finn and Matt Rodriguez",
+      "summary": "Alli Finn, Director of Community Partnerships, joined the Dreaming Against the Machine podcast to talk about the speed and scale of data center construction, its impact on surrounding communities, and how people can fight back. The post Episode 20: Resisting AI Data Centers, with Alli Finn and Matt Rodriguez appeared first on AI Now Institute .",
+      "url": "https://ainowinstitute.org/news/press/episode-20-resisting-ai-data-centers-with-alli-finn-and-matt-rodriguez",
+      "source": "AI Now Institute",
+      "publishedAt": "2026-08-25T17:19:57.000Z",
+      "category": "Infrastructure",
+      "provenance": "governance",
+      "tags": []
+    },
+    {
+      "id": "67f6241db53ec478a9",
+      "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
+      "summary": "This article is brought to you by Ollobot . From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice-command interactions and narrow functionality. Once the novelty wore off, many ended up sitting unused on shelves. As some of those companies went out of business and turned off their servers, many owners likened it to ",
+      "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
+      "source": "IEEE Spectrum AI",
+      "publishedAt": "2026-08-25T10:00:03.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "88a938b8f906ac3d83",
+      "title": "How Popular AI Chatbots Recommend Pro-life Websites to Pregnant People",
+      "summary": "An experiment involving four commercial chatbots across Europe found that these often blur the line between trusted health information and advocacy, frequently directing users to anti-abortion content without clearly identifying their sources or distinguishing official authorities from others.",
+      "url": "https://algorithmwatch.org/en/chatbots-abortion-ai/",
+      "source": "AlgorithmWatch",
+      "publishedAt": "2026-08-22T06:45:00.000Z",
+      "category": "Industry",
+      "provenance": "governance",
+      "tags": []
+    },
+    {
+      "id": "a1c53e652155cbfb0a",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind",
+      "publishedAt": "2026-08-21T11:59:48.000Z",
+      "category": "Research",
+      "provenance": "primary",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "9fc5a459c452d0fdf2",
+      "title": "Slow Regulation on AI-Generated CSAM is Failing its Victims",
+      "summary": "Artificial intelligence is reshaping the production of child sexual abuse material (CSAM) online, enabling new forms of exploitation that are outpacing the legal and regulatory frameworks designed to contain them.",
+      "url": "https://algorithmwatch.org/en/slow-regulation-ai-csam-victims/",
+      "source": "AlgorithmWatch",
+      "publishedAt": "2026-08-20T05:45:00.000Z",
+      "category": "Industry",
+      "provenance": "governance",
+      "tags": []
+    },
+    {
+      "id": "fbcaa07da592623c20",
+      "title": "GitHub Copilot app for Beginners: Managing your work",
+      "summary": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+      "source": "GitHub AI & ML",
+      "publishedAt": "2026-08-19T17:50:23.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "50f60d540d9c3728a5",
+      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Blog .",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+      "source": "GitHub AI & ML",
+      "publishedAt": "2026-08-17T16:00:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "0944fa483b72083575",
+      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+      "summary": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of […]",
+      "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-08-14T17:13:05.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "3a27a193a31decb5c1",
+      "title": "Introducing Gemini 3.7 Flash",
+      "summary": "Open the original source for full context.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "source": "Google DeepMind",
+      "publishedAt": "2026-08-13T17:04:18.000Z",
+      "category": "Frontier Models",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "f972adaa33e24a8afd",
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "source": "Ars Technica AI",
+      "publishedAt": "2026-08-13T17:00:13.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "922d804fbf089044b8",
+      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
+      "summary": "The mark flags anything Claude processed, even human writing it only edited.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "source": "Ars Technica AI",
+      "publishedAt": "2026-08-13T11:10:18.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "4ff8c1d1bf00291261",
+      "title": "Putting sign language AI into users’ hands",
+      "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "Google DeepMind",
+      "publishedAt": "2026-08-12T14:01:59.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "08d299266e24ced421",
+      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "summary": "But will Gemini's surge survive slowing model releases?",
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "source": "Ars Technica AI",
+      "publishedAt": "2026-08-11T19:48:12.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "eee73b27113edbf80c",
+      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "summary": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally. Throughout August, NVIDIA is celebrating the partners and open source communities moving local AI forward, along with the models, applications and tools emerging across the ecosystem. That includes NVIDIA’s latest open models, software […]",
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-08-11T13:00:25.000Z",
+      "category": "Open Source",
+      "provenance": "primary",
+      "tags": [
+        "Agents",
+        "Open source"
+      ]
+    },
+    {
+      "id": "e53c0812381f574b0d",
+      "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+      "summary": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves. Today, NVIDIA is expanding its Nemotron 3 model family with Nemotron 3.5 Lightning, the highest-efficiency model in its class for long-running agentic AI workloads. This release follows Nemotron […]",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-08-11T13:00:05.000Z",
+      "category": "Products & Agents",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ]
+    },
+    {
+      "id": "309dea3b548e28fbea",
+      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+      "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure. Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]",
+      "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-08-08T10:24:54.000Z",
+      "category": "Infrastructure",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "1840df3d10308380e4",
+      "title": "Suno hopes to go legit with watermarks for AI-generated music",
+      "summary": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
+      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "source": "Ars Technica AI",
+      "publishedAt": "2026-08-06T20:17:36.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "940915155d0a817f09",
+      "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+      "summary": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector.",
+      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "category": "Open Source",
+      "provenance": "primary",
+      "tags": [
+        "Open source"
+      ]
+    },
+    {
+      "id": "7c98f7b92add5ba401",
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "source": "Ars Technica AI",
+      "publishedAt": "2026-08-05T20:47:11.000Z",
+      "category": "Safety & Security",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "f7cea18da02aa6b8ba",
+      "title": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
+      "summary": "Google's AI brain drain continues.",
+      "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+      "source": "Ars Technica AI",
+      "publishedAt": "2026-08-05T19:05:58.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": []
+    },
+    {
+      "id": "a3230e9261ae0be24d",
+      "title": "NVIDIA and Partners Build in America, for America",
+      "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-08-05T13:00:47.000Z",
+      "category": "Infrastructure",
+      "provenance": "primary",
+      "tags": []
+    },
+    {
+      "id": "c208665c6a536e1503",
+      "title": "Chatbots & Democratic Decisionmakers – Guidelines",
+      "summary": "1. Why we made these guidelines These guidelines emerged out of our research into the use of AI chatbots in the context of democratic decision-making (in governments, among politicians, etc.) and the potential risks this brings to democratic accountability. We found that many existing guidelines on using AI in such settings advise users to check […]",
+      "url": "https://algorithmwatch.org/en/chatbots-democratic-decisionmakers-guidelines/",
+      "source": "AlgorithmWatch",
+      "publishedAt": "2026-08-05T12:15:34.000Z",
+      "category": "Research",
+      "provenance": "governance",
+      "tags": [
+        "Safety",
+        "Research"
+      ]
+    },
+    {
+      "id": "c61029aebfa012d545",
+      "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
+      "summary": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education. Consistent with the aims of the Genesis Mission, the program will support state and multistate groups […]",
+      "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-08-04T16:00:56.000Z",
+      "category": "Infrastructure",
+      "provenance": "primary",
+      "tags": [
+        "Research"
+      ]
+    },
+    {
+      "id": "65448ed48052a9632c",
+      "title": "In Small Towns Across France, Victims Face an Uphill Battle for Justice Over AI-Generated Child Sexual Abuse Material",
+      "summary": "Hundreds of parents across Europe are learning that photographs of their children could have been used to generate artificial child sexual abuse material (CSAM). As AI-generated abuse images proliferate, victims and their families are discovering just how difficult it can be to obtain answers, recognition and justice.",
+      "url": "https://algorithmwatch.org/en/france-victims-child-abuse-material-csam/",
+      "source": "AlgorithmWatch",
+      "publishedAt": "2026-08-04T06:40:00.000Z",
+      "category": "Industry",
+      "provenance": "governance",
+      "tags": []
+    }
   ]
 }
