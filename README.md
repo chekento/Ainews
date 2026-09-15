@@ -86,12 +86,12 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-15 22:25 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-15 22:27 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
 | 01 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [The AI data center boom is colliding with cities scarred by big industry](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/) |
-| 02 | **Together AI Blog** | Research | ◈ | ● HIGH | [Research Blog - Together AI](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fN1p0cm14MWlTeWVnWUQteGVyR1B1WlhJRzFWT0VuS2N4YUt0QlhkQzhvTjlRZnp4cFIzZW9CaF9VRkIyYzFmNkhMVlVaa2g0YUhuUHRRYk1RMjlOR3dPUXN5djQ?oc=5) |
+| 02 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
 | 03 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) |
 | 04 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Making sovereign, open-weight AI the technology frontier - mistral.ai](https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5) |
 | 05 | **Google Research** | Research | ◈ | ● HIGH | [Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train - Google Research](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjYwVDI5dkh1QzFCaFhNbzlvRW9jRV9XMVhKSXhWblAwMy10VDBabFM4QkoxWDg4NGo3blNuSUlWbTA3M2RzdE5rTC1iVXRCUnN0X2RvczN2em5tUFVubkEyUFduQUdGeENObWNnRWFjX0FDZWoxeU5sM2xiMlREVXpDX2R2TDRKWDZWaFhDUUZfMFJtVkJlcEhuODZubmkzRjFXa1VVSGR3QnBmSjNoSjdJTWpLWm8?oc=5) |
@@ -100,8 +100,8 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 | 08 | **Axios AI** | Industry | ◈ | ◐ MED | [Voters give edge to GOP over Dems on AI - Axios](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVFFLSll4alRvRkd0M3lHOG5xcXB0djRybTllQlJ6VnBuRm5fMU80clJJSDdFS0I1cC16d3ZacWk2aGZFMXJpNnoxenhSSEx4ODYtckZvV0djZHV6TDVnM2hqeS1wbEoyNU1zUnVfdnQ?oc=5) |
 | 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/) |
 | 10 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost](https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/) |
-| 11 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 12 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’](https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/) |
+| 11 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’](https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/) |
+| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
