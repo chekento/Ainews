@@ -8,6 +8,12 @@
 
 </div>
 
+> [!WARNING]
+> **BETA / IN DEVELOPMENT.** Social/profile mappings are maintained as an experimental directory and may become outdated or point to changed provider destinations. **Use at your own risk / Nutzung auf eigene Gefahr.** Confirm account authenticity on the destination platform before relying on a post or profile.
+
+**📱 Current Android Beta:** [Download AI News 3.1 APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk) · [Release](https://github.com/chekento/Ainews/releases/tag/android-latest) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256)  
+**🔐 Legal & privacy:** [Datenschutz / Privacy & all sources](../PRIVACY.md) · [Impressum / kosch.cloud](https://kosch.cloud)
+
 ---
 
 The provider registry contains official LinkedIn, Instagram and Facebook profile links where they can be identified reliably.
@@ -24,6 +30,10 @@ The provider registry contains official LinkedIn, Instagram and Facebook profile
 
 This keeps the Social Wire useful without turning the project into a mirror of copyrighted or platform-restricted content.
 
+## Beta limitation
+
+The registry is not a platform-verification service. Provider ownership, account names and platform URLs can change; users should verify current platform badges, linked corporate domains and the provider's own website when authenticity matters.
+
 ---
 
-**[Back to AI News portal →](../README.md)**
+**[⬇ Download Android 3.1 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)** · **[Back to AI News portal →](../README.md)**
