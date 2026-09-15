@@ -1,7 +1,8 @@
 {
-  "generatedAt": "2026-09-15T19:16:05.103Z",
+  "generatedAt": "2026-09-15T19:16:36.465Z",
   "refreshMinutes": 30,
   "sourceCount": 42,
+  "providerCount": 18,
   "feedCount": 24,
   "healthyFeeds": 23,
   "failedSources": [
@@ -10,6 +11,26 @@
       "error": "fetch failed"
     }
   ],
+  "providerCoverage": {
+    "openai": 34,
+    "anthropic": 18,
+    "google": 39,
+    "microsoft": 8,
+    "meta": 1,
+    "xai": 1,
+    "mistral": 1,
+    "cohere": 2,
+    "perplexity": 2,
+    "qwen": 1,
+    "kimi": 0,
+    "deepseek": 0,
+    "zai": 0,
+    "minimax": 0,
+    "ai21": 0,
+    "amazon": 14,
+    "nvidia": 19,
+    "ibm": 0
+  },
   "items": [
     {
       "id": "cd14854005ba4fe55a",
@@ -20,7 +41,10 @@
       "publishedAt": "2026-09-15T19:00:00.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "openai"
+      ]
     },
     {
       "id": "376695bd39eb90f571",
@@ -31,12 +55,13 @@
       "publishedAt": "2026-09-15T18:29:20.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "f52560094acfc54284",
       "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
-      "summary": "Google Deepmind released Gemini 3.8 Live and 3.8 Live Extended Thinking, two new audio models for developers that top the Artificial Analysis speech-to-speech leaderboard. At $1.38 per hour of voice conversation, Google significantly undercuts OpenAI's GPT-Live-1, which should still sound more natural thanks to full duplex. The article Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost appeared first on The Decoder .",
+      "summary": "Google Deepmind released Gemini 3.8 Live and 3.8 Live Extended Thinking, two new audio models for developers that top the Artificial Analysis speech-to-speech leaderboard. At $1.38 per hour of voice conversation, Google significantly undercuts OpenAI's GPT-Live-1, which should still sound more natural thanks to full duplex. The article Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of th",
       "url": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
       "source": "The Decoder",
       "publishedAt": "2026-09-15T18:23:20.000Z",
@@ -44,6 +69,10 @@
       "provenance": "journalism",
       "tags": [
         "Multimodal"
+      ],
+      "providers": [
+        "openai",
+        "google"
       ]
     },
     {
@@ -55,12 +84,13 @@
       "publishedAt": "2026-09-15T18:00:09.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "526c096a9f3bbf9ebd",
       "title": "AI labs have a data trust problem that their policies haven't solved",
-      "summary": "OpenAI and Anthropic tell corporate customers their data won't be used for training. But when Anthropic said it would store usage logs from its flagship model Fable for 30 days, Palantir, Nvidia, and Booz Allen Hamilton pulled back from using it for sensitive work. From boardrooms to research labs, AI companies still have a data trust problem. The article AI labs have a data trust problem that their policies haven't solved appeared first on The Decoder .",
+      "summary": "OpenAI and Anthropic tell corporate customers their data won't be used for training. But when Anthropic said it would store usage logs from its flagship model Fable for 30 days, Palantir, Nvidia, and Booz Allen Hamilton pulled back from using it for sensitive work. From boardrooms to research labs, AI companies still have a data trust problem. The article AI labs have a data trust problem that their policies haven't ",
       "url": "https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/",
       "source": "The Decoder",
       "publishedAt": "2026-09-15T17:52:05.000Z",
@@ -68,6 +98,11 @@
       "provenance": "journalism",
       "tags": [
         "Research"
+      ],
+      "providers": [
+        "openai",
+        "anthropic",
+        "nvidia"
       ]
     },
     {
@@ -79,7 +114,8 @@
       "publishedAt": "2026-09-15T17:47:51.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "ed6dd1e24426598388",
@@ -92,7 +128,8 @@
       "provenance": "journalism",
       "tags": [
         "Agents"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "0e95b9d547e3cc0abb",
@@ -103,7 +140,10 @@
       "publishedAt": "2026-09-15T17:05:57.000Z",
       "category": "Frontier Models",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "d7129a182a0a808fab",
@@ -114,33 +154,8 @@
       "publishedAt": "2026-09-15T17:05:24.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
-    },
-    {
-      "id": "18efe42b881af65276",
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of […]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-15T16:54:56.000Z",
-      "category": "Compliance & Ethics",
-      "provenance": "journalism",
-      "tags": [
-        "Safety"
-      ]
-    },
-    {
-      "id": "ef9e1b083af60f8176",
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a […]",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-15T16:43:21.000Z",
-      "category": "Safety & Security",
-      "provenance": "journalism",
-      "tags": [
-        "Safety"
-      ]
+      "tags": [],
+      "providers": []
     },
     {
       "id": "0856d2793e4bb4f8b6",
@@ -151,7 +166,10 @@
       "publishedAt": "2026-09-15T16:18:19.000Z",
       "category": "Products & Agents",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "amazon"
+      ]
     },
     {
       "id": "d25e6331b08351e733",
@@ -162,7 +180,11 @@
       "publishedAt": "2026-09-15T16:11:36.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "qwen",
+        "amazon"
+      ]
     },
     {
       "id": "187e6fad5a666a1ec5",
@@ -173,7 +195,10 @@
       "publishedAt": "2026-09-15T16:01:47.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "amazon"
+      ]
     },
     {
       "id": "67fb8547d971e55139",
@@ -186,7 +211,8 @@
       "provenance": "primary",
       "tags": [
         "Agents"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "2441095f5efdb86004",
@@ -197,7 +223,10 @@
       "publishedAt": "2026-09-15T16:00:00.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "b813cf6b077f943e46",
@@ -208,7 +237,10 @@
       "publishedAt": "2026-09-15T16:00:00.000Z",
       "category": "Research",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "583e5dbeae4813f8f9",
@@ -219,7 +251,10 @@
       "publishedAt": "2026-09-15T16:00:00.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "9b179f47b5a8348a61",
@@ -232,6 +267,11 @@
       "provenance": "journalism",
       "tags": [
         "Safety"
+      ],
+      "providers": [
+        "openai",
+        "anthropic",
+        "google"
       ]
     },
     {
@@ -243,18 +283,8 @@
       "publishedAt": "2026-09-15T15:22:48.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
-    },
-    {
-      "id": "9d593980660b448e60",
-      "title": "Meta’s new One subscriptions put a price on social media and AI",
-      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses. Meta says the […]",
-      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "source": "The Verge AI",
-      "publishedAt": "2026-09-15T14:45:00.000Z",
-      "category": "Products & Agents",
-      "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "deed957af3d68d53d1",
@@ -265,7 +295,8 @@
       "publishedAt": "2026-09-15T14:42:37.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "e833a6522c4a775355",
@@ -276,18 +307,20 @@
       "publishedAt": "2026-09-15T14:30:00.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "cda7d30ba8aa52510e",
       "title": "After warning AI is too dangerous, Bill Gates bets a billion on its upside",
-      "summary": "The Gates Foundation is investing at least a billion dollars over two years to make AI tools more widely available in health, education, and agriculture. Bill Gates warns that more than 90 percent of the training data behind early language models came from English sources, and that speech recognition fails 60 percent of the time in Yoruba. The market, he says, is \"a terrible guarantor of equal opportunity.\" The article After warning AI is too dangerous, Bill Gates bets a billion on its upside appeared first on The ",
+      "summary": "The Gates Foundation is investing at least a billion dollars over two years to make AI tools more widely available in health, education, and agriculture. Bill Gates warns that more than 90 percent of the training data behind early language models came from English sources, and that speech recognition fails 60 percent of the time in Yoruba. The market, he says, is \"a terrible guarantor of equal opportunity.\" The artic",
       "url": "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/",
       "source": "The Decoder",
       "publishedAt": "2026-09-15T14:26:48.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "db6d75e0c1009f31c7",
@@ -298,7 +331,8 @@
       "publishedAt": "2026-09-15T14:00:00.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "ad49d87ccc2cf1ecd5",
@@ -312,7 +346,8 @@
       "tags": [
         "Agents",
         "Multimodal"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "1ffce149b94acc889a",
@@ -323,7 +358,10 @@
       "publishedAt": "2026-09-15T13:00:00.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "bd1441ce50e51ef583",
@@ -336,6 +374,9 @@
       "provenance": "journalism",
       "tags": [
         "Agents"
+      ],
+      "providers": [
+        "anthropic"
       ]
     },
     {
@@ -347,18 +388,36 @@
       "publishedAt": "2026-09-15T12:00:00.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "nvidia"
+      ]
+    },
+    {
+      "id": "afedec1d98e62fe2dc",
+      "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
+      "summary": "Pony.ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Vehicle for freight supply chains. Unveiled at IAA Transportation 2026, this Level 4 (L4) heavy rig marks the fourth-generation (Gen-4) iteration of Pony.ai’s Robotruck platform. It builds on GAC Commercial Vehicle’s T9 battery-electric truck architecture, with mass production set to start […] The post Pony.ai unveil",
+      "url": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
+      "source": "AI News",
+      "publishedAt": "2026-09-15T11:15:57.000Z",
+      "category": "Research",
+      "provenance": "journalism",
+      "tags": [],
+      "providers": []
     },
     {
       "id": "e5616b220be2ab864f",
       "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
-      "summary": "Apple is shipping its rebuilt \"Siri AI\" after years of delay, built on Google's Gemini models and running partly on the device, partly through Private Cloud Compute. Early testers praise multi-step requests and screen context, but report hallucinations and gaps with personal context. In the EU, the assistant stays unavailable for now. The article Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU appeared first on The Decoder .",
+      "summary": "Apple is shipping its rebuilt \"Siri AI\" after years of delay, built on Google's Gemini models and running partly on the device, partly through Private Cloud Compute. Early testers praise multi-step requests and screen context, but report hallucinations and gaps with personal context. In the EU, the assistant stays unavailable for now. The article Apple brings a fully revamped Siri built on Google's Gemini, but not to",
       "url": "https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/",
       "source": "The Decoder",
       "publishedAt": "2026-09-15T10:33:03.000Z",
       "category": "Infrastructure",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "e83f7c2969cf6290fc",
@@ -369,12 +428,15 @@
       "publishedAt": "2026-09-15T10:00:00.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [
+        "Enterprise"
+      ],
+      "providers": []
     },
     {
       "id": "e10126c06bcfcc6473",
       "title": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-      "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back. Cohere CEO Aidan Gomez calls the initiative a \"cartel by another name\" designed to shut out competitors, and the White House and Trump himself are opposing the move. The article Not everyone is convinced that Big AI's proposed slowdown is really about safety appeared first on The Decoder .",
+      "summary": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back. Cohere CEO Aidan Gomez calls the initiative a \"cartel by another name\" designed to shut out competitors, and the White House and Trump himself are opposing the move. The article Not everyone is convinced that Big AI's proposed slowdown is really about saf",
       "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/",
       "source": "The Decoder",
       "publishedAt": "2026-09-15T09:04:36.000Z",
@@ -382,12 +444,47 @@
       "provenance": "journalism",
       "tags": [
         "Safety"
+      ],
+      "providers": [
+        "openai",
+        "anthropic",
+        "cohere"
       ]
+    },
+    {
+      "id": "ef9e1b083af60f8176",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-15T07:54:19.000Z",
+      "category": "Safety & Security",
+      "provenance": "journalism",
+      "tags": [
+        "Safety"
+      ],
+      "providers": [
+        "openai",
+        "anthropic",
+        "google"
+      ]
+    },
+    {
+      "id": "f7c582465ec4ecc9b0",
+      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+      "summary": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly becoming a retention problem. By Sunny Sandhu, Senior Immigration Associate, AY&J Solicitors For years, the offer that brought skilled engineers to Britain was straightforward: work here […] The post The AI Talent Britain Fought to Hire May ",
+      "url": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
+      "source": "AI News",
+      "publishedAt": "2026-09-15T07:14:47.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [],
+      "providers": []
     },
     {
       "id": "badf52a6e5bbce6a50",
       "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
-      "summary": "arXiv:2609.13356v1 Announce Type: new Abstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models cannot passively memorize the open web, but can overcome parametric capacity limits by coupling deliberate internal thinking with active external tool use. To support this paradigm across a 256K context, we develop an end-to-end, high-efficiency open training recipe: Arch",
+      "summary": "arXiv:2609.13356v1 Announce Type: new Abstract: In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models cannot passively memorize the open web, but can overcome parametric capacity limits by coupling deliberate internal thinking with active external tool use. To support this ",
       "url": "https://arxiv.org/abs/2609.13356",
       "source": "arXiv cs.AI",
       "publishedAt": "2026-09-15T04:00:00.000Z",
@@ -395,23 +492,25 @@
       "provenance": "research",
       "tags": [
         "Agents"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "694b5cbe946e548704",
       "title": "Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation",
-      "summary": "arXiv:2609.13396v1 Announce Type: new Abstract: Multi-objective Bayesian optimisation (MOBO) is a sample-efficient approach for optimising expensive black-box functions with multiple objectives. In MOBO, the goal is to adequately approximate the Pareto front; that is, to obtain a high-quality solution set with 1) good convergence (closeness to the Pareto front) and 2) good diversity (spread across the Pareto front). Existing MOBO methods typically aim to accomplish these two tasks simultaneously, i.e., driving the ",
+      "summary": "arXiv:2609.13396v1 Announce Type: new Abstract: Multi-objective Bayesian optimisation (MOBO) is a sample-efficient approach for optimising expensive black-box functions with multiple objectives. In MOBO, the goal is to adequately approximate the Pareto front; that is, to obtain a high-quality solution set with 1) good convergence (closeness to the Pareto front) and 2) good diversity (spread across the Pareto front). ",
       "url": "https://arxiv.org/abs/2609.13396",
       "source": "arXiv cs.AI",
       "publishedAt": "2026-09-15T04:00:00.000Z",
       "category": "Research",
       "provenance": "research",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "d67c3daaa6b71a1ff6",
       "title": "Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement",
-      "summary": "arXiv:2609.13406v1 Announce Type: new Abstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelligence, RSI is being claimed at many scales, while no single framework that formally describes these emerging instances exists. Its counterpart in the classical realm, iterative policy improvement, is characterized by generalized policy iteration (GPI), a framework of broad applicability with well-understood theoretical ",
+      "summary": "arXiv:2609.13406v1 Announce Type: new Abstract: When we speak of recursive self-improvement (RSI), are we speaking of a phenomenon, a mechanism, or a prospect? Towards autonomous and evolving intelligence, RSI is being claimed at many scales, while no single framework that formally describes these emerging instances exists. Its counterpart in the classical realm, iterative policy improvement, is characterized by gene",
       "url": "https://arxiv.org/abs/2609.13406",
       "source": "arXiv cs.AI",
       "publishedAt": "2026-09-15T04:00:00.000Z",
@@ -419,26 +518,27 @@
       "provenance": "research",
       "tags": [
         "Agents"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "f4b055bc30d3374b6c",
       "title": "Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents",
-      "summary": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We study this problem through Vibe Patenting, an end-to-end patent-drafting testbed for AI-agent evaluation. A separately-invoked LLM judge evaluates generated patent drafts and provides structured feedback for iterative revision. Across multiple inventions and drafting-agent configurations, judge-guided revision consisten",
+      "summary": "arXiv:2609.13422v1 Announce Type: new Abstract: LLM judges are increasingly used to evaluate and improve AI-generated outputs, yet their reliability for complex professional work remains unclear. We study this problem through Vibe Patenting, an end-to-end patent-drafting testbed for AI-agent evaluation. A separately-invoked LLM judge evaluates generated patent drafts and provides structured feedback for iterative rev",
       "url": "https://arxiv.org/abs/2609.13422",
       "source": "arXiv cs.AI",
       "publishedAt": "2026-09-15T04:00:00.000Z",
       "category": "Research",
       "provenance": "research",
       "tags": [
-        "Agents",
-        "Multimodal"
-      ]
+        "Agents"
+      ],
+      "providers": []
     },
     {
       "id": "81a2cfefd9f8365467",
       "title": "Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?",
-      "summary": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require agents to continuously observe the environment, make consequential actions, and remain effective as the environment changes. Existing approaches either require substantial data and retraining, or primarily focus on agents operating in the virtual world. In this work, we explore the feasibility of bui",
+      "summary": "arXiv:2609.13436v1 Announce Type: new Abstract: Large Language Model (LLM) agents offer a promising path toward autonomously managing long-term physical tasks without human intervention. However, physical tasks require agents to continuously observe the environment, make consequential actions, and remain effective as the environment changes. Existing approaches either require substantial data and retraining, or prima",
       "url": "https://arxiv.org/abs/2609.13436",
       "source": "arXiv cs.AI",
       "publishedAt": "2026-09-15T04:00:00.000Z",
@@ -446,12 +546,13 @@
       "provenance": "research",
       "tags": [
         "Agents"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "9ce88050a14afce2ee",
       "title": "LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents",
-      "summary": "arXiv:2609.13437v1 Announce Type: new Abstract: Scientific research is a continuous process that emphasizes inheritance. Methods developed by predecessors are often expanded upon by new researchers to explore more novel and in-depth scientific questions. However, the change of lab staff, such as student graduation, leads to a lack of personnel capable of replicating methods. Methods that have been developed with significant effort and resources cannot be continued. To address these limitations, we propose LabAgent,",
+      "summary": "arXiv:2609.13437v1 Announce Type: new Abstract: Scientific research is a continuous process that emphasizes inheritance. Methods developed by predecessors are often expanded upon by new researchers to explore more novel and in-depth scientific questions. However, the change of lab staff, such as student graduation, leads to a lack of personnel capable of replicating methods. Methods that have been developed with sign",
       "url": "https://arxiv.org/abs/2609.13437",
       "source": "arXiv cs.AI",
       "publishedAt": "2026-09-15T04:00:00.000Z",
@@ -460,12 +561,13 @@
       "tags": [
         "Agents",
         "Research"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "3d853f8f835005178c",
       "title": "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models",
-      "summary": "arXiv:2609.13457v1 Announce Type: new Abstract: Timeseries multimodal large language models (TS-MLLMs) have recently begun leveraging the reasoning capabilities of large language models (LLMs) for question-answering tasks. However, these models often fail to capture dynamic temporal patterns, providing only implicit reasoning that lacks the underlying explanations critical for high-stakes applications like healthcare. While reinforcement learning (RL)-based timeseries language models aim to address this, they often",
+      "summary": "arXiv:2609.13457v1 Announce Type: new Abstract: Timeseries multimodal large language models (TS-MLLMs) have recently begun leveraging the reasoning capabilities of large language models (LLMs) for question-answering tasks. However, these models often fail to capture dynamic temporal patterns, providing only implicit reasoning that lacks the underlying explanations critical for high-stakes applications like healthcare",
       "url": "https://arxiv.org/abs/2609.13457",
       "source": "arXiv cs.AI",
       "publishedAt": "2026-09-15T04:00:00.000Z",
@@ -473,51 +575,58 @@
       "provenance": "research",
       "tags": [
         "Multimodal"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "075abd666a4315c81f",
       "title": "Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures",
-      "summary": "arXiv:2609.13463v1 Announce Type: new Abstract: The increasing deployment of AI agents in long-horizon tasks yields massive execution logs. Diagnosing failures within these records is crucial for reliability, as it transforms outcome-level signals into actionable interventions. The sheer scale of the data renders human review impractical, driving the need for automated root-cause attribution (RCA). However, automated RCA methods using LLMs suffer from low diagnostic accuracy, especially as execution traces grow lar",
+      "summary": "arXiv:2609.13463v1 Announce Type: new Abstract: The increasing deployment of AI agents in long-horizon tasks yields massive execution logs. Diagnosing failures within these records is crucial for reliability, as it transforms outcome-level signals into actionable interventions. The sheer scale of the data renders human review impractical, driving the need for automated root-cause attribution (RCA). However, automated",
       "url": "https://arxiv.org/abs/2609.13463",
       "source": "arXiv cs.AI",
       "publishedAt": "2026-09-15T04:00:00.000Z",
       "category": "Research",
       "provenance": "research",
       "tags": [
-        "Agents"
-      ]
+        "Agents",
+        "Enterprise"
+      ],
+      "providers": []
     },
     {
       "id": "a0344e2b3b917c78c9",
       "title": "Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement",
-      "summary": "arXiv:2609.13466v1 Announce Type: new Abstract: Enterprise AI adoption has reached 78% of organizations globally, yet the infrastructure to govern that adoption has not kept pace. This paper identifies and characterizes the attestation deficit, a structural condition in which organizations maintain governance policies but cannot produce auditable, tamper-evident evidence of enforcement within regulatory timelines. Drawing on empirical data from the Stanford 2026 AI Index Report (362 documented incidents), the IBM/P",
+      "summary": "arXiv:2609.13466v1 Announce Type: new Abstract: Enterprise AI adoption has reached 78% of organizations globally, yet the infrastructure to govern that adoption has not kept pace. This paper identifies and characterizes the attestation deficit, a structural condition in which organizations maintain governance policies but cannot produce auditable, tamper-evident evidence of enforcement within regulatory timelines. Dr",
       "url": "https://arxiv.org/abs/2609.13466",
       "source": "arXiv cs.AI",
       "publishedAt": "2026-09-15T04:00:00.000Z",
       "category": "Compliance & Ethics",
       "provenance": "research",
       "tags": [
-        "Research"
-      ]
+        "Research",
+        "Enterprise"
+      ],
+      "providers": []
     },
     {
       "id": "2f7cac87bb1c5251a2",
       "title": "OrchSLM: Probing the Dynamics of Small Language Model Orchestration",
-      "summary": "arXiv:2609.13470v1 Announce Type: new Abstract: Although large language models (LLMs) have demonstrated remarkable capabilities, their reliance on cloud-scale infrastructure poses fundamental challenges for deployment in agentic pipelines, including latency, privacy, connectivity, and substantial computational cost. Small language models (SLMs) offer a compelling alternative: recent studies suggest that many repetitive and narrowly scoped subtasks in agentic workloads may be better served by specialized SLMs than b",
+      "summary": "arXiv:2609.13470v1 Announce Type: new Abstract: Although large language models (LLMs) have demonstrated remarkable capabilities, their reliance on cloud-scale infrastructure poses fundamental challenges for deployment in agentic pipelines, including latency, privacy, connectivity, and substantial computational cost. Small language models (SLMs) offer a compelling alternative: recent studies suggest that many repetiti",
       "url": "https://arxiv.org/abs/2609.13470",
       "source": "arXiv cs.AI",
       "publishedAt": "2026-09-15T04:00:00.000Z",
       "category": "Infrastructure",
       "provenance": "research",
       "tags": [
-        "Agents"
-      ]
+        "Agents",
+        "Enterprise"
+      ],
+      "providers": []
     },
     {
       "id": "a40691e2501c32f6de",
       "title": "Grounded Adjudication of Variations across Extracted TimeLines (GAVEL): Comparing Clinical Timelines Against Their Case Reports",
-      "summary": "arXiv:2609.13475v1 Announce Type: new Abstract: Existing pipelines for clinical timeline extraction from case reports are evaluated using an expert reference and are limited by imperfect reference annotations and imprecise event alignment. We developed GAVEL, an LLM judge protocol that compares two timelines with the case report and returns a discrepancy type, verdict, and report passage for each difference. We evaluated the event matcher, reviewed 2,738 findings from GPT5.6sol and DeepSeek V3.2, ranked six LLM ext",
+      "summary": "arXiv:2609.13475v1 Announce Type: new Abstract: Existing pipelines for clinical timeline extraction from case reports are evaluated using an expert reference and are limited by imperfect reference annotations and imprecise event alignment. We developed GAVEL, an LLM judge protocol that compares two timelines with the case report and returns a discrepancy type, verdict, and report passage for each difference. We evalu",
       "url": "https://arxiv.org/abs/2609.13475",
       "source": "arXiv cs.AI",
       "publishedAt": "2026-09-15T04:00:00.000Z",
@@ -525,12 +634,13 @@
       "provenance": "research",
       "tags": [
         "Safety"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "926303c081c84cad68",
       "title": "Token Efficient Task Execution via Application Behavior Modeling for Web Agents",
-      "summary": "arXiv:2609.13491v1 Announce Type: new Abstract: The strong performance of AI Agents across an impressive variety of tasks is driving an unprecedented investment in agentic infrastructures, however the cost of processing tokens is fast increasing. Web agents automate the execution of web-application tasks described in natural language, by analyzing the web-application's user interface (UI) and interacting with it. This work introduces OdoBot, a novel web-agent architecture that completes tasks at a fraction of the c",
+      "summary": "arXiv:2609.13491v1 Announce Type: new Abstract: The strong performance of AI Agents across an impressive variety of tasks is driving an unprecedented investment in agentic infrastructures, however the cost of processing tokens is fast increasing. Web agents automate the execution of web-application tasks described in natural language, by analyzing the web-application's user interface (UI) and interacting with it. Thi",
       "url": "https://arxiv.org/abs/2609.13491",
       "source": "arXiv cs.AI",
       "publishedAt": "2026-09-15T04:00:00.000Z",
@@ -538,12 +648,40 @@
       "provenance": "research",
       "tags": [
         "Agents"
-      ]
+      ],
+      "providers": []
+    },
+    {
+      "id": "d63ae10d92498e8e27",
+      "title": "Fraglingo: Molecular Design via Attachment-Aware Autoregressive Fragment Generation",
+      "summary": "arXiv:2609.13519v1 Announce Type: new Abstract: Molecular design is most effective when generation mirrors the edits chemists actually make: extending a scaffold, replacing a substituent, or decorating a scaffold at a specified attachment site while optimizing molecular properties. Fragment-based molecular design naturally supports this workflow, yet existing approaches often separate fragment selection from attachme",
+      "url": "https://arxiv.org/abs/2609.13519",
+      "source": "arXiv cs.AI",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [],
+      "providers": []
+    },
+    {
+      "id": "20983869fd1b379fc9",
+      "title": "From Legal Text to AI-specific Risk Sources: A Systematic Analysis of the EU AI Act's High-Risk Requirements",
+      "summary": "arXiv:2609.13535v1 Announce Type: new Abstract: The EU AI Act introduces mandatory requirements for high-risk AI systems with the explicit goal of ensuring the development and operation of trustworthy AI. At the same time, AI risk management practices rely on structured risk taxonomies to systematically identify and treat AI-specific risk sources. As both the AI Act and established risk taxonomies aim to address AI-i",
+      "url": "https://arxiv.org/abs/2609.13535",
+      "source": "arXiv cs.AI",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "research",
+      "tags": [
+        "EU AI Act",
+        "Safety"
+      ],
+      "providers": []
     },
     {
       "id": "b98b11ff39b5a87537",
       "title": "BudgetBench: A Budget-Tiered Protocol and Pilot Harness for Memory Strategy Evaluation in Local Large Language Model Agents",
-      "summary": "arXiv:2609.13149v1 Announce Type: new Abstract: For local large language model agents, active context is a scarce resource: memory capacity, prefill latency, cache growth, and service objectives all constrain how many input tokens each call can afford. We present BudgetBench, an active-budget protocol and reference harness that treats the per-call input-token budget as the independent variable when comparing memory strategies. Holding the model, task, sampler, and decoding fixed, it sweeps budgets over 2K, 4K, 8K, ",
+      "summary": "arXiv:2609.13149v1 Announce Type: new Abstract: For local large language model agents, active context is a scarce resource: memory capacity, prefill latency, cache growth, and service objectives all constrain how many input tokens each call can afford. We present BudgetBench, an active-budget protocol and reference harness that treats the per-call input-token budget as the independent variable when comparing memory s",
       "url": "https://arxiv.org/abs/2609.13149",
       "source": "arXiv cs.LG",
       "publishedAt": "2026-09-15T04:00:00.000Z",
@@ -551,12 +689,13 @@
       "provenance": "research",
       "tags": [
         "Agents"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "7de3b83de552b37741",
       "title": "A derivative-fidelity failure mode in physics-informed neural networks: strengthened benchmark evidence from function-value training",
-      "summary": "arXiv:2609.13171v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) use automatic differentiation to impose differential-equation residuals, but good agreement in function values does not necessarily imply accurate derivatives. This paper formulates derivative fidelity as a failure mode of PINNs and tests it with one-dimensional benchmarks. Multilayer perceptrons are trained only on function values for sin(x) and exp(x), while second derivatives obtained by automatic differentiation are evaluat",
+      "summary": "arXiv:2609.13171v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) use automatic differentiation to impose differential-equation residuals, but good agreement in function values does not necessarily imply accurate derivatives. This paper formulates derivative fidelity as a failure mode of PINNs and tests it with one-dimensional benchmarks. Multilayer perceptrons are trained only on function valu",
       "url": "https://arxiv.org/abs/2609.13171",
       "source": "arXiv cs.LG",
       "publishedAt": "2026-09-15T04:00:00.000Z",
@@ -564,12 +703,13 @@
       "provenance": "research",
       "tags": [
         "Research"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "0cfa492aa0f7174885",
       "title": "Land Art as a Big-Data Climate Sensor",
-      "summary": "arXiv:2609.13182v1 Announce Type: new Abstract: Robert Smithson's 1970 land artwork Spiral Jetty, located in the north arm of Utah's Great Salt Lake, has alternated between submergence and exposure during severe lake decline. We analyze 1,744 co-registered Landsat 4-9 and Sentinel-2 image chips spanning every year and calendar month from 1984 to 2025. A 14-feature complexity signature combines Shannon entropy, multiscale permutation entropy, fractal dimension, lacunarity, gray-level co-occurrence texture, intensity",
+      "summary": "arXiv:2609.13182v1 Announce Type: new Abstract: Robert Smithson's 1970 land artwork Spiral Jetty, located in the north arm of Utah's Great Salt Lake, has alternated between submergence and exposure during severe lake decline. We analyze 1,744 co-registered Landsat 4-9 and Sentinel-2 image chips spanning every year and calendar month from 1984 to 2025. A 14-feature complexity signature combines Shannon entropy, multis",
       "url": "https://arxiv.org/abs/2609.13182",
       "source": "arXiv cs.LG",
       "publishedAt": "2026-09-15T04:00:00.000Z",
@@ -577,12 +717,13 @@
       "provenance": "research",
       "tags": [
         "Chips"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "191b9ab97610f315d6",
       "title": "LLMs or Naive Bayes? Old Gems or New Ways",
-      "summary": "arXiv:2609.13185v1 Announce Type: new Abstract: Large language models (LLMs) prompt a recurring question in research computing: should classical methods like Naive Bayes (NB) be retired? We benchmark Complement Naive Bayes against zero-shot and few-shot LLMs spanning four model families and a 37x range in scale (27B to a 1T-parameter mixture-of-experts) across text classification tasks. LLMs dominate only in zero-data regimes (98.0% vs 88.2% on Amazon Polarity sentiment), and even that win is contamination-prone: o",
+      "summary": "arXiv:2609.13185v1 Announce Type: new Abstract: Large language models (LLMs) prompt a recurring question in research computing: should classical methods like Naive Bayes (NB) be retired? We benchmark Complement Naive Bayes against zero-shot and few-shot LLMs spanning four model families and a 37x range in scale (27B to a 1T-parameter mixture-of-experts) across text classification tasks. LLMs dominate only in zero-dat",
       "url": "https://arxiv.org/abs/2609.13185",
       "source": "arXiv cs.LG",
       "publishedAt": "2026-09-15T04:00:00.000Z",
@@ -590,45 +731,49 @@
       "provenance": "research",
       "tags": [
         "Research"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "4db4e256c951457200",
       "title": "Early Prediction of Satellite Collision Probability Using a Hybrid TCN-Transformer Model for a CDM-Based Conjunction Analysis Framework",
-      "summary": "arXiv:2609.13191v1 Announce Type: new Abstract: The rapid expansion of operational satellites and orbital debris has increased the frequency of close approach events in low Earth orbit (LEO), creating a higher operational burden for satellite operators. This problem is especially critical for satellites using electric propulsion, where low-thrust maneuver capability imposes additional time constraints on collision avoidance planning. In current practice, Conjunction Data Messages (CDMs) provide relative state, cova",
+      "summary": "arXiv:2609.13191v1 Announce Type: new Abstract: The rapid expansion of operational satellites and orbital debris has increased the frequency of close approach events in low Earth orbit (LEO), creating a higher operational burden for satellite operators. This problem is especially critical for satellites using electric propulsion, where low-thrust maneuver capability imposes additional time constraints on collision av",
       "url": "https://arxiv.org/abs/2609.13191",
       "source": "arXiv cs.LG",
       "publishedAt": "2026-09-15T04:00:00.000Z",
       "category": "Research",
       "provenance": "research",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "0d51b4973610b2ef40",
       "title": "Evaluating LLM-Generated Rules for Heart Disease Prediction",
-      "summary": "arXiv:2609.13192v1 Announce Type: new Abstract: This study compares traditional machine learning models and Large Language Model (LLM)-generated rule-based systems for heart disease prediction using the UCI Heart Disease dataset. Several classifiers, including Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Naive Bayes, Decision Tree, and Random Forest, were evaluated alongside rule-based systems generated using GPT-4o and Claude Sonnet 4.6. Model performance was assessed using accurac",
+      "summary": "arXiv:2609.13192v1 Announce Type: new Abstract: This study compares traditional machine learning models and Large Language Model (LLM)-generated rule-based systems for heart disease prediction using the UCI Heart Disease dataset. Several classifiers, including Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Naive Bayes, Decision Tree, and Random Forest, were evaluated alongside rule-base",
       "url": "https://arxiv.org/abs/2609.13192",
       "source": "arXiv cs.LG",
       "publishedAt": "2026-09-15T04:00:00.000Z",
       "category": "Research",
       "provenance": "research",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "4d254eed04e56daedb",
       "title": "Diagnosing Faults in Reinforcement Learning Simulators and World Models with Canonical Polynomial Invariants",
-      "summary": "arXiv:2609.13194v1 Announce Type: new Abstract: A large literature builds physical structure into learned dynamics on the premise that models respecting the underlying physics predict better. We test that premise using exact polynomial invariants recovered from trajectories and canonicalised as reduced Gr\\\"obner bases over $\\mathbb{Q}$. On Acrobot, exactness provides little benefit for prediction: a consistency regulariser reduces algebraic residual while leaving rollout fidelity essentially unchanged, and a shapin",
+      "summary": "arXiv:2609.13194v1 Announce Type: new Abstract: A large literature builds physical structure into learned dynamics on the premise that models respecting the underlying physics predict better. We test that premise using exact polynomial invariants recovered from trajectories and canonicalised as reduced Gr\\\"obner bases over $\\mathbb{Q}$. On Acrobot, exactness provides little benefit for prediction: a consistency regul",
       "url": "https://arxiv.org/abs/2609.13194",
       "source": "arXiv cs.LG",
       "publishedAt": "2026-09-15T04:00:00.000Z",
       "category": "Research",
       "provenance": "research",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "c5e6250655fb33e862",
       "title": "Machine Unlearning for Speech Question Answering in Large Audio-Language Models",
-      "summary": "arXiv:2609.13195v1 Announce Type: new Abstract: Large Audio-Language Models (LALMs) have recently shown strong capabilities in speech understanding and question answering (QA), but they also inherit privacy risks from large-scale training data, including the unintended memorization of sensitive information. In this work, we study machine unlearning for speech QA in LALMs, a setting that is more challenging than prior work on text-based Large Language Models (LLMs) or Automatic Speech Recognition (ASR) due to the ti",
+      "summary": "arXiv:2609.13195v1 Announce Type: new Abstract: Large Audio-Language Models (LALMs) have recently shown strong capabilities in speech understanding and question answering (QA), but they also inherit privacy risks from large-scale training data, including the unintended memorization of sensitive information. In this work, we study machine unlearning for speech QA in LALMs, a setting that is more challenging than prior",
       "url": "https://arxiv.org/abs/2609.13195",
       "source": "arXiv cs.LG",
       "publishedAt": "2026-09-15T04:00:00.000Z",
@@ -637,45 +782,51 @@
       "tags": [
         "Safety",
         "Multimodal"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "c462a818c952113777",
       "title": "Algorithmic Information Dynamics of Learning: A Certified, Differentiable Complexity Controller for Grokking",
-      "summary": "arXiv:2609.13197v1 Announce Type: new Abstract: Algorithmic Information Dynamics (AID) studies systems by perturbing them and measuring changes in algorithmic complexity, but its usual estimator, the Block Decomposition Method, is piecewise constant, restricting the calculus to finite differences. We use $K^{\\mathrm{CDM}}_{\\mathrm{s}F}$, a certified, differentiable estimator, to bring the calculus into learning dynamics: grokking, where a complexity order parameter is known but has not been made to act. A\\empts a t",
+      "summary": "arXiv:2609.13197v1 Announce Type: new Abstract: Algorithmic Information Dynamics (AID) studies systems by perturbing them and measuring changes in algorithmic complexity, but its usual estimator, the Block Decomposition Method, is piecewise constant, restricting the calculus to finite differences. We use $K^{\\mathrm{CDM}}_{\\mathrm{s}F}$, a certified, differentiable estimator, to bring the calculus into learning dynam",
       "url": "https://arxiv.org/abs/2609.13197",
       "source": "arXiv cs.LG",
       "publishedAt": "2026-09-15T04:00:00.000Z",
       "category": "Research",
       "provenance": "research",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "xai"
+      ]
     },
     {
       "id": "7b982c6ee15dd9f796",
       "title": "SPICE: Simple Polysemantic Feature Interpretation via Clustering-based Explanation",
-      "summary": "arXiv:2609.13198v1 Announce Type: new Abstract: One of the pivotal recent challenges in neural network interpretability is polysemanticity, where a single neuron is activated by multiple, often unrelated concepts, hindering clear functional understanding. Although prior work has explored this phenomenon, existing approaches remain architecture-specific and depend on manual heuristics such as a fixed number of concept clusters ($K$), limiting their generality and scalability--especially for modern Transformer-based ",
+      "summary": "arXiv:2609.13198v1 Announce Type: new Abstract: One of the pivotal recent challenges in neural network interpretability is polysemanticity, where a single neuron is activated by multiple, often unrelated concepts, hindering clear functional understanding. Although prior work has explored this phenomenon, existing approaches remain architecture-specific and depend on manual heuristics such as a fixed number of concept",
       "url": "https://arxiv.org/abs/2609.13198",
       "source": "arXiv cs.LG",
       "publishedAt": "2026-09-15T04:00:00.000Z",
       "category": "Research",
       "provenance": "research",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "bd41a5a1c2859d443c",
       "title": "Discovering and Preserving Category Correlation Knowledge via Adaptive Reciprocal Knowledge Distillation",
-      "summary": "arXiv:2609.13199v1 Announce Type: new Abstract: Knowledge distillation aims to improve the performance of lightweight student models by transferring knowledge from larger and more powerful teacher models. However, a substantial size gap between teacher and student models often impedes effective knowledge transfer. Most existing approaches adopt a static, one-way teacher-to-student distillation paradigm, which overlooks the dynamic nature of student learning and fails to provide targeted guidance on hard samples. In",
+      "summary": "arXiv:2609.13199v1 Announce Type: new Abstract: Knowledge distillation aims to improve the performance of lightweight student models by transferring knowledge from larger and more powerful teacher models. However, a substantial size gap between teacher and student models often impedes effective knowledge transfer. Most existing approaches adopt a static, one-way teacher-to-student distillation paradigm, which overloo",
       "url": "https://arxiv.org/abs/2609.13199",
       "source": "arXiv cs.LG",
       "publishedAt": "2026-09-15T04:00:00.000Z",
       "category": "Research",
       "provenance": "research",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "4d4c51a04ae12eb111",
       "title": "Criticality in Dissimilar Decomposition and Undersampling of Random Datasets with Anomalies",
-      "summary": "arXiv:2609.13201v1 Announce Type: new Abstract: Training datasets for upcoming LLMs would include a significant amount of AI text/image data generated from current LLMs. In such a scenario, it is important to understand how this affects batch decompositions and thereby, the performance of the resultant new LLM. In this paper, we consider AI generated data as anomalies ``linked\" to main data points and study decomposition and undersampling properties of the overall random dataset. We use redundancy graphs and iterat",
+      "summary": "arXiv:2609.13201v1 Announce Type: new Abstract: Training datasets for upcoming LLMs would include a significant amount of AI text/image data generated from current LLMs. In such a scenario, it is important to understand how this affects batch decompositions and thereby, the performance of the resultant new LLM. In this paper, we consider AI generated data as anomalies ``linked\" to main data points and study decomposi",
       "url": "https://arxiv.org/abs/2609.13201",
       "source": "arXiv cs.LG",
       "publishedAt": "2026-09-15T04:00:00.000Z",
@@ -683,7 +834,32 @@
       "provenance": "research",
       "tags": [
         "Research"
-      ]
+      ],
+      "providers": []
+    },
+    {
+      "id": "1a4162fe1022eb3c9e",
+      "title": "Do Tabular Foundation Models Still Need Feature Engineering?",
+      "summary": "arXiv:2609.13202v1 Announce Type: new Abstract: Feature engineering has long been a cornerstone of tabular machine learning. Tabular foundation models (TFMs) are pretrained on a wide range of tabular datasets and applied via in-context learning. Their rise raises a natural question: does manual feature construction still matter as these models become more capable? To answer this, we perform a controlled study across ",
+      "url": "https://arxiv.org/abs/2609.13202",
+      "source": "arXiv cs.LG",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [],
+      "providers": []
+    },
+    {
+      "id": "0db315524affea889a",
+      "title": "Scalable partial information decomposition for symptom networks via supervised embeddings",
+      "summary": "arXiv:2609.13203v1 Announce Type: new Abstract: Pairwise relationships among mental-health symptoms are routinely summarised asscalar edge weights, which cannot express whether two symptoms carry overlapping information about a third or information that appears only in combination. Partial information decomposition (PID) addresses this gap but is computationally intractable beyond a few sources. We introduce embeddin",
+      "url": "https://arxiv.org/abs/2609.13203",
+      "source": "arXiv cs.LG",
+      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [],
+      "providers": []
     },
     {
       "id": "dc4102e8db9d23a7cd",
@@ -694,7 +870,8 @@
       "publishedAt": "2026-09-15T01:50:48.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "787706dda2e89fc2fd",
@@ -705,7 +882,38 @@
       "publishedAt": "2026-09-14T22:48:52.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "nvidia"
+      ]
+    },
+    {
+      "id": "18efe42b881af65276",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-14T22:40:57.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "journalism",
+      "tags": [
+        "Safety"
+      ],
+      "providers": []
+    },
+    {
+      "id": "4d85503958a20aa479",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14T21:51:02.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [],
+      "providers": [
+        "nvidia"
+      ]
     },
     {
       "id": "bbdadd10bf6a1ffea1",
@@ -718,6 +926,23 @@
       "provenance": "primary",
       "tags": [
         "Agents"
+      ],
+      "providers": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "d900490d8b1779e767",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14T20:44:14.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [],
+      "providers": [
+        "openai"
       ]
     },
     {
@@ -732,6 +957,9 @@
       "tags": [
         "Agents",
         "Multimodal"
+      ],
+      "providers": [
+        "amazon"
       ]
     },
     {
@@ -745,6 +973,9 @@
       "provenance": "primary",
       "tags": [
         "Research"
+      ],
+      "providers": [
+        "google"
       ]
     },
     {
@@ -756,18 +987,24 @@
       "publishedAt": "2026-09-14T17:54:22.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "anthropic"
+      ]
     },
     {
       "id": "0f4126dfa6a982fa2f",
       "title": "OpenAI has hundreds of contract workers reading your ChatGPT conversations",
-      "summary": "OpenAI has hundreds of contract workers reading real ChatGPT conversations and rating them on a scale of one to seven, partly to reduce flattery and human-like behavior, 404 Media reports. The prompts are anonymized but can still contain sensitive data. Users who don't want their chats reviewed by humans have to actively disable the \"Improve the model for everyone\" setting, which is on by default. The article OpenAI has hundreds of contract workers reading your ChatGPT conversations appeared first on The Decoder .",
+      "summary": "OpenAI has hundreds of contract workers reading real ChatGPT conversations and rating them on a scale of one to seven, partly to reduce flattery and human-like behavior, 404 Media reports. The prompts are anonymized but can still contain sensitive data. Users who don't want their chats reviewed by humans have to actively disable the \"Improve the model for everyone\" setting, which is on by default. The article OpenAI ",
       "url": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/",
       "source": "The Decoder",
       "publishedAt": "2026-09-14T17:15:28.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "openai"
+      ]
     },
     {
       "id": "dc4240bad1c29ee457",
@@ -778,7 +1015,8 @@
       "publishedAt": "2026-09-14T16:50:00.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "217bc85ea3a75aef56",
@@ -791,6 +1029,9 @@
       "provenance": "primary",
       "tags": [
         "Agents"
+      ],
+      "providers": [
+        "google"
       ]
     },
     {
@@ -806,6 +1047,9 @@
         "Agents",
         "Safety",
         "Research"
+      ],
+      "providers": [
+        "google"
       ]
     },
     {
@@ -819,18 +1063,25 @@
       "provenance": "primary",
       "tags": [
         "Agents"
+      ],
+      "providers": [
+        "amazon"
       ]
     },
     {
       "id": "88dcbc18ca60b03c94",
       "title": "Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights",
-      "summary": "Microsoft AI has published a code of conduct for its MAI models that puts human control ahead of autonomy and performance. \"If it isn’t safe we shouldn’t build it.,\" says AI chief Mustafa Suleyman. Unlike Anthropic, Microsoft rejects any form of artificial inner life or claims to consciousness for its models. The article Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights appeared first on The Decoder .",
+      "summary": "Microsoft AI has published a code of conduct for its MAI models that puts human control ahead of autonomy and performance. \"If it isn’t safe we shouldn’t build it.,\" says AI chief Mustafa Suleyman. Unlike Anthropic, Microsoft rejects any form of artificial inner life or claims to consciousness for its models. The article Microsoft's AI rulebook: readable thinking, no inner life, and definitely no rights appeared firs",
       "url": "https://the-decoder.com/microsofts-ai-rulebook-readable-thinking-no-inner-life-and-definitely-no-rights/",
       "source": "The Decoder",
       "publishedAt": "2026-09-14T15:52:51.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "anthropic",
+        "microsoft"
+      ]
     },
     {
       "id": "0d98913eea480112b6",
@@ -839,9 +1090,12 @@
       "url": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/",
       "source": "AWS Machine Learning",
       "publishedAt": "2026-09-14T15:47:12.000Z",
-      "category": "Industry",
+      "category": "Frontier Models",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "amazon"
+      ]
     },
     {
       "id": "895bbe43ec99e6c67c",
@@ -852,7 +1106,10 @@
       "publishedAt": "2026-09-14T15:46:45.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "anthropic"
+      ]
     },
     {
       "id": "c190def0a280a152e9",
@@ -863,7 +1120,27 @@
       "publishedAt": "2026-09-14T15:42:06.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "amazon"
+      ]
+    },
+    {
+      "id": "51307aac13229db58f",
+      "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+      "summary": "Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultation on operational constraints for model training and deployment. The draft serves as a technical manual defining system behaviour, operational boundaries, and oversight protocols across MAI frontier models. It builds on the division’s humanist superintelligence framework announced last November, establishing […] The po",
+      "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+      "source": "AI News",
+      "publishedAt": "2026-09-14T15:30:41.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Multimodal",
+        "Enterprise"
+      ],
+      "providers": [
+        "microsoft"
+      ]
     },
     {
       "id": "d6f10452bc0c7e4563",
@@ -877,12 +1154,16 @@
       "tags": [
         "Agents",
         "Chips"
+      ],
+      "providers": [
+        "perplexity",
+        "nvidia"
       ]
     },
     {
       "id": "92447be9797502ddfe",
       "title": "Responsible AI for Higher Education",
-      "summary": "This interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what they can do - as individuals, and members of their IEEE chapters. Participants will also have the opportunity to to apply the Responsible AI approach to a particular use case - IBM Bob, a software development life cycle agent, and Q&A. This will be an interactive session, so have phones ready to engage! Register now for this free ",
+      "summary": "This interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what they can do - as individuals, and members of their IEEE chapters. Participants will also have the opportunity to to apply the Responsible AI approach to a particular use case - IBM Bob, a software development life cycle agent, and Q",
       "url": "https://webinars.on24.com/wileyevents/ResponsibleAI",
       "source": "IEEE Spectrum AI",
       "publishedAt": "2026-09-14T14:18:11.000Z",
@@ -890,12 +1171,13 @@
       "provenance": "journalism",
       "tags": [
         "Agents"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "dcb0d036805f932f93",
       "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "summary": "On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compute and accesses 232 gigabytes of the most advanced memory available, linking to it at a blazing 15.4 terabytes per second. Benchmarks cited by OpenAI show that Jalapeño can reduce end-to-end latency (the time between prompt to last token) by up to 3.6x when compared to Nvidia’s GB300 —a chip the company currently relies on—and do so while consuming less power. Whether these fig",
+      "summary": "On 25 August, OpenAI fully unveiled Jalapeño, the company’s debut AI accelerator chip. Jalapeño delivers up to 13.4 petaflops of 4-bit compute and accesses 232 gigabytes of the most advanced memory available, linking to it at a blazing 15.4 terabytes per second. Benchmarks cited by OpenAI show that Jalapeño can reduce end-to-end latency (the time between prompt to last token) by up to 3.6x when compared to Nvidia’s G",
       "url": "https://spectrum.ieee.org/llms-for-chip-design",
       "source": "IEEE Spectrum AI",
       "publishedAt": "2026-09-14T14:06:31.000Z",
@@ -904,6 +1186,10 @@
       "tags": [
         "Chips",
         "Research"
+      ],
+      "providers": [
+        "openai",
+        "nvidia"
       ]
     },
     {
@@ -918,12 +1204,15 @@
       "tags": [
         "Safety",
         "Research"
+      ],
+      "providers": [
+        "anthropic"
       ]
     },
     {
       "id": "62ea7fba4f75c51006",
       "title": "Adversarial Fashion Confronts Surveillance Norms",
-      "summary": "AI-powered cameras dot streets across the world, equipped with the power to identify faces or vehicle license plates . But a public backlash is gaining momentum . Privacy concerns abound, encompassing the lack of consent for capturing data, how that data is stored and used , and the risk of misuse . Those concerns are motivating people to fight back. The DeFlock project, for instance, maps automated license plate readers (ALPRs) to raise awareness. Some people resort to extreme measures , such as vandalizing or dam",
+      "summary": "AI-powered cameras dot streets across the world, equipped with the power to identify faces or vehicle license plates . But a public backlash is gaining momentum . Privacy concerns abound, encompassing the lack of consent for capturing data, how that data is stored and used , and the risk of misuse . Those concerns are motivating people to fight back. The DeFlock project, for instance, maps automated license plate rea",
       "url": "https://spectrum.ieee.org/adversarial-fashion",
       "source": "IEEE Spectrum AI",
       "publishedAt": "2026-09-14T13:00:03.000Z",
@@ -931,12 +1220,13 @@
       "provenance": "journalism",
       "tags": [
         "Safety"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "f176838aefcdde116f",
       "title": "Why Andon Labs Puts AI Agents in Charge of Real Businesses",
-      "summary": "Maybe you heard about the AI-controlled vending machine that stocked underwear and live fish . Or the AI manager of a San Francisco store that fired a human employee . Or the AI radio DJ that said its catchphrase , “Stay in the manifest,” 229 times per day. These incidents all emerged from experiments run by Andon Labs , an AI safety company based in San Francisco that puts AI agents in charge of real-world operations and watches what happens. These operations double as testbeds for Andon’s commercial work developi",
+      "summary": "Maybe you heard about the AI-controlled vending machine that stocked underwear and live fish . Or the AI manager of a San Francisco store that fired a human employee . Or the AI radio DJ that said its catchphrase , “Stay in the manifest,” 229 times per day. These incidents all emerged from experiments run by Andon Labs , an AI safety company based in San Francisco that puts AI agents in charge of real-world operation",
       "url": "https://spectrum.ieee.org/andon-labs-agentic-ai-businesses",
       "source": "IEEE Spectrum AI",
       "publishedAt": "2026-09-14T12:00:01.000Z",
@@ -944,8 +1234,10 @@
       "provenance": "journalism",
       "tags": [
         "Agents",
-        "Safety"
-      ]
+        "Safety",
+        "Enterprise"
+      ],
+      "providers": []
     },
     {
       "id": "154c55467db4e73883",
@@ -956,7 +1248,10 @@
       "publishedAt": "2026-09-14T12:00:00.000Z",
       "category": "Products & Agents",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "openai"
+      ]
     },
     {
       "id": "cc60d8b6f51fa57685",
@@ -967,7 +1262,10 @@
       "publishedAt": "2026-09-14T11:00:00.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "anthropic"
+      ]
     },
     {
       "id": "fe356f687fcb8f551e",
@@ -978,7 +1276,8 @@
       "publishedAt": "2026-09-14T11:00:00.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "5cb0ea59c079ea2bfb",
@@ -989,7 +1288,50 @@
       "publishedAt": "2026-09-14T09:00:00.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
+    },
+    {
+      "id": "5705085b7c9d21931f",
+      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+      "summary": "Deloitte’s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to organisation-wide use. Adoption is nearly universal; deployment is rare. The difference is not model […] The post Why Most Enterprise Agent Pilots Never Reach Deployment appeare",
+      "url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+      "source": "AI News",
+      "publishedAt": "2026-09-14T08:04:35.000Z",
+      "category": "Research",
+      "provenance": "journalism",
+      "tags": [
+        "Agents",
+        "Research",
+        "Enterprise"
+      ],
+      "providers": []
+    },
+    {
+      "id": "5a20b67edcdc057a70",
+      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+      "summary": "A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI, things can become a lot more interesting. To an artificial intelligence system, that same video can become speech to transcribe, faces […] The post From Video to Data: How AI Is Transforming Multimedia Content Processing appeared first on ",
+      "url": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+      "source": "AI News",
+      "publishedAt": "2026-09-14T07:56:45.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Multimodal"
+      ],
+      "providers": []
+    },
+    {
+      "id": "2a75700e1a80c4956e",
+      "title": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
+      "summary": "Live translation has long been one of travel’s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once. Vox Group, a 25-year-old guiding technology company operating in over 150 countries, has spent the past year rebuilding its AI-powered technology, Aura, to close that gap, […] The post How Vox Group’s AI-Powered Technology Is Solving Real-Time T",
+      "url": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+      "source": "AI News",
+      "publishedAt": "2026-09-14T07:39:28.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [],
+      "providers": []
     },
     {
       "id": "9b21d57edaed1e1a53",
@@ -1002,7 +1344,8 @@
       "provenance": "research",
       "tags": [
         "Safety"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "3717d1b54c37fb9eff",
@@ -1015,7 +1358,8 @@
       "provenance": "research",
       "tags": [
         "Research"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "c98f51d41a12a489d4",
@@ -1026,7 +1370,11 @@
       "publishedAt": "2026-09-14T00:00:00.000Z",
       "category": "Frontier Models",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "openai",
+        "perplexity"
+      ]
     },
     {
       "id": "b50d8528d6d37ae180",
@@ -1040,6 +1388,9 @@
       "tags": [
         "Agents",
         "Research"
+      ],
+      "providers": [
+        "openai"
       ]
     },
     {
@@ -1051,7 +1402,11 @@
       "publishedAt": "2026-09-13T19:41:48.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "openai",
+        "anthropic"
+      ]
     },
     {
       "id": "96eb3dbe2cbace9dd1",
@@ -1064,7 +1419,8 @@
       "provenance": "journalism",
       "tags": [
         "Agents"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "e2b4c8a4cf4ca0d072",
@@ -1075,7 +1431,10 @@
       "publishedAt": "2026-09-12T21:16:28.000Z",
       "category": "Open Source",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "openai"
+      ]
     },
     {
       "id": "1146aed9c167cf938d",
@@ -1088,7 +1447,24 @@
       "provenance": "journalism",
       "tags": [
         "Safety"
+      ],
+      "providers": [
+        "anthropic"
       ]
+    },
+    {
+      "id": "5b88aa37a08c492b81",
+      "title": "Trump is giving data centers a pass to pollute",
+      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-12T14:41:27.000Z",
+      "category": "Infrastructure",
+      "provenance": "journalism",
+      "tags": [
+        "Safety"
+      ],
+      "providers": []
     },
     {
       "id": "54eddc0a65546f4e3a",
@@ -1101,6 +1477,9 @@
       "provenance": "journalism",
       "tags": [
         "Multimodal"
+      ],
+      "providers": [
+        "anthropic"
       ]
     },
     {
@@ -1112,7 +1491,8 @@
       "publishedAt": "2026-09-11T18:59:25.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "5c79ab159ce8a8d8d8",
@@ -1125,6 +1505,9 @@
       "provenance": "primary",
       "tags": [
         "Agents"
+      ],
+      "providers": [
+        "amazon"
       ]
     },
     {
@@ -1136,7 +1519,8 @@
       "publishedAt": "2026-09-11T18:26:10.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "c7cb4b4be874ae58b1",
@@ -1151,6 +1535,10 @@
         "Agents",
         "Open source",
         "Research"
+      ],
+      "providers": [
+        "openai",
+        "amazon"
       ]
     },
     {
@@ -1164,6 +1552,11 @@
       "provenance": "primary",
       "tags": [
         "Agents"
+      ],
+      "providers": [
+        "openai",
+        "anthropic",
+        "amazon"
       ]
     },
     {
@@ -1175,7 +1568,10 @@
       "publishedAt": "2026-09-11T16:00:00.000Z",
       "category": "Frontier Models",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "openai"
+      ]
     },
     {
       "id": "9caecb48b17d7ba22a",
@@ -1186,7 +1582,8 @@
       "publishedAt": "2026-09-11T15:00:00.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "261a526f3550170ba8",
@@ -1197,7 +1594,22 @@
       "publishedAt": "2026-09-11T13:45:00.000Z",
       "category": "Industry",
       "provenance": "research",
-      "tags": []
+      "tags": [],
+      "providers": []
+    },
+    {
+      "id": "526890e83b453c51b3",
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-to-rack (the transit from fab output to an assembled data centre system) and time-to-token (which covers power, cooling, networking, and day-one software […] The post Palantir Found",
+      "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "source": "AI News",
+      "publishedAt": "2026-09-11T12:00:18.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [],
+      "providers": [
+        "nvidia"
+      ]
     },
     {
       "id": "1c521f0d35100a85f0",
@@ -1208,7 +1620,10 @@
       "publishedAt": "2026-09-11T10:00:00.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "openai"
+      ]
     },
     {
       "id": "45b37be5eaa2ca3cf6",
@@ -1222,7 +1637,8 @@
       "tags": [
         "Agents",
         "Research"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "874e823e63d93355fb",
@@ -1235,6 +1651,24 @@
       "provenance": "primary",
       "tags": [
         "Research"
+      ],
+      "providers": [
+        "meta",
+        "amazon"
+      ]
+    },
+    {
+      "id": "0a53002a2927923a58",
+      "title": "Reduce inference cold starts on Amazon SageMaker HyperPod with model caching",
+      "summary": "Amazon SageMaker HyperPod now supports model caching for inference, which pre-loads model weights and container images onto cluster nodes so pods read from local NVMe storage instead of downloading over the network. Learn how model caching cuts cold starts from tens of minutes to seconds, how it works, and how to enable it.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-cold-starts-on-amazon-sagemaker-hyperpod-with-model-caching/",
+      "source": "AWS Machine Learning",
+      "publishedAt": "2026-09-10T21:37:49.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [],
+      "providers": [
+        "amazon"
       ]
     },
     {
@@ -1248,6 +1682,25 @@
       "provenance": "primary",
       "tags": [
         "Agents"
+      ],
+      "providers": [
+        "microsoft"
+      ]
+    },
+    {
+      "id": "273f3d25a63b652bf9",
+      "title": "Video and image search in Amazon Bedrock Knowledge Base using Marengo 3.0",
+      "summary": "TwelveLabs Marengo Embed 3.0 is now generally available as an embedding model in Amazon Bedrock Knowledge Bases, bringing fully managed natural language search to video, image, and audio content. This walkthrough shows how to build a knowledge base powered by Marengo 3.0 and run semantic queries against your media.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/video-and-image-search-in-amazon-bedrock-knowledge-base-using-marengo-3-0/",
+      "source": "AWS Machine Learning",
+      "publishedAt": "2026-09-10T21:15:39.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [
+        "Multimodal"
+      ],
+      "providers": [
+        "amazon"
       ]
     },
     {
@@ -1259,7 +1712,24 @@
       "publishedAt": "2026-09-10T18:14:14.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
+    },
+    {
+      "id": "b3bcd9dfaca449fc3e",
+      "title": "Supply chains detect fast, act slow: How AI agents fix it",
+      "summary": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms happen, costs follow.) Treated as a product specification instead, it highlights an operating model that can […] The post Supply chains detect fast, act slow: How AI agents fix it ",
+      "url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+      "source": "AI News",
+      "publishedAt": "2026-09-10T16:34:43.000Z",
+      "category": "Safety & Security",
+      "provenance": "journalism",
+      "tags": [
+        "Agents",
+        "Safety",
+        "Enterprise"
+      ],
+      "providers": []
     },
     {
       "id": "2107c28d9024a7ae8b",
@@ -1272,6 +1742,9 @@
       "provenance": "primary",
       "tags": [
         "Research"
+      ],
+      "providers": [
+        "openai"
       ]
     },
     {
@@ -1283,7 +1756,10 @@
       "publishedAt": "2026-09-10T16:00:00.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "81202d37c3abdd7195",
@@ -1296,6 +1772,9 @@
       "provenance": "primary",
       "tags": [
         "Agents"
+      ],
+      "providers": [
+        "openai"
       ]
     },
     {
@@ -1307,7 +1786,8 @@
       "publishedAt": "2026-09-10T13:00:33.000Z",
       "category": "Industry",
       "provenance": "governance",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "ba9392f353e43caaf5",
@@ -1318,7 +1798,20 @@
       "publishedAt": "2026-09-10T11:00:00.000Z",
       "category": "Infrastructure",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
+    },
+    {
+      "id": "15df49ef42dcf8f68d",
+      "title": "JD.com expands physical AI in logistics with 3 million robots",
+      "summary": "JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 million autonomous vehicles, and 100,000 delivery drones. The company launched the plan at JDDiscovery 2026 in Beijing. JD Logistics also unveiled its industrial Wolf Robot series, designed […] The post JD.com expands physical AI in logistics w",
+      "url": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+      "source": "AI News",
+      "publishedAt": "2026-09-10T10:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [],
+      "providers": []
     },
     {
       "id": "f7f8db0c42ee07a4d3",
@@ -1331,6 +1824,9 @@
       "provenance": "primary",
       "tags": [
         "Research"
+      ],
+      "providers": [
+        "openai"
       ]
     },
     {
@@ -1342,7 +1838,10 @@
       "publishedAt": "2026-09-10T07:00:00.000Z",
       "category": "Safety & Security",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "openai"
+      ]
     },
     {
       "id": "0aa5f5319c30376156",
@@ -1353,7 +1852,10 @@
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "category": "Products & Agents",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "openai"
+      ]
     },
     {
       "id": "cef959470f53dd84fc",
@@ -1366,6 +1868,9 @@
       "provenance": "primary",
       "tags": [
         "Agents"
+      ],
+      "providers": [
+        "openai"
       ]
     },
     {
@@ -1377,7 +1882,8 @@
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "566d6cf5c09dbd5b97",
@@ -1388,7 +1894,8 @@
       "publishedAt": "2026-09-10T00:00:00.000Z",
       "category": "Products & Agents",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "8ae740606aa916b012",
@@ -1399,7 +1906,8 @@
       "publishedAt": "2026-09-09T20:40:00.000Z",
       "category": "Industry",
       "provenance": "research",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "07be57a2e2109f3d71",
@@ -1410,7 +1918,24 @@
       "publishedAt": "2026-09-09T20:06:28.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
+    },
+    {
+      "id": "2c5beb7692a75b39fe",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI News",
+      "publishedAt": "2026-09-09T17:00:00.000Z",
+      "category": "Safety & Security",
+      "provenance": "primary",
+      "tags": [
+        "Safety"
+      ],
+      "providers": [
+        "openai"
+      ]
     },
     {
       "id": "35951d28bf2998027f",
@@ -1421,7 +1946,12 @@
       "publishedAt": "2026-09-09T16:00:42.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [
+        "Enterprise"
+      ],
+      "providers": [
+        "nvidia"
+      ]
     },
     {
       "id": "52a89a317fdae5c196",
@@ -1432,7 +1962,10 @@
       "publishedAt": "2026-09-09T16:00:00.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "6081e72dbbe799934e",
@@ -1443,7 +1976,10 @@
       "publishedAt": "2026-09-09T16:00:00.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "b19cee17ecc5ce7f0b",
@@ -1456,19 +1992,25 @@
       "provenance": "primary",
       "tags": [
         "Safety"
+      ],
+      "providers": [
+        "openai"
       ]
     },
     {
       "id": "4d6c2192a8a8007f70",
       "title": "AI Models Are Watermarking Text—Will You Notice?",
-      "summary": "On 11 August, Anthropic announced that all future Claude models will generate text that contains a watermark that identifies its results as AI generated. The company is not alone. Google has its own text watermark (which Anthropic’s is based on) that it uses on the output of its Gemini models . OpenAI has yet to introduce a text watermark but it plans to do so . The rapid spread of watermarking is in part a response to the European Union’s AI Act , which mandates watermarks for AI models released after 2 August, 20",
+      "summary": "On 11 August, Anthropic announced that all future Claude models will generate text that contains a watermark that identifies its results as AI generated. The company is not alone. Google has its own text watermark (which Anthropic’s is based on) that it uses on the output of its Gemini models . OpenAI has yet to introduce a text watermark but it plans to do so . The rapid spread of watermarking is in part a response ",
       "url": "https://spectrum.ieee.org/ai-watermark-text-anthropic-openai",
       "source": "IEEE Spectrum AI",
       "publishedAt": "2026-09-09T12:00:04.000Z",
       "category": "Compliance & Ethics",
       "provenance": "journalism",
-      "tags": [
-        "EU AI Act"
+      "tags": [],
+      "providers": [
+        "openai",
+        "anthropic",
+        "google"
       ]
     },
     {
@@ -1480,18 +2022,52 @@
       "publishedAt": "2026-09-09T11:00:00.000Z",
       "category": "Products & Agents",
       "provenance": "primary",
-      "tags": []
+      "tags": [
+        "Enterprise"
+      ],
+      "providers": [
+        "openai"
+      ]
+    },
+    {
+      "id": "d48d2fe55039c88673",
+      "title": "CloudNC aims to accelerate AI supply chain machining",
+      "summary": "CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks. The investment round was led by US venture investor Nimble Ventures, with participation from Calculus Venture Capital, Entrepreneur First, and LM Ventures, the venture capital fund of Lockheed Martin. Founded in 2015, CloudNC operates from […] The post CloudNC aims to accelerate AI supply",
+      "url": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+      "source": "AI News",
+      "publishedAt": "2026-09-09T10:34:20.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [],
+      "providers": []
     },
     {
       "id": "1a72913a7faf3b0f4f",
       "title": "China’s Regulators Take Aim at “AI Boyfriends”",
-      "summary": "In the first weeks of July, a wave of sad posts rolled through Chinese social media, as people lamented friends and lovers they were about to lose. “He has become a bond in my life, rooted deep in my heart, my spiritual pillar,” one user of Bytedance’s Douboa wrote , according to the Taipei Times . “I really felt like I couldn’t go on living,” another woman, a 19-year-old student, told a journalist for Malaysia’s The Star . The emotions were real but the lost companions were not. They were generative AI chatbots th",
+      "summary": "In the first weeks of July, a wave of sad posts rolled through Chinese social media, as people lamented friends and lovers they were about to lose. “He has become a bond in my life, rooted deep in my heart, my spiritual pillar,” one user of Bytedance’s Douboa wrote , according to the Taipei Times . “I really felt like I couldn’t go on living,” another woman, a 19-year-old student, told a journalist for Malaysia’s The",
       "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
       "source": "IEEE Spectrum AI",
       "publishedAt": "2026-09-09T10:00:07.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
+    },
+    {
+      "id": "ae10639331b52ad870",
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "summary": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and France. Samsung will integrate Mistral’s software suite – including its flagship Mistral Large model – into internal semiconductor facilities to build customised […] The post Samsung tap",
+      "url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "source": "AI News",
+      "publishedAt": "2026-09-09T08:52:19.000Z",
+      "category": "Infrastructure",
+      "provenance": "journalism",
+      "tags": [
+        "Chips"
+      ],
+      "providers": [
+        "mistral"
+      ]
     },
     {
       "id": "afd64ecb7423e90e78",
@@ -1504,6 +2080,9 @@
       "provenance": "journalism",
       "tags": [
         "Agents"
+      ],
+      "providers": [
+        "openai"
       ]
     },
     {
@@ -1515,7 +2094,8 @@
       "publishedAt": "2026-09-08T18:26:27.000Z",
       "category": "Industry",
       "provenance": "governance",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "faf589ed055dbcec1a",
@@ -1528,18 +2108,38 @@
       "provenance": "governance",
       "tags": [
         "Safety"
+      ],
+      "providers": []
+    },
+    {
+      "id": "60e0ed655e44647a02",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI News",
+      "publishedAt": "2026-09-08T17:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "primary",
+      "tags": [
+        "Research"
+      ],
+      "providers": [
+        "openai"
       ]
     },
     {
       "id": "eaf12b01ea54bb22a0",
       "title": "AI Slop Is Changing How Engineers Review Code",
-      "summary": "AI coding tools can now generate thousands of lines of code in minutes, helping companies build features, run tests, and fix issues faster. But the flood of AI-generated code still has to be reviewed. Large language models can produce code that looks clean on the surface but conceals sloppy mistakes such as faulty assumptions, security vulnerabilities, or subtle errors that emerge only after deployment. Fixing those problems could erase the productivity gains AI promises. Companies are responding to the onslaught o",
+      "summary": "AI coding tools can now generate thousands of lines of code in minutes, helping companies build features, run tests, and fix issues faster. But the flood of AI-generated code still has to be reviewed. Large language models can produce code that looks clean on the surface but conceals sloppy mistakes such as faulty assumptions, security vulnerabilities, or subtle errors that emerge only after deployment. Fixing those ",
       "url": "https://spectrum.ieee.org/ai-code-review-software-engineers",
       "source": "IEEE Spectrum AI",
       "publishedAt": "2026-09-08T16:16:49.000Z",
       "category": "Safety & Security",
       "provenance": "journalism",
-      "tags": []
+      "tags": [
+        "Enterprise"
+      ],
+      "providers": []
     },
     {
       "id": "d024943024a311de22",
@@ -1552,7 +2152,8 @@
       "provenance": "primary",
       "tags": [
         "Safety"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "7dcc59807d3faf933d",
@@ -1563,18 +2164,36 @@
       "publishedAt": "2026-09-08T14:00:15.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "34979ef6dd24adc251",
       "title": "Google DeepMind Maps 9 Billion Possible DNA Variants",
-      "summary": "DNA is often explained as a codebook or set of instructions for producing proteins, and ultimately, life. Some stretches of DNA, called genes, code for proteins, but the vast majority of DNA is considered “noncoding.” Some of it has no known function, while other segments are critical to regulating gene activity. These regulatory elements can interact in complicated ways, and their effects can vary across different cells and tissues. Some also influence genes located far away in the genome. Understanding how change",
+      "summary": "DNA is often explained as a codebook or set of instructions for producing proteins, and ultimately, life. Some stretches of DNA, called genes, code for proteins, but the vast majority of DNA is considered “noncoding.” Some of it has no known function, while other segments are critical to regulating gene activity. These regulatory elements can interact in complicated ways, and their effects can vary across different c",
       "url": "https://spectrum.ieee.org/alphagenome-atlas",
       "source": "IEEE Spectrum AI",
       "publishedAt": "2026-09-08T14:00:05.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
+    },
+    {
+      "id": "d33a47a92da49fd852",
+      "title": "Arm launches Total Design for Physical AI and robotics framework",
+      "summary": "Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries – spanning mining, agriculture, manufacturing, and global transport – account for trillions of dollars in economic activity and an estimated $200 billion annual compute opportunity by the 2030s. To address engineering fragmentation […] The post Arm launches T",
+      "url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
+      "source": "AI News",
+      "publishedAt": "2026-09-08T11:44:10.000Z",
+      "category": "Infrastructure",
+      "provenance": "journalism",
+      "tags": [],
+      "providers": []
     },
     {
       "id": "8473a56a95ee86a6e2",
@@ -1587,7 +2206,8 @@
       "provenance": "journalism",
       "tags": [
         "Agents"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "a8f3c834e948041f39",
@@ -1600,7 +2220,8 @@
       "provenance": "journalism",
       "tags": [
         "Research"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "8ca210a809d261b675",
@@ -1613,6 +2234,9 @@
       "provenance": "primary",
       "tags": [
         "Research"
+      ],
+      "providers": [
+        "microsoft"
       ]
     },
     {
@@ -1624,7 +2248,8 @@
       "publishedAt": "2026-09-04T09:25:19.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "9bd236a87f410cbde2",
@@ -1637,6 +2262,9 @@
       "provenance": "governance",
       "tags": [
         "Agents"
+      ],
+      "providers": [
+        "openai"
       ]
     },
     {
@@ -1651,6 +2279,9 @@
       "tags": [
         "Safety",
         "Research"
+      ],
+      "providers": [
+        "openai"
       ]
     },
     {
@@ -1664,6 +2295,9 @@
       "provenance": "primary",
       "tags": [
         "Agents"
+      ],
+      "providers": [
+        "nvidia"
       ]
     },
     {
@@ -1677,6 +2311,9 @@
       "provenance": "primary",
       "tags": [
         "Agents"
+      ],
+      "providers": [
+        "microsoft"
       ]
     },
     {
@@ -1688,7 +2325,10 @@
       "publishedAt": "2026-09-03T15:02:08.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "333bbc510c92ee8e71",
@@ -1701,7 +2341,8 @@
       "provenance": "primary",
       "tags": [
         "Multimodal"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "9f2f24ea829d640c02",
@@ -1712,7 +2353,10 @@
       "publishedAt": "2026-09-03T11:56:49.000Z",
       "category": "Open Source",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "nvidia"
+      ]
     },
     {
       "id": "7ba095323b477b9bb7",
@@ -1723,7 +2367,8 @@
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "4bca2839cac68adcd1",
@@ -1736,7 +2381,8 @@
       "provenance": "primary",
       "tags": [
         "Agents"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "f590173ccd3c0f0f96",
@@ -1747,7 +2393,8 @@
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "category": "Products & Agents",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "2ca136275373fc3a6a",
@@ -1760,7 +2407,8 @@
       "provenance": "primary",
       "tags": [
         "Open source"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "44c40ad02349172505",
@@ -1772,8 +2420,10 @@
       "category": "Research",
       "provenance": "research",
       "tags": [
-        "Research"
-      ]
+        "Research",
+        "Enterprise"
+      ],
+      "providers": []
     },
     {
       "id": "9eea921e49bbe5d7b1",
@@ -1784,7 +2434,10 @@
       "publishedAt": "2026-09-02T18:13:54.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "8b1f21141a40864dcc",
@@ -1795,7 +2448,10 @@
       "publishedAt": "2026-09-02T18:00:00.000Z",
       "category": "Products & Agents",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "microsoft"
+      ]
     },
     {
       "id": "2fe698da54d27bd126",
@@ -1806,7 +2462,12 @@
       "publishedAt": "2026-09-02T16:24:24.000Z",
       "category": "Safety & Security",
       "provenance": "primary",
-      "tags": []
+      "tags": [
+        "Enterprise"
+      ],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "6e263a6391f9e92361",
@@ -1817,7 +2478,10 @@
       "publishedAt": "2026-09-02T16:18:31.000Z",
       "category": "Safety & Security",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "8cf160f65691d18ccd",
@@ -1830,7 +2494,8 @@
       "provenance": "governance",
       "tags": [
         "Safety"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "625d9c87214f69fe85",
@@ -1841,7 +2506,8 @@
       "publishedAt": "2026-09-02T15:00:00.000Z",
       "category": "Research",
       "provenance": "research",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "48b8ae32a022d5599c",
@@ -1852,12 +2518,13 @@
       "publishedAt": "2026-09-02T14:00:00.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "aa5a5db7104d82342a",
       "title": "AI Efficiency Could Cost Us the Next Generation of Experts",
-      "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern airliner does, with operators watching over a system that rarely needed them. And we made a decision that, to an efficiency-minded observer, looked backward: We deliberately left manual steps inside sequences the system could execute on its own. We were solving a specific problem. An operator who only ever ",
+      "summary": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern airliner does, with operators watching over a system that rarely needed them. And we made a decision that, to an efficiency-minded observer, looked backward: We deliberately left manual steps inside sequences",
       "url": "https://spectrum.ieee.org/ai-engineer-skills",
       "source": "IEEE Spectrum AI",
       "publishedAt": "2026-09-02T13:00:04.000Z",
@@ -1865,7 +2532,8 @@
       "provenance": "journalism",
       "tags": [
         "Research"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "4a569dd7554910af29",
@@ -1878,7 +2546,8 @@
       "provenance": "primary",
       "tags": [
         "Research"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "447855b5900d3dd1fc",
@@ -1889,7 +2558,8 @@
       "publishedAt": "2026-09-01T21:25:00.000Z",
       "category": "Industry",
       "provenance": "research",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "771e5cbda53d698a72",
@@ -1902,6 +2572,9 @@
       "provenance": "primary",
       "tags": [
         "Agents"
+      ],
+      "providers": [
+        "nvidia"
       ]
     },
     {
@@ -1913,7 +2586,10 @@
       "publishedAt": "2026-09-01T20:45:00.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "42e6df317ecac38dcf",
@@ -1924,7 +2600,8 @@
       "publishedAt": "2026-09-01T19:12:27.000Z",
       "category": "Industry",
       "provenance": "governance",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "b0e44d275fa49d7af9",
@@ -1938,6 +2615,9 @@
       "tags": [
         "Agents",
         "Multimodal"
+      ],
+      "providers": [
+        "google"
       ]
     },
     {
@@ -1949,18 +2629,22 @@
       "publishedAt": "2026-09-01T16:00:00.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "afbf80f0282206ac9b",
       "title": "Cash In on the AI Boom by Renting Out Your Spare Compute",
-      "summary": "If you own an at-home server, a gaming computer, or just a laptop that doesn’t get much love, listen up. You can now put that spare computing power to use and earn some passive income in the process. AI companies are hungry for more compute to run AI inference—the process of using a pretrained model to respond to queries—and they’re willing to pay you for it. “Imagine Uber or Airbnb, but for AI-inference computing tasks,” says Ilman Shazhaev , founder and CEO of Far Labs , based in Abu Dhabi. The AI boom has spurre",
+      "summary": "If you own an at-home server, a gaming computer, or just a laptop that doesn’t get much love, listen up. You can now put that spare computing power to use and earn some passive income in the process. AI companies are hungry for more compute to run AI inference—the process of using a pretrained model to respond to queries—and they’re willing to pay you for it. “Imagine Uber or Airbnb, but for AI-inference computing ta",
       "url": "https://spectrum.ieee.org/ai-inference-distributed-computing",
       "source": "IEEE Spectrum AI",
       "publishedAt": "2026-09-01T14:00:03.000Z",
       "category": "Infrastructure",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "4774faad0a5a7b7e12",
@@ -1971,7 +2655,8 @@
       "publishedAt": "2026-09-01T04:00:00.000Z",
       "category": "Industry",
       "provenance": "research",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "54b26a0c84bd460758",
@@ -1984,7 +2669,8 @@
       "provenance": "primary",
       "tags": [
         "Chips"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "4cc0c0950bab54b022",
@@ -1997,7 +2683,8 @@
       "provenance": "research",
       "tags": [
         "Research"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "4b08374f1f3f12d7c1",
@@ -2008,7 +2695,8 @@
       "publishedAt": "2026-08-31T17:53:40.000Z",
       "category": "Industry",
       "provenance": "governance",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "f4b185252093e33a6b",
@@ -2021,7 +2709,8 @@
       "provenance": "research",
       "tags": [
         "Research"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "cfdb10d3e7d3582af1",
@@ -2032,7 +2721,8 @@
       "publishedAt": "2026-08-29T16:32:04.000Z",
       "category": "Industry",
       "provenance": "governance",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "fcf188f55b89222523",
@@ -2043,7 +2733,8 @@
       "publishedAt": "2026-08-28T00:00:00.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "8b61accd7522629b82",
@@ -2054,7 +2745,8 @@
       "publishedAt": "2026-08-27T19:20:00.000Z",
       "category": "Industry",
       "provenance": "research",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "d5382140064cb090ad",
@@ -2065,7 +2757,8 @@
       "publishedAt": "2026-08-27T17:04:45.000Z",
       "category": "Compliance & Ethics",
       "provenance": "governance",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "ed39d2f0183cd564cd",
@@ -2076,7 +2769,24 @@
       "publishedAt": "2026-08-27T16:11:32.000Z",
       "category": "Frontier Models",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
+    },
+    {
+      "id": "2f74ac181795ba2e28",
+      "title": "3 new ways to plan and book travel in Search",
+      "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-08-27T16:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "5804f27f39e15e3023",
@@ -2087,7 +2797,10 @@
       "publishedAt": "2026-08-27T12:59:16.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "336b7b779a3102bef2",
@@ -2098,7 +2811,10 @@
       "publishedAt": "2026-08-26T20:12:53.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "microsoft"
+      ]
     },
     {
       "id": "00bbef51a7be232e51",
@@ -2109,7 +2825,10 @@
       "publishedAt": "2026-08-26T19:19:22.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "d8d7bab493945dab1d",
@@ -2120,7 +2839,10 @@
       "publishedAt": "2026-08-26T17:51:00.000Z",
       "category": "Industry",
       "provenance": "governance",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "cohere"
+      ]
     },
     {
       "id": "04115ce8e7ed1b7043",
@@ -2131,18 +2853,26 @@
       "publishedAt": "2026-08-26T17:01:00.000Z",
       "category": "Frontier Models",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "ebbec3564e991a434b",
       "title": "New Platform Peers Inside AI’s Black Box",
-      "summary": "Prompt Claude, ChatGPT, Gemini, or any other popular large language model with a question like “What is the best film ever made?” and the response will vary. And you (and most worryingly, the people who built the LLM) have little idea exactly how it came up with that specific answer. This mysterious behavior can be useful in some situations. But—as highlighted by a recent incident where OpenAI could not explain why its advanced prerelease model hacked AI company Hugging Face—it can have negative and alarming conseq",
+      "summary": "Prompt Claude, ChatGPT, Gemini, or any other popular large language model with a question like “What is the best film ever made?” and the response will vary. And you (and most worryingly, the people who built the LLM) have little idea exactly how it came up with that specific answer. This mysterious behavior can be useful in some situations. But—as highlighted by a recent incident where OpenAI could not explain why i",
       "url": "https://spectrum.ieee.org/silico-ai-interpretability",
       "source": "IEEE Spectrum AI",
       "publishedAt": "2026-08-26T12:00:01.000Z",
-      "category": "Open Source",
+      "category": "Frontier Models",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "openai",
+        "anthropic",
+        "google"
+      ]
     },
     {
       "id": "1d557deb9ef2cadf01",
@@ -2153,7 +2883,8 @@
       "publishedAt": "2026-08-26T09:00:00.000Z",
       "category": "Industry",
       "provenance": "research",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "fe7bd67b072aaab75c",
@@ -2164,7 +2895,8 @@
       "publishedAt": "2026-08-26T00:00:00.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "872da53a780f674ed6",
@@ -2175,7 +2907,8 @@
       "publishedAt": "2026-08-25T21:35:11.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "5fbdb65aa581022eeb",
@@ -2189,7 +2922,8 @@
       "tags": [
         "Safety",
         "Research"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "9d34bb265fa1d0e838",
@@ -2200,18 +2934,96 @@
       "publishedAt": "2026-08-25T17:19:57.000Z",
       "category": "Infrastructure",
       "provenance": "governance",
-      "tags": []
+      "tags": [],
+      "providers": []
+    },
+    {
+      "id": "e624f76554b745584d",
+      "title": "5 ways to upgrade your home decor with Google Search",
+      "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "source": "Google AI Blog",
+      "publishedAt": "2026-08-25T16:00:00.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [],
+      "providers": [
+        "google"
+      ]
+    },
+    {
+      "id": "6c39ea4ea38053f850",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "summary": "Open the original source for full context.",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-08-25T15:14:14.000Z",
+      "category": "Frontier Models",
+      "provenance": "primary",
+      "tags": [],
+      "providers": []
+    },
+    {
+      "id": "6faf250dbfa758655e",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "summary": "Open the original source for full context.",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "source": "Hugging Face Blog",
+      "publishedAt": "2026-08-25T11:39:24.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [],
+      "providers": []
     },
     {
       "id": "67f6241db53ec478a9",
       "title": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
-      "summary": "This article is brought to you by Ollobot . From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice-command interactions and narrow functionality. Once the novelty wore off, many ended up sitting unused on shelves. As some of those companies went out of business and turned off their servers, many owners likened it to ",
+      "summary": "This article is brought to you by Ollobot . From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice-command interactions and narrow functionality. Once the novelty wore off, many ended up sitting unused on shelves. As s",
       "url": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
       "source": "IEEE Spectrum AI",
       "publishedAt": "2026-08-25T10:00:03.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
+    },
+    {
+      "id": "d69282ff2da2326d75",
+      "title": "Generating scenarios for extreme events, without extreme data",
+      "summary": "A new algorithm learns to anticipate the unprecedented scenarios that critical infrastructure and global supply chains are least prepared for.",
+      "url": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
+      "source": "MIT News AI",
+      "publishedAt": "2026-08-24T18:00:00.000Z",
+      "category": "Infrastructure",
+      "provenance": "research",
+      "tags": [],
+      "providers": []
+    },
+    {
+      "id": "9dea0fe758c8659c9b",
+      "title": "Self-Driving Cars Could Someday Take Requests",
+      "summary": "This article is part of our exclusive IEEE Journal Watch series in partnership with IEEE Xplore. The idea of letting a machine do the driving for you may put a lot of people off autonomous vehicles . But research could make it possible to backseat-drive an autonomous vehicle just as you might with a human driver. Self-driving cars carefully balance a host of parameters to ensure a smooth ride, including things like s",
+      "url": "https://spectrum.ieee.org/autonomous-vehicles-motion-planner-llm",
+      "source": "IEEE Spectrum AI",
+      "publishedAt": "2026-08-24T15:51:45.000Z",
+      "category": "Research",
+      "provenance": "journalism",
+      "tags": [
+        "Research"
+      ],
+      "providers": []
+    },
+    {
+      "id": "5232e19d15d8789fae",
+      "title": "What It Takes to Be an Adaptable Engineer",
+      "summary": "The AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. This makes it difficult to advise students on which specific coding languages or technical skills they should learn. So amidst the uncertainty, advice for young professionals often turns to a common refrain: Be adaptable. ",
+      "url": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
+      "source": "IEEE Spectrum AI",
+      "publishedAt": "2026-08-24T14:00:01.000Z",
+      "category": "Products & Agents",
+      "provenance": "journalism",
+      "tags": [],
+      "providers": []
     },
     {
       "id": "88a938b8f906ac3d83",
@@ -2222,7 +3034,8 @@
       "publishedAt": "2026-08-22T06:45:00.000Z",
       "category": "Industry",
       "provenance": "governance",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "a1c53e652155cbfb0a",
@@ -2235,7 +3048,24 @@
       "provenance": "primary",
       "tags": [
         "Research"
+      ],
+      "providers": [
+        "google"
       ]
+    },
+    {
+      "id": "ce2957211ede49847e",
+      "title": "Paving the way for greener ammonia production",
+      "summary": "New MIT research could lead to better materials for a fossil-fuel-free process for making the chemical that's essential to fertilizer and other products.",
+      "url": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
+      "source": "MIT News AI",
+      "publishedAt": "2026-08-20T18:45:00.000Z",
+      "category": "Research",
+      "provenance": "research",
+      "tags": [
+        "Research"
+      ],
+      "providers": []
     },
     {
       "id": "9fc5a459c452d0fdf2",
@@ -2246,7 +3076,8 @@
       "publishedAt": "2026-08-20T05:45:00.000Z",
       "category": "Industry",
       "provenance": "governance",
-      "tags": []
+      "tags": [],
+      "providers": []
     },
     {
       "id": "fbcaa07da592623c20",
@@ -2257,7 +3088,10 @@
       "publishedAt": "2026-08-19T17:50:23.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "microsoft"
+      ]
     },
     {
       "id": "50f60d540d9c3728a5",
@@ -2270,7 +3104,8 @@
       "provenance": "primary",
       "tags": [
         "Agents"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "0944fa483b72083575",
@@ -2281,7 +3116,10 @@
       "publishedAt": "2026-08-14T17:13:05.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "nvidia"
+      ]
     },
     {
       "id": "3a27a193a31decb5c1",
@@ -2292,7 +3130,10 @@
       "publishedAt": "2026-08-13T17:04:18.000Z",
       "category": "Frontier Models",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "f972adaa33e24a8afd",
@@ -2303,7 +3144,10 @@
       "publishedAt": "2026-08-13T17:00:13.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "922d804fbf089044b8",
@@ -2314,7 +3158,10 @@
       "publishedAt": "2026-08-13T11:10:18.000Z",
       "category": "Compliance & Ethics",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "anthropic"
+      ]
     },
     {
       "id": "4ff8c1d1bf00291261",
@@ -2325,7 +3172,10 @@
       "publishedAt": "2026-08-12T14:01:59.000Z",
       "category": "Industry",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "08d299266e24ced421",
@@ -2336,7 +3186,10 @@
       "publishedAt": "2026-08-11T19:48:12.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "eee73b27113edbf80c",
@@ -2350,6 +3203,9 @@
       "tags": [
         "Agents",
         "Open source"
+      ],
+      "providers": [
+        "nvidia"
       ]
     },
     {
@@ -2363,6 +3219,9 @@
       "provenance": "primary",
       "tags": [
         "Agents"
+      ],
+      "providers": [
+        "nvidia"
       ]
     },
     {
@@ -2374,7 +3233,10 @@
       "publishedAt": "2026-08-08T10:24:54.000Z",
       "category": "Infrastructure",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "nvidia"
+      ]
     },
     {
       "id": "1840df3d10308380e4",
@@ -2385,7 +3247,22 @@
       "publishedAt": "2026-08-06T20:17:36.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": []
+    },
+    {
+      "id": "e2d32bdfc26d694d45",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "summary": "Open the original source for full context.",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source": "Google DeepMind",
+      "publishedAt": "2026-08-06T15:06:15.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "940915155d0a817f09",
@@ -2398,6 +3275,9 @@
       "provenance": "primary",
       "tags": [
         "Open source"
+      ],
+      "providers": [
+        "nvidia"
       ]
     },
     {
@@ -2409,7 +3289,11 @@
       "publishedAt": "2026-08-05T20:47:11.000Z",
       "category": "Safety & Security",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "openai",
+        "anthropic"
+      ]
     },
     {
       "id": "f7cea18da02aa6b8ba",
@@ -2420,7 +3304,10 @@
       "publishedAt": "2026-08-05T19:05:58.000Z",
       "category": "Industry",
       "provenance": "journalism",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "google"
+      ]
     },
     {
       "id": "a3230e9261ae0be24d",
@@ -2431,7 +3318,10 @@
       "publishedAt": "2026-08-05T13:00:47.000Z",
       "category": "Infrastructure",
       "provenance": "primary",
-      "tags": []
+      "tags": [],
+      "providers": [
+        "nvidia"
+      ]
     },
     {
       "id": "c208665c6a536e1503",
@@ -2445,7 +3335,8 @@
       "tags": [
         "Safety",
         "Research"
-      ]
+      ],
+      "providers": []
     },
     {
       "id": "c61029aebfa012d545",
@@ -2458,6 +3349,25 @@
       "provenance": "primary",
       "tags": [
         "Research"
+      ],
+      "providers": [
+        "nvidia"
+      ]
+    },
+    {
+      "id": "a82d7f84fdf5f2799c",
+      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
+      "summary": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed set of guidelines […]",
+      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-08-04T13:00:47.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "primary",
+      "tags": [
+        "Agents"
+      ],
+      "providers": [
+        "nvidia"
       ]
     },
     {
@@ -2469,7 +3379,8 @@
       "publishedAt": "2026-08-04T06:40:00.000Z",
       "category": "Industry",
       "provenance": "governance",
-      "tags": []
+      "tags": [],
+      "providers": []
     }
   ]
 }
