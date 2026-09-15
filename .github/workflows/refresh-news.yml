@@ -35,6 +35,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Apply deterministic mobile UX patches
+        run: node scripts/patch-mobile-discover.mjs
       - name: Validate application, expanded registries and privacy coverage
         run: |
           node --check app.js
@@ -42,6 +44,7 @@ jobs:
           node --check android/app/src/main/assets/copilot-v2.js
           node --check android/app/src/main/assets/intelligence-v3.js
           node --check android/app/src/main/assets/ux-v31.js
+          node --check scripts/patch-mobile-discover.mjs
           node --check scripts/fetch-news.mjs
           node --check scripts/fetch-news-expanded.mjs
           node --check scripts/update-readme-news.mjs
@@ -61,21 +64,22 @@ jobs:
           if(sources.length<120||providers.length<50){console.error('Expanded catalog unexpectedly small',sources.length,providers.length);process.exit(2)}
           if(missing.length){console.error('Privacy catalog missing registered names:',missing);process.exit(3)}
           if(dupS.length||dupP.length){console.error('Duplicate registry keys',dupS,dupP);process.exit(4)}
-          console.log('Expanded JSON + privacy coverage OK:',sources.length,'sources,',providers.length,'providers');
+          if(/searchInput['"]?\)?\.focus|searchInput.*focus/.test(fs.readFileSync('android/app/src/main/assets/app.js','utf8'))){console.error('Discover auto-focus still present');process.exit(5)}
+          console.log('Expanded JSON + privacy + Discover UX checks OK:',sources.length,'sources,',providers.length,'providers');
           NODE
       - name: Build strict expanded AI-only news dataset
         run: node scripts/fetch-news-expanded.mjs
       - name: Refresh repository frontpage
         run: node scripts/update-readme-news.mjs
-      - name: Commit live dataset, privacy catalog and frontpage
+      - name: Commit live dataset, privacy catalog, UX patch and frontpage
         run: |
-          if git diff --quiet -- data/news.json README.md PRIVACY.md PRIVACY-SOURCES.md; then
-            echo "No feed/frontpage/catalog change."
+          if git diff --quiet -- data/news.json README.md PRIVACY.md PRIVACY-SOURCES.md android/app/src/main/assets/app.js; then
+            echo "No feed/frontpage/catalog/UX change."
             exit 0
           fi
           git config user.name "ai-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/news.json README.md PRIVACY.md PRIVACY-SOURCES.md
+          git add data/news.json README.md PRIVACY.md PRIVACY-SOURCES.md android/app/src/main/assets/app.js
           git commit -m "data: refresh expanded AI-only intelligence feed"
           git pull --rebase origin main
           git push origin HEAD:main
