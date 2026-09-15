@@ -7,6 +7,10 @@ on:
   push:
     branches: [main]
     paths:
+      - 'app.js'
+      - 'index.html'
+      - 'styles.css'
+      - 'sw.js'
       - 'scripts/**'
       - 'config/**'
       - '.github/workflows/refresh-news.yml'
@@ -29,6 +33,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Validate JavaScript and JSON
+        run: |
+          node --check app.js
+          node --check scripts/fetch-news.mjs
+          node -e "JSON.parse(require('fs').readFileSync('config/sources.json','utf8')); JSON.parse(require('fs').readFileSync('config/providers.json','utf8')); console.log('JSON OK')"
       - name: Build AI-only news dataset
         run: node scripts/fetch-news.mjs
       - name: Commit updated dataset
