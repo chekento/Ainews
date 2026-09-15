@@ -69,7 +69,7 @@ Search syntax includes `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**60 curated sources · 18 provider monitors · AI-only filter v4 · snapshot 2026-09-15 20:54 UTC**
+**60 curated sources · 18 provider monitors · AI-only filter v4 · snapshot 2026-09-15 21:36 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
@@ -107,7 +107,21 @@ Search syntax includes `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`
 
 ---
 
-## 📱 Android 2.1 — Visual Intelligence
+<!-- COPILOT_INTELLIGENCE:START -->
+## ✦ Copilot Intelligence 2.2
+
+The Android app now treats Copilot as a **contextual intelligence layer**, not a detached chatbot. It follows the selected story, current Discover filters, provider context or the full enabled feed and uses weighted retrieval across titles, excerpts, tags, providers, categories, provenance and recency.
+
+**Built in:** evidence cards with original sources · primary-source boost · source-diverse retrieval · Summary · Why it matters · Compare · Timeline · Risk & policy · Source check · evidence-backed briefings · session-only follow-up context · inline Copilot actions on news cards.
+
+Copilot settings expose **Auto / Story / Current View / Full Feed**, evidence depth, primary-source preference, evidence-card visibility and session memory. Optional OpenAI-compatible endpoints remain session-configured; no permanent API secret is bundled.
+
+**[→ Copilot architecture & privacy](portal/copilot.md)**
+<!-- COPILOT_INTELLIGENCE:END -->
+
+---
+
+## 📱 Android 2.2 — Visual Intelligence
 
 The APK uses a local mobile interface rather than depending on GitHub Pages. It downloads the current AI-only JSON feed directly from this repository and keeps a bundled offline fallback inside the package.
 
@@ -117,7 +131,7 @@ The APK uses a local mobile interface rather than depending on GitHub Pages. It 
 
 **Customization:** Hypercyber/OLED/Light/System themes, multiple accents, UI density, font scale, animation level, summaries, visual previews, default time range, sorting, refresh cadence, primary-source boost, provider monitors and research-paper visibility.
 
-### [⬇ Download AI News Android 2.1](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 2.2](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 
 > Direct APKs are debug-signed test builds. A Play Store production package should use a dedicated release key and AAB pipeline.
 
@@ -126,11 +140,11 @@ The APK uses a local mobile interface rather than depending on GitHub Pages. It 
 <!-- ANDROID_WIDGETS:START -->
 ## ⚡ Hypercyber Android Widgets
 
-Android **2.1** ships eight native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock** — now carrying the refreshed A+Broadcast identity.
+Android **2.2** ships eight native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock** — carrying the A+Broadcast identity.
 
 They share the app's source exclusions and support configurable **content mode, accent, text scale, density, summary visibility and metadata visibility**. Every widget reads the live AI-only dataset and falls back to bundled news when offline.
 
-### [⬇ Download AI News Android 2.1](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 2.2](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- ANDROID_WIDGETS:END -->
 
 ---
@@ -167,7 +181,7 @@ Current generated metadata is available in [`data/news.json`](data/news.json), i
 - `android/` — Android app, native widgets and local mobile UI
 - `assets/branding/` — repository/web logo system
 - `.github/workflows/refresh-news.yml` — 30-minute feed refresh
-- `.github/workflows/android-apk.yml` — Android 2.1 build and stable `android-latest` release
+- `.github/workflows/android-apk.yml` — Android 2.2 build and stable `android-latest` release
 
 ### Image policy
 
