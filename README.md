@@ -8,14 +8,25 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.1-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download Android APK"></a>
-  <a href="portal/news.md"><img src="https://img.shields.io/badge/LIVE_AI_NEWS-55D9FF?style=for-the-badge&logo=rss&logoColor=07111f" alt="Live AI News"></a>
-  <a href="config/sources.json"><img src="https://img.shields.io/badge/60_AI_SOURCES-A993FF?style=for-the-badge" alt="60 AI sources"></a>
-  <a href="config/providers.json"><img src="https://img.shields.io/badge/18_LLM_ECOSYSTEMS-FF78C8?style=for-the-badge" alt="18 LLM providers"></a>
+  <img src="https://img.shields.io/badge/STATUS-BETA_%2F_IN_DEVELOPMENT-FFB347?style=for-the-badge" alt="Beta / in development">
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.1_BETA-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download current Android Beta APK"></a>
+</p>
+
+> [!WARNING]
+> **BETA / IN DEVELOPMENT.** AI News and the Android APK are active test builds and may contain bugs, incomplete functions, inaccurate classifications, notification issues or breaking changes. **Use at your own risk / Nutzung auf eigene Gefahr.** Do not rely on the app as the sole source for important, legal, safety-critical, financial or operational decisions. Verify important information with the linked original sources. The directly distributed APK is currently a **debug-signed beta build**, not a production Play Store release.
+
+<p align="center">
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.1 BETA</strong></a><br>
+  <a href="https://github.com/chekento/Ainews/releases/tag/android-latest">Release details</a> ·
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256">SHA-256 checksum</a> ·
+  <a href="PRIVACY.md">Datenschutz / Privacy & all sources</a> ·
+  <a href="https://kosch.cloud">Impressum / kosch.cloud</a>
 </p>
 
 <p align="center">
-  <a href="PRIVACY.md"><strong>🔐 Datenschutz / Privacy & all sources</strong></a> · <a href="https://kosch.cloud"><strong>Impressum / kosch.cloud</strong></a>
+  <a href="portal/news.md"><img src="https://img.shields.io/badge/LIVE_AI_NEWS-55D9FF?style=for-the-badge&logo=rss&logoColor=07111f" alt="Live AI News"></a>
+  <a href="config/sources.json"><img src="https://img.shields.io/badge/60_AI_SOURCES-A993FF?style=for-the-badge" alt="60 AI sources"></a>
+  <a href="config/providers.json"><img src="https://img.shields.io/badge/18_LLM_ECOSYSTEMS-FF78C8?style=for-the-badge" alt="18 LLM providers"></a>
 </p>
 
 <p align="center">
@@ -38,11 +49,11 @@ Strict AI-only relevance filtering across labs, research, independent reporting,
 </td>
 <td width="50%" valign="top">
 
-### 📱 ANDROID 3.1
+### 📱 ANDROID 3.1 BETA
 
-Command Center home, Discover search, source controls, saved stories, Copilot and nine configurable home-screen widgets.
+Command Center home, Discover search, source controls, saved stories, Copilot, Smart Watches and nine configurable home-screen widgets.
 
-**[Download APK →](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)**
+**[⬇ Download current APK →](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)**
 
 </td>
 </tr>
@@ -51,16 +62,14 @@ Command Center home, Discover search, source controls, saved stories, Copilot an
 
 ### 🖼️ VISUAL NEWS CARDS
 
-Publisher images are embedded when they are explicitly supplied in RSS/Atom metadata. Otherwise the UI selects one of **10 bundled cyber fallback visuals**.
-
-No article-page image scraping.
+Publisher images are embedded only when explicitly supplied in RSS/Atom metadata. Otherwise the UI uses bundled fallback visuals. No article-page image scraping.
 
 </td>
 <td width="50%" valign="top">
 
 ### ⌕ POWER SEARCH
 
-Search syntax includes `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `before:`, `is:saved`, `is:primary`, quoted phrases and negative terms.
+Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `before:`, `is:saved`, `is:primary`, quoted phrases and negative terms.
 
 **[Provider wire →](portal/llm-wire.md)**
 
@@ -79,20 +88,14 @@ Search syntax includes `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`
 |---:|---|---|:---:|---|---|
 | 01 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [The AI data center boom is colliding with cities scarred by big industry](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/) |
 | 02 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) |
-| 03 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Making sovereign, open-weight AI the technology frontier - mistral.ai](https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5) |
+| 03 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Making sovereign, open-weight AI the technology frontier - mistral.ai](https://news.google.com/rss/) |
 | 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) |
-| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/) |
-| 06 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost](https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/) |
-| 07 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 08 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’](https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/) |
-| 09 | **The Decoder** | Research | 🖼️ | ● HIGH | [AI labs have a data trust problem that their policies haven't solved](https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/) |
-| 10 | **MIT Technology Review AI** | Industry | ◈ | ● HIGH | [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/) |
-| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [AI agents now have a place to snitch](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/) |
-| 12 | **Google DeepMind** | Frontier Models | ◈ | ● HIGH | [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) |
+| 05 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost](https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/) |
+| 06 | **Google DeepMind** | Frontier Models | ◈ | ● HIGH | [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) |
 
 [→ Full generated dataset](data/news.json) · [→ Source matrix](config/sources.json) · [→ GitHub News portal](portal/news.md)
 
-> **Image policy:** publisher artwork is used only when it is explicitly exposed in RSS/Atom metadata. No article-page image scraping. The Android/Web UI falls back to one of ten bundled AI News visuals when no feed image is available.
+> **Image policy:** publisher artwork is used only when explicitly exposed in RSS/Atom metadata. No article-page image scraping. Android/Web fall back to bundled AI News visuals when no feed image is available.
 <!-- LATEST_AI_NEWS:END -->
 
 ---
@@ -114,9 +117,11 @@ Search syntax includes `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`
 <!-- COPILOT_INTELLIGENCE:START -->
 ## ✦ Copilot Intelligence 2.2
 
-Copilot is a **contextual intelligence layer**, not a detached chatbot. It follows the selected story, Discover filters, provider context or the full enabled feed and retrieves a source-diverse evidence set across titles, excerpts, tags, providers, categories, provenance and recency.
+Copilot follows the selected story, Discover filters, provider context or the full enabled feed and retrieves a source-diverse evidence set across titles, excerpts, tags, providers, categories, provenance and recency.
 
 **Built in:** evidence cards · primary-source boost · Summary · Why it matters · Compare · Timeline · Risk & policy · Source check · briefings · session-only follow-up context · inline Copilot actions.
+
+> Copilot output is an experimental beta feature. Important claims should be checked against the displayed original evidence.
 
 **[→ Copilot architecture & privacy](portal/copilot.md)**
 <!-- COPILOT_INTELLIGENCE:END -->
@@ -124,61 +129,54 @@ Copilot is a **contextual intelligence layer**, not a detached chatbot. It follo
 ---
 
 <!-- INTELLIGENCE_SUITE:START -->
-## ◉ Intelligence Suite 3.1 — UX & Privacy
+## ◉ Intelligence Suite 3.1 — UX & Privacy · BETA
 
-Android 3.1 keeps **Latest · For You · High Signal · Story Clusters · Brief** as first-class modes and hardens the experience around them: deterministic intelligence-layer loading, cleaner back navigation, safer destructive actions, provider-dossier navigation fixes, deep-linked Smart Watch notifications and duplicate-free native TTS.
+Android 3.1 keeps **Latest · For You · High Signal · Story Clusters · Brief** as first-class modes and adds deterministic intelligence-layer loading, cleaner back navigation, safer destructive actions, provider-dossier navigation fixes, deep-linked Smart Watch notifications and duplicate-free native TTS.
 
-**Privacy & control:** a dedicated Settings section links to the full GitHub privacy policy, all registered sources, and **kosch.cloud** as the provider/imprint destination. Local personalization/Copilot-session data and saved stories can be cleared separately. CI now fails if a registered source or provider is missing from PRIVACY.md.
+**Privacy & control:** Settings link to the full GitHub privacy policy, all registered sources and **kosch.cloud** as the provider/imprint destination. Local personalization/Copilot-session data and saved stories can be cleared separately.
 
-### [⬇ Download AI News Android 3.1](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.1 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- INTELLIGENCE_SUITE:END -->
 
 ---
 
-## 📱 Android 3.1 — UX & Privacy
+## 📱 Android 3.1 Beta — UX & Privacy
 
 The APK uses a local mobile interface rather than depending on GitHub Pages. It downloads the current AI-only JSON feed directly from this repository and keeps a bundled offline fallback inside the package.
 
-**Visual layer:** new A+Broadcast logo, launcher icon and favicon; publisher feed images where available; ten local fallback visuals; image-aware rich cards; offline-safe branding.
-
-**UX layer:** horizontal swipe navigation, Command Center home, advanced Discover search, provider/source/category/provenance/time filters, Rich/Compact/Headline card modes, saved stories, native sharing, Governance Radar, Official Social and AI News Copilot.
+**UX:** horizontal swipe navigation, Command Center home, advanced Discover search, provider/source/category/provenance/time filters, Rich/Compact/Headline card modes, saved stories, native sharing, Governance Radar, Official Social and AI News Copilot.
 
 **Customization:** Hypercyber/OLED/Light/System themes, multiple accents, UI density, font scale, animation level, summaries, visual previews, default time range, sorting, refresh cadence, primary-source boost, provider monitors and research-paper visibility.
 
-### [⬇ Download AI News Android 3.1](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download current Android 3.1 Beta APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 
-> Direct APKs are debug-signed test builds. A Play Store production package should use a dedicated release key and AAB pipeline.
+> [!CAUTION]
+> This direct APK is a **debug-signed development/beta build**. Installation and use are at your own risk. Back up important data and do not treat the app as production-critical software. A Play Store production package should use dedicated release signing and an AAB pipeline.
 
 ---
 
 <!-- ANDROID_WIDGETS:START -->
-## ⚡ Hypercyber Android Widgets
+## ⚡ Hypercyber Android Widgets · BETA
 
 Android **3.1** ships nine native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock · Live AI Radar**.
 
 Widgets share source exclusions, expose configurable content mode/accent/text scale/density/summary/metadata, show a transparent local signal badge and support **Next ›** plus **Refresh ↻** without opening the app.
 
-### [⬇ Download AI News Android 3.1](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.1 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- ANDROID_WIDGETS:END -->
 
 ---
 
-## 🧠 AI-only ingestion
-
-The feed treats relevance as a data-quality rule, not a cosmetic filter. Broad feeds must match explicit AI/model/provider terminology; provider-monitor results must mention the tracked ecosystem; RSS-less sources can use domain-scoped monitors; low-confidence items are discarded before publication.
-
-Current generated metadata is available in [`data/news.json`](data/news.json), including feed health, provider coverage, source coverage, AI confidence and optional feed-provided image metadata.
-
----
-
 ## 🛰️ Portal
+
+Every page carries the same beta status, current APK link and legal/privacy navigation.
 
 - **[News](portal/news.md)** — current AI stream
 - **[LLM Provider Wire](portal/llm-wire.md)** — 18 model ecosystems
 - **[Governance Radar](portal/governance.md)** — policy, standards, ethics and safety
 - **[Official Social](portal/social.md)** — official profile links only; no post scraping
 - **[AI News Copilot](portal/copilot.md)** — context-aware research surface
-- **[60-source registry](config/sources.json)** — source classes, tags, regions and monitor configuration
+- **[Privacy & all sources](PRIVACY.md)** — data flows, local storage, permissions and source transparency
 
 ---
 
@@ -192,25 +190,25 @@ Current generated metadata is available in [`data/news.json`](data/news.json), i
 - `data/news.json` — generated intelligence dataset
 - `config/sources.json` — 60-source matrix
 - `config/providers.json` — 18 LLM/provider ecosystems
-- `android/` — Android app, native widgets and local mobile UI
+- `android/` — Android beta app, native widgets and local mobile UI
 - `assets/branding/` — repository/web logo system
 - `.github/workflows/refresh-news.yml` — 30-minute feed refresh
-- `.github/workflows/android-apk.yml` — Android 2.2 build and stable `android-latest` release
-
-### Image policy
-
-1. Article-page HTML is not scraped for images.
-2. A publisher image is eligible only when its RSS/Atom item explicitly exposes an image URL via media metadata, enclosure or feed content.
-3. Missing/failed remote images fall back to one of ten bundled vector visuals.
-4. The original publisher article remains the canonical destination.
+- `.github/workflows/android-apk.yml` — Android 3.1 beta build and stable `android-latest` download
 
 ### Android build
 
 Package: `cloud.kosch.ainews`  
+Status: **Beta / in development**  
 Minimum Android: API 26  
 Target / compile SDK: 35  
 Java: 17
 
+### Current direct-test release
+
+- APK: `https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk`
+- SHA-256: `82c896a434d58d43ba2876a45c58754dceade570b878529b001be9e78704bac6`
+- Release channel: `android-latest`
+
 </details>
 
-<p align="center"><strong>AI NEWS // HYPERINTELLIGENCE</strong><br><sub>Source first. AI only. Signal over noise.</sub></p>
+<p align="center"><strong>AI NEWS // HYPERINTELLIGENCE · BETA</strong><br><sub>Source first. AI only. Signal over noise. Use at your own risk.</sub></p>
