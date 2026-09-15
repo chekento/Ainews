@@ -1,22 +1,26 @@
 <p align="center">
+  <a href="PRIVACY.md"><strong>🔐 Datenschutz / Privacy</strong></a> · <a href="PRIVACY-SOURCES.md"><strong>All sources & providers</strong></a> · <a href="https://kosch.cloud"><strong>Impressum / kosch.cloud</strong></a>
+</p>
+
+<p align="center">
   <img src="assets/branding/logo.svg" width="920" alt="AI News Hyperintelligence">
 </p>
 
 <p align="center">
   <strong>AI-only intelligence for models, agents, research, infrastructure, robotics, safety and governance.</strong><br>
-  Source-first · 60 curated AI sources · 18 provider monitors · refreshed every 30 minutes
+  Source-first · 147 registered AI sources · 60 provider monitors · refreshed every 30 minutes
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-BETA_%2F_IN_DEVELOPMENT-FFB347?style=for-the-badge" alt="Beta / in development">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.1_BETA-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download current Android Beta APK"></a>
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.2_BETA-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download current Android Beta APK"></a>
 </p>
 
 > [!WARNING]
 > **BETA / IN DEVELOPMENT.** AI News and the Android APK are active test builds and may contain bugs, incomplete functions, inaccurate classifications, notification issues or breaking changes. **Use at your own risk / Nutzung auf eigene Gefahr.** Do not rely on the app as the sole source for important, legal, safety-critical, financial or operational decisions. Verify important information with the linked original sources. The directly distributed APK is currently a **debug-signed beta build**, not a production Play Store release.
 
 <p align="center">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.1 BETA</strong></a><br>
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.2 BETA</strong></a><br>
   <a href="https://github.com/chekento/Ainews/releases/tag/android-latest">Release details</a> ·
   <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256">SHA-256 checksum</a> ·
   <a href="PRIVACY.md">Datenschutz / Privacy & all sources</a> ·
@@ -25,8 +29,8 @@
 
 <p align="center">
   <a href="portal/news.md"><img src="https://img.shields.io/badge/LIVE_AI_NEWS-55D9FF?style=for-the-badge&logo=rss&logoColor=07111f" alt="Live AI News"></a>
-  <a href="config/sources.json"><img src="https://img.shields.io/badge/60_AI_SOURCES-A993FF?style=for-the-badge" alt="60 AI sources"></a>
-  <a href="config/providers.json"><img src="https://img.shields.io/badge/18_LLM_ECOSYSTEMS-FF78C8?style=for-the-badge" alt="18 LLM providers"></a>
+  <a href="config/sources.json"><img src="https://img.shields.io/badge/147_AI_SOURCES-A993FF?style=for-the-badge" alt="147 AI sources"></a>
+  <a href="config/providers.json"><img src="https://img.shields.io/badge/60_AI_PROVIDER_ECOSYSTEMS-FF78C8?style=for-the-badge" alt="60 AI providers"></a>
 </p>
 
 <p align="center">
@@ -49,7 +53,7 @@ Strict AI-only relevance filtering across labs, research, independent reporting,
 </td>
 <td width="50%" valign="top">
 
-### 📱 ANDROID 3.1 BETA
+### 📱 ANDROID 3.2 BETA
 
 Command Center home, Discover search, source controls, saved stories, Copilot, Smart Watches and nine configurable home-screen widgets.
 
@@ -82,26 +86,26 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**60 curated sources · 18 provider monitors · AI-only filter v4 · snapshot 2026-09-15 22:07 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-15 22:21 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
 | 01 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [The AI data center boom is colliding with cities scarred by big industry](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/) |
 | 02 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) |
 | 03 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Making sovereign, open-weight AI the technology frontier - mistral.ai](https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) |
-| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/) |
-| 06 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost](https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/) |
-| 07 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 08 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’](https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/) |
-| 09 | **The Decoder** | Research | 🖼️ | ● HIGH | [AI labs have a data trust problem that their policies haven't solved](https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/) |
-| 10 | **MIT Technology Review AI** | Industry | ◈ | ● HIGH | [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/) |
-| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [AI agents now have a place to snitch](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/) |
-| 12 | **Google DeepMind** | Frontier Models | ◈ | ● HIGH | [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) |
+| 04 | **Google Research** | Research | ◈ | ● HIGH | [Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train - Google Research](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjYwVDI5dkh1QzFCaFhNbzlvRW9jRV9XMVhKSXhWblAwMy10VDBabFM4QkoxWDg4NGo3blNuSUlWbTA3M2RzdE5rTC1iVXRCUnN0X2RvczN2em5tUFVubkEyUFduQUdGeENObWNnRWFjX0FDZWoxeU5sM2xiMlREVXpDX2R2TDRKWDZWaFhDUUZfMFJtVkJlcEhuODZubmkzRjFXa1VVSGR3QnBmSjNoSjdJTWpLWm8?oc=5) |
+| 05 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 06 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) |
+| 07 | **Axios AI** | Industry | ◈ | ◐ MED | [Voters give edge to GOP over Dems on AI - Axios](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVFFLSll4alRvRkd0M3lHOG5xcXB0djRybTllQlJ6VnBuRm5fMU80clJJSDdFS0I1cC16d3ZacWk2aGZFMXJpNnoxenhSSEx4ODYtckZvV0djZHV6TDVnM2hqeS1wbEoyNU1zUnVfdnQ?oc=5) |
+| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/) |
+| 09 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost](https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/) |
+| 10 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
+| 11 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’](https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/) |
+| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
 
-[→ Full generated dataset](data/news.json) · [→ Source matrix](config/sources.json) · [→ GitHub News portal](portal/news.md)
+[→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
-> **Image policy:** publisher artwork is used only when it is explicitly exposed in RSS/Atom metadata. No article-page image scraping. The Android/Web UI falls back to one of ten bundled AI News visuals when no feed image is available.
+> **Image policy:** publisher artwork is used only when it is explicitly exposed in RSS/Atom metadata. No article-page image scraping. The Android/Web UI falls back to bundled AI News visuals when no feed image is available.
 
 > **Beta data-quality note:** automated relevance, categorization, provider matching and summaries can still be incomplete or wrong. Verify important information with the linked original source.
 <!-- LATEST_AI_NEWS:END -->
@@ -127,7 +131,7 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 
 Copilot is a **contextual intelligence layer**, not a detached chatbot. It follows the selected story, Discover filters, provider context or the full enabled feed and retrieves a source-diverse evidence set across titles, excerpts, tags, providers, categories, provenance and recency.
 
-**Built in:** evidence cards · primary-source boost · Summary · Why it matters · Compare · Timeline · Risk & policy · Source check · briefings · session-only follow-up context · inline Copilot actions.
+**Built in:** evidence cards · primary-source boost · Summary · Why it matters · Compare · Timeline · Risk & policy · Source check · Morning / Evening / Since-last-visit briefings · session-only follow-up context · inline Copilot actions.
 
 > Copilot output is experimental. Source grounding reduces error risk but does not eliminate it; inspect the evidence and original publication for important claims.
 
@@ -137,20 +141,20 @@ Copilot is a **contextual intelligence layer**, not a detached chatbot. It follo
 ---
 
 <!-- INTELLIGENCE_SUITE:START -->
-## ◉ Intelligence Suite 3.1 — UX & Privacy · BETA
+## ◉ Intelligence Suite 3.2 — Discover & Expanded Intelligence · BETA
 
-Android 3.1 keeps **Latest · For You · High Signal · Story Clusters · Brief** as first-class modes and hardens the experience around them: deterministic intelligence-layer loading, cleaner back navigation, safer destructive actions, provider-dossier navigation fixes, deep-linked Smart Watch notifications and duplicate-free native TTS.
+Android 3.2 keeps **Latest · For You · High Signal · Story Clusters · Brief** and adds a more deliberate Discover experience: opening Discover no longer focuses the search field or opens the keyboard. Search starts only after an explicit tap.
 
-**Privacy & control:** a dedicated Settings section links to the full GitHub privacy policy, all registered sources, and **kosch.cloud** as the provider/imprint destination. Local personalization/Copilot-session data and saved stories can be cleared separately. CI fails if a registered source or provider is missing from PRIVACY.md.
+**New in 3.2:** Smart Brief presets for Morning / Evening / Since last visit · quick Smart-Watch templates · Widget Studio presets · local For-You reset/control · expanded core+extended source registry · 147 AI sources · 60 provider ecosystems.
 
 > **Development status:** this is an active beta/test build. Bugs, incomplete functions and breaking changes are possible. **Use at your own risk / Nutzung auf eigene Gefahr.**
 
-### [⬇ Download AI News Android 3.1 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.2 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- INTELLIGENCE_SUITE:END -->
 
 ---
 
-## 📱 Android 3.1 Beta — UX & Privacy
+## 📱 Android 3.2 Beta — Discover & Expanded Intelligence
 
 The APK uses a local mobile interface rather than depending on GitHub Pages. It downloads the current AI-only JSON feed directly from this repository and keeps a bundled offline fallback inside the package.
 
@@ -168,13 +172,13 @@ The APK uses a local mobile interface rather than depending on GitHub Pages. It 
 <!-- ANDROID_WIDGETS:START -->
 ## ⚡ Hypercyber Android Widgets · BETA
 
-Android **3.1** ships nine native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock · Live AI Radar**.
+Android **3.2** ships nine native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock · Live AI Radar**.
 
-Widgets share source exclusions, expose configurable content mode/accent/text scale/density/summary/metadata, show a transparent local signal badge and support **Next ›** plus **Refresh ↻** without opening the app.
+Widgets share source exclusions, expose configurable content mode/accent/text scale/density/summary/metadata, support **Next ›** plus **Refresh ↻**, and now include one-tap **Widget Studio presets** for balanced, minimal, dense and desk-specific setups.
 
 > Widget refresh timing and rendering can vary by Android device, launcher and battery-management policy. This remains beta functionality.
 
-### [⬇ Download AI News Android 3.1 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.2 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- ANDROID_WIDGETS:END -->
 
 ---

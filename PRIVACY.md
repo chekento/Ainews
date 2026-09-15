@@ -3,7 +3,8 @@
 **Stand:** 15. September 2026  
 **App:** AI News (`cloud.kosch.ainews`)  
 **Projekt / Anbieterinformationen:** [kosch.cloud](https://kosch.cloud)  
-**Repository:** `chekento/Ainews`
+**Repository:** `chekento/Ainews`  
+**Vollständiges Quellen- & Provider-Verzeichnis:** [PRIVACY-SOURCES.md](PRIVACY-SOURCES.md)
 
 Diese Datenschutzerklärung beschreibt die tatsächlichen Datenflüsse der AI-News-App und des zugehörigen GitHub-Projekts. Sie ist zugleich das öffentliche Quellen- und Transparenzverzeichnis der App.
 
