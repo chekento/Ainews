@@ -1,35 +1,38 @@
 {
-  "generatedAt": "2026-09-15T19:22:03.788Z",
+  "generatedAt": "2026-09-15T19:24:06.214Z",
   "refreshMinutes": 30,
   "sourceCount": 42,
   "providerCount": 18,
   "feedCount": 24,
   "healthyFeeds": 23,
+  "providerMonitors": 18,
+  "healthyProviderMonitors": 18,
   "failedSources": [
     {
       "source": "VentureBeat AI",
       "error": "fetch failed"
     }
   ],
+  "failedProviderMonitors": [],
   "providerCoverage": {
-    "openai": 34,
-    "anthropic": 18,
-    "google": 39,
-    "microsoft": 8,
-    "meta": 1,
-    "xai": 1,
-    "mistral": 1,
-    "cohere": 3,
-    "perplexity": 2,
-    "qwen": 1,
-    "kimi": 0,
-    "deepseek": 0,
-    "zai": 0,
-    "minimax": 0,
-    "ai21": 0,
-    "amazon": 14,
-    "nvidia": 19,
-    "ibm": 0
+    "openai": 37,
+    "anthropic": 20,
+    "google": 42,
+    "microsoft": 12,
+    "meta": 5,
+    "xai": 5,
+    "mistral": 5,
+    "cohere": 6,
+    "perplexity": 6,
+    "qwen": 5,
+    "kimi": 4,
+    "deepseek": 4,
+    "zai": 4,
+    "minimax": 4,
+    "ai21": 4,
+    "amazon": 16,
+    "nvidia": 23,
+    "ibm": 4
   },
   "items": [
     {
@@ -317,6 +320,23 @@
       "provenance": "journalism",
       "tags": [],
       "providers": []
+    },
+    {
+      "id": "64c853bbae76cd4050",
+      "title": "Crusoe and Perplexity Announce Multi-Year AI Partnership",
+      "summary": "Provider-monitor coverage surfaced for Perplexity. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKc3pFNk8zWVZKQXVNdEJuSnhULVYzcGR3bFFHUHBhbFFBREFDUlI0Q2lZckp3SzRqaWhkRTdMRksybndONHZ5MFVlWmxtc0Etd21yOHJRWHlQZ0c2MzJLcl9LNl9ZWVV3RUF0TlBnMVZod0ttR0E2TXl3?oc=5",
+      "source": "Crusoe · provider monitor",
+      "publishedAt": "2026-09-15T14:51:24.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "perplexity"
+      ],
+      "monitor": true
     },
     {
       "id": "9d593980660b448e60",
@@ -977,20 +997,6 @@
       ]
     },
     {
-      "id": "b4fe488b8a75c59d8a",
-      "title": "‘Silent Cold War’: Why calls to slow AI have sparked new US–China frontier",
-      "summary": "Calls by technology leaders to slow AI’s development raise questions about their ability and willingness to control the technology, according to Aya Ibrahim, Senior Economic and National Security Fellow at the AI Now Institute. The post ‘Silent Cold War’: Why calls to slow AI have sparked new US–China frontier appeared first on AI Now Institute .",
-      "url": "https://ainowinstitute.org/news/press/silent-cold-war-why-calls-to-slow-ai-have-sparked-new-us-china-frontier",
-      "source": "AI Now Institute",
-      "publishedAt": "2026-09-14T19:24:53.000Z",
-      "category": "Safety & Security",
-      "provenance": "governance",
-      "tags": [],
-      "providers": [
-        "cohere"
-      ]
-    },
-    {
       "id": "26d7aed0bf6f3db14f",
       "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
       "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
@@ -1047,6 +1053,23 @@
       "providers": []
     },
     {
+      "id": "eb29bf20b951067481",
+      "title": "China's DeepSeek hires dealmaker as CFO ahead of possible IPO",
+      "summary": "Provider-monitor coverage surfaced for DeepSeek. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONHdQbHZseE9aRy1MVkFWYnNwZXFwZVFKZnU4dWRLSlpjeC1aTmRUdWYxUFhaMGNFd0ZRb3dMdHUwdnFUNnJENkZfRE42X2pxOEllNFlSaElvbUY0eEU4ei12UF90MmxScmdxNkdGeWRicU1FUmlWZTJCNjB1WXNoaXlfQ1hDdS05UV9KLUZ2bWFhY0lQU0FNQ0R4WmI4d1VHc3l4Sk9mZTFjTm8?oc=5",
+      "source": "reuters.com · provider monitor",
+      "publishedAt": "2026-09-14T16:37:13.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "deepseek"
+      ],
+      "monitor": true
+    },
+    {
       "id": "217bc85ea3a75aef56",
       "title": "DevFest is back",
       "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
@@ -1095,6 +1118,40 @@
       "providers": [
         "amazon"
       ]
+    },
+    {
+      "id": "39eff1605148d3371e",
+      "title": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock | Amazon Web Services",
+      "summary": "Provider-monitor coverage surfaced for Amazon AI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGJURFl6aV9uTTl5M0dWeXJXUkU4MEZZaGRwSzZKSzU4Q2FWNGdseGtySlpwUmhHU1g5eE5ESWRDNENUaENaREltcFpCRlM1T2VPZjlGNF8tQm1yaGxHVTVKQWZUNlowMXBNMm80RlZfR1pGenhYbXNzNUpsQm9pRDBsNXRMbDR5M29OSmt4cWF3SEVRenRiSkNIc1RNLUpPZkZMdFZ5UHo4SmdzUWF3RjNHd29TMC0tZVNhcg?oc=5",
+      "source": "Amazon Web Services (AWS) · provider monitor",
+      "publishedAt": "2026-09-14T15:58:57.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "amazon"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "850d8ae3277edb5970",
+      "title": "GoTo Foods appoints McDonald’s vet as Jamba president",
+      "summary": "Provider-monitor coverage surfaced for AI21 Labs. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2pEX3FKejFld0sxOVhoY0l4bGRGMDg2TVZyekxXVXZRNkRkZHZYWEhsNkZsM1pzV0ZCc0VSaVlZNTFXUHV3Sk5HcTNfcnVVZGtDOFlmb0s2Y3A5QjlGRkhDZ3hSMFI2eTdlRUpxNWxfNG9CemZURkpvNk4yMXVqSkxWOEJvVXZvMlBlOFhObWp2Q2N5VWdNT2xnLVM1TG1nYkxBd1ZzNHFmQQ?oc=5",
+      "source": "Restaurant Dive · provider monitor",
+      "publishedAt": "2026-09-14T15:55:17.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "ai21"
+      ],
+      "monitor": true
     },
     {
       "id": "88dcbc18ca60b03c94",
@@ -1252,6 +1309,23 @@
       "providers": []
     },
     {
+      "id": "094b8d728edeb9a62a",
+      "title": "AI models are becoming the ‘most potent cyber weapon’ ever created, Cohere CEO says",
+      "summary": "Provider-monitor coverage surfaced for Cohere. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTFFqSmtLMk9WWUVza1Q1WUZiS0RpMkFER1RhT184ZUIzVnlFcXFFZGlDXzZlYVp0RzBUeHktQXhRenAzNDF1REdCT3ZqXzlwM1FndXZ4bWZkVVNsTlJkemVsYnc0WmIzdjJ4ajJURVlRZlJoRFhtQU1jRXBBX3VySHpQTDY5MmfSAYwBQVVfeXFMTUJ0VEdRZUFnb3FPS2NTWm5YTW5xdVBFWTduQVUxYzBQMkdjQnhuOUtheGFVMV93c1V5WGljcm8tOVhxQk54ZUpBSkhUSlp6YVI1V2FtWTZHZlFGaVVpRElMbEY4Q3VZb05NLURmUURJajZsd1UxaDhzeDhwRzdHX3NwTkwya2lmN1NrazY?oc=5",
+      "source": "CNBC · provider monitor",
+      "publishedAt": "2026-09-14T12:46:44.000Z",
+      "category": "Safety & Security",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "cohere"
+      ],
+      "monitor": true
+    },
+    {
       "id": "f176838aefcdde116f",
       "title": "Why Andon Labs Puts AI Agents in Charge of Real Businesses",
       "summary": "Maybe you heard about the AI-controlled vending machine that stocked underwear and live fish . Or the AI manager of a San Francisco store that fired a human employee . Or the AI radio DJ that said its catchphrase , “Stay in the manifest,” 229 times per day. These incidents all emerged from experiments run by Andon Labs , an AI safety company based in San Francisco that puts AI agents in charge of real-world operation",
@@ -1390,6 +1464,23 @@
       "providers": []
     },
     {
+      "id": "fe762a9b4fab8fcc0e",
+      "title": "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months",
+      "summary": "Provider-monitor coverage surfaced for Z.AI / Zhipu. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYmVoRURQdmo5eklfcjBjWlVoaDQxYVVsOTdGX0RuMV9fcHRxUURLNFRQNFk4Vk9kWDJPN0wyeUpXYV9ON2lTelFzd2RCRUZZbVVtRkNhTEpCcHQ3OWM1NnRLMjNFQVlPN2l2c3JuWWZ6Y0dfVkp1V0paQ2FiV3pJUkM2bm4yRXBHSEZGMlpR0gGTAUFVX3lxTFAxS0Zwcmc1Q0l5WkZFZ1pRTXA4cFJHeTB0OWx4LUk5MXFGcF9GTjI0UkFtRFZqMlotdGFYLTYzU01LVXYyTk9QdGkzcFNXTGtSZnM1TERFeS01NWFxS0NacUlkLXhnUy1UU1VGZG5VYlhpbHFCSm5sTkRZQThsSV9lZEJnNHpjdUE1N3A0OVpsTndvRQ?oc=5",
+      "source": "CNBC · provider monitor",
+      "publishedAt": "2026-09-14T03:03:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "zai"
+      ],
+      "monitor": true
+    },
+    {
       "id": "c98f51d41a12a489d4",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
@@ -1403,6 +1494,23 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "id": "0d79cef12bd499c125",
+      "title": "Z.AI Plans $5.0 Billion Fundraising to Fuel AI Expansion",
+      "summary": "Provider-monitor coverage surfaced for Z.AI / Zhipu. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXlIUE13SkdlVEJJRjVrN0RPWmllSXJhaS1iSUFIZ0phX2g4MFhYRXRodjRrUWdfVzJrVUFVMjEwZVM1N2pDb253eFV0ZjBTc1lyUTVoUnREQW9OZm1TODNSVGFWSjZpWVlDRHFuUGxmajh3ZjBsSWMtN2plWFN3MVRIMloxNVZaNHZCMTRDa3dJTlFUWlcw?oc=5",
+      "source": "WSJ · provider monitor",
+      "publishedAt": "2026-09-13T23:56:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "zai"
+      ],
+      "monitor": true
     },
     {
       "id": "b50d8528d6d37ae180",
@@ -1437,16 +1545,22 @@
       ]
     },
     {
-      "id": "a06b6c4c7ab8e03930",
-      "title": "AI Governance Reaches Crisis Point Ahead of Trump-Xi Summit",
-      "summary": "Amba Kak joins a panel at the Institute for America, China, and the Future of Global Affairs at the Johns Hopkins School of Advanced International Studies to discuss the state and need for AI governance right now. The post AI Governance Reaches Crisis Point Ahead of Trump-Xi Summit appeared first on AI Now Institute .",
-      "url": "https://ainowinstitute.org/news/press/ai-governance-reaches-crisis-point-ahead-of-trump-xi-summit",
-      "source": "AI Now Institute",
-      "publishedAt": "2026-09-13T19:25:11.000Z",
+      "id": "79b92eefb0c1172923",
+      "title": "Anthropic, OpenAI, Google Quietly Discussed an AI Safety Standards Body",
+      "summary": "Provider-monitor coverage surfaced for OpenAI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUtGTGdnVXR2Z0d1QTJ0X0xET2tmTllHRmVYVVZ6Z01WcklGWU9YUWRIRU12QXZFMlJtQkg2ZTNEOUdaQ20wNXE2dE1rbE1mMzdkN0NMS05uUmk2Y3RtdS1ERUlsWVBwTUF5YXdKcWh2QXptbG85ZWE3Z1UteEFleEZYb1AwYkR2bjBNcHZR?oc=5",
+      "source": "The Information · provider monitor",
+      "publishedAt": "2026-09-13T19:16:00.000Z",
       "category": "Compliance & Ethics",
-      "provenance": "governance",
-      "tags": [],
-      "providers": []
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Safety"
+      ],
+      "providers": [
+        "openai"
+      ],
+      "monitor": true
     },
     {
       "id": "96eb3dbe2cbace9dd1",
@@ -1493,6 +1607,23 @@
       ]
     },
     {
+      "id": "fd41c0fbd01e387c1e",
+      "title": "We Must Pace the Frontier",
+      "summary": "Provider-monitor coverage surfaced for OpenAI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByRm5SZWdmLXZJN2RBM2hteVFFT0F2Qk5GVFozVEFmZHlaRVhYRmJNZ1pOS1I3MGstU1JvQldUeklNYjBUcDRGLTdDMGpnMzk5VTlxS0k4anFpRzFpMWhGeTBMYVY?oc=5",
+      "source": "darioamodei.com · provider monitor",
+      "publishedAt": "2026-09-12T14:15:02.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "openai"
+      ],
+      "monitor": true
+    },
+    {
       "id": "54eddc0a65546f4e3a",
       "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
       "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
@@ -1507,6 +1638,23 @@
       "providers": [
         "anthropic"
       ]
+    },
+    {
+      "id": "ed9d616d194c445844",
+      "title": "AI Startup Cohere Targets $20 Billion Valuation in Funding Round",
+      "summary": "Provider-monitor coverage surfaced for Cohere. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVowTmFXM1JYTG83VmkxRUxHWnVyWTlpRThGTTRJOGZzSTIweFRsVkgzRWFfbFRna19sLUtpT19zeG5RcUdYcjB1eHBaQ0NneE5mMXlVcHVYRXF1RlFLWk5xQ0xnZk43aDVPUlFkc2VnNkxPR3lLeG9VTXhWMThBQlBPQUJ5elp3TmsxdXk4djRNNWdzMFFFZ1haU1plMjV4YnRaMHY2aXM?oc=5",
+      "source": "pymnts.com · provider monitor",
+      "publishedAt": "2026-09-11T22:59:16.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "cohere"
+      ],
+      "monitor": true
     },
     {
       "id": "4bbfc09c1e64ae624b",
@@ -1586,6 +1734,23 @@
       ]
     },
     {
+      "id": "9b02946138d0fb02a4",
+      "title": "AI Firm Cohere in Talks for Up to $3 Billion Raise, Report Says",
+      "summary": "Provider-monitor coverage surfaced for Cohere. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUpHQV8zVUtYVHJLZzBjc1JhOXREOUpyVWJiam82MHZfU2VxRUtJMjc4X2tlS0hzQ1VwMzl5MjIwR3N6RFlFTGQzOHNyem05NU9aUC1NYkdSX2tSUG5SeXRIQ0lpV0lSa1E2NGxqR2w2ZHg3SUdNajI3TFdRMTR4SnBGWkEzd1FhblpOaTZjOHpvNFhCQWNzVGVJTUo3NG9Oc3c3WlhPeUFsY2N5OE1GZVJn?oc=5",
+      "source": "Bloomberg.com · provider monitor",
+      "publishedAt": "2026-09-11T18:03:31.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "cohere"
+      ],
+      "monitor": true
+    },
+    {
       "id": "775039b1e904464e19",
       "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
@@ -1650,6 +1815,23 @@
       "providers": [
         "openai"
       ]
+    },
+    {
+      "id": "0b88042129cc889be4",
+      "title": "China AI Star Moonshot Eyes $2 Billion Annualized Sales in 2026",
+      "summary": "Provider-monitor coverage surfaced for Moonshot AI / Kimi. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUllQm9GSVhqampKNXBQSjcxVENFX2lwN0xwU05wZVlxdzNnNU9iOXBRV0FQNU5HWmxyRjM2Y243TEd4SElLYkpIYjQ4YnUyZnk1cFdiQWF4S3oteGx3OThldTlsSzQ1bXhXbXJxYVFoZ2w2bTBWdDlpWEZkZmFWWTlxWHBsM182OWdkTU5yUTkyYllxbTBDOWIyZDJ0NzdGS1dPdEV4djV2RHp0Q29oaUM4aw?oc=5",
+      "source": "Bloomberg.com · provider monitor",
+      "publishedAt": "2026-09-11T09:17:27.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "kimi"
+      ],
+      "monitor": true
     },
     {
       "id": "45b37be5eaa2ca3cf6",
@@ -1742,6 +1924,23 @@
       "providers": []
     },
     {
+      "id": "8cd5a4e5334a294ee5",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "summary": "Provider-monitor coverage surfaced for Anthropic. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5",
+      "source": "Anthropic · provider monitor",
+      "publishedAt": "2026-09-10T17:10:27.000Z",
+      "category": "Safety & Security",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "anthropic"
+      ],
+      "monitor": true
+    },
+    {
       "id": "b3bcd9dfaca449fc3e",
       "title": "Supply chains detect fast, act slow: How AI agents fix it",
       "summary": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms happen, costs follow.) Treated as a product specification instead, it highlights an operating model that can […] The post Supply chains detect fast, act slow: How AI agents fix it ",
@@ -1756,6 +1955,23 @@
         "Enterprise"
       ],
       "providers": []
+    },
+    {
+      "id": "ffeb5d4fde6f08ae79",
+      "title": "The Gemini app is now available for Windows",
+      "summary": "Provider-monitor coverage surfaced for Google DeepMind. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVDIzNzRDTUpFM3hvblJLcHFBX3B6YUV4OVR1Qmc5TnMwd1dfU1RleU9tdlNpb1R6NDBkRVdNX2lzX0lZd0ZER2l6UENTQkw1NEQ3N2xOOFBuLW5SWTFWMmFKdlJnc1RWdWhoaVpNWUFBU1l3Z3JQMjlYYUNOZXRHNFhOckYwR1ZUbXRpWA?oc=5",
+      "source": "blog.google · provider monitor",
+      "publishedAt": "2026-09-10T16:07:26.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "google"
+      ],
+      "monitor": true
     },
     {
       "id": "2107c28d9024a7ae8b",
@@ -1804,6 +2020,23 @@
       ]
     },
     {
+      "id": "19b70ca3766bcffb24",
+      "title": "Build apps in Copilot Cowork and Copilot Studio",
+      "summary": "Provider-monitor coverage surfaced for Microsoft AI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFlJaUlRMHEyelRFMUVJOU1NVHM4YXR1UEp5TkpaeWxZbHBrUWJBZVh6LXhrdWdxeHgxWUdZMGVYQ01fbzNoZ3BCTWxVOUhGc2Y4Q0NGUWtMUktyaHI3TlY4d1h4Y1Q1WWQtcGRCZDFvTXBVU3VYMzM2Ql9TNlY3RjF1aEZ0NHJZWTlDVERySGYxTkQtZGNvOGFLQ1FkbzJuX1Q5SFZPak9odE9RX2ZncXZtTHFQdnF4U3c?oc=5",
+      "source": "Microsoft · provider monitor",
+      "publishedAt": "2026-09-10T15:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "microsoft"
+      ],
+      "monitor": true
+    },
+    {
       "id": "27259ad481abc7716e",
       "title": "Partnership on AI Welcomes Six New Partners from Academia, Industry, and Civil Society",
       "summary": "The post Partnership on AI Welcomes Six New Partners from Academia, Industry, and Civil Society appeared first on Partnership on AI .",
@@ -1814,6 +2047,24 @@
       "provenance": "governance",
       "tags": [],
       "providers": []
+    },
+    {
+      "id": "34bf9fee2305de3064",
+      "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
+      "summary": "Provider-monitor coverage surfaced for Mistral AI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01NmpON3ZnZTRGdXh2VWQ3c0Mwd19Pb21Kc0V5UFlLeTZzbVF3dnBOeFZSV3RldVd5cm5tSF94SUxMWV9EaGh0LXRqWkFkSHN1NkpadzZn?oc=5",
+      "source": "mistral.ai · provider monitor",
+      "publishedAt": "2026-09-10T11:04:33.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Enterprise"
+      ],
+      "providers": [
+        "mistral"
+      ],
+      "monitor": true
     },
     {
       "id": "ba9392f353e43caaf5",
@@ -1868,6 +2119,40 @@
       "providers": [
         "openai"
       ]
+    },
+    {
+      "id": "8fc2dc383a5de507fb",
+      "title": "AI21 Labs Revenue 2024: $57.8M Est. ARR",
+      "summary": "Provider-monitor coverage surfaced for AI21 Labs. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95bzFYWENoTV9WMVJfR1VpTjhfNHdBY2lQVlM4RGVXY21RSVF1MUVBTEs3RzhsZXRzM2xzM3BZdUxDbXlJamFtYWRVb2tTTlFZ?oc=5",
+      "source": "GetLatka · provider monitor",
+      "publishedAt": "2026-09-10T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "ai21"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "d38ea03aab5212fd04",
+      "title": "Command A+ vs Mistral Large 3 vs Jamba Large: 2x Gap [2026]",
+      "summary": "Provider-monitor coverage surfaced for AI21 Labs. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZG1BWUtONVZZNHk4OXRIamEzX3NwYjVoMUpHY2FCQmh1MDYyYmJKODEtSkE5RzlPQlR4ZTNaVldDYTBrZVljTGlNTUdZV0dIWnhNQl8zU25XTlo5NXdSSm9yNUpVWkg0MlBvZ1gtZ0lNN0JkUWRzMTNSYk1nb0wzblgxdUdiOHFtNEE?oc=5",
+      "source": "tech-insider.org · provider monitor",
+      "publishedAt": "2026-09-10T00:40:56.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "ai21"
+      ],
+      "monitor": true
     },
     {
       "id": "0aa5f5319c30376156",
@@ -1948,6 +2233,25 @@
       "providers": []
     },
     {
+      "id": "0c40b51d2dfdf7a5b4",
+      "title": "Introducing Business Value Alignment in IBM watsonx.governance",
+      "summary": "Provider-monitor coverage surfaced for IBM. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTFrbFhWSFN5RzZDODdfc0VZM2lISHNhb3lDZlNSVExVWDVyUWhkVVJzTXR1eTZDMGFGUktlYllubUhqQ3YtU0ZzakFwamEyYS1EX0FERGNtaWhudzZKVzNNQ1N0UWhjM3JMbi0wR01pSFNwMk9GQ2FnZm1pRWx0ZE5CU2JGUXI1cmp4NThfbGxtbzQ2amNTWEIxQVJaVUpha1E?oc=5",
+      "source": "IBM · provider monitor",
+      "publishedAt": "2026-09-09T18:00:25.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Safety",
+        "Enterprise"
+      ],
+      "providers": [
+        "ibm"
+      ],
+      "monitor": true
+    },
+    {
       "id": "2c5beb7692a75b39fe",
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
@@ -2008,6 +2312,23 @@
       ]
     },
     {
+      "id": "55c98bec66191cf210",
+      "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy",
+      "summary": "Provider-monitor coverage surfaced for Anthropic. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zbl9Ya1QyeGVtRDVaTTNqVktBeFFUdXVza1VOdVh1UDZEX0FzR0hsVTdEaDg4ZG9OYWVoZlhTM0s3SHZZT3M3cG5LWFpPdThrUzJPRWdwWjEzRFU4WnZuRTYtREFXam5pV2Qwby1ta1c5bjQ?oc=5",
+      "source": "NPR · provider monitor",
+      "publishedAt": "2026-09-09T13:34:48.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "anthropic"
+      ],
+      "monitor": true
+    },
+    {
       "id": "b19cee17ecc5ce7f0b",
       "title": "The AI policy window is open. We need to act.",
       "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
@@ -2038,6 +2359,24 @@
         "anthropic",
         "google"
       ]
+    },
+    {
+      "id": "e3ef575824a18fb196",
+      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
+      "summary": "Provider-monitor coverage surfaced for DeepSeek. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lTHJBMWJDT0twcnM3d2oyX3hia0ZfRTZ6MVJ3aDl4RktKSk52VjdVNXZtN3Vrblp0MnB1R1JqN082U3RxZFNJUVNydjEzVnBtUFlHay1GWWZWYjdpT244cVduWWt2OTFBaDlnOV9UV19VMjc4MThJVDh0QkVoV2M?oc=5",
+      "source": "The Hacker News · provider monitor",
+      "publishedAt": "2026-09-09T11:17:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Agents"
+      ],
+      "providers": [
+        "deepseek"
+      ],
+      "monitor": true
     },
     {
       "id": "b0e3dc17388fcfe1c6",
@@ -2110,6 +2449,24 @@
       "providers": [
         "openai"
       ]
+    },
+    {
+      "id": "0ef9d1de9387dae4b6",
+      "title": "CVE-2026-82533: DeepSeek Harness Vulnerability Lets AI Agents Escape Their Own Sandbox",
+      "summary": "Provider-monitor coverage surfaced for DeepSeek. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1ptSVFXeUQzc1gtNzhzQmpsbGJSdHd1RndnSm0zMWRkcWV5dHNVZk5pWUFzaUZyQzlPZ25GMHhRemY4cVBUUkFhU1JoeUo4Z0RWVlZVNHhnRV9mYWlBNlJXNjZUcC1Dd2dnQ0tmZVMxTkdHMEhhazFuazBQRTlWeUsxWHZwSU0zZE1UZTNn?oc=5",
+      "source": "OX Security · provider monitor",
+      "publishedAt": "2026-09-08T20:37:54.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Agents"
+      ],
+      "providers": [
+        "deepseek"
+      ],
+      "monitor": true
     },
     {
       "id": "221c987d6985716dc9",
@@ -2210,6 +2567,23 @@
       ]
     },
     {
+      "id": "b8731f59a2198c9d75",
+      "title": "How AI is reshaping the U.S. Open for players and fans",
+      "summary": "Provider-monitor coverage surfaced for IBM. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96cExHcEdMbEkwRlRxRDV3b2N3SHowSXkyQi1TZnhUUmQ0T04wMU5uM28tZk5tWmlKQVROTmRfTXlzRUJiOXl4VTE1Y2pzMUJQRUx6bGdpZlZJS2dlbkFRbk5DZkZ2S3FiOV81cA?oc=5",
+      "source": "CBS News · provider monitor",
+      "publishedAt": "2026-09-08T13:59:17.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "ibm"
+      ],
+      "monitor": true
+    },
+    {
       "id": "d33a47a92da49fd852",
       "title": "Arm launches Total Design for Physical AI and robotics framework",
       "summary": "Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries – spanning mining, agriculture, manufacturing, and global transport – account for trillions of dollars in economic activity and an estimated $200 billion annual compute opportunity by the 2030s. To address engineering fragmentation […] The post Arm launches T",
@@ -2234,6 +2608,74 @@
         "Agents"
       ],
       "providers": []
+    },
+    {
+      "id": "1a6690a11c1e40b38d",
+      "title": "Are Chinese AI stars Z.ai and MiniMax stuck in losses through 2030?",
+      "summary": "Provider-monitor coverage surfaced for Z.AI / Zhipu. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUV6Yk5xNTJyUmJPMkJsNkdmbldRRURPMWhnYVJ4cExySlk0SVA5TFQ5eF9RQnQ4SzFnYVRjcUM2d3VabzJWX1I0dzg2aHhHYTNvaEpzaXFid2U4bHlXdFVIRlZQMmpVdVlyc3FRLVVHQmV1bHJSNVBIN2c3bGRLWC1sWnphZUlmdVN1LW9aUU5tYkZkMGJEbUN1NGxCNkNpRVA1TE5BR1hocUFvbXNjbk5SVVNCV3BVc2Y2LU1ING1DUGJaSHlhSld2TzdjVGZCUy0w0gHTAUFVX3lxTE9sTmg2T2pvdGFKTkVyVnhkdE1vajI5U0F6cXRfRDM0d29UaGVsUGthMXJ3WUZsTnpGWkE1aVgyVl96OGdGZDVFWHJ0elozaEhpcFZhUzhIQTlXUnB5NVhzM2h4YnExdnlONTNBdldlQWMzMUM5THJRRHctTmtGWGlRZFRRWm5VcmhLQVdqYTZNdlRuRjhObTNEdnhWTk82U01FZmR3VFFDcXhqRWdpdmktY3JVNUVtWTByVHdPS2ZKY01Va1RXT0RiSHpPVEVOOFp6MWM?oc=5",
+      "source": "South China Morning Post · provider monitor",
+      "publishedAt": "2026-09-08T09:33:07.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "zai"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "199512711764e4af74",
+      "title": "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift",
+      "summary": "Provider-monitor coverage surfaced for Mistral AI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYTJBTzZBUm93RGpLWWFQOHBOaW1GeWNBUTdjeDBSYjd3Z0NMSzNaRTJ4R0NUdkZhVzhpVUdWXzJReWJKVWtBbXVuTW82WTRsOHhPc0VFQTVKdHBpLUlHdWFoVEUxT2twczk4ekZIQWd6b3RmMXRIZ3ZlVFM?oc=5",
+      "source": "The New York Times · provider monitor",
+      "publishedAt": "2026-09-08T05:00:06.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "mistral"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "24a6f78ac336f06b10",
+      "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+      "summary": "Provider-monitor coverage surfaced for Mistral AI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55ckdJc0hEZk8yai1IaFJuUEs4c204MHptMlFyR2VVeFUyN3RaMVZTVlZzRURreXhaQzdYZ3JsbkoyYjR4WGFzNVpoZWhZNmlYWEp6ZzRwWXF2TzE0Q1dSc2dMY29DUzdjLVJwb3h4VDlUUGlIZ3RYaWUxOWJjQdIBgwFBVV95cUxPemMzc0FrZVVIXzNYRktNejlsdjNlQUlvSk9PY2w3Y1U0dFlpWWNYeGlFZTFLOGJkVi1UTlJuVEFQVFcwanZJM3JxNG1TTEhITHQxMWRObG9RdFQyMW5LQllfVWZGZzI0bmJ5ejk3SXVxNmRzT1RTQ2V3b0ZMNFpFWVBGRQ?oc=5",
+      "source": "CNBC · provider monitor",
+      "publishedAt": "2026-09-08T05:00:01.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "mistral"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "8e20d9ab0e8f0abbca",
+      "title": "AZ leans on AI-generated llama to promote LAMA combo inhaler Breztri in new campaign",
+      "summary": "Provider-monitor coverage surfaced for Meta AI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc1lNU2JRTWJTdkcwUXRMY2VKV0xucmpOWVo5dUtuSHl2Ymg0R0pTbTFOMDVHRXRrTC1ZZ1RKSnVFRGExdmxjcWc4bnA4REotS1BKT3pYdzQ4aXliemtVVng3U2ZuTkFHS2Fja0lJYjUtY3NQeDFDRGxTMk5SeUJEdGtwel9oTzVwUEVHTVRhbWxaNkpTcTBobVRyWV81QVpWTW9oLW8tWDVxS2JEYzBJcFBJZ0E?oc=5",
+      "source": "Fierce Pharma · provider monitor",
+      "publishedAt": "2026-09-06T06:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "meta"
+      ],
+      "monitor": true
     },
     {
       "id": "a8f3c834e948041f39",
@@ -2278,6 +2720,40 @@
       "providers": []
     },
     {
+      "id": "407f47151a14457dc3",
+      "title": "Musk’s xAI loses court bid to block Minnesota's AI ‘nudification’ ban",
+      "summary": "Provider-monitor coverage surfaced for xAI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1VRQXhtR19VS2tKbVEzTnB6YjFUNl8zV3NFSURDZDRTcmZRS2tHa0RPOHdlMklXMWVSckNXdm5HWjdYNWhSTlFNeUlkdWFxWHo2SFdXU19ieWlQaUlEUjNrUjJkV1JSajZaNGxxUkVkM19qR2NOMkZvcWMwRHpIVTJybUlQZFB2ZmpvRy1CeURQcmp0ZFctU3RzMnItM29yajY5blZoT1ZjY0cwWFg1aVFoSGtpZw?oc=5",
+      "source": "reuters.com · provider monitor",
+      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "xai"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "7fbce09f9c6793cec1",
+      "title": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say",
+      "summary": "Provider-monitor coverage surfaced for Moonshot AI / Kimi. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT3M0Q2ZhaUlPQkc5bzU5MUEyMlpEaFFMVU5uakRWOEJkek85Z2ZsVWxjc0JnR3NrTFdXOGRIdDRQWmhobmhCZU9iVE9sakxTTVE0ejBhRnAyX1BaM0huMlVvZEJHREh6YzRQMzRLaXZRU2xtRld0THVvODFwTmJwa3BhOU9TQ1ZoQ2UxMldKVzlwcThoWTlEcVctbjhuZ2FqQVc4UTZwejhYeGtvWXJCdTBMaHVnSTVFbDVZSG1nVXYwOEtp?oc=5",
+      "source": "reuters.com · provider monitor",
+      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "kimi"
+      ],
+      "monitor": true
+    },
+    {
       "id": "9bd236a87f410cbde2",
       "title": "What Really Happened When OpenAI Bots Escaped a Cybersecurity Test?",
       "summary": "When hundreds of OpenAI agents broke out of their test environment and infiltrated the AI platform Hugging Face, headlines warned that the machines had gone rogue. But Heidy Khlaaf says this is the wrong story and a distraction from the real problem. The post What Really Happened When OpenAI Bots Escaped a Cybersecurity Test? appeared first on AI Now Institute .",
@@ -2309,6 +2785,24 @@
       "providers": [
         "openai"
       ]
+    },
+    {
+      "id": "e305f8aede73d6edf7",
+      "title": "New in IBM watsonx Orchestrate: Cross-platform agent discovery, custom evaluation and AgentOps Agent goes GA",
+      "summary": "Provider-monitor coverage surfaced for IBM. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTGlNYkd5YmEweXlBanZRRXVQRmRTRDlCcFBBSUtSS3V6NUZ3d3duOC1GMEFvRFE2YVF0aWowYW9JYjhna3hrV2NaSXllRUwtVTVwNXZpM0lkTFpvX1FEdGk1QWs4eXgzS2thSlpsWmQ1VWlQS2g3c2tRREx3T3ZOcnM0cEpjVlptM0QxcHJUVEpBcl8wdExLS3hGWGZjNW40NGFtaEhScGRMMi1aOXVidjdtZjN3YkYyaS1tRlZqaGVicW05ZlFrcWZxc0VyLTZGc0FyQURDNGFlLWQx?oc=5",
+      "source": "IBM · provider monitor",
+      "publishedAt": "2026-09-03T17:12:01.000Z",
+      "category": "Research",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Agents"
+      ],
+      "providers": [
+        "ibm"
+      ],
+      "monitor": true
     },
     {
       "id": "1b2eaf8a8c1cf29d80",
@@ -2383,6 +2877,145 @@
       "providers": [
         "nvidia"
       ]
+    },
+    {
+      "id": "baa4bee99609f5c17e",
+      "title": "Inside Track - Taming the Copilot odyssey: Five ways to effectively prompt AI without going overboard",
+      "summary": "Provider-monitor coverage surfaced for Microsoft AI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaklBZzJpU05VdTBIQWNzNlRVc3BGTTMxYkpFemhCc0VhSDhwVG41NHRhczZ3bGNocmd0WUhiMmtyNUFHaFlNUXFzaHZmeDRSYjN4SHppYVpDYlB2SVRMWHNwUWJTbnhNZ2l3VUJRUWdpY0tFUmdxbHFLaGFIaEh1MXVqbGRFbG9UZHF6VkQ4RF84ZlBKaTQzc0tJTUtYa2xORFB6eUdDdWdrVHJmTUkzRFJzemVkcU9nTTdqTzNiQUdYTlZmQTBFNg?oc=5",
+      "source": "Microsoft · provider monitor",
+      "publishedAt": "2026-09-03T07:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "microsoft"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "c2e4cd2527df358d22",
+      "title": "Designing Grok Bot for a world of persistent agents",
+      "summary": "Provider-monitor coverage surfaced for xAI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2WXFzMFpXZFJGTUlWR05TR3d2NFo2d3hRQlJ0UFk0NXBkVW1QeWNrNEx2YlkzVlJfNWVjZHE5aWd3UnhIQzFrdmo0ZVM?oc=5",
+      "source": "xAI · provider monitor",
+      "publishedAt": "2026-09-03T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Agents"
+      ],
+      "providers": [
+        "xai"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "20da994195b5251315",
+      "title": "Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images",
+      "summary": "Provider-monitor coverage surfaced for xAI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMzVOSVYwT2M0amI4ZWJ6dkxDaEZ6LTN3dkFMczlCd1h3aXNjR3FZS2RybTNFS3VkRmo5VTN3M0t4NHJhOS1QYmlVaXNicUY5WHRwWHlMZTh0WkJXek5OWVdSeEFPeC1FV09veXo1OEt6QnhJQkpScHI2NzRHRkp5UmRIaTA0dFdNUDFLM0dFei0?oc=5",
+      "source": "The Guardian · provider monitor",
+      "publishedAt": "2026-09-03T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "xai"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "3f93441cd7b0d432ee",
+      "title": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources",
+      "summary": "Provider-monitor coverage surfaced for Moonshot AI / Kimi. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkZ2VVk5MzV1UVMzcTUtLXNxbTVRS1d5ZG5CM0g2SDdpd1AzUXZYMjQybkZlUzd3Z2pueklIVHM0d29JSjhxcHpScXdReXZVUk1GWGZrb2tvMWUyQmpsSUxxcm1GYzNZenNoX01IZVNwcVVQT04tRFpVQXF3RlJuV01JT3l0b1FvNUpld05uOVhiSGFLcENlZWVZdzhrdF9tSEhyWGhIY2RaTkVpRXI2WUlCeU5LZDjSAbcBQVVfeXFMT3M5ZjRrMGFOdEttTXJBeW9UTHNPclhXd2N4Q0l4NjBWWTI1ME0wakdad3B2bmlDY3dYWDNMV0pIZWYyWFB6TUI1VXpEdWgybVdKOWlxaDVlaG1RZXJrdVNoTTFRck5pLWM1ZUR0WURVZEJoS2RLaXBfNEtyRDdwN0l1Wi1ZMjFPdEtCUzNpSDBXOWVXVzIya3pXX3FIdGtGWEtPdnc4TUV2RFNxWmxvbVdQMEo1R2xF?oc=5",
+      "source": "South China Morning Post · provider monitor",
+      "publishedAt": "2026-09-03T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "kimi"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "40bbf2e2625a3d5b30",
+      "title": "Saudi AI Firm Humain Unveils Model Based on China’s MiniMax",
+      "summary": "Provider-monitor coverage surfaced for MiniMax. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3ctQ3I4SzVHUWlCSG9Wakg2VG45Uk80b2VhX1JlemxxX2x6dUcwemc4ZUdOR1lHcGVLZXI5aUZYVU5vTTAzZTNEaDhyWkN3Z2tVcW1hV2N0emlnRFluYkZQTmkxM0dGVVJSakg3Zzg4OVpYU3ppRm10S0NnU3N2b3d4czk4SWp5Unp6NklnZTg0eGoweTVOVGVaVlo3U19OVVllUlNzSG9Jd2ZuNUdwUzRnZGI?oc=5",
+      "source": "Bloomberg.com · provider monitor",
+      "publishedAt": "2026-09-03T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "minimax"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "ee82b29075230c8dc1",
+      "title": "HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node",
+      "summary": "Provider-monitor coverage surfaced for MiniMax. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSnpUMG56YmRuRDdBbWNoWE5kVGpvcDdmTVFoOS1mMk1qbXBTN0plNG1ranJpajg4cGRKNXBYLUl3SUs0SEZLY0VwcWUtT2FkRS1FX2RUV25aRks5NXE3MmJ2cGlabzhmNWdYMTVXRk5NY0RXVFZ0cVdoWWhBd1FsZmhYdk9mR3pud2s4bHZmWVd3bFp2UlI4QktXQ0FCcWhPUXpwNXB3Vkx5dmdrcm8zdnVMMzdaalZfUEc5NVJ6OE9DZjJQS2ZEbUlFUEQtMEJqNXdhRlhndU1ucUwyb0Zjdlh1bVh5RUdpYXViMHlkU2xxYjduOEVQSnZ4TkFJdw?oc=5",
+      "source": "PR Newswire · provider monitor",
+      "publishedAt": "2026-09-03T07:00:00.000Z",
+      "category": "Research",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Research"
+      ],
+      "providers": [
+        "minimax"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "32f32f97dd49a0532b",
+      "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore | Artificial Intelligence",
+      "summary": "Provider-monitor coverage surfaced for Amazon AI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaHBfNmhMck8wYlF1aHBPVjdQVi0xTjZMdkpOVkczMGw4TnZmYTJOWDh4RWdia2NNWHJZMFExZHFtUUtxSnY3a1Bvekw2RVhQczlpUTJaTEpvYlo4Zk1YbXJod2VENEZmSTJZYXNFak5DbXVKMWRzZC0yejlEaWM1UVhtM0lkMGZxdkdXaEJrNDVtU0ZBTFBMeWlnM1M5UXVkd1VyUmpjUVpQd2g4b0E?oc=5",
+      "source": "Amazon Web Services (AWS) · provider monitor",
+      "publishedAt": "2026-09-03T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Agents"
+      ],
+      "providers": [
+        "amazon"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "a32ea783192046dfb0",
+      "title": "Nvidia is driving the AI boom. Good",
+      "summary": "Provider-monitor coverage surfaced for NVIDIA. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzVrYWFJSldGNkxRaTBicmg5M2lZYkJSWFhPeDNwT2w3NnYtcE5BSXJLOF9tUXE0aDdfTWltZmdOLTJqU3AtUTlGbXFxcG5rdEh6UkZjSV9iX2Y3X2hXQ1BjejY1NmI5RkdqQ2RUN01ZWFgySWJDVkc4WEtGa05WOVNyeTg4UQ?oc=5",
+      "source": "The Economist · provider monitor",
+      "publishedAt": "2026-09-03T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "nvidia"
+      ],
+      "monitor": true
     },
     {
       "id": "7ba095323b477b9bb7",
@@ -2673,6 +3306,24 @@
       "providers": []
     },
     {
+      "id": "4f2c330af6f56f74a3",
+      "title": "Red Alert: OpenAI is poised to cross an AI safety redline.",
+      "summary": "Provider-monitor coverage surfaced for OpenAI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LMVdwV1NoSTBFUVBRekhPVS1MakJVb09aZ0lucGdIbTdDaW9ZTHFiNmx5dzhxOXZ6ZEdyeVN1aEp1enNqZWtVUDctS2FNTllqeEJHNG9fQmltSjZsMWlwcFl5aW15MWVUSjVheEpvWEt0eUcxdm5TVg?oc=5",
+      "source": "Marcus on AI · provider monitor",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "category": "Compliance & Ethics",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Safety"
+      ],
+      "providers": [
+        "openai"
+      ],
+      "monitor": true
+    },
+    {
       "id": "4774faad0a5a7b7e12",
       "title": "Ila Kumar: Innovating with communities",
       "summary": "The PhD student works to give young people an active role in shaping digital technologies that can support their own well-being.",
@@ -2725,6 +3376,59 @@
       "providers": []
     },
     {
+      "id": "e773ae990c63e08c29",
+      "title": "Intuit and Perplexity Partner to Bring Trusted Financial Action for Businesses in Perplexity Computer",
+      "summary": "Provider-monitor coverage surfaced for Perplexity. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM29OOC1qYmZTc1ZRT0ZtVWRTdGcyMy0teUdPeE1lVWlYaHNDNGY3VVBkMTdjYzhEeGJqWWlOZHhUbVE2aGlPSnVOX09JaTY5WFFqUktTWElnOXlsc2xSWUJtSG9GM1VveWpKRWVrNHUzbk5XNzBITERTYmFyeFpibFlwcDRGa0Vid05ENktnUll2NTY3TXlxanRR?oc=5",
+      "source": "Intuit · provider monitor",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Enterprise"
+      ],
+      "providers": [
+        "perplexity"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "e01e12c76303eed87a",
+      "title": "China's Zhipu AI revenue quintuples in first half, loss narrows",
+      "summary": "Provider-monitor coverage surfaced for Z.AI / Zhipu. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGVpZmlzQ09VYkdFQktNaG5fWmNRTlZiV1czLXREc3FWcEtINjg0RF9rM2RUcER4T05pSlVMUkYzejJKWFNuTFZHYzhnZXFoaktSeU5JUTlMRC1mT2pzdkNuT19mQ2NQbTNySllWZUdLa1RhUEpFWHpSOVFpalU3dDZBMjFVaERCckE5NVVHV2NOMm9TeEJEZEUxNWFjR1k?oc=5",
+      "source": "reuters.com · provider monitor",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "zai"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "7e0d534b1eb8226058",
+      "title": "MiniMax H3 Max Speeds Up AI Video Creation for Everyone",
+      "summary": "Provider-monitor coverage surfaced for MiniMax. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fRjM1M1d3MlpWd0t5M1M4cTNneHpzNElMS0R0VEdwTHNjZ2kzcXYxRk8xSXRPLTdZLUR3d3Azd1RvT2JMSlVzQWoxbjlqMXMtRHI4ZThOZw?oc=5",
+      "source": "x.com · provider monitor",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Multimodal"
+      ],
+      "providers": [
+        "minimax"
+      ],
+      "monitor": true
+    },
+    {
       "id": "f4b185252093e33a6b",
       "title": "How an MIT research project became a global programming language",
       "summary": "With millions of users across the world, Julia has been used to conduct cutting-edge research and to design new drugs, jet engines, heat pumps, and more.",
@@ -2749,6 +3453,23 @@
       "provenance": "governance",
       "tags": [],
       "providers": []
+    },
+    {
+      "id": "8f492839f4f5c07b26",
+      "title": "Musk’s AI company sues its users as victim lawsuits over Grok deepfakes mount",
+      "summary": "Provider-monitor coverage surfaced for xAI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQlZJbi1FeDJrVHdzOGFoVWNKTG5MNFpVVDFyc0ZDM3RfYmVXZWtDMlZlYzVLelZ6MVliWGlqYlR5U2hPZGhDXzcyMEsxTU5VbF9UeExqLXBaTF9aVnZsNndBNXMtNUpqazNVcjFlQW5aUUJ4TDR1dm5mbnVDMFkxQzFXQUtjZHM5Y01ndTZBb2M?oc=5",
+      "source": "Politico · provider monitor",
+      "publishedAt": "2026-08-28T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "xai"
+      ],
+      "monitor": true
     },
     {
       "id": "fcf188f55b89222523",
@@ -2827,6 +3548,74 @@
       "providers": [
         "google"
       ]
+    },
+    {
+      "id": "2134df58b080d165a7",
+      "title": "Google DeepMind is losing its grip on elite AI talent, new data shows",
+      "summary": "Provider-monitor coverage surfaced for Google DeepMind. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObS1iQWJMUFcyT0FoTjdGcXB6VFFJTjEyYnd4OVlTalVieFFQcC1veTdKX0tmc2Q3bWtCTmNraGhvZVJyeFlENlBFLUUwWTRGd2lQTU96X3Z1dzBDb05tVTZHdV95eDVfRTVYdjV6MG1SZ1kzczJPbnpreENwdHpJRTBBRnhWQzByYmhGRlNqUzF4cm1oRHpJOE5TSzRZeWZoTmpz?oc=5",
+      "source": "Fortune · provider monitor",
+      "publishedAt": "2026-08-27T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "google"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "d693163086fb86d0e2",
+      "title": "Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI",
+      "summary": "Provider-monitor coverage surfaced for Meta AI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamZteXQ3bmVXNTk3blIyTXk2Y3JkRlNEX3Qxb1hVTXJTYlJCU1hlbVRXWjhEOWFTLTN5OVJtZ2pXWEp6VXRtRHhjazhEbjdhcnFHWTVFeXpMMnlVUnZnTGMyQ0RNUTV4T2ctaVZsYkdoWGdDZFRkZ29oVjA4MGluOG9MT2J1WXE4U3JlbU0zNF81ZjU5THF5WdIBngFBVV95cUxNQXdqaGFUMDlRLVhjRWhFZzV6M1Y0emEwTHZleDNGbTdkazBlVW0yUEZyMnpKUWtuUHl4QTlyVmotMk5KMGxQMkJfb1VxSmh2S05rWWNCbnpVTUlGa1ZORl9LQ2hCTy1HQ0RiVU9LaHJGWHhrbGVHQXEwRXJzREZJV3M1cmxXSUVrUDFiejdqWjBmVEt6UVMyUWh6cmd1Zw?oc=5",
+      "source": "meta.com · provider monitor",
+      "publishedAt": "2026-08-27T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "meta"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "191182faeb0aba586f",
+      "title": "Joëlle Pineau: The 100 Most Influential People in AI 2026",
+      "summary": "Provider-monitor coverage surfaced for Cohere. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QRUxLU29CZFR5R1hMUkxXVUpFcTFTUXh4OFRETnlvbTlPeWQyOXo4X1k3dk5OMENmeG1UZkZ2MFhOTldGUlZpWVJmSFI5LVBKT3ZhbWQwLWQ0aG9LSVdEMjBBVm9hcVFvZUE?oc=5",
+      "source": "Time Magazine · provider monitor",
+      "publishedAt": "2026-08-27T07:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "cohere"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "4e07abb3a7306a8d83",
+      "title": "AI Startup DeepSeek Poised to Reach $74 Billion Valuation",
+      "summary": "Provider-monitor coverage surfaced for DeepSeek. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2ZVcER1YXNsaEthelVtNENlUXBCMzdyRV80bWhNWHBHSk5rVmMzZGJyaFZfWS1YclBDWklqc0RFTEZzYm1fSXJzd1RWVDR4U1d2QzZfWTRFTUtfa1Ewa2FBUzRGZU93dkE4dWZJM0YwdHFhaWlrLTF2ajRBaWt2TGZMS1oyclVaM0lpQms1dGx1T3JTVlFLdA?oc=5",
+      "source": "WSJ · provider monitor",
+      "publishedAt": "2026-08-27T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "deepseek"
+      ],
+      "monitor": true
     },
     {
       "id": "336b7b779a3102bef2",
@@ -2913,6 +3702,91 @@
       "providers": []
     },
     {
+      "id": "bbcc877a5db95c97d0",
+      "title": "Exclusive | Google Moves AI-Responsibility Team Out of DeepMind Lab in Latest Shake-Up",
+      "summary": "Provider-monitor coverage surfaced for Google DeepMind. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhUck1oeDZzYU9nRTZWZTBRSERrb2pNWVk3aTZOMVFuZG5ubjFGbld4QXRLdThLQ1JuS0h0S0Q2ZjdsX1Y0Qm0xQjA3T3hLV014MzVqWTRNWGtjVWlyQ2otd1pIUjBqUjZBM3k5TTVpcnIxSngyTkk1eVNZU2hxcnR0MHJad1J0ZmtSN3dpR2p2N3pSRmNORnNPQzV5VUgxNGM0dE5DaGF5Y0FqUkd3eg?oc=5",
+      "source": "WSJ · provider monitor",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "google"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "15dd00183d11d03611",
+      "title": "NEWSLETTER: How Meta’s AI layoff plans went kaput",
+      "summary": "Provider-monitor coverage surfaced for Meta AI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjY5eWhaSGFuNFFCTVVVQWNXZDhFM2FOUEFLNUo5QjY0QWl6OWtVRmlrU3F0YVRSZTA5NFpteUdlUHBPTGlNTThXYlNfTV9PX0UyaVh0Y3oyMkIxSDJGRDJZLXJLQ1hQeWFzZkJWQnBqVHBGTVU4Z0VXR3FlWmtEZmM0dFRJczNvNFlweEdEc3E4NWRGZl90NVZrWjJWam9ZYXpZQ3R5WWphVXhNUWZMcmF1LUZmLThQMkdVUy04d3FVUU0?oc=5",
+      "source": "reuters.com · provider monitor",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "meta"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "9c2f7aca27702cffcd",
+      "title": "Alibaba's Qwen launches Qwen3.8-Flash AI model with lower training costs",
+      "summary": "Provider-monitor coverage surfaced for Alibaba Qwen. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNFBiN0MydXZkUlB3UHdHb0xzNGNqVVhKdzZVMkQwalM4WWozbUxWSkZuRTljSXdfdjdOUjZkMWN2SEVRSnBXTEJwSlJfdkNqNzJreVp5MDNULVdDZ1ozSzE1YXp6dWR6MzZsOFBlRllhdlZEQmVBa1Eyb1hpQWlMWmdUaGlzeFpUZFlDZUszLU5KRG9SblF0VTNFT092TllTQnVqVlZHY2J3Uk1WblBfOUJGRmFob041dzEwRV9WaU5TWjlxbkswcTVJRQ?oc=5",
+      "source": "reuters.com · provider monitor",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "qwen"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "1f27ca8b68dd59dc04",
+      "title": "Moonshot AI seeks revenue-sharing deals with Microsoft, Amazon, Google",
+      "summary": "Provider-monitor coverage surfaced for Moonshot AI / Kimi. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2x3THU4S191S0dDU0N1Q242S29SZzEyemRJcUtLRjdENTJFUUpyeV9sYkVhMzRNRkhhQXlCYTRxSXY0M0YzRFZLVV9vZlhLWUFjY0FiQVVfaC1Hal95ZFR4NjdNRjRSeHUzbE9WZXpTNDR6UlpRRlRTUEpzVzVHdUN5T0tMMVlU?oc=5",
+      "source": "qz.com · provider monitor",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "kimi"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "f6da5326236fc81f69",
+      "title": "China's MiniMax sees revenue nearly quadruple in first half as AI demand surges",
+      "summary": "Provider-monitor coverage surfaced for MiniMax. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2ZKSWhaaE9UOUJROWthQ2stakFYT0RNNkNmUzRWUDcwVktJdXVJMUtlZ0p6NEgzcWk1Uk4xU25TeS0wbFcwY2FQb1JaZXRJLTJDcXppVnBfekRhckpGYU5ZVUZub09TNE4zdE5iajEzWU11NjFER09aeU9DWE1EYklRRDFFQnFYZlhlaWpsWkpoWFo5YWFJa2x3RGktVDRDRWVHZXRoVFAzdDZGbS01ZUIwcFMtXzZtWS1rbw?oc=5",
+      "source": "reuters.com · provider monitor",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "minimax"
+      ],
+      "monitor": true
+    },
+    {
       "id": "fe7bd67b072aaab75c",
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
       "summary": "Open the original source for full context.",
@@ -2933,6 +3807,33 @@
       "publishedAt": "2026-08-25T21:35:11.000Z",
       "category": "Industry",
       "provenance": "primary",
+      "tags": [],
+      "providers": []
+    },
+    {
+      "id": "5fbdb65aa581022eeb",
+      "title": "Ex-Googlers Are Planning AI-Human Hybrid to Prevent Rogue Models",
+      "summary": "Sarah Myers West, co-executive director of the AI Now Institute, urges that getting the rules right through concrete benchmarks matters most for mitigating risks. The post Ex-Googlers Are Planning AI-Human Hybrid to Prevent Rogue Models appeared first on AI Now Institute .",
+      "url": "https://ainowinstitute.org/news/press/ex-googlers-are-planning-ai-human-hybrid-to-prevent-rogue-models",
+      "source": "AI Now Institute",
+      "publishedAt": "2026-08-25T18:32:17.000Z",
+      "category": "Industry",
+      "provenance": "governance",
+      "tags": [
+        "Safety",
+        "Research"
+      ],
+      "providers": []
+    },
+    {
+      "id": "9d34bb265fa1d0e838",
+      "title": "Episode 20: Resisting AI Data Centers, with Alli Finn and Matt Rodriguez",
+      "summary": "Alli Finn, Director of Community Partnerships, joined the Dreaming Against the Machine podcast to talk about the speed and scale of data center construction, its impact on surrounding communities, and how people can fight back. The post Episode 20: Resisting AI Data Centers, with Alli Finn and Matt Rodriguez appeared first on AI Now Institute .",
+      "url": "https://ainowinstitute.org/news/press/episode-20-resisting-ai-data-centers-with-alli-finn-and-matt-rodriguez",
+      "source": "AI Now Institute",
+      "publishedAt": "2026-08-25T17:19:57.000Z",
+      "category": "Infrastructure",
+      "provenance": "governance",
       "tags": [],
       "providers": []
     },
@@ -2985,6 +3886,93 @@
       "provenance": "journalism",
       "tags": [],
       "providers": []
+    },
+    {
+      "id": "353772c0cbde5fc566",
+      "title": "One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap",
+      "summary": "Provider-monitor coverage surfaced for Microsoft AI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYlZCblpkS213anIwdDFoeDd3bWN2MXN4N1NRSkdWVTBOdVlzLTZYTGZ6YmdhUFB1NExxNlhPR1NXZmN4MVkwQUdvQzgxWkY5RzR4eF9uYy1DVEF5WmpnTy1DemFUTlA0OW1iNHljWldCUzRrbWF6aE5KOFpxMFZVZkJjbGlwMDNwdFNjektFZDRiRDRhUHlycEphYVk4TlVLMXVpSHA4bU5WOEN1SEpuUk8wYkI5XzI2ODdhbUwyY1hvOVF1UlhYQUNnQzZkRGVqN3U4VUx2RmV0cWNJTG5iUk9tR251RzhkemludnpENUk1Zi1PRDBYU2labkxudw?oc=5",
+      "source": "Microsoft · provider monitor",
+      "publishedAt": "2026-08-25T07:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "microsoft"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "b458239ce594498290",
+      "title": "Perplexity AI launches Portable Computer on-device AI agent",
+      "summary": "Provider-monitor coverage surfaced for Perplexity. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOWo5TWVjcURjVXFlRHJSWlZ0SXktNmtnM1BtXzd3dkZodDM3X0FtOUxKMGZZU09XWk1ZQkhsQjZPWGJRTkk0OEJkRDZ5S1NmNHhjRkkyR0NSMG1sVzRqU2RJLWRvcmxqN2h4MVdSS2IyQldoUWJLdThHNmJWN1FvVm1zU0VCX0xwLUU5dWhsV28zTDBOUldFZlhZQ2I?oc=5",
+      "source": "SiliconANGLE · provider monitor",
+      "publishedAt": "2026-08-25T07:00:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Agents"
+      ],
+      "providers": [
+        "perplexity"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "a2501ce8c75b6a8960",
+      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
+      "summary": "Provider-monitor coverage surfaced for Perplexity. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVpZRmNaMUJxNHZsUEJtUGhpc2ZBaTloU3BOSFg0LU9IV3Yxcl9GbXh0Y2VRaGo5STFmYTZBNzNnUzdjSEsyUjR6YXVJbmRCelNqbVRQNUNPVmhGQ2ZCQk53T2MzZ0dZNjdLR3V3RlhGa0tMZU9NbExmcVo0a1ctRGhJOGxWeGVVMW9aTndVSHFwVXBpcTYyRUxjS1owWXhxcDFTdmMzOTNuZDdFeGU2WXktaEV5VHF1T21WZi00eUZhRzN0TmFMMkNqeDFUWUY0ZXAxcWt5THFJTEE?oc=5",
+      "source": "VentureBeat · provider monitor",
+      "publishedAt": "2026-08-25T07:00:00.000Z",
+      "category": "Products & Agents",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Agents"
+      ],
+      "providers": [
+        "perplexity"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "fac05876a241896458",
+      "title": "Cisco Expands Secure AI Factory with NVIDIA for the Rack-Scale Era",
+      "summary": "Provider-monitor coverage surfaced for NVIDIA. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOC12cUNTSGEwQW56a09pUEFFbTdQZDYyOHFwSzlNMFNxQ19oUllSc3g1LXd6ekd3b3p4MmNFYUU0VU9QRVhKMEprQU5iVDE5am9YUzZfbDF0TGZUZ19OT0hMSVZIeEZmUjR1OXVkV0ZtaTNINU5xaUJwZnNyaW9GR3FBQkVpcEQ0MW9FRDh4UnJfSWtvNkFtUXhvSnFncktUUk90VXJCcw?oc=5",
+      "source": "Cisco Newsroom · provider monitor",
+      "publishedAt": "2026-08-25T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "nvidia"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "c27fe7d89b810cf442",
+      "title": "IBM’s Granite 4.2 Models Learn to Think and Act Inside Environments",
+      "summary": "Provider-monitor coverage surfaced for IBM. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNFEyVmpVcVN5OTNtVVljSUNqQ0RIc0RRZjFBckhqN3gtcjBlbmxFSE1aODRlSUxUQlVYWUgyTU8xMU5GVFB4Z0FNVl9MNHlVTlRhYUZ5UzVXUlc5UDV3QU05cy1TdHhhY29EUVZUd2EwLTVHMTFIaEVDRHhLaHpXektfdlJnTEpJM3NPNnZyalo1QQ?oc=5",
+      "source": "Unite.AI · provider monitor",
+      "publishedAt": "2026-08-25T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "ibm"
+      ],
+      "monitor": true
     },
     {
       "id": "d69282ff2da2326d75",
@@ -3053,6 +4041,23 @@
       ]
     },
     {
+      "id": "2d9a6b1036d287d245",
+      "title": "The Mistral paradox: Europe’s push for tech sovereignty relies on China’s Z.ai",
+      "summary": "Provider-monitor coverage surfaced for Mistral AI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmNTOW1wamRsZVNJUi1Uem93Y3ZjVk8zT19NU19wdDUxUTkyajdLOVVjSkF6dzNFaTIyOEpDUnNObWdyS1NDLW9pMWd6Rm9WUVh5LUI3Z1ZwWGs4MlAxSC1TZ3lZYlZqUmp2MEIzTmdPQ2dzTzZ5M0lOY1liZDFEeF8tbnRTcm5VcFUwdS1HVWh5bnYyWFd0TDA1ekQtMTU3SGRYWDUtQmo1aFJXRkVXRDRMdUZwU3ZzS05SSVVR0gG-AUFVX3lxTE1iR1FDWXBIdDNnR3NidkhTbXhhVmp3Vmt2NzczYzZUN215LVZTdE1jd3dMZmVtazFkc29xalpoeW9uODNyeVJkMm5ySnAwNWdFWHFvcFA2V1hneGd4ZW9EUUhXMWg2M0JXSHo5TWVEMEpGdENCRzk4UnAxR0V4eHVBVkYxNXI0SzJlQ3VVRFZ1R2hYcGY4S3FPd3Q4X09HWW84TVEzQ1k0OHl5VWo4aDFjYldTRW9EREJQN0szX1E?oc=5",
+      "source": "South China Morning Post · provider monitor",
+      "publishedAt": "2026-08-21T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "mistral"
+      ],
+      "monitor": true
+    },
+    {
       "id": "ce2957211ede49847e",
       "title": "Paving the way for greener ammonia production",
       "summary": "New MIT research could lead to better materials for a fossil-fuel-free process for making the chemical that's essential to fertilizer and other products.",
@@ -3093,6 +4098,93 @@
       ]
     },
     {
+      "id": "16de10464a82a170ec",
+      "title": "Meta's new Mac app takes aim at creators, small businesses",
+      "summary": "Provider-monitor coverage surfaced for Meta AI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbXBHYzFqX0Q4dmVYYWVvOFZBWnpfaV9pX2VQR0FLd2g2Z2k0cm1CNG94QmtIYTFQTm1KczJfbi1wNDI1QlBPd2xwSHplNW1ubUw0TnFETEpuM3hQbEs5b2xZWms3dE95TWRXcnJWcFcweG5Xa3VJVFplSExZWnJfdW42Q1VUUVpxSkpKNGU5ai1Ta0pKaVlVUQ?oc=5",
+      "source": "Axios · provider monitor",
+      "publishedAt": "2026-08-19T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Enterprise"
+      ],
+      "providers": [
+        "meta"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "bce1be020e30ac6129",
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "summary": "Provider-monitor coverage surfaced for Microsoft AI. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYm41RXVjYlV4blQ4VE9uY0h4UWZwaWtrSGo5VHRoc1lJVC1zdU9SeEVzLUJlTnNJYmRmRnJCVWRkR2l1ck9lOWcxQ09YSkx6SUJQQVN2dDhkbS0zNjhUMVNsU0o1aWZTRWE3bzZIZDFPVUY2WDJfWUYwUGg3bTF2ZDZMbnFMc0RMMmljVGRjb2RlYUVHb1E4VmZOVUF4Y2cwSDhqSVZoTk1Ea0RoS0E?oc=5",
+      "source": "Ars Technica · provider monitor",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "category": "Industry",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "microsoft"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "481ba3f79c43828e95",
+      "title": "Alibaba’s lightweight Qwen takes on OpenAI, DeepSeek, Zhipu’s larger AI systems",
+      "summary": "Provider-monitor coverage surfaced for Alibaba Qwen. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVNJbE00UDhJSkVIaktiZTNYR01uZTVVNXd1SV9yMGpJM2dILU1SeWVFQXphS0dmYVNsekZrckVQVkNQNndYaWkxS1lKdXJRdE5MWVFJVVJvNHNPWlVUcVhJc2lRbFRiMFdhODdJeXJuTjZNcTg4enJpbEhMdTYxaDlpenFsSDVWUENpcDdxalM5UWR3OG10dUlMYXNSRjNhdGRYX04wN2s2aF9mb2hfbjJHY1FJT1F2WS1TQU8yc3NXMlFxSEtxX29Ca9IBywFBVV95cUxNekQyWHA4bjlBc09IbGwyajJaMEl1LVp0RXk0aWE5Q3hNWXlLUU5JcWxVRjg0ZHcwN05jN3pva3c1QzBjTjlJUl9CLWVVMkhxSjBCT2I0eFZhNkZwNDYwM0tVS3J1X1plS1J5bm02bzM4YWxPOEpXMzdhSEtRRkI0MzRYc3RFQUJRNmdid2lsMWRDM0tkcjFjUFlmZHBZdDZiR05CWkd0MHBFb3dZdHZCTHNCVjU3ZHlRMmM5TVhoTVlkZzBJV0x3UFRsdw?oc=5",
+      "source": "South China Morning Post · provider monitor",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "qwen"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "8ae06a79bd106ffb17",
+      "title": "Buffalo Wild Wings Go, Jamba, Auntie Anne’s and Cinnabon set for Franciscan Square",
+      "summary": "Provider-monitor coverage surfaced for AI21 Labs. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYTlXUnpjNVV6V2c2eGg1ckZyb1REWXkzV2dvZjBISWpzQUdxYTJSeFNDNVdoSVRJeTV3T194TnhlQldCdTI1bmZpcElXSXloenk5OW03NDhlbXIyUWt0aGVhbFM2R3F0RFhOcWVRRUhhZ2tOdHNBWEV3ZXJ5cXBreDNiR3Q3WVNHYXdrbTJMQVI1cllndWFYVkp1WFlhYTFRZ3VzZGl6Y3JReE9pRF9lckw3UzlBOXdIQTVFalpkVkYxNmlqOExyYVVSRnJmamJ0WkFZMHJJVnowaXJCdk55TzZyU3c5VFFocmx4V2daZUxicGFucDUwX1RSekM3Mm9oYU16eA?oc=5",
+      "source": "WTOV · provider monitor",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "ai21"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "351bee424b95d00375",
+      "title": "Nvidia's AI moat is shifting from chips to capital",
+      "summary": "Provider-monitor coverage surfaced for NVIDIA. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUVqUjhzeWswMXdGZlJFMWFhbWxRMHBlSTFQMEFaTjNWbWVla29BNGtPUDFLdTI3NGg2WE9zRE85QjZyaXdpU0doeDBzM1QzdGM1aG9GSTQ5cWxOUDlSX2lNekRWMkxlR1FKMjVwQVphOFAzRmVjZGRfOU03M2VGdWVNWGNvdHdXUjlFMXNBUdIBlAFBVV95cUxPOVJVZ203Y0JGbnk3WGNFWm1jcmNobDNzZ3dJSF9fNVp1c0RzYUtoQWtscGpaRlN6VWRDUEM1dUY5NW1xc2tBM0ItWWtTV2IxMDI3cjZidmNaVjZ6LWRfdWdrUW9keUcxdEc1VFBObmRxaTV1aHFzc1dzZHFTS1FZTjNmWUpWVmJsRDdrWmJvOExEVTdL?oc=5",
+      "source": "CNBC · provider monitor",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Chips"
+      ],
+      "providers": [
+        "nvidia"
+      ],
+      "monitor": true
+    },
+    {
       "id": "50f60d540d9c3728a5",
       "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
       "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Blog .",
@@ -3105,6 +4197,57 @@
         "Agents"
       ],
       "providers": []
+    },
+    {
+      "id": "9132173c96a06e5591",
+      "title": "Alibaba's Qwen surpasses rivals in downloads, 'tipping point' for investors rotating in China AI",
+      "summary": "Provider-monitor coverage surfaced for Alibaba Qwen. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdGJXQ2RwLWs4ZzJkTU5VMkxELVNBMV8xckwzUFFHdk5IYkJQZERYczFLejdPTmJKbFBBeUp3ZmRxNjQwS0JvV0Y5ejZ6MWwtM0VVUGJCbld6VkY4SmlkQWR5eEdkRGpPWkJUUmxSdzczUG5kWE5PLVljWTAtTUhTV1ppVWItSl96MV9mWVFIbjVUM2dxQmZiQ3c1bHY4dUFkS1RKbDBnWXpkaGFQOWhR?oc=5",
+      "source": "CNBC · provider monitor",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "qwen"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "b33a9fc85706591e5b",
+      "title": "Alibaba launches Qwen AI model for laptops to meet Meta's challenge (BABA:NYSE)",
+      "summary": "Provider-monitor coverage surfaced for Alibaba Qwen. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHUzdzBtMEhETUhQUFpmZmdtTDk5bm40ai1MUFp1clVScDIyaVp6YnNYRDNhbmxtVUk2QmQ0REVFUC0xN2R0YnNaZnpWQXk4SFJ4UXNkTXg0OVB4OThQSTRtWnNGSTZqczhkNkU0M1g3OFVUVks3LVhiSGZxeTBDU01laVh6Tk5tWlZSQ3IyWG1ObXhWaWNnUk8tdUVESHU1OVc5NUdyVQ?oc=5",
+      "source": "Seeking Alpha · provider monitor",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "category": "Frontier Models",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "qwen"
+      ],
+      "monitor": true
+    },
+    {
+      "id": "0cf6b0ee0e119f0e94",
+      "title": "NVIDIA Guarantees SB Energy’s PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute",
+      "summary": "Provider-monitor coverage surfaced for NVIDIA. Open the original linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYXdyMXl0ZUs3UDVBSFo1a3BCcDg4UlZUazQxSEp1allrY1B3SEVxYnQ2RjFQVFY5T3Q1YUFYM19Jc1ZQNXVobGtZNVJBc1BPQXpFWFFsTlBvWEJqV3VRM1lCU0ZzSVlHcS14UGxUZldBaEVsdUJveHN0TXJOLURfWDBxRlJYaFdXMHREU3VSNlVrcFZncENub1czY2lGV1F6eGpGSWZiU2loYlJYVVRFZTdQSU80Q0lNZmdvX3FZQ0hTU1pjZF8weHhCRWEzeURkcDk3N1Z3?oc=5",
+      "source": "NVIDIA Newsroom · provider monitor",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "category": "Infrastructure",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor"
+      ],
+      "providers": [
+        "nvidia"
+      ],
+      "monitor": true
     },
     {
       "id": "0944fa483b72083575",
