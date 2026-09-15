@@ -8,6 +8,12 @@
 
 </div>
 
+> [!WARNING]
+> **BETA / IN DEVELOPMENT.** Governance classification and automated summaries are experimental and may be incomplete, outdated or incorrectly categorized. **Use at your own risk / Nutzung auf eigene Gefahr.** This project is not legal advice; verify obligations and official positions with the linked primary sources.
+
+**📱 Current Android Beta:** [Download AI News 3.1 APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk) · [Release](https://github.com/chekento/Ainews/releases/tag/android-latest) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256)  
+**🔐 Legal & privacy:** [Datenschutz / Privacy & all sources](../PRIVACY.md) · [Impressum / kosch.cloud](https://kosch.cloud)
+
 ---
 
 ## Core watch areas
@@ -40,8 +46,12 @@ Policy observatory, AI principles, ethics, rights and international frameworks.
 
 The generated AI feed classifies regulatory, standards, rights, safety-policy and ethics signals under **Compliance & Ethics** while preserving their original source URLs.
 
-**[→ Open current dataset](../data/news.json)** · **[→ Open source registry](../config/sources.json)**
+**[→ Current dataset](../data/news.json)** · **[→ Source registry](../config/sources.json)**
+
+### Interpretation boundary
+
+The radar is a navigation and research aid. A feed tag, Copilot synthesis or automated summary does not replace the wording, scope, effective date or interpretation of the underlying law, standard, regulator communication or institutional document.
 
 ---
 
-**[Back to AI News portal →](../README.md)**
+**[⬇ Download Android 3.1 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)** · **[Back to AI News portal →](../README.md)**
