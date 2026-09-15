@@ -6,6 +6,7 @@ const providersDoc=JSON.parse(await fs.readFile(new URL('../config/providers.jso
 const sources=sourcesDoc.sources||[];
 const providers=providersDoc.providers||[];
 const MAX_PER_SOURCE=14;
+const MAX_PROVIDER_MONITOR=4;
 const MIN_HEALTHY_ITEMS=10;
 const MAX_AGE_DAYS=45;
 
@@ -38,7 +39,8 @@ function parseFeed(xml){
     if(!url)url=clean(match(block,/<guid[^>]*>([\s\S]*?)<\/guid>/i));
     const published=match(block,/<(?:pubDate|published|updated|dc:date)[^>]*>([\s\S]*?)<\/(?:pubDate|published|updated|dc:date)>/i);
     const summary=clean(match(block,/<(?:description|summary|content:encoded|content)[^>]*>([\s\S]*?)<\/(?:description|summary|content:encoded|content)>/i)).slice(0,420);
-    return{title,url,publishedAt:iso(published),summary};
+    const publisher=clean(match(block,/<source[^>]*>([\s\S]*?)<\/source>/i));
+    return{title,url,publishedAt:iso(published),summary,publisher};
   }).filter(x=>x.title&&/^https?:\/\//i.test(x.url));
 }
 
@@ -78,14 +80,20 @@ function providersFor(sourceName,text){
   }).map(p=>p.id).slice(0,5);
 }
 
-async function fetchSource(source){
-  if(!source.feed)return{source,items:[],status:'watch'};
+async function fetchText(url,accept){
   const ctrl=new AbortController();
   const timer=setTimeout(()=>ctrl.abort(),15000);
   try{
-    const r=await fetch(source.feed,{headers:{'user-agent':'AI-News-Live/2.0 (+https://github.com/chekento/Ainews)','accept':'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'},signal:ctrl.signal,redirect:'follow'});
+    const r=await fetch(url,{headers:{'user-agent':'AI-News-Live/2.1 (+https://github.com/chekento/Ainews)','accept':accept||'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'},signal:ctrl.signal,redirect:'follow'});
     if(!r.ok)throw new Error(`HTTP ${r.status}`);
-    const xml=await r.text();
+    return await r.text();
+  }finally{clearTimeout(timer)}
+}
+
+async function fetchSource(source){
+  if(!source.feed)return{source,items:[],status:'watch'};
+  try{
+    const xml=await fetchText(source.feed);
     const parsed=parseFeed(xml).slice(0,MAX_PER_SOURCE*2).filter(i=>notTooOld(i.publishedAt));
     const items=parsed
       .filter(i=>source.strictAI||aiPattern.test(`${i.title} ${i.summary}`))
@@ -106,24 +114,55 @@ async function fetchSource(source){
         };
       });
     return{source,items,status:'ok'};
-  }catch(error){
-    return{source,items:[],status:'error',error:String(error?.message||error)};
-  }finally{clearTimeout(timer)}
+  }catch(error){return{source,items:[],status:'error',error:String(error?.message||error)}}
+}
+
+function monitorQuery(provider){
+  const terms=(provider.aliases||[]).filter(Boolean).slice(0,3).map(x=>`"${x.replace(/"/g,'')}"`);
+  return `${terms.join(' OR ')} AI when:30d`;
+}
+
+async function fetchProviderMonitor(provider){
+  const feed=`https://news.google.com/rss/search?q=${encodeURIComponent(monitorQuery(provider))}&hl=en-US&gl=US&ceid=US:en`;
+  try{
+    const xml=await fetchText(feed);
+    const parsed=parseFeed(xml).filter(i=>notTooOld(i.publishedAt)).slice(0,MAX_PROVIDER_MONITOR);
+    const items=parsed.map(i=>{
+      const publisher=i.publisher||'News coverage';
+      const suffix=` - ${publisher}`;
+      const title=i.title.endsWith(suffix)?i.title.slice(0,-suffix.length):i.title;
+      const text=`${title} ${provider.name} ${provider.models||''}`;
+      return{
+        id:hash(`monitor|${provider.id}|${i.url}|${title}`),
+        title,
+        summary:`Provider-monitor coverage surfaced for ${provider.name}. Open the original linked publication for the complete report and context.`,
+        url:i.url,
+        source:`${publisher} · provider monitor`,
+        publishedAt:i.publishedAt||new Date().toISOString(),
+        category:categoryFor(text),
+        provenance:'journalism',
+        tags:[...new Set(['Provider monitor',...tagsFor(text)])].slice(0,4),
+        providers:[provider.id],
+        monitor:true
+      };
+    });
+    return{provider,items,status:'ok'};
+  }catch(error){return{provider,items:[],status:'error',error:String(error?.message||error)}}
 }
 
 const results=[];
-for(let i=0;i<sources.length;i+=6){
-  results.push(...await Promise.all(sources.slice(i,i+6).map(fetchSource)));
-}
+for(let i=0;i<sources.length;i+=6){results.push(...await Promise.all(sources.slice(i,i+6).map(fetchSource)))}
+const monitorResults=[];
+for(let i=0;i<providers.length;i+=6){monitorResults.push(...await Promise.all(providers.slice(i,i+6).map(fetchProviderMonitor)))}
 
-let items=results.flatMap(r=>r.items);
+let items=[...results.flatMap(r=>r.items),...monitorResults.flatMap(r=>r.items)];
 const seenTitle=new Set(),seenUrl=new Set();
 items=items.filter(i=>{
   const key=i.title.toLowerCase().replace(/[^a-z0-9]+/g,' ').trim().slice(0,140);
   const url=i.url.replace(/[?#].*$/,'');
   if(seenTitle.has(key)||seenUrl.has(url))return false;
   seenTitle.add(key);seenUrl.add(url);return true;
-}).sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,360);
+}).sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,420);
 
 if(items.length<MIN_HEALTHY_ITEMS){
   console.error(`Only ${items.length} healthy AI items; refusing to overwrite existing dataset.`);
@@ -138,11 +177,14 @@ const payload={
   providerCount:providers.length,
   feedCount:sources.filter(s=>s.feed).length,
   healthyFeeds:results.filter(r=>r.status==='ok').length,
+  providerMonitors:providers.length,
+  healthyProviderMonitors:monitorResults.filter(r=>r.status==='ok').length,
   failedSources:results.filter(r=>r.status==='error').map(r=>({source:r.source.name,error:r.error})),
+  failedProviderMonitors:monitorResults.filter(r=>r.status==='error').map(r=>({provider:r.provider.name,error:r.error})),
   providerCoverage,
   items
 };
 
 await fs.mkdir(new URL('../data/',import.meta.url),{recursive:true});
 await fs.writeFile(new URL('../data/news.json',import.meta.url),JSON.stringify(payload,null,2)+'\n','utf8');
-console.log(`Wrote ${items.length} AI stories from ${payload.healthyFeeds}/${payload.feedCount} live feeds with ${providers.length} LLM providers indexed.`);
+console.log(`Wrote ${items.length} AI stories from ${payload.healthyFeeds}/${payload.feedCount} direct feeds plus ${payload.healthyProviderMonitors}/${providers.length} provider monitors.`);
