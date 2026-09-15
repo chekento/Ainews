@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
+  <meta name="theme-color" content="#050813">
+  <title>AI News</title>
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <div class="aurora a"></div><div class="aurora b"></div>
+  <header class="appbar">
+    <div class="brand"><span class="brandmark">AI</span><div><strong>NEWS</strong><small>INTELLIGENCE</small></div></div>
+    <div class="app-actions"><span id="livePill" class="live-pill"><i></i> LIVE</span><button id="refreshBtn" class="round-btn" aria-label="Refresh">↻</button></div>
+  </header>
+
+  <nav id="swipeTabs" class="swipe-tabs" aria-label="Sections">
+    <button data-page="0" class="active">Home</button><button data-page="1">News</button><button data-page="2">LLMs</button><button data-page="3">Governance</button><button data-page="4">Social</button><button data-page="5">Saved</button>
+  </nav>
+
+  <main id="pages" class="pages">
+    <section class="page home-page" data-index="0"><div class="page-inner">
+      <div class="hero-card"><div><span class="eyebrow">AI SIGNAL // MOBILE</span><h1>Everything AI.<br><em>Swipe the signal.</em></h1><p>Models, agents, labs, research and governance in one source-first mobile radar.</p></div><div class="orb"><span>AI</span></div></div>
+      <div id="metrics" class="metrics"></div>
+      <div class="section-title"><div><small>TOP SIGNAL</small><h2>Now</h2></div><button data-jump="1">All news →</button></div>
+      <div id="featured"></div>
+      <div class="section-title"><div><small>PULSE</small><h2>Trending</h2></div></div>
+      <div id="trends" class="trend-strip"></div>
+      <div class="section-title"><div><small>LLM WIRE</small><h2>Provider radar</h2></div><button data-jump="2">18 labs →</button></div>
+      <div id="homeProviders" class="provider-strip"></div>
+    </div></section>
+
+    <section class="page" data-index="1"><div class="page-inner">
+      <div class="page-heading"><span class="eyebrow">LIVE INDEX</span><h1>News</h1><p>Search and filter the complete AI stream.</p></div>
+      <div class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="Search AI news…"></div>
+      <div id="categoryChips" class="chip-row"></div>
+      <div id="providerChips" class="chip-row provider-chips"></div>
+      <div id="newsList" class="news-list"></div>
+    </div></section>
+
+    <section class="page" data-index="2"><div class="page-inner">
+      <div class="page-heading"><span class="eyebrow">PROVIDER WIRE</span><h1>LLMs</h1><p>18 model ecosystems. Swipe cards, tap a provider, jump straight into its coverage.</p></div>
+      <div id="providerGrid" class="provider-grid"></div>
+    </div></section>
+
+    <section class="page" data-index="3"><div class="page-inner">
+      <div class="page-heading"><span class="eyebrow">COMPLIANCE · ETHICS · POLICY</span><h1>Governance</h1><p>EU AI Act, WAICO, standards, safety and rights.</p></div>
+      <div class="gov-hero"><div class="radar"><i></i><b>EU</b><span>WAICO</span></div><div><small>GOVERNANCE RADAR</small><strong>Policy is part of the product.</strong><p>Track institutional AI governance separately from product hype.</p></div></div>
+      <div id="govLinks" class="gov-links"></div>
+      <div class="section-title"><div><small>FEED</small><h2>Compliance & ethics</h2></div></div>
+      <div id="govNews" class="news-list"></div>
+    </div></section>
+
+    <section class="page" data-index="4"><div class="page-inner">
+      <div class="page-heading"><span class="eyebrow">OFFICIAL CHANNELS</span><h1>Social</h1><p>Verified provider profiles. Links only — no social scraping.</p></div>
+      <div id="socialList" class="social-list"></div>
+    </div></section>
+
+    <section class="page" data-index="5"><div class="page-inner">
+      <div class="page-heading"><span class="eyebrow">YOUR SIGNALS</span><h1>Saved</h1><p>Bookmarks stay on this device.</p></div>
+      <div id="savedList" class="news-list"></div>
+    </div></section>
+  </main>
+
+  <button id="copilotFab" class="copilot-fab"><span>✦</span> Copilot</button>
+
+  <nav class="bottom-nav" aria-label="Bottom navigation">
+    <button data-page="0" class="active"><b>⌂</b><span>Home</span></button>
+    <button data-page="1"><b>◉</b><span>News</span></button>
+    <button data-page="2"><b>⬡</b><span>LLMs</span></button>
+    <button data-page="3"><b>⚖</b><span>Policy</span></button>
+    <button data-page="5"><b>★</b><span>Saved</span></button>
+  </nav>
+
+  <div id="chatSheet" class="chat-sheet" aria-hidden="true">
+    <div class="sheet-backdrop" data-close-chat></div>
+    <section class="sheet-panel">
+      <div class="sheet-handle"></div>
+      <header><div><small>ARTICLE INTELLIGENCE</small><h2>✦ AI News Copilot</h2></div><button data-close-chat>×</button></header>
+      <div id="chatContext" class="chat-context"></div>
+      <div id="chatMessages" class="chat-messages"></div>
+      <div class="quick-row"><button data-q="Summarize why this matters.">Why it matters</button><button data-q="Find related stories and competing providers.">Related</button><button data-q="What are the compliance, safety or ethics implications?">Risk & policy</button></div>
+      <form id="chatForm"><textarea id="chatInput" rows="2" placeholder="Ask about this story or the AI feed…"></textarea><button type="submit">↑</button></form>
+      <details class="model-settings"><summary>Connect optional OpenAI-compatible model</summary><input id="llmEndpoint" placeholder="https://…/v1/chat/completions"><input id="llmModel" placeholder="model-name"><input id="llmToken" type="password" placeholder="session token"><label><input id="llmEnabled" type="checkbox"> Use connected model</label></details>
+    </section>
+  </div>
+
+  <div id="toast" class="toast"></div>
+  <script src="app.js"></script>
+</body>
+</html>
