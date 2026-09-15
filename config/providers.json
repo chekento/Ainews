@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "updated": "2026-09-15",
+  "copyrightPolicy": "Provider social profiles are linked, not scraped. Social post text, media and thumbnails are not copied unless a future integration uses an official platform API or embed mechanism that permits it.",
+  "providers": [
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "models": "GPT · ChatGPT · Sora",
+      "region": "US",
+      "newsroom": "https://openai.com/news/",
+      "sources": ["OpenAI News"],
+      "aliases": ["OpenAI", "ChatGPT", "GPT-", "GPT ", "Sora", "o3", "o4"],
+      "social": {
+        "linkedin": "https://www.linkedin.com/company/openai/",
+        "instagram": "https://www.instagram.com/openai/",
+        "facebook": "https://www.facebook.com/openai/"
+      }
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "models": "Claude",
+      "region": "US",
+      "newsroom": "https://www.anthropic.com/news",
+      "sources": ["Anthropic News"],
+      "aliases": ["Anthropic", "Claude"],
+      "social": {"linkedin": "https://www.linkedin.com/company/anthropicresearch/"}
+    },
+    {
+      "id": "google",
+      "name": "Google DeepMind",
+      "models": "Gemini · Veo · Imagen",
+      "region": "UK / US",
+      "newsroom": "https://deepmind.google/discover/blog/",
+      "sources": ["Google DeepMind", "Google AI Blog"],
+      "aliases": ["Google DeepMind", "DeepMind", "Gemini", "Veo", "Imagen", "NotebookLM"],
+      "social": {"linkedin": "https://www.linkedin.com/company/googledeepmind/"}
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft AI",
+      "models": "Copilot · MAI",
+      "region": "US",
+      "newsroom": "https://microsoft.ai/",
+      "sources": ["Microsoft AI"],
+      "aliases": ["Microsoft AI", "Microsoft Copilot", "Copilot", "MAI-"],
+      "social": {"linkedin": "https://www.linkedin.com/company/microsoft-ai/"}
+    },
+    {
+      "id": "meta",
+      "name": "Meta AI",
+      "models": "Llama · Meta AI · Muse",
+      "region": "US",
+      "newsroom": "https://ai.meta.com/blog/",
+      "sources": ["Meta AI"],
+      "aliases": ["Meta AI", "Meta Superintelligence", "Llama", "Muse Glimmer", "Muse Spark", "Muse Code"],
+      "social": {"linkedin": "https://www.linkedin.com/company/meta/"}
+    },
+    {
+      "id": "xai",
+      "name": "xAI",
+      "models": "Grok",
+      "region": "US",
+      "newsroom": "https://x.ai/news",
+      "sources": ["xAI"],
+      "aliases": ["xAI", "Grok"],
+      "social": {"linkedin": "https://www.linkedin.com/company/x-ai1/"}
+    },
+    {
+      "id": "mistral",
+      "name": "Mistral AI",
+      "models": "Mistral · Magistral · Codestral",
+      "region": "EU",
+      "newsroom": "https://mistral.ai/news/",
+      "sources": ["Mistral AI"],
+      "aliases": ["Mistral AI", "Mistral", "Magistral", "Codestral", "Le Chat"],
+      "social": {"linkedin": "https://www.linkedin.com/company/mistralai/"}
+    },
+    {
+      "id": "cohere",
+      "name": "Cohere",
+      "models": "Command · Aya",
+      "region": "CA",
+      "newsroom": "https://cohere.com/blog",
+      "sources": ["Cohere"],
+      "aliases": ["Cohere", "Command R", "Command A", "Aya"],
+      "social": {"linkedin": "https://www.linkedin.com/company/cohere-ai/"}
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "models": "Sonar · Answer Engine",
+      "region": "US",
+      "newsroom": "https://www.perplexity.ai/hub/blog",
+      "sources": ["Perplexity"],
+      "aliases": ["Perplexity", "Sonar"],
+      "social": {"linkedin": "https://www.linkedin.com/company/perplexity-ai/"}
+    },
+    {
+      "id": "qwen",
+      "name": "Alibaba Qwen",
+      "models": "Qwen",
+      "region": "CN",
+      "newsroom": "https://qwenlm.github.io/blog/",
+      "sources": [],
+      "aliases": ["Qwen", "Alibaba Cloud", "Tongyi Qianwen"],
+      "social": {
+        "linkedin": "https://www.linkedin.com/company/alibaba-cloud-computing-company/",
+        "facebook": "https://www.facebook.com/alibabacloud/"
+      }
+    },
+    {
+      "id": "kimi",
+      "name": "Moonshot AI / Kimi",
+      "models": "Kimi",
+      "region": "CN",
+      "newsroom": "https://www.kimi.ai/",
+      "sources": [],
+      "aliases": ["Moonshot AI", "Moonshot", "Kimi K", "Kimi AI", "Kimi"],
+      "social": {"linkedin": "https://www.linkedin.com/company/kimi-ai-linkedin/"}
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "models": "DeepSeek V · R · Coder",
+      "region": "CN",
+      "newsroom": "https://www.deepseek.com/",
+      "sources": [],
+      "aliases": ["DeepSeek", "DeepSeek-V", "DeepSeek-R", "DeepSeek Coder"],
+      "social": {"linkedin": "https://www.linkedin.com/company/deepseek-ai/"}
+    },
+    {
+      "id": "zai",
+      "name": "Z.AI / Zhipu",
+      "models": "GLM",
+      "region": "CN",
+      "newsroom": "https://z.ai/",
+      "sources": [],
+      "aliases": ["Z.AI", "Zhipu", "GLM-", "ChatGLM"],
+      "social": {}
+    },
+    {
+      "id": "minimax",
+      "name": "MiniMax",
+      "models": "MiniMax · Hailuo",
+      "region": "CN / SG",
+      "newsroom": "https://www.minimax.io/",
+      "sources": [],
+      "aliases": ["MiniMax", "Hailuo"],
+      "social": {"linkedin": "https://www.linkedin.com/company/minimax-ai/"}
+    },
+    {
+      "id": "ai21",
+      "name": "AI21 Labs",
+      "models": "Jamba",
+      "region": "IL / US",
+      "newsroom": "https://www.ai21.com/blog",
+      "sources": [],
+      "aliases": ["AI21", "Jamba"],
+      "social": {"linkedin": "https://www.linkedin.com/company/ai21/"}
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon AI",
+      "models": "Nova · Bedrock",
+      "region": "US",
+      "newsroom": "https://aws.amazon.com/blogs/machine-learning/",
+      "sources": ["AWS Machine Learning"],
+      "aliases": ["Amazon Nova", "Amazon Bedrock", "AWS Bedrock", "Nova model", "Amazon AI"],
+      "social": {"linkedin": "https://www.linkedin.com/company/amazon-web-services/"}
+    },
+    {
+      "id": "nvidia",
+      "name": "NVIDIA",
+      "models": "Nemotron · NIM",
+      "region": "US",
+      "newsroom": "https://blogs.nvidia.com/blog/category/generative-ai/",
+      "sources": ["NVIDIA AI Blog"],
+      "aliases": ["NVIDIA", "Nemotron", "NVIDIA NIM"],
+      "social": {"linkedin": "https://www.linkedin.com/company/nvidia/"}
+    },
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "models": "Granite · watsonx",
+      "region": "US",
+      "newsroom": "https://research.ibm.com/artificial-intelligence",
+      "sources": ["IBM Research AI"],
+      "aliases": ["IBM Granite", "Granite model", "watsonx", "IBM AI"],
+      "social": {}
+    }
+  ]
+}
