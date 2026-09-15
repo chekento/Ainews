@@ -7,6 +7,7 @@ on:
     paths:
       - 'android/**'
       - 'config/providers.json'
+      - 'config/sources.json'
       - '.github/workflows/android-apk.yml'
 
 permissions:
@@ -54,9 +55,10 @@ jobs:
         run: |
           git tag -f android-latest "$GITHUB_SHA"
           git push origin refs/tags/android-latest --force
+          NOTES="AI News Android 1.1. Modern swipe UI, persistent multi-select source controls, provider wire, governance radar, saved stories, official social links, AI News Copilot and 8 native hypercyber home-screen widgets: Breaking, Primary Signal, LLM Provider Wire, Governance Radar, R&D/Infra, Signal Stack, Neon Matrix and Signal Clock. Widgets respect disabled sources, refresh every 30 minutes, support manual refresh and use the bundled offline feed as fallback. Debug-signed for direct testing."
           if gh release view android-latest >/dev/null 2>&1; then
             gh release upload android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --clobber
-            gh release edit android-latest --title "AI News Android • Latest" --notes "Modern Android build of AI News // Live. Swipe tabs, provider wire, governance radar, saved stories, official social links and AI News Copilot. Debug-signed for direct testing; source-first and no social scraping."
+            gh release edit android-latest --title "AI News Android 1.1 • Hypercyber Widgets" --notes "$NOTES"
           else
-            gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --title "AI News Android • Latest" --notes "Modern Android build of AI News // Live. Swipe tabs, provider wire, governance radar, saved stories, official social links and AI News Copilot. Debug-signed for direct testing; source-first and no social scraping."
+            gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --title "AI News Android 1.1 • Hypercyber Widgets" --notes "$NOTES"
           fi

@@ -6,6 +6,7 @@
   <meta name="theme-color" content="#050813">
   <title>AI News</title>
   <link rel="stylesheet" href="app.css">
+  <link rel="stylesheet" href="source.css">
 </head>
 <body>
   <div class="aurora a"></div><div class="aurora b"></div>
@@ -33,6 +34,7 @@
     <section class="page" data-index="1"><div class="page-inner">
       <div class="page-heading"><span class="eyebrow">LIVE INDEX</span><h1>News</h1><p>Search and filter the complete AI stream.</p></div>
       <div class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="Search AI news…"></div>
+      <button id="sourceBtn" class="source-manager-btn"><span>◫</span><div><small>SOURCES</small><strong id="sourceBtnLabel">All sources enabled</strong></div><b>Manage ›</b></button>
       <div id="categoryChips" class="chip-row"></div>
       <div id="providerChips" class="chip-row provider-chips"></div>
       <div id="newsList" class="news-list"></div>
@@ -71,6 +73,18 @@
     <button data-page="3"><b>⚖</b><span>Policy</span></button>
     <button data-page="5"><b>★</b><span>Saved</span></button>
   </nav>
+
+  <div id="sourceSheet" class="source-sheet" aria-hidden="true">
+    <div class="source-backdrop" data-close-sources></div>
+    <section class="source-panel">
+      <div class="source-handle"></div>
+      <header><div><small>FEED CONTROL</small><h2>◫ Choose sources</h2></div><button data-close-sources>×</button></header>
+      <p>Turn publishers and primary labs on or off. The same selection is used by all eight Android home-screen widgets.</p>
+      <div class="source-actions"><button id="enableAllSources">Enable all</button><button id="disableAllSources">Disable all</button><button id="refreshWidgetsBtn">↻ Widgets</button></div>
+      <div class="source-search"><span>⌕</span><input id="sourceSearch" placeholder="Find a source…"></div>
+      <div id="sourceList" class="source-list"></div>
+    </section>
+  </div>
 
   <div id="chatSheet" class="chat-sheet" aria-hidden="true">
     <div class="sheet-backdrop" data-close-chat></div>

@@ -37,18 +37,21 @@ jobs:
         run: |
           node --check app.js
           node --check scripts/fetch-news.mjs
+          node --check scripts/update-readme-news.mjs
           node -e "JSON.parse(require('fs').readFileSync('config/sources.json','utf8')); JSON.parse(require('fs').readFileSync('config/providers.json','utf8')); console.log('JSON OK')"
       - name: Build AI-only news dataset
         run: node scripts/fetch-news.mjs
-      - name: Commit updated dataset
+      - name: Refresh repository frontpage
+        run: node scripts/update-readme-news.mjs
+      - name: Commit live dataset and frontpage
         run: |
-          if git diff --quiet -- data/news.json; then
-            echo "No dataset change."
+          if git diff --quiet -- data/news.json README.md; then
+            echo "No feed/frontpage change."
             exit 0
           fi
           git config user.name "ai-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/news.json
-          git commit -m "data: refresh AI news feed"
+          git add data/news.json README.md
+          git commit -m "data: refresh AI news and frontpage"
           git pull --rebase origin main
           git push origin HEAD:main

@@ -14,6 +14,7 @@ import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import cloud.kosch.ainews.widget.BaseNewsWidget;
 
 public class MainActivity extends Activity {
     private WebView webView;
@@ -80,10 +81,22 @@ public class MainActivity extends Activity {
         public void haptic() {
             try {
                 Vibrator vibrator = (Vibrator) context.getSystemService(Context.VIBRATOR_SERVICE);
-                if (vibrator != null && vibrator.hasVibrator()) {
-                    vibrator.vibrate(VibrationEffect.createOneShot(18, VibrationEffect.DEFAULT_AMPLITUDE));
-                }
+                if (vibrator != null && vibrator.hasVibrator()) vibrator.vibrate(VibrationEffect.createOneShot(18, VibrationEffect.DEFAULT_AMPLITUDE));
             } catch (Exception ignored) { }
+        }
+
+        @JavascriptInterface
+        public void setDisabledSources(String json) {
+            try {
+                context.getSharedPreferences("widgetPrefs", Context.MODE_PRIVATE)
+                    .edit().putString("disabledSources", json == null ? "[]" : json).apply();
+                BaseNewsWidget.refreshAll(context);
+            } catch (Exception ignored) { }
+        }
+
+        @JavascriptInterface
+        public void refreshWidgets() {
+            try { BaseNewsWidget.refreshAll(context); } catch (Exception ignored) { }
         }
     }
 }
