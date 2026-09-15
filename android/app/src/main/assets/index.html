@@ -3,64 +3,121 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
-  <meta name="theme-color" content="#050813">
-  <title>AI News</title>
+  <meta name="theme-color" content="#050711">
+  <title>AI News 2.0</title>
   <link rel="stylesheet" href="app.css">
   <link rel="stylesheet" href="source.css">
 </head>
-<body>
-  <div class="aurora a"></div><div class="aurora b"></div>
+<body data-theme="cyber" data-density="comfortable" data-cards="rich" data-motion="full">
+  <div class="fx-grid"></div><div class="fx-orb fx-a"></div><div class="fx-orb fx-b"></div>
+
   <header class="appbar">
-    <div class="brand"><span class="brandmark">AI</span><div><strong>NEWS</strong><small>INTELLIGENCE</small></div></div>
-    <div class="app-actions"><span id="livePill" class="live-pill"><i></i> LIVE</span><button id="refreshBtn" class="round-btn" aria-label="Refresh">↻</button></div>
+    <button class="brand" data-page="0" aria-label="AI News home"><span class="brandmark">AI</span><span><strong>NEWS</strong><small>HYPERINTELLIGENCE</small></span></button>
+    <div class="app-actions"><button id="globalSearchBtn" class="round-btn" aria-label="Search">⌕</button><span id="livePill" class="live-pill"><i></i> LIVE</span><button id="refreshBtn" class="round-btn" aria-label="Refresh">↻</button></div>
   </header>
 
   <nav id="swipeTabs" class="swipe-tabs" aria-label="Sections">
-    <button data-page="0" class="active">Home</button><button data-page="1">News</button><button data-page="2">LLMs</button><button data-page="3">Governance</button><button data-page="4">Social</button><button data-page="5">Saved</button>
+    <button data-page="0" class="active">Home</button><button data-page="1">Discover</button><button data-page="2">LLMs</button><button data-page="3">Governance</button><button data-page="4">Social</button><button data-page="5">Saved</button><button data-page="6">Settings</button>
   </nav>
 
   <main id="pages" class="pages">
     <section class="page home-page" data-index="0"><div class="page-inner">
-      <div class="hero-card"><div><span class="eyebrow">AI SIGNAL // MOBILE</span><h1>Everything AI.<br><em>Swipe the signal.</em></h1><p>Models, agents, labs, research and governance in one source-first mobile radar.</p></div><div class="orb"><span>AI</span></div></div>
+      <article class="command-hero">
+        <div class="hero-top"><span class="eyebrow"><i></i> AI-ONLY SIGNAL GRID</span><span id="heroSync" class="sync-chip">SYNCING</span></div>
+        <h1>See what matters.<br><em>Before the noise wins.</em></h1>
+        <p>Models, agents, research, infrastructure, robotics and policy — verified through an AI-only relevance gate.</p>
+        <button class="command-search" data-page="1"><span>⌕</span><b>Search the intelligence layer</b><kbd>AI</kbd></button>
+        <div class="topic-launcher">
+          <button data-quick="Frontier Models">◈ Models</button><button data-quick="Products & Agents">✦ Agents</button><button data-quick="Research">⌁ Research</button><button data-quick="Safety & Security">◇ Safety</button><button data-quick="Infrastructure">▦ Infra</button><button data-quick="Robotics & Embodied AI">⬡ Robotics</button>
+        </div>
+      </article>
       <div id="metrics" class="metrics"></div>
-      <div class="section-title"><div><small>TOP SIGNAL</small><h2>Now</h2></div><button data-jump="1">All news →</button></div>
+      <div class="section-title"><div><small>EXECUTIVE SIGNAL</small><h2>Top story</h2></div><button data-page="1">Discover →</button></div>
       <div id="featured"></div>
-      <div class="section-title"><div><small>PULSE</small><h2>Trending</h2></div></div>
-      <div id="trends" class="trend-strip"></div>
-      <div class="section-title"><div><small>LLM WIRE</small><h2>Provider radar</h2></div><button data-jump="2">18 labs →</button></div>
+      <div class="section-title"><div><small>AI PULSE</small><h2>What is moving</h2></div></div>
+      <div id="briefing" class="briefing-grid"></div>
+      <div class="section-title"><div><small>PROVIDER RADAR</small><h2>LLM wire</h2></div><button data-page="2">All labs →</button></div>
       <div id="homeProviders" class="provider-strip"></div>
     </div></section>
 
-    <section class="page" data-index="1"><div class="page-inner">
-      <div class="page-heading"><span class="eyebrow">LIVE INDEX</span><h1>News</h1><p>Search and filter the complete AI stream.</p></div>
-      <div class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="Search AI news…"></div>
-      <button id="sourceBtn" class="source-manager-btn"><span>◫</span><div><small>SOURCES</small><strong id="sourceBtnLabel">All sources enabled</strong></div><b>Manage ›</b></button>
+    <section class="page" data-index="1"><div class="page-inner discover-inner">
+      <div class="page-heading"><span class="eyebrow">SEARCH // DISCOVER // FILTER</span><h1>Discover</h1><p>Search the complete AI-only stream with field filters, time windows and relevance ranking.</p></div>
+      <div class="search-shell">
+        <div class="search"><span>⌕</span><input id="searchInput" type="search" autocomplete="off" placeholder='Search AI news or try provider:openai "reasoning model"'><button id="clearSearch" aria-label="Clear search">×</button></div>
+        <div id="searchHints" class="search-hints"><button data-query="is:primary">is:primary</button><button data-query="tag:Agents">tag:Agents</button><button data-query="cat:Research">cat:Research</button><button data-query="after:2026-09-01">after:date</button><button id="syntaxBtn">syntax ?</button></div>
+      </div>
+      <div class="control-ribbon">
+        <label>Time<select id="timeFilter"><option value="all">All</option><option value="24h">24h</option><option value="3d">3d</option><option value="7d" selected>7d</option><option value="30d">30d</option></select></label>
+        <label>Sort<select id="sortFilter"><option value="newest">Newest</option><option value="relevance">Relevance</option><option value="trust">Primary first</option><option value="source">Source</option></select></label>
+        <label>Type<select id="provenanceFilter"><option value="all">All types</option><option value="primary">Primary</option><option value="official">Official</option><option value="research">Research</option><option value="journalism">Journalism</option><option value="governance">Governance</option></select></label>
+        <button id="viewBtn" class="ribbon-btn">▦ Rich</button>
+      </div>
+      <button id="sourceBtn" class="source-manager-btn"><span>◫</span><div><small>SOURCE MATRIX</small><strong id="sourceBtnLabel">All sources enabled</strong></div><b>Manage ›</b></button>
+      <div id="activeFilters" class="active-filters"></div>
       <div id="categoryChips" class="chip-row"></div>
-      <div id="providerChips" class="chip-row provider-chips"></div>
+      <div class="provider-filter-wrap"><button id="providerToggle" class="filter-caption">Provider filters <span>＋</span></button><div id="providerChips" class="chip-row provider-chips collapsed"></div></div>
+      <div class="result-head"><div><small>RESULT SET</small><strong id="resultCount">0 AI signals</strong></div><button id="resetFilters">Reset</button></div>
       <div id="newsList" class="news-list"></div>
     </div></section>
 
     <section class="page" data-index="2"><div class="page-inner">
-      <div class="page-heading"><span class="eyebrow">PROVIDER WIRE</span><h1>LLMs</h1><p>18 model ecosystems. Swipe cards, tap a provider, jump straight into its coverage.</p></div>
+      <div class="page-heading"><span class="eyebrow">MODEL ECOSYSTEMS</span><h1>LLM Wire</h1><p>Provider activity, model families and current signal volume. Tap any ecosystem to filter Discover.</p></div>
       <div id="providerGrid" class="provider-grid"></div>
     </div></section>
 
     <section class="page" data-index="3"><div class="page-inner">
-      <div class="page-heading"><span class="eyebrow">COMPLIANCE · ETHICS · POLICY</span><h1>Governance</h1><p>EU AI Act, WAICO, standards, safety and rights.</p></div>
-      <div class="gov-hero"><div class="radar"><i></i><b>EU</b><span>WAICO</span></div><div><small>GOVERNANCE RADAR</small><strong>Policy is part of the product.</strong><p>Track institutional AI governance separately from product hype.</p></div></div>
+      <div class="page-heading"><span class="eyebrow">COMPLIANCE · ETHICS · SAFETY</span><h1>Governance</h1><p>Policy and institutional AI intelligence separated from product hype.</p></div>
+      <div class="gov-hero"><div class="radar"><i></i><b>EU</b><span>WAICO</span><em>NIST</em></div><div><small>GOVERNANCE RADAR</small><strong>Rules move with the models.</strong><p>EU AI Act, WAICO, NIST, OECD, safety institutes and standards.</p></div></div>
       <div id="govLinks" class="gov-links"></div>
-      <div class="section-title"><div><small>FEED</small><h2>Compliance & ethics</h2></div></div>
+      <div class="section-title"><div><small>LIVE POLICY FEED</small><h2>Compliance & ethics</h2></div></div>
       <div id="govNews" class="news-list"></div>
     </div></section>
 
     <section class="page" data-index="4"><div class="page-inner">
-      <div class="page-heading"><span class="eyebrow">OFFICIAL CHANNELS</span><h1>Social</h1><p>Verified provider profiles. Links only — no social scraping.</p></div>
+      <div class="page-heading"><span class="eyebrow">OFFICIAL CHANNELS</span><h1>Social Wire</h1><p>Official provider profiles only. Links, not scraped posts.</p></div>
       <div id="socialList" class="social-list"></div>
     </div></section>
 
     <section class="page" data-index="5"><div class="page-inner">
-      <div class="page-heading"><span class="eyebrow">YOUR SIGNALS</span><h1>Saved</h1><p>Bookmarks stay on this device.</p></div>
+      <div class="page-heading"><span class="eyebrow">LOCAL COLLECTION</span><h1>Saved</h1><p>Bookmarks remain on this device and respect disabled sources.</p></div>
       <div id="savedList" class="news-list"></div>
+    </div></section>
+
+    <section class="page" data-index="6"><div class="page-inner settings-page">
+      <div class="page-heading"><span class="eyebrow">PERSONALIZE EVERYTHING</span><h1>Settings</h1><p>Shape the interface, feed behavior and all eight home-screen widgets.</p></div>
+
+      <section class="settings-card"><header><span>01</span><div><small>INTERFACE</small><h2>Appearance & UX</h2></div></header>
+        <div class="setting-row"><div><strong>Theme</strong><small>Cyber, pure OLED black or light.</small></div><select id="themePref" data-pref="theme"><option value="cyber">Hypercyber</option><option value="black">OLED Black</option><option value="light">Light</option><option value="system">System</option></select></div>
+        <div class="setting-row column"><div><strong>Accent</strong><small>Changes interactive signal color.</small></div><div id="accentPicker" class="accent-picker"><button data-accent="mint" aria-label="Mint"></button><button data-accent="cyan" aria-label="Cyan"></button><button data-accent="violet" aria-label="Violet"></button><button data-accent="magenta" aria-label="Magenta"></button><button data-accent="amber" aria-label="Amber"></button></div></div>
+        <div class="setting-row"><div><strong>Density</strong><small>Spacing across cards and controls.</small></div><select id="densityPref" data-pref="density"><option value="compact">Compact</option><option value="comfortable">Comfortable</option><option value="roomy">Roomy</option></select></div>
+        <div class="setting-row"><div><strong>Card style</strong><small>Rich visuals, compact or headline-only.</small></div><select id="cardModePref" data-pref="cardMode"><option value="rich">Rich</option><option value="compact">Compact</option><option value="headline">Headlines</option></select></div>
+        <div class="setting-row"><div><strong>Font size</strong><small id="fontScaleLabel">100%</small></div><input id="fontScalePref" data-pref="fontScale" type="range" min="90" max="125" step="5" value="100"></div>
+        <div class="setting-row"><div><strong>Motion</strong><small>Animations and ambient effects.</small></div><select id="motionPref" data-pref="motion"><option value="full">Full</option><option value="reduced">Reduced</option><option value="off">Off</option></select></div>
+        <label class="switch-row"><span><strong>Story summaries</strong><small>Show short source excerpts.</small></span><input id="showSummaryPref" data-pref="showSummary" type="checkbox" checked><i></i></label>
+        <label class="switch-row"><span><strong>Generated visuals</strong><small>Keep cyber preview panels on cards.</small></span><input id="showVisualPref" data-pref="showVisual" type="checkbox" checked><i></i></label>
+      </section>
+
+      <section class="settings-card"><header><span>02</span><div><small>INTELLIGENCE FEED</small><h2>Discovery defaults</h2></div></header>
+        <div class="setting-row"><div><strong>Default time window</strong><small>Applied when the app starts.</small></div><select id="defaultTimePref" data-pref="defaultTime"><option value="24h">24h</option><option value="3d">3 days</option><option value="7d">7 days</option><option value="30d">30 days</option><option value="all">All</option></select></div>
+        <div class="setting-row"><div><strong>Default sort</strong><small>Newest, relevance or source trust.</small></div><select id="defaultSortPref" data-pref="defaultSort"><option value="newest">Newest</option><option value="relevance">Relevance</option><option value="trust">Primary first</option></select></div>
+        <div class="setting-row"><div><strong>Auto refresh</strong><small>While the app remains open.</small></div><select id="autoRefreshPref" data-pref="autoRefresh"><option value="0">Manual</option><option value="5">5 min</option><option value="15">15 min</option><option value="30">30 min</option><option value="60">60 min</option></select></div>
+        <label class="switch-row"><span><strong>Primary-source boost</strong><small>Favor labs, research and official institutions in trust sort.</small></span><input id="primaryBoostPref" data-pref="primaryBoost" type="checkbox" checked><i></i></label>
+        <label class="switch-row"><span><strong>Provider monitor coverage</strong><small>Include independently reported provider-monitor results.</small></span><input id="includeMonitorsPref" data-pref="includeMonitors" type="checkbox" checked><i></i></label>
+        <label class="switch-row"><span><strong>Research papers</strong><small>Include arXiv paper streams.</small></span><input id="includePapersPref" data-pref="includePapers" type="checkbox" checked><i></i></label>
+      </section>
+
+      <section class="settings-card"><header><span>03</span><div><small>ANDROID DESKTOP</small><h2>Hypercyber widgets</h2></div></header>
+        <div class="setting-row"><div><strong>Widget accent</strong><small>Overrides the native accent when selected.</small></div><select id="widgetAccent"><option value="native">Native per widget</option><option value="mint">Mint</option><option value="cyan">Cyan</option><option value="violet">Violet</option><option value="magenta">Magenta</option><option value="amber">Amber</option></select></div>
+        <div class="setting-row"><div><strong>Widget text scale</strong><small>Headline and metadata size.</small></div><select id="widgetTextScale"><option value="0.9">90%</option><option value="1">100%</option><option value="1.1">110%</option><option value="1.2">120%</option></select></div>
+        <div class="setting-row"><div><strong>Widget density</strong><small>Padding and visible headline lines.</small></div><select id="widgetDensity"><option value="compact">Compact</option><option value="comfortable">Comfortable</option><option value="roomy">Roomy</option></select></div>
+        <label class="switch-row"><span><strong>Widget summaries</strong><small>Show the short extra context line.</small></span><input id="widgetSummary" type="checkbox" checked><i></i></label>
+        <label class="switch-row"><span><strong>Widget metadata</strong><small>Source, category and time.</small></span><input id="widgetMeta" type="checkbox" checked><i></i></label>
+        <div class="widget-mode-title"><strong>Content mode per widget</strong><small>Each installed widget can look at a different desk.</small></div>
+        <div id="widgetModes" class="widget-mode-list"></div>
+        <button id="refreshWidgetsBtn" class="settings-action">↻ Refresh all widgets now</button>
+      </section>
+
+      <section class="settings-card danger-lite"><header><span>04</span><div><small>RESET</small><h2>Local preferences</h2></div></header><button id="resetSettingsBtn" class="settings-action secondary">Reset interface settings</button></section>
     </div></section>
   </main>
 
@@ -68,36 +125,17 @@
 
   <nav class="bottom-nav" aria-label="Bottom navigation">
     <button data-page="0" class="active"><b>⌂</b><span>Home</span></button>
-    <button data-page="1"><b>◉</b><span>News</span></button>
+    <button data-page="1"><b>⌕</b><span>Discover</span></button>
     <button data-page="2"><b>⬡</b><span>LLMs</span></button>
-    <button data-page="3"><b>⚖</b><span>Policy</span></button>
     <button data-page="5"><b>★</b><span>Saved</span></button>
+    <button data-page="6"><b>⚙</b><span>Settings</span></button>
   </nav>
 
-  <div id="sourceSheet" class="source-sheet" aria-hidden="true">
-    <div class="source-backdrop" data-close-sources></div>
-    <section class="source-panel">
-      <div class="source-handle"></div>
-      <header><div><small>FEED CONTROL</small><h2>◫ Choose sources</h2></div><button data-close-sources>×</button></header>
-      <p>Turn publishers and primary labs on or off. The same selection is used by all eight Android home-screen widgets.</p>
-      <div class="source-actions"><button id="enableAllSources">Enable all</button><button id="disableAllSources">Disable all</button><button id="refreshWidgetsBtn">↻ Widgets</button></div>
-      <div class="source-search"><span>⌕</span><input id="sourceSearch" placeholder="Find a source…"></div>
-      <div id="sourceList" class="source-list"></div>
-    </section>
-  </div>
+  <div id="sourceSheet" class="source-sheet" aria-hidden="true"><div class="source-backdrop" data-close-sources></div><section class="source-panel"><div class="source-handle"></div><header><div><small>FEED CONTROL</small><h2>◫ Source Matrix</h2></div><button data-close-sources>×</button></header><p>Disable any publisher, lab or institution. The same exclusions apply to Android widgets.</p><div class="source-actions"><button id="enableAllSources">Enable all</button><button id="disableAllSources">Disable all</button><button id="primaryOnlySources">Primary + official</button></div><div class="source-search"><span>⌕</span><input id="sourceSearch" placeholder="Find a source or class…"></div><div id="sourceList" class="source-list"></div></section></div>
 
-  <div id="chatSheet" class="chat-sheet" aria-hidden="true">
-    <div class="sheet-backdrop" data-close-chat></div>
-    <section class="sheet-panel">
-      <div class="sheet-handle"></div>
-      <header><div><small>ARTICLE INTELLIGENCE</small><h2>✦ AI News Copilot</h2></div><button data-close-chat>×</button></header>
-      <div id="chatContext" class="chat-context"></div>
-      <div id="chatMessages" class="chat-messages"></div>
-      <div class="quick-row"><button data-q="Summarize why this matters.">Why it matters</button><button data-q="Find related stories and competing providers.">Related</button><button data-q="What are the compliance, safety or ethics implications?">Risk & policy</button></div>
-      <form id="chatForm"><textarea id="chatInput" rows="2" placeholder="Ask about this story or the AI feed…"></textarea><button type="submit">↑</button></form>
-      <details class="model-settings"><summary>Connect optional OpenAI-compatible model</summary><input id="llmEndpoint" placeholder="https://…/v1/chat/completions"><input id="llmModel" placeholder="model-name"><input id="llmToken" type="password" placeholder="session token"><label><input id="llmEnabled" type="checkbox"> Use connected model</label></details>
-    </section>
-  </div>
+  <div id="syntaxSheet" class="source-sheet" aria-hidden="true"><div class="source-backdrop" data-close-syntax></div><section class="source-panel syntax-panel"><div class="source-handle"></div><header><div><small>POWER SEARCH</small><h2>⌕ Query syntax</h2></div><button data-close-syntax>×</button></header><div class="syntax-grid"><code>source:OpenAI</code><span>filter publisher/source</span><code>provider:anthropic</code><span>provider ecosystem</span><code>cat:Research</code><span>desk/category</span><code>tag:Agents</code><span>topic tag</span><code>type:official</code><span>provenance class</span><code>after:2026-09-01</code><span>published after date</span><code>before:2026-09-15</code><span>published before date</span><code>is:primary</code><span>primary/official only</span><code>is:saved</code><span>bookmarked stories</span><code>-funding</code><span>exclude a term</span><code>"reasoning model"</code><span>exact phrase</span></div></section></div>
+
+  <div id="chatSheet" class="chat-sheet" aria-hidden="true"><div class="sheet-backdrop" data-close-chat></div><section class="sheet-panel"><div class="sheet-handle"></div><header><div><small>ARTICLE INTELLIGENCE</small><h2>✦ AI News Copilot</h2></div><button data-close-chat>×</button></header><div id="chatContext" class="chat-context"></div><div id="chatMessages" class="chat-messages"></div><div class="quick-row"><button data-q="Summarize why this matters.">Why it matters</button><button data-q="Find related stories and competing providers.">Related</button><button data-q="What are the compliance, safety or ethics implications?">Risk & policy</button></div><form id="chatForm"><textarea id="chatInput" rows="2" placeholder="Ask about this story or the current filtered AI feed…"></textarea><button type="submit">↑</button></form><details class="model-settings"><summary>Connect optional OpenAI-compatible model</summary><input id="llmEndpoint" placeholder="https://…/v1/chat/completions"><input id="llmModel" placeholder="model-name"><input id="llmToken" type="password" placeholder="session token"><label><input id="llmEnabled" type="checkbox"> Use connected model</label></details></section></div>
 
   <div id="toast" class="toast"></div>
   <script src="app.js"></script>

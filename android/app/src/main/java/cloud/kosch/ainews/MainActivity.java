@@ -8,7 +8,6 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.os.VibrationEffect;
 import android.os.Vibrator;
-import android.view.Window;
 import android.webkit.JavascriptInterface;
 import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
@@ -22,10 +21,8 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Window window = getWindow();
-        window.setStatusBarColor(Color.rgb(5, 8, 19));
-        window.setNavigationBarColor(Color.rgb(5, 8, 19));
-
+        getWindow().setStatusBarColor(Color.rgb(5, 7, 17));
+        getWindow().setNavigationBarColor(Color.rgb(5, 7, 17));
         webView = new WebView(this);
         setContentView(webView);
         WebSettings settings = webView.getSettings();
@@ -37,7 +34,7 @@ public class MainActivity extends Activity {
         settings.setAllowUniversalAccessFromFileURLs(true);
         settings.setMediaPlaybackRequiresUserGesture(false);
         settings.setCacheMode(WebSettings.LOAD_DEFAULT);
-        webView.setBackgroundColor(Color.rgb(5, 8, 19));
+        webView.setBackgroundColor(Color.rgb(5, 7, 17));
         webView.setWebChromeClient(new WebChromeClient());
         webView.setWebViewClient(new WebViewClient());
         webView.addJavascriptInterface(new AndroidBridge(this), "AndroidBridge");
@@ -88,8 +85,15 @@ public class MainActivity extends Activity {
         @JavascriptInterface
         public void setDisabledSources(String json) {
             try {
-                context.getSharedPreferences("widgetPrefs", Context.MODE_PRIVATE)
-                    .edit().putString("disabledSources", json == null ? "[]" : json).apply();
+                context.getSharedPreferences("widgetPrefs", Context.MODE_PRIVATE).edit().putString("disabledSources", json == null ? "[]" : json).apply();
+                BaseNewsWidget.refreshAll(context);
+            } catch (Exception ignored) { }
+        }
+
+        @JavascriptInterface
+        public void setWidgetSettings(String json) {
+            try {
+                context.getSharedPreferences("widgetPrefs", Context.MODE_PRIVATE).edit().putString("settings", json == null ? "{}" : json).apply();
                 BaseNewsWidget.refreshAll(context);
             } catch (Exception ignored) { }
         }

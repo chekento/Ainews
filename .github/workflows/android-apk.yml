@@ -30,6 +30,13 @@ jobs:
       - uses: gradle/actions/setup-gradle@v4
         with:
           gradle-version: '8.9'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate mobile JavaScript and registries
+        run: |
+          node --check android/app/src/main/assets/app.js
+          node -e "const fs=require('fs'); JSON.parse(fs.readFileSync('config/sources.json','utf8')); JSON.parse(fs.readFileSync('config/providers.json','utf8')); console.log('Mobile assets OK')"
       - name: Bundle offline fallback data
         run: |
           cp data/news.json android/app/src/main/assets/news.json
@@ -44,7 +51,7 @@ jobs:
           sha256sum dist/AI-News.apk > dist/AI-News.apk.sha256
       - uses: actions/upload-artifact@v4
         with:
-          name: AI-News-Android
+          name: AI-News-Android-2.0
           path: |
             dist/AI-News.apk
             dist/AI-News.apk.sha256
@@ -55,10 +62,10 @@ jobs:
         run: |
           git tag -f android-latest "$GITHUB_SHA"
           git push origin refs/tags/android-latest --force
-          NOTES="AI News Android 1.1. Modern swipe UI, persistent multi-select source controls, provider wire, governance radar, saved stories, official social links, AI News Copilot and 8 native hypercyber home-screen widgets: Breaking, Primary Signal, LLM Provider Wire, Governance Radar, R&D/Infra, Signal Stack, Neon Matrix and Signal Clock. Widgets respect disabled sources, refresh every 30 minutes, support manual refresh and use the bundled offline feed as fallback. Debug-signed for direct testing."
+          NOTES="AI News Android 2.0 • Hyperintelligence. Rebuilt Command Center home, advanced Discover search with field syntax and time/provenance/provider/source filters, 60-source AI-only universe, strict AI relevance metadata, theme/accent/density/font/card/motion/feed settings, source controls, saved stories, governance radar, provider wire and AI News Copilot. Eight native hypercyber widgets now support configurable content desk, accent, text scale, density, summaries and metadata while respecting disabled sources. Debug-signed for direct testing."
           if gh release view android-latest >/dev/null 2>&1; then
             gh release upload android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --clobber
-            gh release edit android-latest --title "AI News Android 1.1 • Hypercyber Widgets" --notes "$NOTES"
+            gh release edit android-latest --title "AI News Android 2.0 • Hyperintelligence" --notes "$NOTES"
           else
-            gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --title "AI News Android 1.1 • Hypercyber Widgets" --notes "$NOTES"
+            gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --title "AI News Android 2.0 • Hyperintelligence" --notes "$NOTES"
           fi
