@@ -1,8 +1,9 @@
 {
-  "generatedAt": "2026-09-15T20:11:33.304Z",
+  "generatedAt": "2026-09-15T20:54:53.061Z",
   "refreshMinutes": 30,
   "aiOnly": true,
-  "filterVersion": 3,
+  "filterVersion": 4,
+  "imagePolicy": "feed-metadata-only",
   "sourceCount": 60,
   "providerCount": 18,
   "feedCount": 25,
@@ -24,8 +25,8 @@
   "failedSourceMonitors": [],
   "failedProviderMonitors": [],
   "providerCoverage": {
-    "openai": 36,
-    "anthropic": 28,
+    "openai": 38,
+    "anthropic": 29,
     "google": 38,
     "microsoft": 14,
     "meta": 11,
@@ -107,6 +108,28 @@
   },
   "items": [
     {
+      "id": "260d7ae0bcf83422f0",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-15T20:12:53.000Z",
+      "category": "Products & Agents",
+      "provenance": "journalism",
+      "tags": [
+        "Agents",
+        "Enterprise"
+      ],
+      "providers": [
+        "openai",
+        "anthropic"
+      ],
+      "monitor": false,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
       "id": "8b7918851a68421e89",
       "title": "Making sovereign, open-weight AI the technology frontier - mistral.ai",
       "summary": "AI-only source monitor surfaced this update from Mistral AI. Open the original publication for full context.",
@@ -122,7 +145,9 @@
         "mistral"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "c18ab8b42fbfb182cd",
@@ -138,7 +163,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "4651db5acc9aaa4db8",
@@ -152,7 +179,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "30ee29545235a08cd5",
@@ -171,7 +200,27 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
+      "imageOrigin": "feed"
+    },
+    {
+      "id": "fc99f93a4d47fd223c",
+      "title": "- ElevenLabs",
+      "summary": "AI-only source monitor surfaced this update from ElevenLabs Blog. Open the original publication for full context.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5",
+      "source": "ElevenLabs Blog",
+      "publishedAt": "2026-09-15T18:05:24.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [
+        "Source monitor"
+      ],
+      "providers": [],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "236b704a1ff8fc13f0",
@@ -185,7 +234,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://media.wired.com/photos/6aa82ac8fdb837b60d8caff1/master/pass/I-Tried-to-Gaslight-AI-Actor-Tilly-Norwood-Culture-Talking-Tilly-launch-1-September-2026.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "19c1f707f03374d9eb",
@@ -205,7 +256,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_anthropic_data.png",
+      "imageOrigin": "feed"
     },
     {
       "id": "d66a86d24150931249",
@@ -219,7 +272,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "e644642f301d4b1b18",
@@ -235,7 +290,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "a3a4f865f8c7eebd65",
@@ -251,7 +308,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "cb9ddb8fa4eb0a7d1e",
@@ -265,7 +324,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "85996bb655e25dbece",
@@ -281,7 +342,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "imageOrigin": "feed"
     },
     {
       "id": "d32a61581b1fae86b0",
@@ -301,7 +364,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "imageOrigin": "feed"
     },
     {
       "id": "1bf7546c205bf938dc",
@@ -317,7 +382,9 @@
         "amazon"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "8e5613f5d16bd0224c",
@@ -334,7 +401,9 @@
         "amazon"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "1c163102ca389279fd",
@@ -350,7 +419,9 @@
         "amazon"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "1783a72bd3830c56bc",
@@ -366,7 +437,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "bf0b09e31efdac88a1",
@@ -382,7 +455,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "3623c0509d81b210e0",
@@ -398,7 +473,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp",
+      "imageOrigin": "feed"
     },
     {
       "id": "218bc12e0d86e460ad",
@@ -414,7 +491,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp",
+      "imageOrigin": "feed"
     },
     {
       "id": "e36e9f29321466ab85",
@@ -434,7 +513,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "3d6a7f899f055da9f3",
@@ -448,23 +529,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
-    },
-    {
-      "id": "fc99f93a4d47fd223c",
-      "title": "- ElevenLabs",
-      "summary": "AI-only source monitor surfaced this update from ElevenLabs Blog. Open the original publication for full context.",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5",
-      "source": "ElevenLabs Blog",
-      "publishedAt": "2026-09-15T15:05:33.000Z",
-      "category": "Industry",
-      "provenance": "primary",
-      "tags": [
-        "Source monitor"
-      ],
-      "providers": [],
-      "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "9ce8aa0840b1e2feec",
@@ -480,7 +547,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "0192b729d4afdf246f",
@@ -498,7 +567,9 @@
         "perplexity"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "70732bae4b0b78d7b2",
@@ -514,7 +585,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&strip=all&crop=0,0,100,100",
+      "imageOrigin": "feed"
     },
     {
       "id": "344378047c6defc4e4",
@@ -528,7 +601,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "fdcbb87896e11dbb86",
@@ -544,7 +619,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "2ce281ec5028c36287",
@@ -558,7 +635,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "medium"
+      "aiConfidence": "medium",
+      "image": "https://the-decoder.com/wp-content/uploads/2023/10/bill_gates_gates_foundation.png",
+      "imageOrigin": "feed"
     },
     {
       "id": "18b7abbeae429cd617",
@@ -572,7 +651,29 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
+    },
+    {
+      "id": "47c9a635d32d9d9da9",
+      "title": "Perplexity comes to more Windows PCs with HP - Perplexity",
+      "summary": "AI-only source monitor surfaced this update from Perplexity. Open the original publication for full context.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTWR2WHgyUGZid2FnSklRMnI1dkxNWFFqOC1EYS1XZFZoTy05dGZfYXRYRW5MRmRSNVFnMzdia01VNm50TVdHZkpEVGxuQmNrWXRhZlJ2eVQzTUF1VVBndTI1dllEYzNwcmlnZ0tmenliZnBNQ2RmX1Z0czUtZTQwa1NFdjJ4dw?oc=5",
+      "source": "Perplexity",
+      "publishedAt": "2026-09-15T13:51:37.000Z",
+      "category": "Industry",
+      "provenance": "primary",
+      "tags": [
+        "Source monitor"
+      ],
+      "providers": [
+        "perplexity"
+      ],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "f9ffd21159c917efe3",
@@ -589,7 +690,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SimpliSafe-Video-Doorbell-Series-2_06_250844.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "imageOrigin": "feed"
     },
     {
       "id": "4d2ec13d9edda078bd",
@@ -609,7 +712,9 @@
         "anthropic"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "c98f2a91cb414d8ceb",
@@ -625,7 +730,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp",
+      "imageOrigin": "feed"
     },
     {
       "id": "afc502b2076e312e97",
@@ -643,7 +750,9 @@
         "anthropic"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "a6a8085d696dd9345a",
@@ -659,7 +768,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "68932606587e374367",
@@ -675,7 +786,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "97ee51b72d666039aa",
@@ -691,7 +804,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
+      "imageOrigin": "feed"
     },
     {
       "id": "aea189642f58bd3473",
@@ -707,7 +822,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/h_16492684.jpg?w=840",
+      "imageOrigin": "feed"
     },
     {
       "id": "6fa2a10925c0126b5c",
@@ -727,7 +844,9 @@
         "cohere"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_anthropic_white_house.png",
+      "imageOrigin": "feed"
     },
     {
       "id": "aafc4bb04ac56cc1c4",
@@ -744,7 +863,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "0b7c9363ac1b729967",
@@ -760,7 +881,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "df156e218636e47fc2",
@@ -777,7 +900,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "60fa30c95f78c50583",
@@ -795,7 +920,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "742f781adbabcfcedd",
@@ -813,7 +940,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "39b4fa9ffda8e88b0c",
@@ -830,7 +959,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "2933224785d6412702",
@@ -848,7 +979,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "916d1ce8ba9e9137fc",
@@ -866,7 +999,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "32e2b0f5d08d975e2b",
@@ -883,7 +1018,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "dff8d0d841f48ddb5f",
@@ -901,7 +1038,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "5b583bba673e127ae6",
@@ -918,7 +1057,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "7d016afc077f0d90b1",
@@ -935,7 +1076,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "a5af16ff7fc826822b",
@@ -953,7 +1096,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "6577262d4a9c1acf25",
@@ -969,7 +1114,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "79869ebc98dcfab02b",
@@ -986,7 +1133,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "c4a714022bb258c44d",
@@ -1002,7 +1151,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "77e3a1a11cba55caaf",
@@ -1018,7 +1169,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "dc7a62732b06beb8e8",
@@ -1034,7 +1187,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "6ee15d466032b736ba",
@@ -1051,7 +1206,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "610fbb7fbd0553ffc2",
@@ -1069,7 +1226,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "f0e7dd7b6787e75645",
@@ -1087,7 +1246,9 @@
         "xai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "aadf72fbce07d4299d",
@@ -1103,7 +1264,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "812fec3ff8e9c1f022",
@@ -1119,7 +1282,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "850d46934d05f42b3a",
@@ -1135,21 +1300,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
-    },
-    {
-      "id": "bf75a6b68db17871eb",
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it.",
-      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-      "source": "TechCrunch AI",
-      "publishedAt": "2026-09-15T01:50:48.000Z",
-      "category": "Industry",
-      "provenance": "journalism",
-      "tags": [],
-      "providers": [],
-      "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "32e57104a40a530383",
@@ -1167,7 +1320,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292612804.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "imageOrigin": "feed"
     },
     {
       "id": "f7a89e79415f51b7e3",
@@ -1185,7 +1340,9 @@
         "amazon"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "5d3c26887ceb3d57d8",
@@ -1201,7 +1358,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "ec7876761323f09bec",
@@ -1220,7 +1379,9 @@
         "amazon"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "53e12c601a9c5e8f27",
@@ -1237,7 +1398,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "medium"
+      "aiConfidence": "medium",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "47c56938c55f54f9ad",
@@ -1253,7 +1416,9 @@
         "cohere"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "68b1d5af9f64cc9f08",
@@ -1271,7 +1436,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp",
+      "imageOrigin": "feed"
     },
     {
       "id": "e19e1398cc00c649dc",
@@ -1287,7 +1454,9 @@
         "anthropic"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "474dc2cdb4c0bb6dd9",
@@ -1303,7 +1472,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+      "imageOrigin": "feed"
     },
     {
       "id": "235ce3d95062a51896",
@@ -1317,7 +1488,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://media.wired.com/photos/6aa81a44054ce52476eda4d7/master/pass/Security_New%20York%20Seizes%20More%20Than%20a%20Dozen%20Celebrity%20Deepfake%20Websites_v1.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "8926d9caaf90fa0b59",
@@ -1335,7 +1508,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp",
+      "imageOrigin": "feed"
     },
     {
       "id": "b0c144130ffaf133cc",
@@ -1355,7 +1530,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "9b0562434c5c620d8f",
@@ -1373,7 +1550,9 @@
         "amazon"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "c02c95ab382fbb5d92",
@@ -1391,7 +1570,9 @@
         "ai21"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "a52bc2e4e5a537ec3e",
@@ -1408,7 +1589,9 @@
         "microsoft"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/09/Microsoft-Human-AI-Codex.png",
+      "imageOrigin": "feed"
     },
     {
       "id": "d1d8b13e198a69983d",
@@ -1426,7 +1609,9 @@
         "amazon"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "52026ebab9e596f48d",
@@ -1442,7 +1627,9 @@
         "anthropic"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+      "imageOrigin": "feed"
     },
     {
       "id": "9a6896525c8ada4d99",
@@ -1458,25 +1645,9 @@
         "amazon"
       ],
       "monitor": false,
-      "aiConfidence": "high"
-    },
-    {
-      "id": "80e6ae85ea9c0561ff",
-      "title": "Portable Computer for Windows is here - Perplexity",
-      "summary": "AI-only source monitor surfaced this update from Perplexity. Open the original publication for full context.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ORHlfdmtPbm9XLWRUMC1zX29kZWlBVm9jcGMwaWFUZU5TdWZ5R1c2Q053VF9saWFQanVGT1Jkcl9XTHNsVzN2V1Yxd0otV1B2Rzlsb1dhcTJYZjNCcGpobGhhZkZpdDBTeEtIODNaSWJtbzlhRmVhdVRVSk0?oc=5",
-      "source": "Perplexity",
-      "publishedAt": "2026-09-14T15:25:31.000Z",
-      "category": "Industry",
-      "provenance": "primary",
-      "tags": [
-        "Source monitor"
-      ],
-      "providers": [
-        "perplexity"
-      ],
-      "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "1e018c16fdd97e7233",
@@ -1496,7 +1667,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/Local-AI_Perplexity-on-Windows_Blog_Feature.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "cafecae141a5ad7345",
@@ -1512,7 +1685,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://assets.rbl.ms/67770920/origin.png",
+      "imageOrigin": "feed"
     },
     {
       "id": "7f064717441db26e98",
@@ -1532,7 +1707,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://spectrum.ieee.org/media-library/close-up-of-a-computer-processor-consisting-of-several-pieces-of-silicon.jpg?id=67770467&width=980",
+      "imageOrigin": "feed"
     },
     {
       "id": "3cae13467f19d3685e",
@@ -1550,7 +1727,9 @@
         "ai21"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "bc7988dccaca3b2a74",
@@ -1569,7 +1748,9 @@
         "anthropic"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "imageOrigin": "feed"
     },
     {
       "id": "7cc62ea21fe658b5b6",
@@ -1587,7 +1768,9 @@
         "cohere"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "0988efcf305dee36d3",
@@ -1603,7 +1786,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://spectrum.ieee.org/media-library/two-young-adults-wearing-hooded-sweatshirts-with-abstract-black-and-white-patterns.jpg?id=67764229&width=980",
+      "imageOrigin": "feed"
     },
     {
       "id": "827538a74703f7a909",
@@ -1621,7 +1806,9 @@
         "cohere"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "56817da5ada3352b5c",
@@ -1639,7 +1826,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://spectrum.ieee.org/media-library/interior-of-a-cafe.jpg?id=67764244&width=980",
+      "imageOrigin": "feed"
     },
     {
       "id": "40595de95559202766",
@@ -1655,7 +1844,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "7ea093904c96af9c22",
@@ -1675,7 +1866,9 @@
         "ibm"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "f87ce3f7b945f27054",
@@ -1691,7 +1884,9 @@
         "anthropic"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://media.wired.com/photos/6aa7c567181b95a3e876f8f9/master/pass/091426-Trump%20AI%20Leaders.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "f3df7a99421bc76503",
@@ -1705,7 +1900,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://media.wired.com/photos/6aa7c7fafdaacea9a0311827/master/pass/0914-100%20Politicians%20Sexual%20Deepfake.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "411b2781f729a2f9f5",
@@ -1719,7 +1916,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://media.wired.com/photos/6aa091ab5bb8894d9970b282/master/pass/Why-Get-Library-Card-When-Theres-ChatGPT-Culture.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "99f82018c371259a3e",
@@ -1735,7 +1934,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Hard-Constrained-01-Press.jpg?itok=pDUT8NRC",
+      "imageOrigin": "feed"
     },
     {
       "id": "f3aa9427fa5f23c4b5",
@@ -1751,7 +1952,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-Atlas-Composites-01-press.jpg?itok=4Yiz2-7h",
+      "imageOrigin": "feed"
     },
     {
       "id": "a2d68126a9ef94d1b8",
@@ -1768,7 +1971,9 @@
         "perplexity"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "43fc76d65cdbdc35ac",
@@ -1787,7 +1992,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "imageOrigin": "feed"
     },
     {
       "id": "7811cd7884be26f75f",
@@ -1804,7 +2011,9 @@
         "anthropic"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "imageOrigin": "feed"
     },
     {
       "id": "ef3c63cba7e0571779",
@@ -1818,7 +2027,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "123aec8a6fd812f9c7",
@@ -1835,7 +2046,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "medium"
+      "aiConfidence": "medium",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "0ae8bb3819b2c04546",
@@ -1851,7 +2064,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://media.wired.com/photos/6aa2cf4ca722d0b47513425c/master/pass/DataCenterColumn2.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "fd43b634e41ce4c7bf",
@@ -1867,7 +2082,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "imageOrigin": "feed"
     },
     {
       "id": "ad15002c8142d72a5a",
@@ -1885,7 +2102,9 @@
         "anthropic"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "imageOrigin": "feed"
     },
     {
       "id": "3a31a5cd59f2096e19",
@@ -1903,7 +2122,9 @@
         "anthropic"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "8bfd2aa85d90c68af3",
@@ -1921,7 +2142,9 @@
         "anthropic"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "64584bf4094cfb92a8",
@@ -1937,7 +2160,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "aa0d9806a93d5ad3b8",
@@ -1956,7 +2181,9 @@
         "meta"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "2ed807cd1742d2c6b2",
@@ -1972,7 +2199,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "db0463029ca9f89a68",
@@ -1988,14 +2217,16 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "34dc5e876927020ece",
       "title": "AI Startup Cohere Targets $20 Billion Valuation in Funding Round",
       "summary": "AI provider-monitor coverage surfaced for Cohere. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVowTmFXM1JYTG83VmkxRUxHWnVyWTlpRThGTTRJOGZzSTIweFRsVkgzRWFfbFRna19sLUtpT19zeG5RcUdYcjB1eHBaQ0NneE5mMXlVcHVYRXF1RlFLWk5xQ0xnZk43aDVPUlFkc2VnNkxPR3lLeG9VTXhWMThBQlBPQUJ5elp3TmsxdXk4djRNNWdzMFFFZ1haU1plMjV4YnRaMHY2aXM?oc=5",
-      "source": "PYMNTS.com · provider monitor",
+      "source": "pymnts.com · provider monitor",
       "publishedAt": "2026-09-11T22:59:16.000Z",
       "category": "Industry",
       "provenance": "journalism",
@@ -2006,7 +2237,9 @@
         "cohere"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "19050e2d4315882c6c",
@@ -2022,7 +2255,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "8492158c1ffcfb34bd",
@@ -2036,7 +2271,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://media.wired.com/photos/6aa4120d92d2b4de236f2240/master/pass/GettyImages-2289768151.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "1aa39150009538de75",
@@ -2055,7 +2292,9 @@
         "amazon"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "19971a6968e1e09e21",
@@ -2069,7 +2308,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "da8c39562ba4945ee1",
@@ -2090,7 +2331,9 @@
         "amazon"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "ad57b98aae8258f1c0",
@@ -2110,14 +2353,16 @@
         "amazon"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "718b82869c8b11f669",
       "title": "AI Firm Cohere in Talks for Up to $3 Billion Raise, Report Says",
       "summary": "AI provider-monitor coverage surfaced for Cohere. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUpHQV8zVUtYVHJLZzBjc1JhOXREOUpyVWJiam82MHZfU2VxRUtJMjc4X2tlS0hzQ1VwMzl5MjIwR3N6RFlFTGQzOHNyem05NU9aUC1NYkdSX2tSUG5SeXRIQ0lpV0lSa1E2NGxqR2w2ZHg3SUdNajI3TFdRMTR4SnBGWkEzd1FhblpOaTZjOHpvNFhCQWNzVGVJTUo3NG9Oc3c3WlhPeUFsY2N5OE1GZVJn?oc=5",
-      "source": "Bloomberg.com · provider monitor",
+      "source": "bloomberg.com · provider monitor",
       "publishedAt": "2026-09-11T18:03:31.000Z",
       "category": "Industry",
       "provenance": "journalism",
@@ -2128,7 +2373,9 @@
         "cohere"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "a80e831257b7593363",
@@ -2146,7 +2393,9 @@
         "xai"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "e8437b70069b19b594",
@@ -2162,7 +2411,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "6cd5f636a08de0e2cb",
@@ -2180,7 +2431,9 @@
         "ibm"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "04b65187ed88f40ac4",
@@ -2194,7 +2447,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://media.wired.com/photos/6aa2e16e1ef586476d0a1793/master/pass/Backchannel-Timnit-Gebru-Business.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "2c69ea115f21801b96",
@@ -2210,7 +2465,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "5450ef655bae892fef",
@@ -2226,7 +2483,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "501a0f4f49b706c6c0",
@@ -2240,7 +2499,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-lincoln-AI-GUIDE.jpg?itok=2Fxb1RR9",
+      "imageOrigin": "feed"
     },
     {
       "id": "95d369b6d44ea36012",
@@ -2256,7 +2517,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "f6ecd36ef5135975f9",
@@ -2274,7 +2537,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "80e93ebe5c87aa14e2",
@@ -2290,14 +2555,16 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "f5b31d15d8470af02d",
       "title": "China AI Star Moonshot Eyes $2 Billion Annualized Sales in 2026",
       "summary": "AI provider-monitor coverage surfaced for Moonshot AI / Kimi. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLUllQm9GSVhqampKNXBQSjcxVENFX2lwN0xwU05wZVlxdzNnNU9iOXBRV0FQNU5HWmxyRjM2Y243TEd4SElLYkpIYjQ4YnUyZnk1cFdiQWF4S3oteGx3OThldTlsSzQ1bXhXbXJxYVFoZ2w2bTBWdDlpWEZkZmFWWTlxWHBsM182OWdkTU5yUTkyYllxbTBDOWIyZDJ0NzdGS1dPdEV4djV2RHp0Q29oaUM4aw?oc=5",
-      "source": "Bloomberg.com · provider monitor",
+      "source": "bloomberg.com · provider monitor",
       "publishedAt": "2026-09-11T09:17:27.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
@@ -2308,7 +2575,9 @@
         "kimi"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "15864be9e26b7cb2c2",
@@ -2325,7 +2594,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://media.wired.com/photos/6aa1c85ef107c265a15668ae/master/pass/Why-All-These-AI-Researchers-Freaking-Out-About-AI-Killing-Us-All-Business-MCDTETH_EC026.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "67cc3d078a0693e1a2",
@@ -2343,7 +2614,9 @@
         "deepseek"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "e84dd105dd4ce349cd",
@@ -2360,7 +2633,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "d8deaa86ed3ef5ce8c",
@@ -2376,7 +2651,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "7809adc181d23b13ba",
@@ -2395,7 +2672,9 @@
         "amazon"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "d8db4b21b65038240a",
@@ -2413,7 +2692,9 @@
         "microsoft"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "57b6c17b6a1862293f",
@@ -2427,7 +2708,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2271644469-1024x648.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "cb4f2b430daab0a01f",
@@ -2445,7 +2728,9 @@
         "nvidia"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "2dc36257345ef30c5b",
@@ -2463,7 +2748,9 @@
         "anthropic"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "977988e6006110d1df",
@@ -2479,7 +2766,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "16227a70d8f31e470c",
@@ -2497,7 +2786,9 @@
         "anthropic"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "72fb3f748fdec14651",
@@ -2515,11 +2806,13 @@
         "anthropic"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
-      "id": "34f7cb26b3123c73b8",
-      "title": "Safe Participation Framework: Opportunity and Safety for the Next Generation in the Age of AI - blogs.microsoft.com",
+      "id": "a94a0f4444247aac2f",
+      "title": "Safe Participation Framework: Opportunity and Safety for the Next Generation in the Age of AI - The Official Microsoft Blog",
       "summary": "AI-only source monitor surfaced this update from Microsoft AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVUd2eWZpblJfdXE2ZXdHWDk1SEtRVDBhaDJpbUZRdjk5LWpnSHlpaE90bm5UVk1wQndBdEtxVmFfdU15cDdpbWRuNkwwQVZmRHZRb252bmxwM3N5UUJFRlRtdnBpUXZnSEFUMXdqaUw1b1FsWjhTNGctLTJ3a2ItVlRhdGlhV0dINEtTbUQxVkUwalFkcFBfcXNUdjV5RC1EOGpuV1NfZ2RnZFUxNHR5d0dISHRHdmVVSFUta0pCeFA0bkt1dnpWcFFZNkZhVDE4ZWo3aXhsMzl0SUZqREkw?oc=5",
       "source": "Microsoft AI",
@@ -2534,7 +2827,9 @@
         "microsoft"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "52da2261a5711fef24",
@@ -2552,7 +2847,9 @@
         "anthropic"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "abc957880e47658886",
@@ -2568,7 +2865,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "721ccffcf6dc0f76ba",
@@ -2586,7 +2885,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "ee1d7289ba6136ac12",
@@ -2602,7 +2903,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp",
+      "imageOrigin": "feed"
     },
     {
       "id": "33dab23ed29e616928",
@@ -2620,7 +2923,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "00e2218a0a3dccdd79",
@@ -2634,7 +2939,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://partnershiponai.org/wp-content/uploads/2025/03/IMG_1162-e1741713956381.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "2b30e47b856eefca64",
@@ -2653,7 +2960,9 @@
         "ibm"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "053ee567b124d5acca",
@@ -2669,7 +2978,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "3649a43df0db568ff6",
@@ -2685,7 +2996,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "dc5307808fec59f574",
@@ -2701,7 +3014,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "1be9481709917a1b00",
@@ -2720,7 +3035,9 @@
         "mistral"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "cad3da0ca058729a53",
@@ -2734,7 +3051,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ON-contributed-image.jpg?w=840",
+      "imageOrigin": "feed"
     },
     {
       "id": "1bb353db5d87223913",
@@ -2750,7 +3069,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "1d9b760451f3552708",
@@ -2768,7 +3089,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "6f5d71b4108860cff7",
@@ -2784,11 +3107,13 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
-      "id": "9cb6a95f74906e21af",
-      "title": "Mike Jackson - blogs.microsoft.com",
+      "id": "b00ca7a73799471071",
+      "title": "Mike Jackson - The Official Microsoft Blog",
       "summary": "AI-only source monitor surfaced this update from Microsoft AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIOWJZWTRFOEhyN19RYXlRNC1NZEhOQXR1OHBhTWFhdVlpRm5Cc19tR3FMOERlaHlldkNYbnRhcW5FU0I3eGlzaVpKVXp6aV9HeG5FQThDRGRuOHlBWGE2YXpHeUhsMmJaMTFhZ2NB?oc=5",
       "source": "Microsoft AI",
@@ -2802,7 +3127,9 @@
         "microsoft"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "b3e7deef39e302c115",
@@ -2818,7 +3145,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "3c0c7636a702d92adc",
@@ -2836,7 +3165,9 @@
         "ai21"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "c7610d3bbbbdd4d0da",
@@ -2854,7 +3185,9 @@
         "deepseek"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "61f5fa8f7f473cff2f",
@@ -2872,7 +3205,9 @@
         "ai21"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "cafc71f2ca4d9a3e2d",
@@ -2888,7 +3223,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "b746d3d18125af0e8a",
@@ -2906,7 +3243,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "16933cc4d24b257d2d",
@@ -2920,7 +3259,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "bad337a2430e8e09a9",
@@ -2934,7 +3275,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "e08d046499da1dd33c",
@@ -2951,7 +3294,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "medium"
+      "aiConfidence": "medium",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "a5e766b477c90228df",
@@ -2965,7 +3310,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-schwarzman-AI-EDUCATORS.jpg?itok=7n4L56BI",
+      "imageOrigin": "feed"
     },
     {
       "id": "c7d3cac770029e612a",
@@ -2981,7 +3328,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "7625e7863d788f3f42",
@@ -2995,7 +3344,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2199506955-1024x648.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "4054eabfb73d8c49e6",
@@ -3011,7 +3362,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "0929b76c5898638e26",
@@ -3028,7 +3381,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "2a8b84ef7d1bf82c89",
@@ -3047,7 +3402,9 @@
         "mistral"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "b4ef32348b7dc8dd44",
@@ -3065,7 +3422,9 @@
         "perplexity"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "ae19a47271c858428d",
@@ -3082,7 +3441,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "948ec25ea11a0027f9",
@@ -3100,7 +3461,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/me-ai-for-media-kv-1920x1080-5262591.jpeg",
+      "imageOrigin": "feed"
     },
     {
       "id": "2e449880c61e37d03c",
@@ -3116,7 +3479,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp",
+      "imageOrigin": "feed"
     },
     {
       "id": "b4634836d0a7a331d8",
@@ -3132,7 +3497,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp",
+      "imageOrigin": "feed"
     },
     {
       "id": "3c2896a3c3ee83ffcf",
@@ -3150,7 +3517,9 @@
         "anthropic"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "7b693dd0c1de5035bf",
@@ -3168,7 +3537,9 @@
         "anthropic"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "0ddc58a68787ab2261",
@@ -3186,7 +3557,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "235459f4a15881eaca",
@@ -3204,7 +3577,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-cursor-symbol-for-editing-text-set-against-a-green-background-with-sporadic-pieces-highlighted-in-r.jpg?id=67710314&width=980",
+      "imageOrigin": "feed"
     },
     {
       "id": "480ff4128d1db23fb1",
@@ -3223,7 +3598,9 @@
         "deepseek"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "a76c718fed73843083",
@@ -3241,7 +3618,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "5f7d5f92500d94f307",
@@ -3255,7 +3634,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://spectrum.ieee.org/media-library/collage-of-the-3d-female-avatar-used-as-doubaos-mascot-with-message-bubbles-dangling-from-her-hand-via-puppet-strings.jpg?id=67740919&width=980",
+      "imageOrigin": "feed"
     },
     {
       "id": "85b080cf3a25ef08d0",
@@ -3271,7 +3652,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "adf46e90d96f563546",
@@ -3289,7 +3672,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "166a986ed6900eefb5",
@@ -3307,7 +3692,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "5f3b203debcbd89d1a",
@@ -3326,7 +3713,9 @@
         "deepseek"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "c7c2e7638ee3e52256",
@@ -3345,7 +3734,9 @@
         "meta"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "485d16ff4ebdb9a649",
@@ -3364,7 +3755,9 @@
         "meta"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "2d808faeab26473622",
@@ -3383,7 +3776,9 @@
         "meta"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "7c12825ea4d2d43f1f",
@@ -3397,7 +3792,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "b33d0a22c4047e74fa",
@@ -3413,25 +3810,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
-    },
-    {
-      "id": "d9b2f589d6f0bf517e",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "summary": "AI provider-monitor coverage surfaced for OpenAI. Open the linked publication for the complete report and context.",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WeUdwVDNOQkR0VFo3SjJHY1BFdUFCMzhsTGhKbUh6ZVBYTDQzRHlTdGtVYlVzbmVnbWh5X2NZMUU5R2p4STNaVVY1M3FoWnczS0UyNDBDOUhJNTQ3?oc=5",
-      "source": "openai.com · provider monitor",
-      "publishedAt": "2026-09-08T17:20:23.000Z",
-      "category": "Frontier Models",
-      "provenance": "journalism",
-      "tags": [
-        "Provider monitor"
-      ],
-      "providers": [
-        "openai"
-      ],
-      "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "56927a65ac0a70d700",
@@ -3447,7 +3828,30 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://spectrum.ieee.org/media-library/illustration-of-workers-overwhelmed-by-a-giant-black-ai-barrel-spilling-yellow-liquid-one-sits-at-a-computer-while-the-other-us.jpg?id=67739596&width=980",
+      "imageOrigin": "feed"
+    },
+    {
+      "id": "387f5bfedafd8fe541",
+      "title": "Funding grants for new research into AI and teen development",
+      "summary": "AI provider-monitor coverage surfaced for OpenAI. Open the linked publication for the complete report and context.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qb0ZUX3hIM2JQZGx0T0xoTVdER2JqcHBRSGktMF9IUkJfQklIdzU5NmxsMVpKYmk5cG40NHZES1RwLUNybmRsaXBETVNrbzNBbk5zbDRrVGVaVjVLM1dENm5QcGJodTNkOFE?oc=5",
+      "source": "OpenAI · provider monitor",
+      "publishedAt": "2026-09-08T16:14:41.000Z",
+      "category": "Research",
+      "provenance": "journalism",
+      "tags": [
+        "Provider monitor",
+        "Research"
+      ],
+      "providers": [
+        "openai"
+      ],
+      "monitor": true,
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "e47879532cd0324ccb",
@@ -3463,7 +3867,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "14e1ebc9e999f338a3",
@@ -3479,7 +3885,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "06fd045805b9e8c545",
@@ -3495,7 +3903,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo",
+      "imageOrigin": "feed"
     },
     {
       "id": "410f0b33ee11ca60ec",
@@ -3511,7 +3921,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://spectrum.ieee.org/media-library/a-glowing-blue-digital-dna-helix-with-data-patterns.jpg?id=67719885&width=980",
+      "imageOrigin": "feed"
     },
     {
       "id": "833422573cab8a51a7",
@@ -3530,7 +3942,9 @@
         "ibm"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "6a92a8c5c185d59327",
@@ -3546,7 +3960,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "0c4234e0c2539dfa6c",
@@ -3564,7 +3980,9 @@
         "zai"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "7965e77cbe3c53b683",
@@ -3580,14 +3998,16 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "10a509770d60431d00",
       "title": "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift",
       "summary": "AI provider-monitor coverage surfaced for Mistral AI. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYTJBTzZBUm93RGpLWWFQOHBOaW1GeWNBUTdjeDBSYjd3Z0NMSzNaRTJ4R0NUdkZhVzhpVUdWXzJReWJKVWtBbXVuTW82WTRsOHhPc0VFQTVKdHBpLUlHdWFoVEUxT2twczk4ekZIQWd6b3RmMXRIZ3ZlVFM?oc=5",
-      "source": "nytimes.com · provider monitor",
+      "source": "The New York Times · provider monitor",
       "publishedAt": "2026-09-08T05:00:06.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
@@ -3598,7 +4018,9 @@
         "mistral"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "a72c105d4593cab9b2",
@@ -3616,7 +4038,9 @@
         "mistral"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "5b7bbe896912e90c44",
@@ -3633,7 +4057,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "b70366a9068ec667ab",
@@ -3649,7 +4075,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "c92b15426f6fb987f8",
@@ -3665,14 +4093,16 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "66d0239918e6938fcf",
       "title": "Research acceleration: The view inside OpenAI",
       "summary": "AI provider-monitor coverage surfaced for OpenAI. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PaU1kVmVkamQtbXI0aE5aU2plRHlhT0dsbi1VTDlJTFBsNEZOQUVpdENyWVB3ZTZ6TFFSakp3RGFmbXprVl94QnZVMVR6OUEzY1c1ZG1YdF9naWZEb0ZqbHQ0Y1c2dnljWjhZeDVmbC1TTEdQ?oc=5",
-      "source": "openai.com · provider monitor",
+      "source": "OpenAI · provider monitor",
       "publishedAt": "2026-09-06T07:00:00.000Z",
       "category": "Research",
       "provenance": "journalism",
@@ -3684,7 +4114,9 @@
         "openai"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "30313fd616588e05e9",
@@ -3702,7 +4134,9 @@
         "meta"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "95288497433a83ceb0",
@@ -3719,7 +4153,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "56101627d84a1de1fc",
@@ -3737,7 +4173,9 @@
         "xai"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "1bbcdfd44c5bd9a6dd",
@@ -3754,7 +4192,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?w=840",
+      "imageOrigin": "feed"
     },
     {
       "id": "88b8d43097a298045c",
@@ -3773,14 +4213,16 @@
         "microsoft"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://github.blog/wp-content/uploads/2026/09/HydraFusion_architecture_02.png?resize=1024%2C334",
+      "imageOrigin": "feed"
     },
     {
       "id": "38b337030912f631c6",
       "title": "Mass-migrating AI agents to Amazon Bedrock AgentCore",
       "summary": "AI provider-monitor coverage surfaced for Amazon AI. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0t6NlkwOTlxOHBYZk11N3NxMVkyeE9SeHJXSHlDR2x0ckdVX3RSSm1qNVdIVGZhbnk2ZFJJWWZiNTVWRjR2WW4xX3d2VGFTZ0RwZGkyWkkwbnQ1VHZRSXhSRk91VFhYSk4xcTFqVnQ0alJOX1pqVjd0N294Qzl3azRRdmlvTGhCazBEZ2pITng3d2xrUWJoWTc5SVp6eWY5LUFSWDNGMnQ0cXlKS3RF?oc=5",
-      "source": "Amazon Web Services (AWS) · provider monitor",
+      "source": "aws.amazon.com · provider monitor",
       "publishedAt": "2026-09-04T14:15:25.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
@@ -3792,7 +4234,9 @@
         "amazon"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "f64a9c98b9ce44181a",
@@ -3808,7 +4252,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "a65bfcdee0e23fec39",
@@ -3822,7 +4268,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "c2adae429025bd50c6",
@@ -3840,7 +4288,9 @@
         "nvidia"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "6a7232455501f7f32e",
@@ -3858,7 +4308,9 @@
         "microsoft"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "5324e2361188d4ec52",
@@ -3876,7 +4328,9 @@
         "xai"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "d9e4ce0b71161ff6e0",
@@ -3894,7 +4348,9 @@
         "kimi"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "8f10dcb856a4272e25",
@@ -3912,7 +4368,9 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "ccb42336198c64a53c",
@@ -3931,14 +4389,16 @@
         "openai"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "10113e0d0bf597faae",
       "title": "New in IBM watsonx Orchestrate: Cross-platform agent discovery, custom evaluation and AgentOps Agent goes GA",
       "summary": "AI provider-monitor coverage surfaced for IBM. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTGlNYkd5YmEweXlBanZRRXVQRmRTRDlCcFBBSUtSS3V6NUZ3d3duOC1GMEFvRFE2YVF0aWowYW9JYjhna3hrV2NaSXllRUwtVTVwNXZpM0lkTFpvX1FEdGk1QWs4eXgzS2thSlpsWmQ1VWlQS2g3c2tRREx3T3ZOcnM0cEpjVlptM0QxcHJUVEpBcl8wdExLS3hGWGZjNW40NGFtaEhScGRMMi1aOXVidjdtZjN3YkYyaS1tRlZqaGVicW05ZlFrcWZxc0VyLTZGc0FyQURDNGFlLWQx?oc=5",
-      "source": "IBM · provider monitor",
+      "source": "ibm.com · provider monitor",
       "publishedAt": "2026-09-03T17:12:01.000Z",
       "category": "Safety & Security",
       "provenance": "journalism",
@@ -3951,7 +4411,9 @@
         "ibm"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "3945cec529be5b9d78",
@@ -3969,7 +4431,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "27b35c1a6dd46879c3",
@@ -3987,7 +4451,9 @@
         "microsoft"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "a81a927940255f76df",
@@ -4003,7 +4469,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://lh3.googleusercontent.com/I3SASQw4etgOOVbcWS0lr7J14HFqWcee_ln6M0TBOWlvVg2XYCi3kpz4eAi81cAkyq47YvgU1FLzAlaiCNMLcsx9sFA3ufURiSg76Yz8hVm1-u_fYEY=w528-h297-n-nu-rw-lo",
+      "imageOrigin": "feed"
     },
     {
       "id": "800336e556c65e858b",
@@ -4019,7 +4487,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "344df7bf0edec08aa9",
@@ -4035,7 +4505,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.png",
+      "imageOrigin": "feed"
     },
     {
       "id": "8f0fa6fddefe44a62a",
@@ -4054,7 +4526,9 @@
         "meta"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "0519fec2320ca33103",
@@ -4073,7 +4547,9 @@
         "xai"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "bf4ec6ae84d0d1548a",
@@ -4089,7 +4565,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "medium"
+      "aiConfidence": "medium",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "6b6452d6af5aae35fb",
@@ -4107,7 +4585,9 @@
         "microsoft"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "f589b36442ee9e6119",
@@ -4125,14 +4605,16 @@
         "kimi"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "f21c97181f903fbf95",
       "title": "Saudi AI Firm Humain Unveils Model Based on China’s MiniMax",
       "summary": "AI provider-monitor coverage surfaced for MiniMax. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3ctQ3I4SzVHUWlCSG9Wakg2VG45Uk80b2VhX1JlemxxX2x6dUcwemc4ZUdOR1lHcGVLZXI5aUZYVU5vTTAzZTNEaDhyWkN3Z2tVcW1hV2N0emlnRFluYkZQTmkxM0dGVVJSakg3Zzg4OVpYU3ppRm10S0NnU3N2b3d4czk4SWp5Unp6NklnZTg0eGoweTVOVGVaVlo3U19OVVllUlNzSG9Jd2ZuNUdwUzRnZGI?oc=5",
-      "source": "Bloomberg.com · provider monitor",
+      "source": "bloomberg.com · provider monitor",
       "publishedAt": "2026-09-03T07:00:00.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
@@ -4143,14 +4625,16 @@
         "minimax"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "ca1fbc82eb3a7be521",
       "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore | Artificial Intelligence",
       "summary": "AI provider-monitor coverage surfaced for Amazon AI. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaHBfNmhMck8wYlF1aHBPVjdQVi0xTjZMdkpOVkczMGw4TnZmYTJOWDh4RWdia2NNWHJZMFExZHFtUUtxSnY3a1Bvekw2RVhQczlpUTJaTEpvYlo4Zk1YbXJod2VENEZmSTJZYXNFak5DbXVKMWRzZC0yejlEaWM1UVhtM0lkMGZxdkdXaEJrNDVtU0ZBTFBMeWlnM1M5UXVkd1VyUmpjUVpQd2g4b0E?oc=5",
-      "source": "Amazon Web Services (AWS) · provider monitor",
+      "source": "aws.amazon.com · provider monitor",
       "publishedAt": "2026-09-03T07:00:00.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
@@ -4162,14 +4646,16 @@
         "amazon"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "dc84f7ac95bb57467d",
       "title": "Nvidia is driving the AI boom. Good",
       "summary": "AI provider-monitor coverage surfaced for NVIDIA. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYzVrYWFJSldGNkxRaTBicmg5M2lZYkJSWFhPeDNwT2w3NnYtcE5BSXJLOF9tUXE0aDdfTWltZmdOLTJqU3AtUTlGbXFxcG5rdEh6UkZjSV9iX2Y3X2hXQ1BjejY1NmI5RkdqQ2RUN01ZWFgySWJDVkc4WEtGa05WOVNyeTg4UQ?oc=5",
-      "source": "economist.com · provider monitor",
+      "source": "The Economist · provider monitor",
       "publishedAt": "2026-09-03T07:00:00.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
@@ -4180,7 +4666,9 @@
         "nvidia"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "86e56d084a6dc41b6f",
@@ -4194,7 +4682,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "5b1d154fe6c35143f0",
@@ -4210,7 +4700,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "fc5a73d7c30703b649",
@@ -4224,7 +4716,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "a2ec30ee9de1b054c7",
@@ -4240,7 +4734,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "f1b55fc15d0334ebd4",
@@ -4257,7 +4753,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/ibm-mit-alumni-00_0.png?itok=uFF5Hcp-",
+      "imageOrigin": "feed"
     },
     {
       "id": "cd219eb6f96ef91d60",
@@ -4273,7 +4771,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "a755a20dfb0965dd59",
@@ -4289,7 +4789,9 @@
         "microsoft"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://github.blog/wp-content/uploads/2026/09/Blog-Graphic-01.png?resize=1024%2C329",
+      "imageOrigin": "feed"
     },
     {
       "id": "5528212ec48e2774ac",
@@ -4307,7 +4809,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "2237ec8ababeefcdef",
@@ -4323,7 +4827,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "ba6474f7fcc94a9a18",
@@ -4339,7 +4845,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "76f8e1a7fac299f0dd",
@@ -4353,7 +4861,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-InterpretCars-01-press.jpg?itok=l_ISl3I_",
+      "imageOrigin": "feed"
     },
     {
       "id": "827da3a70e186e115f",
@@ -4367,7 +4877,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "1b103c36dd9af4c6e7",
@@ -4383,7 +4895,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://spectrum.ieee.org/media-library/human-and-robotic-hands-share-a-caliper-over-technical-engineering-blueprints.png?id=67702640&width=980",
+      "imageOrigin": "feed"
     },
     {
       "id": "17bb0287f9852b6899",
@@ -4401,7 +4915,9 @@
         "anthropic"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "93f4c822899c40cc82",
@@ -4420,7 +4936,9 @@
         "microsoft"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "7d2d0585a1172d9aff",
@@ -4436,7 +4954,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "703bbe83d3bc373791",
@@ -4450,7 +4970,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/Torous-MIT-A1.jpg?itok=8qiWk_oP",
+      "imageOrigin": "feed"
     },
     {
       "id": "27108ff44addbfed61",
@@ -4468,7 +4990,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/crowdstrike-nvidia-stage-scaled.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "3f47216586a1645dc4",
@@ -4484,7 +5008,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp",
+      "imageOrigin": "feed"
     },
     {
       "id": "3c88b83a2c7e26a873",
@@ -4498,7 +5024,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://partnershiponai.org/wp-content/uploads/2026/04/Doshi_Shachee_headshot-scaled-e1776954950352.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "eab6956a88e839fee1",
@@ -4516,7 +5044,9 @@
         "anthropic"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "c6de4fc1b840fabb0e",
@@ -4535,7 +5065,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "794c5d0a9da08cc137",
@@ -4551,7 +5083,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp",
+      "imageOrigin": "feed"
     },
     {
       "id": "70d8bd496fc931e6ae",
@@ -4565,11 +5099,13 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://spectrum.ieee.org/media-library/a-small-makeshift-server-rack-in-someones-garage.jpg?id=67703292&width=980",
+      "imageOrigin": "feed"
     },
     {
-      "id": "868941be6bcbfc66cf",
-      "title": "The yield imperative: Turning AI infrastructure into useful intelligence - blogs.microsoft.com",
+      "id": "ac5aaf58c54b9322b8",
+      "title": "The yield imperative: Turning AI infrastructure into useful intelligence - The Official Microsoft Blog",
       "summary": "AI-only source monitor surfaced this update from Microsoft AI. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWhLYjZIT01zTWNoQUxoVXgtcld2cnc3eHVOWE93clFKWU5LOVRoYl9HR3Uzb1QtWG1lMVl1NWpsYkRvS0l5SXRla3RSTGQtMldGT0xSMUFnanBwTWl6eUJJR1BiX3BQeThObFVtcEppWk1HbFBId1MzeXQzTTUxYWdFWEp1cHJzUkdsdkZpcTh4UGpjTXFWQkhMOWJhcnZlWmFaVUhGOFhHQ1pwaU9kZzVnYjlsY0U?oc=5",
       "source": "Microsoft AI",
@@ -4583,7 +5119,9 @@
         "microsoft"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "0a7e698ac75369642f",
@@ -4600,7 +5138,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "03911c3cc2f6ea101b",
@@ -4616,7 +5156,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "5512c484944ce6df6f",
@@ -4632,7 +5174,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "16619f72d026f1ac9f",
@@ -4650,7 +5194,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "dbd00fed54f38a20b2",
@@ -4664,7 +5210,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-kumar-ila-A1.jpg?itok=c4VttTnq",
+      "imageOrigin": "feed"
     },
     {
       "id": "9f2ae8a329d1c6601b",
@@ -4680,7 +5228,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "4eda6e1741f90df8d6",
@@ -4696,7 +5246,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-qmit.jpg?itok=-AA_RhRU",
+      "imageOrigin": "feed"
     },
     {
       "id": "688eedbea842462446",
@@ -4710,7 +5262,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://partnershiponai.org/wp-content/uploads/2026/08/costaricaPAI-1800x832-1.webp",
+      "imageOrigin": "feed"
     },
     {
       "id": "d8030c9ede71ada4d0",
@@ -4726,7 +5280,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "3e6d81eaa3764dc28b",
@@ -4745,7 +5301,9 @@
         "perplexity"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "e55d2850ce533b4a04",
@@ -4763,7 +5321,9 @@
         "zai"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "01a62a406f23911e4e",
@@ -4782,7 +5342,9 @@
         "minimax"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "d53be681a3e20a591d",
@@ -4798,7 +5360,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-JuliaHubDyad-01-press.jpg?itok=vvjznZ8d",
+      "imageOrigin": "feed"
     },
     {
       "id": "e55ca7ae1e0bdfab06",
@@ -4817,7 +5381,9 @@
         "meta"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "37a9323b542f0fcafe",
@@ -4831,7 +5397,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "fcba11b508219b3846",
@@ -4849,7 +5417,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "030fc657532db0a245",
@@ -4867,7 +5437,9 @@
         "zai"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "4a84f4d0ed843d886c",
@@ -4885,7 +5457,9 @@
         "xai"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "901365d8da561f8b99",
@@ -4901,7 +5475,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "d84c2f1d6f74babaa9",
@@ -4915,7 +5491,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "8f6c1365c87adc4341",
@@ -4929,7 +5507,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-biology-Keating-Lab-proteins.jpg?itok=OZhh3B-X",
+      "imageOrigin": "feed"
     },
     {
       "id": "823c7c34c3ab8edfbf",
@@ -4943,7 +5523,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "5911b9cd8ec5a884bc",
@@ -4959,7 +5541,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "05e107949838547cf9",
@@ -4976,7 +5560,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "bb9a83ae75aff2bdd4",
@@ -4994,7 +5580,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo",
+      "imageOrigin": "feed"
     },
     {
       "id": "7997130f3c4e75b381",
@@ -5011,7 +5599,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "48f6f04b98c416f361",
@@ -5028,14 +5618,16 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "f31a913a19f0bd2191",
       "title": "Google DeepMind is losing its grip on elite AI talent, new data shows",
       "summary": "AI provider-monitor coverage surfaced for Google DeepMind. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObS1iQWJMUFcyT0FoTjdGcXB6VFFJTjEyYnd4OVlTalVieFFQcC1veTdKX0tmc2Q3bWtCTmNraGhvZVJyeFlENlBFLUUwWTRGd2lQTU96X3Z1dzBDb05tVTZHdV95eDVfRTVYdjV6MG1SZ1kzczJPbnpreENwdHpJRTBBRnhWQzByYmhGRlNqUzF4cm1oRHpJOE5TSzRZeWZoTmpz?oc=5",
-      "source": "Fortune · provider monitor",
+      "source": "fortune.com · provider monitor",
       "publishedAt": "2026-08-27T07:00:00.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
@@ -5046,7 +5638,9 @@
         "google"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "fe020368f56efc41ec",
@@ -5065,7 +5659,9 @@
         "xai"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "b3d14a682d68dcf7ec",
@@ -5081,7 +5677,9 @@
         "microsoft"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "7b14727ae744049d58",
@@ -5097,7 +5695,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "e1ef1b83e4178c27e5",
@@ -5113,7 +5713,9 @@
         "cohere"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "93aa1430fc7ddd387f",
@@ -5129,7 +5731,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "a4a06a192ffcade258",
@@ -5147,7 +5751,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://spectrum.ieee.org/media-library/goodfire-ais-silico-uses-agents-equipped-with-interpretability-tools-to-examine-the-reasoning-behind-an-ai-model.jpg?id=67668252&width=980",
+      "imageOrigin": "feed"
     },
     {
       "id": "562c6a776f25d1f35d",
@@ -5161,7 +5767,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-Valence-01-press.jpg?itok=OJTlsBvb",
+      "imageOrigin": "feed"
     },
     {
       "id": "33c039913bd29352bc",
@@ -5177,23 +5785,30 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "medium"
+      "aiConfidence": "medium",
+      "image": null,
+      "imageOrigin": null
     },
     {
-      "id": "f8e05ea77f7d668087",
-      "title": "[ext: RR, METR] Hugging Face incident investigation report - METR",
+      "id": "630b6ab797bd15c484",
+      "title": "Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident - METR",
       "summary": "AI-only source monitor surfaced this update from METR. Open the original publication for full context.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1dmpXdm1EemxZYnZjNGdhejZDR3NXR0E5aW9ISlVkdlByeHJZcUY2S21VZTlza1R2YnZfT3BfWEJJUS1pVlhZQ3p2UGpfZlFkcjMtWWh6eUhYTklZR0t6Q0ZkSHJrT3loN0E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZE1kUzg3T3Y3cDgybGRTT1pzbHlyQnEydlVnc0lMZzNPUlQ0ZHN4WmFxRWppVEJYYVFmMDdfa0FRQkNXRnBZOUhtMTBEeWw5VldnUFRmRmY0d3I3V2JPZHhROVNnaDh4OXl0UWlSYzFwRkk3bkh6ZURkelQ2YVpzS1VR?oc=5",
       "source": "METR",
       "publishedAt": "2026-08-26T07:00:00.000Z",
       "category": "Open Source",
       "provenance": "research",
       "tags": [
-        "Source monitor"
+        "Source monitor",
+        "Agents"
       ],
-      "providers": [],
+      "providers": [
+        "openai"
+      ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "2f6e96a08f2cf72612",
@@ -5212,7 +5827,9 @@
         "openai"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "6021b9abbb39c270e6",
@@ -5230,7 +5847,9 @@
         "google"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "f5f056fa6fc06069cb",
@@ -5248,7 +5867,9 @@
         "meta"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "91087655ac9680738e",
@@ -5266,7 +5887,9 @@
         "qwen"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "19edf08fc2fe9481e1",
@@ -5284,7 +5907,9 @@
         "qwen"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "172b163ecdd4bcefde",
@@ -5302,7 +5927,9 @@
         "kimi"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "a3c99f28fc98cbfd69",
@@ -5320,7 +5947,9 @@
         "zai"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "2f72d96c15260891b1",
@@ -5339,7 +5968,9 @@
         "zai"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "1e5a0008cbd841caf9",
@@ -5357,7 +5988,9 @@
         "minimax"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "1e21f4351bf3532048",
@@ -5371,7 +6004,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "c5b632f8cfb6038e68",
@@ -5385,7 +6020,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://github.blog/wp-content/uploads/2026/08/633085615-8fa1a231-a731-4c36-b53d-007d212d811d-1.png?resize=1024%2C441",
+      "imageOrigin": "feed"
     },
     {
       "id": "527368a502ffdac5b6",
@@ -5403,7 +6040,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "6b9afbe7b508e9a8a9",
@@ -5419,7 +6058,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://spectrum.ieee.org/media-library/cute-home-robot-on-carpet-in-cozy-living-room-with-beige-sofa-and-warm-lighting.jpg?id=67154308&width=980",
+      "imageOrigin": "feed"
     },
     {
       "id": "1b7a1666b3ffa783cd",
@@ -5437,7 +6078,9 @@
         "perplexity"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "9757ffda4b5001fe42",
@@ -5458,7 +6101,9 @@
         "ibm"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "0ffe18b5fa480ef682",
@@ -5475,7 +6120,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "ba858dae8dfa1b5f33",
@@ -5491,7 +6138,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "f7dfb10082a453ab46",
@@ -5510,7 +6159,9 @@
         "perplexity"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "66bd7c4e7c7da4a5ef",
@@ -5529,7 +6180,9 @@
         "perplexity"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "972310b22f8b54c342",
@@ -5547,14 +6200,16 @@
         "nvidia"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "59f0f1c529cc07ef95",
       "title": "IBM Granite 4.2 and the Open Reasoning Model Wave of 2026",
       "summary": "AI provider-monitor coverage surfaced for IBM. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0ybldMWGZDVmJmMkVlTWNNRU43ajV5VGZaUFhaekFGWWZ2UTN1ZGxOMUhVdEpaaEJWNnBQbTQtV0VoazZleFlTWGdKUXRLMTBQMHQ4WG5lQTNTY0dOelVscWh5cEJ0TFlmbzJ3TDluT0dRQWJpYmdpU1JkUQ?oc=5",
-      "source": "intelligentliving.co · provider monitor",
+      "source": "Intelligent Living · provider monitor",
       "publishedAt": "2026-08-25T07:00:00.000Z",
       "category": "Frontier Models",
       "provenance": "journalism",
@@ -5565,7 +6220,9 @@
         "ibm"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "e0c160f9e5619c57c1",
@@ -5579,7 +6236,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "medium"
+      "aiConfidence": "medium",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "87d033329b42db8e29",
@@ -5597,7 +6256,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo",
+      "imageOrigin": "feed"
     },
     {
       "id": "e5bbe24540e3d0c88d",
@@ -5615,7 +6276,9 @@
         "mistral"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "6c7becf0e0fd2b2c3c",
@@ -5631,7 +6294,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "4f01525fe1057a03bf",
@@ -5649,7 +6314,9 @@
         "meta"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "9785ef38db06bf1bf9",
@@ -5663,7 +6330,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "medium"
+      "aiConfidence": "medium",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "1235e50f8d6f0b230d",
@@ -5679,7 +6348,9 @@
         "microsoft"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "c904c261a3b95594f4",
@@ -5695,7 +6366,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "d1c4072faba279f271",
@@ -5714,7 +6387,9 @@
         "deepseek"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "bd689e60838ac44f90",
@@ -5730,7 +6405,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "d324cd69b663af891c",
@@ -5750,7 +6427,9 @@
         "meta"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "0ae9074cd435ea0e3e",
@@ -5767,14 +6446,16 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "5d7d6ce44a354165ce",
       "title": "Pacing model development in an era of cyber-critical capabilities",
       "summary": "AI provider-monitor coverage surfaced for OpenAI. Open the linked publication for the complete report and context.",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44SUZWVTY5Y0p5QUZ2RHR2TmhUTkJNTTFkYXBjYWpLTVBjRDRtZW5DX2pLN0xNUXZIS0N5THhkYUV0WmhhNTBzc0RCeWQwZ19PdXhKa3lyRmt4UnRTVVQzU2JoSWdXd1FDRWxQSm5LYWRCR0Y3cWtlNQ?oc=5",
-      "source": "openai.com · provider monitor",
+      "source": "OpenAI · provider monitor",
       "publishedAt": "2026-08-18T07:00:00.000Z",
       "category": "Safety & Security",
       "provenance": "journalism",
@@ -5785,7 +6466,9 @@
         "openai"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "d181a9b8da140a0b34",
@@ -5803,7 +6486,9 @@
         "microsoft"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "a174d37e1158eaec00",
@@ -5821,7 +6506,9 @@
         "qwen"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "bb8228db958e104bbf",
@@ -5840,7 +6527,9 @@
         "nvidia"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "65252e4fa812428910",
@@ -5856,11 +6545,13 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://github.blog/wp-content/uploads/2026/08/623371402-ddb0772d-e566-4895-b030-6be9b0fe304c.png?resize=1024%2C312",
+      "imageOrigin": "feed"
     },
     {
-      "id": "6284b2655b94658d48",
-      "title": "Groq Closes $350 million Series A, Building the World's Leading AI Inference Cloud - Groq",
+      "id": "4200e53ab3216b7f02",
+      "title": "Groq Closes $350 million Series A, Building the World's Leading AI Inference Cloud - groq.com",
       "summary": "AI-only source monitor surfaced this update from Groq Blog. Open the original publication for full context.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ1RQTHM1N1kzeHFjUC11MU1fdWNFUXF3QUcyNGRSc0s4Ung0NzVRNWpmY3MyM3NYc3pMclNPNEYxeHQwTk9xT0Q4b3JrU0RaWEhvcWo1YzJveTFnT1FTZ3EwdHRxVmFJNzFZTnpRNlpxajNodkwtRG9BdUcxaGZJUkJ6ZGVnQ2dObGY1N0diRGM2ODh3R3VNdktwbWZfcjhtdzFsU244c2FvWjB3SWc?oc=5",
       "source": "Groq Blog",
@@ -5872,7 +6563,9 @@
       ],
       "providers": [],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "6db4dfdb3b8bfec772",
@@ -5890,7 +6583,9 @@
         "qwen"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "deb1b562b80f9dee25",
@@ -5908,7 +6603,9 @@
         "nvidia"
       ],
       "monitor": true,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "fef824983c8f6fe943",
@@ -5924,7 +6621,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/telco-tech-blog-header-indosat-ai-technology-center-1920x1080-1.png",
+      "imageOrigin": "feed"
     },
     {
       "id": "9901641d7bbb031334",
@@ -5940,7 +6639,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "f57728f6315390b3ce",
@@ -5956,7 +6657,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "dbf5fa8ef1b4d8e666",
@@ -5972,7 +6675,9 @@
         "anthropic"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "5cbebc9a51ab3bff8d",
@@ -5988,7 +6693,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w528-h297-n-nu-rw-lo",
+      "imageOrigin": "feed"
     },
     {
       "id": "eb7b7bb98c19aee99d",
@@ -6004,7 +6711,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "c0e9c36b6ed9bd399e",
@@ -6023,7 +6732,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/raig-rolling-blog-local-ai-community-open-source.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "25cdf3f1ec0e1b5483",
@@ -6042,7 +6753,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/image1.jpeg",
+      "imageOrigin": "feed"
     },
     {
       "id": "905c40b0ade4e2d450",
@@ -6058,7 +6771,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "c2f1dad464bd17d651",
@@ -6072,7 +6787,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/singing_robot_hero-1152x648.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "d91bc857da412155b5",
@@ -6091,7 +6808,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/nv-ov-ito-social-1920x1080-1.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "acd4fe6fd1b2cb70ec",
@@ -6108,7 +6827,9 @@
         "anthropic"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730-1152x648.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "7731f2238634f82675",
@@ -6124,7 +6845,9 @@
         "google"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261835158-1152x648.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "fb26139571c302f90c",
@@ -6140,7 +6863,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/made-in-america-still-1920x1080-1.jpg",
+      "imageOrigin": "feed"
     },
     {
       "id": "02ef195ebde856f85b",
@@ -6157,7 +6882,9 @@
       ],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "medium"
+      "aiConfidence": "medium",
+      "image": null,
+      "imageOrigin": null
     },
     {
       "id": "b88683152ec40af0eb",
@@ -6175,7 +6902,9 @@
         "nvidia"
       ],
       "monitor": false,
-      "aiConfidence": "high"
+      "aiConfidence": "high",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/regionalhubnsf.webp",
+      "imageOrigin": "feed"
     },
     {
       "id": "b187e7dd948c41268c",
@@ -6189,7 +6918,9 @@
       "tags": [],
       "providers": [],
       "monitor": false,
-      "aiConfidence": "medium"
+      "aiConfidence": "medium",
+      "image": null,
+      "imageOrigin": null
     }
   ]
 }
