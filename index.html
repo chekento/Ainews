@@ -3,130 +3,181 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <meta name="theme-color" content="#07111f">
-  <meta name="description" content="AI News // Live — source-first artificial intelligence news, research, compliance, ethics, EU AI Act and WAICO watch.">
+  <meta name="theme-color" content="#050813">
+  <meta name="description" content="AI News // Live — provider-first AI newsroom with LLM news, research, compliance, ethics, EU AI Act and WAICO watch.">
   <meta property="og:title" content="AI News // Live">
-  <meta property="og:description" content="Only AI news. Primary sources, research, industry and a dedicated governance radar.">
+  <meta property="og:description" content="Only AI news. 18 LLM providers, primary sources, research, independent reporting and governance intelligence.">
   <meta property="og:type" content="website">
   <title>AI News // Live</title>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="ambient ambient-a" aria-hidden="true"></div>
-  <div class="ambient ambient-b" aria-hidden="true"></div>
+  <div class="mesh mesh-a" aria-hidden="true"></div>
+  <div class="mesh mesh-b" aria-hidden="true"></div>
+  <div class="noise" aria-hidden="true"></div>
 
   <header class="topbar">
     <a class="brand" href="#top" aria-label="AI News home">
-      <span class="brand-mark">AI</span>
-      <span><strong>NEWS</strong><small>// LIVE</small></span>
+      <span class="brand-mark"><i></i>AI</span>
+      <span class="brand-copy"><strong>NEWS</strong><small>INTELLIGENCE TERMINAL</small></span>
     </a>
-    <nav class="top-actions" aria-label="Page controls">
-      <button id="themeBtn" class="icon-btn" type="button" aria-label="Toggle theme" title="Toggle theme">◐</button>
-      <button id="refreshBtn" class="refresh-btn" type="button"><span class="refresh-icon">↻</span><span>Refresh</span></button>
+    <nav class="main-nav" aria-label="Primary navigation">
+      <a href="#providers">LLM Wire</a>
+      <a href="#stream">News</a>
+      <a href="#governance">Governance</a>
+      <a href="#social">Official Social</a>
     </nav>
+    <div class="top-actions">
+      <button id="commandBtn" class="icon-btn" type="button" title="Focus search (Ctrl/⌘ K)">⌘K</button>
+      <button id="themeBtn" class="icon-btn" type="button" aria-label="Toggle theme" title="Toggle theme">◐</button>
+      <button id="chatBtn" class="ai-btn" type="button"><span>✦</span> AI News Copilot</button>
+      <button id="refreshBtn" class="refresh-btn" type="button"><span class="refresh-icon">↻</span><span>Refresh</span></button>
+    </div>
   </header>
 
   <main id="top">
     <section class="hero shell">
       <div class="hero-copy">
-        <div class="eyebrow"><span class="live-dot"></span> Intelligence feed · source first · AI only</div>
-        <h1>Signal over noise.<br><span>Artificial intelligence, continuously.</span></h1>
-        <p>Frontier models, research, agents, infrastructure, open source and business — plus a dedicated compliance, ethics, EU AI Act and WAICO governance desk.</p>
+        <div class="eyebrow"><span class="live-dot"></span> Live AI intelligence · source first · no scraping</div>
+        <h1>Everything AI.<br><span>One signal layer.</span></h1>
+        <p>Frontier-model releases, LLM providers, agents, research, chips, open source and business — with a dedicated compliance, ethics, EU AI Act and WAICO desk.</p>
+        <div class="hero-cta">
+          <a class="primary-cta" href="#stream">Explore live feed <span>↓</span></a>
+          <button class="ghost-cta" id="heroChatBtn" type="button">✦ Chat about the news</button>
+        </div>
       </div>
-      <div class="hero-status" aria-label="Feed status">
-        <div class="status-orb"><span></span></div>
-        <div><small>Next browser refresh</small><strong id="refreshCountdown">05:00</strong><span id="syncLabel">Loading dataset…</span></div>
+      <div class="hero-orbit" aria-label="Live feed status">
+        <div class="orbit-ring ring-1"></div><div class="orbit-ring ring-2"></div><div class="orbit-ring ring-3"></div>
+        <div class="orbit-core"><small>NEXT SYNC</small><strong id="refreshCountdown">05:00</strong><span id="syncLabel">Loading…</span></div>
+        <span class="satellite sat-a">LLM</span><span class="satellite sat-b">ACT</span><span class="satellite sat-c">R&D</span>
       </div>
     </section>
 
     <section class="metrics shell" aria-label="Feed metrics">
-      <article><span>Stories</span><strong id="metricStories">—</strong><small>current dataset</small></article>
-      <article><span>Sources</span><strong id="metricSources">—</strong><small>curated registry</small></article>
-      <article><span>Governance</span><strong id="metricCompliance">—</strong><small>compliance & ethics</small></article>
-      <article><span>Primary</span><strong id="metricPrimary">—</strong><small>labs + official bodies</small></article>
+      <article><span>Live stories</span><strong id="metricStories">—</strong><small>current intelligence set</small></article>
+      <article><span>LLM providers</span><strong id="metricProviders">18</strong><small>provider wire</small></article>
+      <article><span>Curated sources</span><strong id="metricSources">—</strong><small>primary + independent</small></article>
+      <article><span>Governance</span><strong id="metricCompliance">—</strong><small>compliance & ethics items</small></article>
+      <article><span>Primary / official</span><strong id="metricPrimary">—</strong><small>first-party sources</small></article>
     </section>
 
     <section class="ticker-wrap shell" aria-label="Latest headlines">
-      <div class="ticker-label">LATEST</div>
+      <div class="ticker-label"><span></span> SIGNAL</div>
       <div class="ticker-viewport"><div id="ticker" class="ticker"></div></div>
     </section>
 
-    <section class="lead-grid shell">
-      <article id="featured" class="featured panel"></article>
+    <section id="providers" class="providers-section shell">
+      <div class="section-head">
+        <div><span class="kicker">LLM PROVIDER WIRE</span><h2>18 labs. One live radar.</h2><p>Official newsroom access plus automatically matched coverage across the complete AI feed.</p></div>
+        <div class="section-tools"><button id="clearProviderBtn" class="mini-btn" type="button">Show all providers</button></div>
+      </div>
+      <div id="providerRail" class="provider-rail" aria-label="LLM providers"></div>
+    </section>
 
-      <aside class="governance panel" aria-labelledby="governanceTitle">
-        <div class="panel-head">
-          <div><span class="kicker">SPECIAL DESK</span><h2 id="governanceTitle">Governance Radar</h2></div>
-          <button class="pill-btn" type="button" data-filter="Compliance & Ethics">View feed</button>
-        </div>
-        <div class="governance-stack">
-          <a class="radar-card eu" href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer">
-            <div><span>EU AI ACT</span><strong>Enforcement phase</strong></div><b>EU</b>
-            <p>Transparency duties and active AI Office enforcement are now part of the 2026 compliance landscape.</p>
-          </a>
-          <a class="radar-card waico" href="https://www.mfa.gov.cn/eng/wjbzhd/202607/t20260717_11984747.html" target="_blank" rel="noopener noreferrer">
-            <div><span>WAICO</span><strong>Global governance watch</strong></div><b>29</b>
-            <p>Founded in Shanghai on 16 July 2026 by 29 states; headquarters in Shanghai and membership designed to be open to countries.</p>
-          </a>
-          <div class="timeline" aria-label="AI governance timeline">
-            <div><time>16 JUL 2026</time><span>WAICO founding agreement signed</span></div>
-            <div><time>27 JUL 2026</time><span>EU AI Omnibus entered into force</span></div>
-            <div><time>02 AUG 2026</time><span>EU transparency rules + enforcement milestone</span></div>
-          </div>
-          <div class="radar-links">
-            <a href="https://www.nist.gov/artificial-intelligence" target="_blank" rel="noopener noreferrer">NIST ↗</a>
-            <a href="https://oecd.ai/" target="_blank" rel="noopener noreferrer">OECD.AI ↗</a>
-            <a href="https://www.unesco.org/en/artificial-intelligence/recommendation-ethics" target="_blank" rel="noopener noreferrer">UNESCO ↗</a>
-            <a href="https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence" target="_blank" rel="noopener noreferrer">CoE ↗</a>
-          </div>
-        </div>
+    <section class="signal-grid shell">
+      <article id="featured" class="featured panel"></article>
+      <aside class="pulse panel" aria-labelledby="pulseTitle">
+        <div class="panel-head"><div><span class="kicker">NOW TRENDING</span><h2 id="pulseTitle">Signal Pulse</h2></div><span class="pulse-live">LIVE</span></div>
+        <div id="trendList" class="trend-list"></div>
+        <div class="pulse-footer"><span>Calculated from the current feed</span><button id="randomSignalBtn" type="button">Surprise me ↗</button></div>
       </aside>
     </section>
 
-    <section class="control-deck shell panel" aria-label="News filters">
-      <div class="search-box"><span>⌕</span><input id="searchInput" type="search" autocomplete="off" placeholder="Search AI news, models, policy, companies…" aria-label="Search news"></div>
+    <section id="governance" class="governance-shell shell">
+      <div class="governance-hero panel">
+        <div class="governance-copy">
+          <span class="kicker">COMPLIANCE · ETHICS · POLICY</span>
+          <h2>Governance Radar</h2>
+          <p>A separate intelligence surface for regulation, safety, standards, rights and institutional AI governance.</p>
+          <button class="primary-small" type="button" data-filter="Compliance & Ethics">Open governance feed</button>
+        </div>
+        <div class="radar-stage" aria-hidden="true"><div class="radar-sweep"></div><span>EU</span><i></i><b>WAICO</b><em>NIST</em></div>
+      </div>
+      <div class="governance-cards">
+        <a class="gov-card eu" href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener noreferrer"><span>EU AI ACT</span><strong>European compliance watch</strong><p>Official EU framework, implementation and enforcement material.</p><b>EU ↗</b></a>
+        <a class="gov-card waico" href="https://www.mfa.gov.cn/eng/wjbzhd/202607/t20260717_11984747.html" target="_blank" rel="noopener noreferrer"><span>WAICO</span><strong>Global cooperation watch</strong><p>Track the emerging multilateral AI-governance organization and membership developments.</p><b>GLOBAL ↗</b></a>
+        <a class="gov-card" href="https://www.nist.gov/artificial-intelligence" target="_blank" rel="noopener noreferrer"><span>NIST</span><strong>Risk & standards</strong><p>AI RMF, measurement, testing and technical standards.</p><b>US ↗</b></a>
+        <a class="gov-card" href="https://oecd.ai/" target="_blank" rel="noopener noreferrer"><span>OECD.AI</span><strong>Policy observatory</strong><p>International AI policy, principles and governance indicators.</p><b>OECD ↗</b></a>
+      </div>
+    </section>
+
+    <section id="stream" class="control-deck shell panel" aria-label="News controls">
+      <div class="search-box"><span>⌕</span><input id="searchInput" type="search" autocomplete="off" placeholder="Search models, companies, policy, agents…" aria-label="Search news"><kbd>⌘K</kbd></div>
       <div id="categoryChips" class="chips" role="group" aria-label="Categories"></div>
       <div class="select-row">
+        <label>Provider <select id="providerSelect"><option value="all">All providers</option></select></label>
         <label>Source <select id="sourceSelect"><option value="all">All sources</option></select></label>
-        <label>Sort <select id="sortSelect"><option value="newest">Newest first</option><option value="source">Source A–Z</option><option value="trust">Primary / official first</option></select></label>
-        <label class="toggle"><input id="bookmarksOnly" type="checkbox"><span>★</span> Saved only</label>
+        <label>Sort <select id="sortSelect"><option value="newest">Newest</option><option value="trust">Primary first</option><option value="source">Source A–Z</option></select></label>
+        <button id="viewBtn" class="view-btn" type="button" aria-label="Toggle compact view">▦</button>
+        <label class="toggle"><input id="bookmarksOnly" type="checkbox"><span>★</span> Saved</label>
       </div>
     </section>
 
     <section class="news-section shell" aria-labelledby="newsTitle">
-      <div class="section-head">
-        <div><span class="kicker">LIVE INDEX</span><h2 id="newsTitle">AI News Stream</h2></div>
+      <div class="section-head stream-head">
+        <div><span class="kicker">LIVE INDEX</span><h2 id="newsTitle">AI News Stream</h2><p id="activeFilterLabel">All AI signals</p></div>
         <div id="resultsLabel" class="results-label">Loading…</div>
       </div>
       <div id="newsGrid" class="news-grid" aria-live="polite"></div>
-      <button id="loadMoreBtn" class="load-more" type="button">Load more stories</button>
+      <button id="loadMoreBtn" class="load-more" type="button">Load more intelligence <span>↓</span></button>
+    </section>
+
+    <section id="social" class="social-section shell panel" aria-labelledby="socialTitle">
+      <div class="panel-head">
+        <div><span class="kicker">OFFICIAL CHANNELS</span><h2 id="socialTitle">Official Social Wire</h2></div>
+        <span class="legal-badge">LINKS ONLY · NO SCRAPING</span>
+      </div>
+      <p class="sources-intro">Verified official LinkedIn, Instagram and Facebook profiles are surfaced where available. The dashboard does not copy social post text, images or video; opening a channel takes you to the original platform.</p>
+      <div id="socialGrid" class="social-grid"></div>
     </section>
 
     <section class="sources shell panel" aria-labelledby="sourcesTitle">
-      <div class="panel-head">
-        <div><span class="kicker">PROVENANCE</span><h2 id="sourcesTitle">Source Matrix</h2></div>
-        <span id="sourceCountLabel" class="source-count">—</span>
-      </div>
-      <p class="sources-intro">Primary labs and official institutions are visually separated from independent reporting and research. General feeds are admitted only when an item passes the strict AI relevance filter.</p>
+      <div class="panel-head"><div><span class="kicker">PROVENANCE</span><h2 id="sourcesTitle">Source Matrix</h2></div><span id="sourceCountLabel" class="source-count">—</span></div>
+      <p class="sources-intro">Primary labs and official institutions are visually separated from research and independent reporting. General feeds enter the dataset only after strict AI relevance filtering.</p>
       <div id="sourceMatrix" class="source-matrix"></div>
     </section>
   </main>
 
   <footer class="shell footer">
-    <div><strong>AI NEWS // LIVE</strong><span>AI-only aggregation with source provenance.</span></div>
-    <div><span>No tracking · No paywall bypass · Headlines + brief excerpts only</span><a href="https://github.com/chekento/Ainews" target="_blank" rel="noopener noreferrer">GitHub ↗</a></div>
+    <div><strong>AI NEWS // LIVE</strong><span>Provider-first AI intelligence with provenance.</span></div>
+    <div><span>No tracking · No social scraping · No paywall bypass · Headlines + brief excerpts only</span><a href="https://github.com/chekento/Ainews" target="_blank" rel="noopener noreferrer">GitHub ↗</a></div>
   </footer>
 
   <template id="newsCardTemplate">
     <article class="news-card">
-      <div class="card-top"><span class="source-badge"></span><button class="save-btn" type="button" aria-label="Save story">☆</button></div>
-      <div class="card-meta"><span class="category"></span><time></time></div>
-      <h3></h3>
-      <p class="summary"></p>
-      <div class="card-bottom"><span class="provenance"></span><a target="_blank" rel="noopener noreferrer">Read source <span>↗</span></a></div>
+      <div class="preview-visual"><span class="preview-category"></span><strong class="preview-mark">AI</strong><div class="preview-grid"></div></div>
+      <div class="card-body">
+        <div class="card-top"><span class="source-badge"></span><button class="save-btn" type="button" aria-label="Save story">☆</button></div>
+        <div class="card-meta"><span class="category"></span><time></time></div>
+        <h3></h3>
+        <p class="summary"></p>
+        <div class="provider-tags"></div>
+        <div class="card-bottom"><span class="provenance"></span><div><button class="ask-btn" type="button">✦ Ask AI</button><a target="_blank" rel="noopener noreferrer">Source ↗</a></div></div>
+      </div>
     </article>
   </template>
+
+  <aside id="chatDrawer" class="chat-drawer" aria-hidden="true" aria-labelledby="chatTitle">
+    <div class="chat-backdrop" data-close-chat></div>
+    <div class="chat-panel">
+      <header><div><span class="kicker">ARTICLE INTELLIGENCE</span><h2 id="chatTitle">AI News Copilot</h2></div><button class="close-btn" type="button" data-close-chat>×</button></header>
+      <div id="chatContext" class="chat-context"><span>GLOBAL FEED</span><strong>Ask across the current AI news dataset</strong><p>The built-in research mode answers from loaded headlines and excerpts. Choose an article to focus the context.</p></div>
+      <div id="chatMessages" class="chat-messages" aria-live="polite"></div>
+      <div class="quick-prompts">
+        <button type="button" data-prompt="Summarize the key point and why it matters.">Why it matters</button>
+        <button type="button" data-prompt="What related stories are in the current feed?">Related coverage</button>
+        <button type="button" data-prompt="What are the compliance, safety or ethics implications?">Risk & compliance</button>
+        <button type="button" data-prompt="Compare this with news from competing LLM providers.">Compare providers</button>
+      </div>
+      <form id="chatForm" class="chat-form"><textarea id="chatInput" rows="2" placeholder="Ask about this article or the current AI news…" required></textarea><button type="submit">Send <span>↑</span></button></form>
+      <details class="llm-settings">
+        <summary>Connect an optional LLM endpoint</summary>
+        <p>GitHub Pages cannot securely hold server secrets. Use a browser-accessible OpenAI-compatible endpoint only if you understand the exposure risk. The token is kept in session memory, never committed or stored permanently.</p>
+        <div class="settings-grid"><label>Endpoint<input id="llmEndpoint" type="url" placeholder="https://example.com/v1/chat/completions"></label><label>Model<input id="llmModel" type="text" placeholder="model-name"></label><label>Session token<input id="llmToken" type="password" autocomplete="off" placeholder="optional"></label><label class="toggle"><input id="llmEnabled" type="checkbox"><span>✦</span> Use connected LLM</label></div>
+      </details>
+    </div>
+  </aside>
 
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
   <script type="module" src="app.js"></script>
