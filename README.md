@@ -23,7 +23,26 @@
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-The automated refresh workflow will place the newest verified AI-only headlines here.
+**60 curated sources · 18 provider monitors · AI-only filter v3 · snapshot 2026-09-15 20:11 UTC**
+
+| # | Source | Desk | AI relevance | Headline |
+|---:|---|---|---|---|
+| 01 | **Mistral AI** | Frontier Models | ● HIGH | [Making sovereign, open-weight AI the technology frontier - mistral.ai](https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5) |
+| 02 | **TechCrunch AI** | Industry | ● HIGH | [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) |
+| 03 | **TechCrunch AI** | Industry | ● HIGH | [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/) |
+| 04 | **The Decoder** | Frontier Models | ● HIGH | [Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost](https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/) |
+| 05 | **WIRED AI** | Industry | ● HIGH | [AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’](https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/) |
+| 06 | **The Decoder** | Research | ● HIGH | [AI labs have a data trust problem that their policies haven't solved](https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/) |
+| 07 | **MIT Technology Review AI** | Industry | ● HIGH | [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/) |
+| 08 | **TechCrunch AI** | Industry | ● HIGH | [AI agents now have a place to snitch](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/) |
+| 09 | **Google DeepMind** | Frontier Models | ● HIGH | [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) |
+| 10 | **TechCrunch AI** | Industry | ● HIGH | [Meta expands subscription push with new AI-focused plans](https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/) |
+| 11 | **The Verge AI** | Compliance & Ethics | ● HIGH | [What execs and politicians are saying about slowing down AI development](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei) |
+| 12 | **The Verge AI** | Safety & Security | ● HIGH | [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel) |
+
+[→ Full generated dataset](data/news.json) · [→ Source matrix](config/sources.json) · [→ GitHub News portal](portal/news.md)
+
+> The refresh pipeline rejects broad-feed items that do not pass explicit AI relevance checks. RSS-less and temporarily failing AI sources can fall back to domain-scoped monitors.
 <!-- LATEST_AI_NEWS:END -->
 
 ---
@@ -52,7 +71,11 @@ The Android app is no longer just a feed with tabs. Version 2.0 is a configurabl
 <!-- ANDROID_WIDGETS:START -->
 ## ⚡ Hypercyber Android Widgets
 
-Android 2.0 includes eight configurable native widgets.
+Android **2.0** ships eight native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock**.
+
+They share the app's source exclusions and now also support configurable **content mode, accent, text scale, density, summary visibility and metadata visibility**. Every widget reads the live AI-only dataset and falls back to bundled news when offline.
+
+### [⬇ Download AI News Android 2.0](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- ANDROID_WIDGETS:END -->
 
 ---
