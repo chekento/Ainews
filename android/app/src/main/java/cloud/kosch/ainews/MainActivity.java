@@ -77,6 +77,24 @@ public class MainActivity extends Activity {
 
     private void applyLaunchIntent(Intent intent, int delayMs) {
         if (webView == null || intent == null) return;
+
+        String copilotStoryId = intent.getStringExtra("copilotStoryId");
+        String copilotAction = intent.getStringExtra("copilotAction");
+        if (copilotStoryId != null && !copilotStoryId.trim().isEmpty()) {
+            String action = (copilotAction == null || copilotAction.trim().isEmpty()) ? "summary" : copilotAction.trim();
+            String prompt = "summary".equals(action)
+                ? "Summarize this story using the strongest available evidence. Separate source facts from inference and include related coverage where useful."
+                : "Explain this story using the strongest available evidence and clearly distinguish source facts from inference.";
+            String script = "setTimeout(function(){(function retry(n){try{" +
+                "if(window.AINewsCopilot&&typeof S!=='undefined'&&S.items){var story=S.items.find(function(x){return x.id===" + JSONObject.quote(copilotStoryId) + ";});" +
+                "if(story){window.AINewsCopilot.open(story);setTimeout(function(){window.AINewsCopilot.ask(" + JSONObject.quote(prompt) + ");},120);return;}}" +
+                "}catch(e){}if(n>0)setTimeout(function(){retry(n-1);},250);})(16);}," + Math.max(0, delayMs) + ");";
+            webView.evaluateJavascript(script, null);
+            intent.removeExtra("copilotStoryId");
+            intent.removeExtra("copilotAction");
+            return;
+        }
+
         String query = intent.getStringExtra("watchQuery");
         String storyId = intent.getStringExtra("storyId");
         if (query == null || query.trim().isEmpty()) return;
