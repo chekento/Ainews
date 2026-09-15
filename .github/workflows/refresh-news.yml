@@ -13,6 +13,7 @@ on:
       - 'sw.js'
       - 'scripts/**'
       - 'config/**'
+      - 'PRIVACY.md'
       - '.github/workflows/refresh-news.yml'
 
 permissions:
@@ -33,13 +34,25 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Validate application, aggregator and registries
+      - name: Validate application, aggregator, registries and privacy coverage
         run: |
           node --check app.js
           node --check android/app/src/main/assets/app.js
+          node --check android/app/src/main/assets/copilot-v2.js
+          node --check android/app/src/main/assets/intelligence-v3.js
+          node --check android/app/src/main/assets/ux-v31.js
           node --check scripts/fetch-news.mjs
           node --check scripts/update-readme-news.mjs
-          node -e "const fs=require('fs'); const s=JSON.parse(fs.readFileSync('config/sources.json','utf8')); const p=JSON.parse(fs.readFileSync('config/providers.json','utf8')); if(s.sources.length<50) process.exit(2); console.log('JSON OK:',s.sources.length,'sources,',p.providers.length,'providers')"
+          node <<'NODE'
+          const fs=require('fs');
+          const s=JSON.parse(fs.readFileSync('config/sources.json','utf8'));
+          const p=JSON.parse(fs.readFileSync('config/providers.json','utf8'));
+          const privacy=fs.readFileSync('PRIVACY.md','utf8');
+          const missing=[...(s.sources||[]).map(x=>x.name),...(p.providers||[]).map(x=>x.name)].filter(name=>!privacy.includes(name));
+          if((s.sources||[]).length<50)process.exit(2);
+          if(missing.length){console.error('PRIVACY.md missing registered names:',missing);process.exit(3)}
+          console.log('JSON + privacy coverage OK:',s.sources.length,'sources,',p.providers.length,'providers');
+          NODE
       - name: Build strict AI-only news dataset
         run: node scripts/fetch-news.mjs
       - name: Refresh repository frontpage

@@ -9,6 +9,7 @@ on:
       - 'scripts/fetch-news.mjs'
       - 'config/providers.json'
       - 'config/sources.json'
+      - 'PRIVACY.md'
       - '.github/workflows/android-apk.yml'
 
 permissions:
@@ -34,14 +35,24 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Validate mobile JavaScript and registries
+      - name: Validate mobile JavaScript, registries and privacy coverage
         run: |
           node --check android/app/src/main/assets/app.js
           node --check android/app/src/main/assets/media.js
           node --check android/app/src/main/assets/copilot-v2.js
           node --check android/app/src/main/assets/intelligence-v3.js
+          node --check android/app/src/main/assets/ux-v31.js
           node --check scripts/fetch-news.mjs
-          node -e "const fs=require('fs'); JSON.parse(fs.readFileSync('config/sources.json','utf8')); JSON.parse(fs.readFileSync('config/providers.json','utf8')); console.log('Mobile assets OK')"
+          node <<'NODE'
+          const fs=require('fs');
+          const sources=JSON.parse(fs.readFileSync('config/sources.json','utf8')).sources||[];
+          const providers=JSON.parse(fs.readFileSync('config/providers.json','utf8')).providers||[];
+          const privacy=fs.readFileSync('PRIVACY.md','utf8');
+          const missing=[...sources.map(x=>x.name),...providers.map(x=>x.name)].filter(name=>!privacy.includes(name));
+          if(missing.length){console.error('PRIVACY.md missing registered names:',missing);process.exit(3)}
+          if(sources.length<50||providers.length<15)process.exit(2);
+          console.log('Mobile assets + privacy coverage OK:',sources.length,'sources,',providers.length,'providers');
+          NODE
       - name: Refresh bundled AI-only data
         run: node scripts/fetch-news.mjs
       - name: Bundle offline fallback data
@@ -58,7 +69,7 @@ jobs:
           sha256sum dist/AI-News.apk > dist/AI-News.apk.sha256
       - uses: actions/upload-artifact@v4
         with:
-          name: AI-News-Android-3.0
+          name: AI-News-Android-3.1
           path: |
             dist/AI-News.apk
             dist/AI-News.apk.sha256
@@ -69,10 +80,10 @@ jobs:
         run: |
           git tag -f android-latest "$GITHUB_SHA"
           git push origin refs/tags/android-latest --force
-          NOTES="AI News Android 3.0 • Intelligence Suite. Adds adaptive For You ranking with local explainability, transparent Signal Score, multi-source Story Clusters and timelines, AI Daily briefing with Android TTS, Provider Intelligence dossiers, Smart Watchlists with periodic Android notifications, a live 72-hour AI radar, a ninth Live AI Radar home-screen widget, per-widget Next/Refresh controls and signal badges, plus Copilot 2.2 as the source-grounded contextual intelligence layer. Existing AI-only source filtering, visual news cards, search, source controls and eight prior widgets remain included. Debug-signed for direct testing."
+          NOTES="AI News Android 3.1 • UX & Privacy. Hardens Copilot/Intelligence integration and makes the app more intuitive: sequential intelligence-layer loading, Android back-button handling for sheets/modals/pages, provider-dossier navigation fix, safe source/reset confirmations, clearer legal/data controls, deep-linked Smart Watch notifications, first-run watch arming without old-story notification floods, native TTS without duplicate playback, lower-cost preference synchronization, and Settings links to Datenschutz & all sources plus Impressum at kosch.cloud. Privacy coverage is CI-checked against every registered source and provider. Intelligence Suite 3.0 features and nine widgets remain included. Debug-signed for direct testing."
           if gh release view android-latest >/dev/null 2>&1; then
             gh release upload android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --clobber
-            gh release edit android-latest --title "AI News Android 3.0 • Intelligence Suite" --notes "$NOTES"
+            gh release edit android-latest --title "AI News Android 3.1 • UX & Privacy" --notes "$NOTES"
           else
-            gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --title "AI News Android 3.0 • Intelligence Suite" --notes "$NOTES"
+            gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --title "AI News Android 3.1 • UX & Privacy" --notes "$NOTES"
           fi
