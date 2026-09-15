@@ -31,6 +31,25 @@ const iso=d=>{const x=new Date(d);return Number.isNaN(x.getTime())?null:x.toISOS
 const notTooOld=d=>!d||Date.now()-new Date(d).getTime()<MAX_AGE_DAYS*86400000;
 const norm=s=>String(s||'').toLowerCase();
 
+function normalizeImage(url){
+  let u=decode(url||'').trim().replace(/&amp;/g,'&');
+  if(u.startsWith('//'))u='https:'+u;
+  if(!/^https:\/\//i.test(u))return null;
+  if(/\.(?:gif)(?:[?#]|$)/i.test(u))return null;
+  return u;
+}
+function imageFromBlock(block){
+  const patterns=[
+    /<media:content[^>]+url=["']([^"']+)["'][^>]*>/i,
+    /<media:thumbnail[^>]+url=["']([^"']+)["'][^>]*>/i,
+    /<enclosure[^>]+url=["']([^"']+)["'][^>]+type=["']image\/[a-z0-9.+-]+["'][^>]*>/i,
+    /<enclosure[^>]+type=["']image\/[a-z0-9.+-]+["'][^>]+url=["']([^"']+)["'][^>]*>/i,
+    /<img[^>]+src=["']([^"']+)["'][^>]*>/i
+  ];
+  for(const re of patterns){const m=block.match(re);const u=normalizeImage(m?.[1]);if(u)return u}
+  return null;
+}
+
 function parseFeed(xml){
   const isAtom=/<feed[\s>]/i.test(xml)&&/<entry[\s>]/i.test(xml);
   const blocks=isAtom?(xml.match(/<entry\b[\s\S]*?<\/entry>/gi)||[]):(xml.match(/<item\b[\s\S]*?<\/item>/gi)||[]);
@@ -43,7 +62,8 @@ function parseFeed(xml){
     const published=match(block,/<(?:pubDate|published|updated|dc:date)[^>]*>([\s\S]*?)<\/(?:pubDate|published|updated|dc:date)>/i);
     const summary=clean(match(block,/<(?:description|summary|content:encoded|content)[^>]*>([\s\S]*?)<\/(?:description|summary|content:encoded|content)>/i)).slice(0,420);
     const publisher=clean(match(block,/<source[^>]*>([\s\S]*?)<\/source>/i));
-    return{title,url,publishedAt:iso(published),summary,publisher};
+    const image=imageFromBlock(block);
+    return{title,url,publishedAt:iso(published),summary,publisher,image};
   }).filter(x=>x.title&&/^https?:\/\//i.test(x.url));
 }
 
@@ -100,7 +120,7 @@ async function fetchText(url,accept){
   const ctrl=new AbortController();
   const timer=setTimeout(()=>ctrl.abort(),15000);
   try{
-    const r=await fetch(url,{headers:{'user-agent':'AI-News-Live/3.0 (+https://github.com/chekento/Ainews)','accept':accept||'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'},signal:ctrl.signal,redirect:'follow'});
+    const r=await fetch(url,{headers:{'user-agent':'AI-News-Live/3.1 (+https://github.com/chekento/Ainews)','accept':accept||'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'},signal:ctrl.signal,redirect:'follow'});
     if(!r.ok)throw new Error(`HTTP ${r.status}`);
     return await r.text();
   }finally{clearTimeout(timer)}
@@ -120,7 +140,9 @@ function mapSourceItem(source,i,{monitor=false}={}){
     tags:[...new Set([...(monitor?['Source monitor']:[]),...tagsFor(text)])].slice(0,5),
     providers:providersFor(source.name,text),
     monitor,
-    aiConfidence:aiConfidence(source,text)
+    aiConfidence:aiConfidence(source,text),
+    image:i.image||null,
+    imageOrigin:i.image?'feed':null
   };
 }
 
@@ -173,7 +195,7 @@ async function fetchProviderMonitor(provider){
         summary:`AI provider-monitor coverage surfaced for ${provider.name}. Open the linked publication for the complete report and context.`,
         url:i.url,source:`${publisher} · provider monitor`,publishedAt:i.publishedAt||new Date().toISOString(),
         category:categoryFor(text),provenance:'journalism',tags:[...new Set(['Provider monitor',...tagsFor(text)])].slice(0,5),
-        providers:[provider.id],monitor:true,aiConfidence:'high'
+        providers:[provider.id],monitor:true,aiConfidence:'high',image:i.image||null,imageOrigin:i.image?'feed':null
       };
     });
     return{provider,items,status:'ok'};
@@ -211,7 +233,7 @@ if(items.length<MIN_HEALTHY_ITEMS){
 const providerCoverage=Object.fromEntries(providers.map(p=>[p.id,items.filter(i=>(i.providers||[]).includes(p.id)).length]));
 const sourceCoverage=Object.fromEntries(sources.map(s=>[s.name,items.filter(i=>i.source===s.name).length]));
 const payload={
-  generatedAt:new Date().toISOString(),refreshMinutes:30,aiOnly:true,filterVersion:3,
+  generatedAt:new Date().toISOString(),refreshMinutes:30,aiOnly:true,filterVersion:4,imagePolicy:'feed-metadata-only',
   sourceCount:sources.length,providerCount:providers.length,feedCount:sources.filter(s=>s.feed).length,
   healthyFeeds:results.filter(r=>r.status==='ok').length,
   sourceMonitors:monitorTargets.length,healthySourceMonitors:sourceMonitorResults.filter(r=>r.status==='ok').length,
@@ -224,4 +246,4 @@ const payload={
 
 await fs.mkdir(new URL('../data/',import.meta.url),{recursive:true});
 await fs.writeFile(new URL('../data/news.json',import.meta.url),JSON.stringify(payload,null,2)+'\n','utf8');
-console.log(`Wrote ${items.length} AI-only stories from ${payload.healthyFeeds}/${payload.feedCount} feeds, ${payload.healthySourceMonitors}/${payload.sourceMonitors} source monitors and ${payload.healthyProviderMonitors}/${providers.length} provider monitors.`);
+console.log(`Wrote ${items.length} AI-only stories from ${payload.healthyFeeds}/${payload.feedCount} feeds, ${payload.healthySourceMonitors}/${payload.sourceMonitors} source monitors and ${payload.healthyProviderMonitors}/${providers.length} provider monitors. Feed images are preserved only when explicitly published in RSS/Atom metadata.`);

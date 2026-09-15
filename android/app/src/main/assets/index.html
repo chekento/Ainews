@@ -4,9 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
   <meta name="theme-color" content="#050711">
-  <title>AI News 2.0</title>
+  <title>AI News 2.1</title>
   <link rel="stylesheet" href="app.css">
   <link rel="stylesheet" href="source.css">
+  <link rel="stylesheet" href="media.css">
 </head>
 <body data-theme="cyber" data-density="comfortable" data-cards="rich" data-motion="full">
   <div class="fx-grid"></div><div class="fx-orb fx-a"></div><div class="fx-orb fx-b"></div>
@@ -94,7 +95,7 @@
         <div class="setting-row"><div><strong>Font size</strong><small id="fontScaleLabel">100%</small></div><input id="fontScalePref" data-pref="fontScale" type="range" min="90" max="125" step="5" value="100"></div>
         <div class="setting-row"><div><strong>Motion</strong><small>Animations and ambient effects.</small></div><select id="motionPref" data-pref="motion"><option value="full">Full</option><option value="reduced">Reduced</option><option value="off">Off</option></select></div>
         <label class="switch-row"><span><strong>Story summaries</strong><small>Show short source excerpts.</small></span><input id="showSummaryPref" data-pref="showSummary" type="checkbox" checked><i></i></label>
-        <label class="switch-row"><span><strong>Generated visuals</strong><small>Keep cyber preview panels on cards.</small></span><input id="showVisualPref" data-pref="showVisual" type="checkbox" checked><i></i></label>
+        <label class="switch-row"><span><strong>Article visuals</strong><small>Prefer publisher feed images; use one of ten cyber fallbacks otherwise.</small></span><input id="showVisualPref" data-pref="showVisual" type="checkbox" checked><i></i></label>
       </section>
 
       <section class="settings-card"><header><span>02</span><div><small>INTELLIGENCE FEED</small><h2>Discovery defaults</h2></div></header>
@@ -139,5 +140,6 @@
 
   <div id="toast" class="toast"></div>
   <script src="app.js"></script>
+  <script src="media.js"></script>
 </body>
 </html>
