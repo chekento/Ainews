@@ -8,10 +8,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.0-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download Android APK"></a>
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.1-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download Android APK"></a>
   <a href="portal/news.md"><img src="https://img.shields.io/badge/LIVE_AI_NEWS-55D9FF?style=for-the-badge&logo=rss&logoColor=07111f" alt="Live AI News"></a>
   <a href="config/sources.json"><img src="https://img.shields.io/badge/60_AI_SOURCES-A993FF?style=for-the-badge" alt="60 AI sources"></a>
   <a href="config/providers.json"><img src="https://img.shields.io/badge/18_LLM_ECOSYSTEMS-FF78C8?style=for-the-badge" alt="18 LLM providers"></a>
+</p>
+
+<p align="center">
+  <a href="PRIVACY.md"><strong>🔐 Datenschutz / Privacy & all sources</strong></a> · <a href="https://kosch.cloud"><strong>Impressum / kosch.cloud</strong></a>
 </p>
 
 <p align="center">
@@ -34,7 +38,7 @@ Strict AI-only relevance filtering across labs, research, independent reporting,
 </td>
 <td width="50%" valign="top">
 
-### 📱 ANDROID 3.0
+### 📱 ANDROID 3.1
 
 Command Center home, Discover search, source controls, saved stories, Copilot and nine configurable home-screen widgets.
 
@@ -69,7 +73,7 @@ Search syntax includes `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**60 curated sources · 18 provider monitors · AI-only filter v4 · snapshot 2026-09-15 21:49 UTC**
+**60 curated sources · 18 provider monitors · AI-only filter v4 · snapshot 2026-09-15 22:01 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
@@ -120,18 +124,18 @@ Copilot is a **contextual intelligence layer**, not a detached chatbot. It follo
 ---
 
 <!-- INTELLIGENCE_SUITE:START -->
-## ◉ Intelligence Suite 3.0
+## ◉ Intelligence Suite 3.1 — UX & Privacy
 
-Android 3.0 moves beyond a chronological reader: **Latest · For You · High Signal · Story Clusters · Brief** are first-class modes. Personalization is local and exposes **Why this?**; Signal Score is a transparent heuristic based on freshness, provenance, AI confidence, context and multi-source corroboration rather than a truth rating.
+Android 3.1 keeps **Latest · For You · High Signal · Story Clusters · Brief** as first-class modes and hardens the experience around them: deterministic intelligence-layer loading, cleaner back navigation, safer destructive actions, provider-dossier navigation fixes, deep-linked Smart Watch notifications and duplicate-free native TTS.
 
-**New intelligence surfaces:** multi-source cluster timelines · provider dossiers · AI Daily brief + Android TTS · Smart Watchlists with background notifications · 72-hour Live AI Radar · nine configurable widgets with signal badges and Next/Refresh actions.
+**Privacy & control:** a dedicated Settings section links to the full GitHub privacy policy, all registered sources, and **kosch.cloud** as the provider/imprint destination. Local personalization/Copilot-session data and saved stories can be cleared separately. CI now fails if a registered source or provider is missing from PRIVACY.md.
 
-### [⬇ Download AI News Android 3.0](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.1](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- INTELLIGENCE_SUITE:END -->
 
 ---
 
-## 📱 Android 3.0 — Intelligence Suite
+## 📱 Android 3.1 — UX & Privacy
 
 The APK uses a local mobile interface rather than depending on GitHub Pages. It downloads the current AI-only JSON feed directly from this repository and keeps a bundled offline fallback inside the package.
 
@@ -141,7 +145,7 @@ The APK uses a local mobile interface rather than depending on GitHub Pages. It 
 
 **Customization:** Hypercyber/OLED/Light/System themes, multiple accents, UI density, font scale, animation level, summaries, visual previews, default time range, sorting, refresh cadence, primary-source boost, provider monitors and research-paper visibility.
 
-### [⬇ Download AI News Android 3.0](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.1](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 
 > Direct APKs are debug-signed test builds. A Play Store production package should use a dedicated release key and AAB pipeline.
 
@@ -150,11 +154,11 @@ The APK uses a local mobile interface rather than depending on GitHub Pages. It 
 <!-- ANDROID_WIDGETS:START -->
 ## ⚡ Hypercyber Android Widgets
 
-Android **3.0** ships nine native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock · Live AI Radar**.
+Android **3.1** ships nine native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock · Live AI Radar**.
 
-Widgets share source exclusions, expose configurable content mode/accent/text scale/density/summary/metadata, show a transparent local signal badge and now support **Next ›** plus **Refresh ↻** without opening the app.
+Widgets share source exclusions, expose configurable content mode/accent/text scale/density/summary/metadata, show a transparent local signal badge and support **Next ›** plus **Refresh ↻** without opening the app.
 
-### [⬇ Download AI News Android 3.0](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.1](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- ANDROID_WIDGETS:END -->
 
 ---
