@@ -19,6 +19,45 @@
 
 ---
 
+<!-- LATEST_AI_NEWS:START -->
+## 🔴 Latest AI News
+
+**Live snapshot · 2026-09-15 19:51 UTC · refreshed automatically every 30 minutes**
+
+| # | Source | Desk | Headline |
+|---:|---|---|---|
+| 01 | **TechCrunch AI** | Industry | [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) |
+| 02 | **TechCrunch AI** | Industry | [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/) |
+| 03 | **The Decoder** | Frontier Models | [Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost](https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/) |
+| 04 | **WIRED AI** | Industry | [AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’](https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/) |
+| 05 | **The Decoder** | Research | [AI labs have a data trust problem that their policies haven't solved](https://the-decoder.com/ai-labs-have-a-data-trust-problem-that-their-policies-havent-solved/) |
+| 06 | **MIT Technology Review AI** | Industry | [Roundtables: Could AI really kill us all?](https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/) |
+| 07 | **TechCrunch AI** | Industry | [AI agents now have a place to snitch](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/) |
+| 08 | **Google DeepMind** | Frontier Models | [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) |
+| 09 | **TechCrunch AI** | Industry | [Meta expands subscription push with new AI-focused plans](https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/) |
+| 10 | **The Verge AI** | Compliance & Ethics | [What execs and politicians are saying about slowing down AI development](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei) |
+
+[→ Open the complete generated feed](data/news.json) · [→ Source registry](config/sources.json) · [→ GitHub-native News portal](portal/news.md)
+
+> **Source control:** the Android app provides persistent multi-select source controls. Disabled sources are also excluded from all Android home-screen widgets. GitHub README pages cannot execute JavaScript, so this frontpage snapshot itself remains a combined live feed.
+<!-- LATEST_AI_NEWS:END -->
+
+---
+
+<!-- ANDROID_WIDGETS:START -->
+## ⚡ Android Hypercyber Widgets
+
+The latest APK includes **8 native Android home-screen widgets**. They fetch the live AI dataset directly, refresh automatically, support manual ↻ refresh and fall back to the dataset bundled in the APK when offline.
+
+**BREAKING** · **PRIMARY SIGNAL** · **LLM PROVIDER WIRE** · **GOVERNANCE RADAR** · **R&D / INFRA** · **SIGNAL STACK** · **NEON MATRIX** · **SIGNAL CLOCK**
+
+All eight widgets inherit the source choices made inside the app. Turn a source off once and it disappears from the mobile feed **and** the widgets.
+
+### [⬇ Download AI News Android 1.1](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+<!-- ANDROID_WIDGETS:END -->
+
+---
+
 ## 📱 AI News for Android
 
 The Android edition is designed as a real mobile news experience rather than a thin link to GitHub Pages. It has its own local interface, pulls the current news dataset directly from this repository, and carries an offline fallback inside the APK.
