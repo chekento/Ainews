@@ -17,6 +17,6 @@ let out=upsert(readme,'<!-- LATEST_AI_NEWS:START -->','<!-- LATEST_AI_NEWS:END -
 out=upsert(out,'<!-- COPILOT_INTELLIGENCE:START -->','<!-- COPILOT_INTELLIGENCE:END -->',copilot,'## 📱 Android');
 out=upsert(out,'<!-- INTELLIGENCE_SUITE:START -->','<!-- INTELLIGENCE_SUITE:END -->',intelligence,'## 📱 Android');
 out=upsert(out,'<!-- ANDROID_WIDGETS:START -->','<!-- ANDROID_WIDGETS:END -->',widgets,'## 🧠 AI-only ingestion');
-out=out.replace(/DOWNLOAD_ANDROID_[0-9.]+/g,'DOWNLOAD_ANDROID_3.0').replace(/### 📱 ANDROID [0-9.]+/g,'### 📱 ANDROID 3.0').replace(/## 📱 Android [0-9.]+[^\n]*/g,'## 📱 Android 3.0 — Intelligence Suite').replace(/AI News Android [0-9.]+/g,'AI News Android 3.0').replace(/all eight home-screen widgets/g,'nine configurable home-screen widgets');
+out=out.replace(/DOWNLOAD_ANDROID_[0-9.]+/g,'DOWNLOAD_ANDROID_3.0').replace(/### 📱 ANDROID [0-9.]+/g,'### 📱 ANDROID 3.0').replace(/## 📱 Android [0-9.]+[^\n]*/g,'## 📱 Android 3.0 — Intelligence Suite').replace(/AI News Android [0-9.]+/g,'AI News Android 3.0').replace(/all eight home-screen widgets/g,'nine configurable home-screen widgets').replace(/eight configurable home-screen widgets/g,'nine configurable home-screen widgets');
 fs.writeFileSync(readmePath,out);
 console.log(`README refreshed with ${items.length} AI-only stories, Intelligence Suite 3.0, Copilot 2.2 and nine Android widgets.`);
