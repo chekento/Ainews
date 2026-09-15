@@ -8,9 +8,15 @@
 
 </div>
 
+> [!WARNING]
+> **BETA / IN DEVELOPMENT.** Copilot, retrieval, clustering and heuristic inference are experimental and can misunderstand, omit or overstate information. **Use at your own risk / Nutzung auf eigene Gefahr.** Always inspect the displayed evidence and original source for important claims.
+
+**📱 Current Android Beta:** [Download AI News 3.1 APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk) · [Release](https://github.com/chekento/Ainews/releases/tag/android-latest) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256)  
+**🔐 Legal & privacy:** [Datenschutz / Privacy & all sources](../PRIVACY.md) · [Impressum / kosch.cloud](https://kosch.cloud)
+
 ---
 
-Copilot is no longer treated as a detached chat window. In Android 2.2 it follows the user's **story, provider, category, search/filter state or the full enabled feed** and retrieves a source-diverse evidence set before answering.
+In Android 3.1 Beta, Copilot follows the user's **story, provider, category, search/filter state or the full enabled feed** and retrieves a source-diverse evidence set before answering.
 
 ## Retrieval model
 
@@ -28,9 +34,9 @@ It then reduces repeated-source/provider saturation so the evidence set is not s
 
 ## Integrated actions
 
-Every rich news card can launch contextual actions for **Why it matters · Compare · Timeline · Risk**. The Copilot also supports **Summary · Related coverage · Source check · Daily/Current briefing** and keeps a short optional session-only follow-up context.
+Every rich news card can launch contextual actions for **Why it matters · Compare · Timeline · Risk**. Copilot also supports **Summary · Related coverage · Source check · Daily/Current briefing** and keeps a short optional session-only follow-up context.
 
-For comparisons, Copilot describes documented current signals and does not turn them into an overall winner/ranking. Local analysis clearly separates source-derived excerpts from heuristic inference.
+For comparisons, Copilot describes documented current signals rather than declaring an overall winner. Local analysis separates source-derived excerpts from heuristic inference.
 
 ## Evidence
 
@@ -52,10 +58,14 @@ The built-in retrieval and structured local analysis do not require an API. An o
 
 ## Privacy / secrets
 
-No permanent API secret is committed to the repository or bundled into the Android APK. A connected endpoint token is session-entered. For production distribution, a server-side proxy or another secure credential flow is still preferable.
+No permanent API secret is committed to the repository or bundled into the Android APK. A connected endpoint token is session-entered. The full data-flow explanation is maintained in [PRIVACY.md](../PRIVACY.md).
+
+## Beta interpretation boundary
+
+Copilot output is generated assistance, not a substitute for the original publication, professional advice or independent verification. Source-grounding reduces hallucination risk but does not eliminate it.
 
 **[→ Current AI dataset](../data/news.json)** · **[→ Provider context](../config/providers.json)** · **[→ Source matrix](../config/sources.json)**
 
 ---
 
-**[Back to AI News portal →](../README.md)**
+**[⬇ Download Android 3.1 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)** · **[Back to AI News portal →](../README.md)**
