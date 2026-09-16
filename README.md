@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-16 05:54 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-16 11:23 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Gulf Business · provider monitor** | Compliance & Ethics | ◈ | ● HIGH | [Core42's Rajeev Nair on how AI governance and security are moving into the infrastructure layer](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWms1cV91YWZza0pVZUtlVWVsSDZYV0pndDE0el9XNXF6U2tKcEp5aS03TXhsXzFZUDhDbEQtYVlJMDhwRkxkaUc3ek5KOTQ5OTAtaGh3OWQ4N3hUMm82Qi1lN0trdGpfSDV5TUFiTkVUcEI2Mno4cjA2dUtuZnhYOHVmdHI3U1VGTFYyZGxUcUJ1UWI3LXo1Sld6YVhmNGdoZ2ZiSTZFTzZwSFBmV1U1NVMyVVpMd0lDeHRfcjhzMHZGQ2Fnd0xLM01WeGZISFNzcFVNeU1Fc05ZS2ZGRmMyRQ?oc=5) |
-| 02 | **NVIDIA AI Blog** | Safety & Security | 🖼️ | ● HIGH | [University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK](https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/) |
-| 03 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Making sovereign, open-weight AI the technology frontier - mistral.ai](https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5) |
-| 04 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Measure by measure, studying society accurately](https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916) |
-| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Optimal Pruning for Neural Architectures using Fisher Information Distances](https://arxiv.org/abs/2609.16129) |
-| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation](https://arxiv.org/abs/2609.16145) |
-| 07 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events](https://arxiv.org/abs/2609.16163) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Position: AI Is Not Ready for Strategic Conflicts](https://arxiv.org/abs/2609.16189) |
-| 09 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving](https://arxiv.org/abs/2609.16206) |
-| 10 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance](https://arxiv.org/abs/2609.16213) |
-| 11 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions](https://arxiv.org/abs/2609.16215) |
-| 12 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Toward Governance-Aware Autonomous GIS: A Narrative Review of Ethical and Privacy Risks in LLM-Enabled GeoAI](https://arxiv.org/abs/2609.16232) |
+| 01 | **PR Newswire · provider monitor** | Products & Agents | ◈ | ● HIGH | [OpenText, Cohere Partner to Combine Trusted Data with Agentic AI](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORG9QeG5ybTRldHVzN080QWo2bVFBZ1JUMk84U09reVJ3dzN6TlZ6bmJuLWJsZXBGY3FycUxHOEIzei1sWTV1SHNoTjE5dWpFNEluWnQ4VXExeTduRzVBVExXTzZ0Mlg3MUFZWXRjakhteXlzWk9iZU9Gd3RYWnQwUEJZT2REaERHalU0bVc1WHMzNzBKVWpZb3NFRGVjWEFickVRdVpHbkU1Y1JYdVBsUUkybUJmdW1Zd01j?oc=5) |
+| 02 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Amazon launches Alexa+ in India with Hindi support](https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/) |
+| 03 | **AI News** | Research | 🖼️ | ● HIGH | [ChatGPT pioneer launches Jev model for programmatic logic](https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/) |
+| 04 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024](https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/) |
+| 05 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [China Isn’t Buying Silicon Valley’s Call for an AI Slowdown](https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 07 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral x Mozilla: Private, Multilingual AI Browsing - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qUXZCU1U0dnN2R2h5TjJuejZqY1prMTdHaFJXM0xSbmp5VXk5MmhBanlmRG9NTEhKdEtjNUJfMnhTcC1ub2t4Sm04S3o3SjB2YlI2VA?oc=5) |
+| 08 | **FF News · provider monitor** | Compliance & Ethics | ◈ | ● HIGH | [CUBE and IBM Partner to Automate Global AI Compliance via watsonx.governance](https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXk0bldLOGlmcjM3ZUZqWVVzWVduQjJJblg3QlZ4ZDRTVU90VG4xU3pvVG4zT0RoenpnQVJFRlBTMi1FV2Q4TXlpeTl6WTctNmJHNUQyVDdOZ2h4NEExRTlFX3ZSOHlvZndmbmJLbTJYWWFpSzlQSk5USDFwel91bjhBOE5zSmZXMWZfOTF3U2xiY3BKSlpsU01VTVpIdjZoWFVNcEM3NFB4bDdGcjZyaXFaOA?oc=5) |
+| 09 | **Gulf Business · provider monitor** | Compliance & Ethics | ◈ | ● HIGH | [Core42's Rajeev Nair on how AI governance and security are moving into the infrastructure layer](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ0ZDT21VNmp2a0diSkRfR0ZXRVdhZlhjSHQ0QVE3OVRxR1BKeTJpTVotbjJwc21WYXpzR2NPcTl4cWdBLUxYR1Q1b0N4ZUx6R0ZNVWUwZ2hZcXU2MEhEMzZ6X296TVB4ZmVGelRrc3h4c3owVDVrZlFJV2k2cTh1NXExV1Vjd1Z2T1JoVzdlVGFiN09ZQnRUdk8zS3ZvQ2RmeWhQZVJ1MFhzcllFU3V0Wl9pVFlDNGNZd1N6bkhyZDJ6UjdpdzlZcW5wd1NJdG1QcnNTcTlvUUxVS2JTdW1MRC1n?oc=5) |
+| 10 | **NVIDIA AI Blog** | Safety & Security | 🖼️ | ● HIGH | [University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK](https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/) |
+| 11 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Measure by measure, studying society accurately](https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Optimal Pruning for Neural Architectures using Fisher Information Distances](https://arxiv.org/abs/2609.16129) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
