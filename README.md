@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-16 15:31 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-16 19:02 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **OpenAI News** | Industry | ◈ | ● HIGH | [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life) |
-| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [A brief history of AI executives calling for regulation](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation) |
+| 01 | **AWS Machine Learning** | Safety & Security | ◈ | ● HIGH | [Improving HCLS AI reasoning with open-source agent skills](https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/) |
+| 02 | **AWS Machine Learning** | Infrastructure | ◈ | ● HIGH | [Fault tolerant distributed training on Amazon EKS using NVRx](https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/) |
 | 03 | **Anthropic News** | Industry | ◈ | ● HIGH | [Scenarios for our Economic Future - Anthropic](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5) |
-| 04 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Former OpenAI researcher builds an AI model that judges options instead of writing text](https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/) |
-| 05 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation](https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/) |
-| 06 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Mozilla's new Smart Window assistant runs on Mistral's models](https://the-decoder.com/mozillas-new-smart-window-assistant-runs-on-mistrals-models/) |
-| 07 | **MIT News AI** | Research | 🖼️ | ● HIGH | [New AI technique could make minimally invasive surgeries safer and more precise](https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916) |
-| 08 | **TechCrunch AI** | Robotics & Embodied AI | ◈ | ● HIGH | [Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/) |
-| 09 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Political opposites unite in Washington to rein in AI](https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/) |
-| 10 | **Reuters · provider monitor** | Industry | ◈ | ● HIGH | [Cohere, Aleph Alpha combine to target enterprise AI market](https://news.google.com/rss/articles/CBMirwFBVV95cUxQcW9IYi1iXzJKVVNfdVRRNnh3Q2hpOHNtNmRaTkljWE02YXVtc0E3QTVKMFM2bFFhSXJWYzZDM2pOTEdRS0FuU01QWEFnMEtfTHRKcnZuZXdoQjltX2cxRDEtUW1Pa2xFWDFmbVk4ZUt0bVY1X2JrUFdOZWJnZkxrMVpTVlk1Q0daZ08zTVRMdGxXZ3FMX1VFNGk4NkZSRjIwTWJxUFRROUtpa2tJb0RN?oc=5) |
-| 11 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [The sexy AI-powered dating app scams are here](https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams) |
-| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Threads’ new features let podcasters promote shows and reach listeners](https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [AI labs want in-house auditors — but maybe they should shut the front door first](https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/) |
+| 05 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Apple is reportedly building an enterprise AI server with its own M8 Ultra chips](https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/) |
+| 06 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [Apple might make servers again to cash in on the AI rush](https://www.theverge.com/tech/996321/apple-servers-ai-nvidia) |
+| 07 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Google will now let any AI agent run your smart home](https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date) |
+| 08 | **Character.AI** | Industry | ◈ | ● HIGH | [Post-training image models for fandom - character.ai blog](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yQTM3aDJhS01ucWRhcTV4UzZLZ2FmMjMtMHY3Zkd0bVk4NUI3dWVRc3lXZlNscVJyd2J4bkNvdWhLSTVuVWxUZko2eXFWOXpMSzUtbzdR?oc=5) |
+| 09 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI](https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/) |
+| 10 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Your AI agents can now control your Google Home devices](https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/) |
+| 11 | **IEEE Spectrum AI** | Safety & Security | 🖼️ | ● HIGH | [Rethinking Robot Safety in the Age of AI](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone) |
+| 12 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
