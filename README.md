@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-16 19:02 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-16 22:03 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **AWS Machine Learning** | Safety & Security | ◈ | ● HIGH | [Improving HCLS AI reasoning with open-source agent skills](https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/) |
-| 02 | **AWS Machine Learning** | Infrastructure | ◈ | ● HIGH | [Fault tolerant distributed training on Amazon EKS using NVRx](https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/) |
-| 03 | **Anthropic News** | Industry | ◈ | ● HIGH | [Scenarios for our Economic Future - Anthropic](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [AI labs want in-house auditors — but maybe they should shut the front door first](https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/) |
-| 05 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Apple is reportedly building an enterprise AI server with its own M8 Ultra chips](https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/) |
-| 06 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [Apple might make servers again to cash in on the AI rush](https://www.theverge.com/tech/996321/apple-servers-ai-nvidia) |
-| 07 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Google will now let any AI agent run your smart home](https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date) |
-| 08 | **Character.AI** | Industry | ◈ | ● HIGH | [Post-training image models for fandom - character.ai blog](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yQTM3aDJhS01ucWRhcTV4UzZLZ2FmMjMtMHY3Zkd0bVk4NUI3dWVRc3lXZlNscVJyd2J4bkNvdWhLSTVuVWxUZko2eXFWOXpMSzUtbzdR?oc=5) |
-| 09 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Google Deepmind launches interdisciplinary institute to tackle the big questions around AGI](https://the-decoder.com/google-deepmind-launches-interdisciplinary-institute-to-tackle-the-big-questions-around-agi/) |
-| 10 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Your AI agents can now control your Google Home devices](https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/) |
-| 11 | **IEEE Spectrum AI** | Safety & Security | 🖼️ | ● HIGH | [Rethinking Robot Safety in the Age of AI](https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone) |
-| 12 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel) |
+| 01 | **Anthropic News** | Industry | ◈ | ● HIGH | [Scenarios for our Economic Future - Anthropic](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5) |
+| 02 | **TechCrunch AI** | Compliance & Ethics | ◈ | ● HIGH | [Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?](https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/) |
+| 03 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long](https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review) |
+| 04 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Washington Won’t Be Regulating AI Anytime Soon](https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/) |
+| 05 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [The AI data center e-waste problem is huge — and getting bigger](https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban) |
+| 06 | **Reuters AI & Technology** | Industry | ◈ | ◐ MED | [NEWSLETTER: Everyone wants safer AI. But who will rein it in? - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHZQd1U3OURxVVlCcHdqdlRlVEFHWUZTSXV2d19US3BkTzZNZVFoVVhYS3RHc1p1b2FTd3ZTME95TU16SXo2SVdaSmxnTDU2RkpnekJzenR4SWE2ZzZ0YXJiMUwweVZnTXQ2Wlp0aWRqZnZsbnEtTEtZQ0RlNGVqVnRtbWZIT1c1SlVQOWVKXzNnNkJzS3VIdWNKNWd6WVNTcjR2T3ppX1RDcjQ2LVJpdw?oc=5) |
+| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera](https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/) |
+| 08 | **Pulse 2.0 · provider monitor** | Industry | ◈ | ● HIGH | [Cohere And Aleph Alpha Sign Deal To Create Transatlantic Sovereign AI Company](https://news.google.com/rss/articles/CBMiswFBVV95cUxNbDJWS2Y4eHJWRFNsMGlpNlY4V2NNRE5lTnZLYnQ3RGNrWDlEYXJOX09hWGRtY2NERHZSTXNtUUlDVkpEeHZVLTRGdGJTeUtkSlBXTGoxX2tIWjJ0RXN1R0NUTUtDT21XM1h2RGlGQkcwajRwOEZXUTBudS1BTU9vbS1aRUZSRGRDZ28yNjRsUDV0djdya0RET2JLWGJValMybVQ0YzlDWjFRWlFGVTFObm1JNNIBuAFBVV95cUxQVDNJSVBVY295MDJEYlc1N2FHV1p2NnpISUJuQlZMam5OYzFOU0xuWGl1c051UnNfTDlYamg1bm43N2JWRk8td0l0Nnc3SVZJbW50ZFpaMjlfU1g2TGZkakJ0c3g2aVhnVzFrQ0ptd0pFOU5aODJVRXd5V2dwV3VEYXhpMG9WWmYxQ0pTb1dmYnlHbWM0TXBqNURtSkhBWUtOOTlibVphUU5paFctZmRTWnJOQTNjM0N2?oc=5) |
+| 09 | **The Decoder** | Compliance & Ethics | 🖼️ | ◐ MED | [EU president warns AI agents "escaping their environment" are just a preview of what's coming](https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/) |
+| 10 | **AWS Machine Learning** | Safety & Security | ◈ | ● HIGH | [Improving HCLS AI reasoning with open-source agent skills](https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/) |
+| 11 | **WIRED AI** | Open Source | 🖼️ | ● HIGH | [I Trained a Fly’s Brain to Generate WIRED Story Ideas](https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/) |
+| 12 | **AWS Machine Learning** | Infrastructure | ◈ | ● HIGH | [Fault tolerant distributed training on Amazon EKS using NVRx](https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
