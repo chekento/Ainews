@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-16 00:44 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-16 05:54 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Making sovereign, open-weight AI the technology frontier - mistral.ai](https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5) |
-| 02 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/) |
-| 03 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [AI and data centers are incredibly unpopular in every poll](https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september) |
-| 04 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 05 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [The AI data center boom is colliding with cities scarred by big industry](https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/) |
-| 06 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 07 | **Together AI Blog** | Research | ◈ | ● HIGH | [Research Blog - Together AI](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fN1p0cm14MWlTeWVnWUQteGVyR1B1WlhJRzFWT0VuS2N4YUt0QlhkQzhvTjlRZnp4cFIzZW9CaF9VRkIyYzFmNkhMVlVaa2g0YUhuUHRRYk1RMjlOR3dPUXN5djQ?oc=5) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 09 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Meta now lets AI agents handle the boring parts of WhatsApp Business setup](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) |
-| 10 | **Google Research** | Research | ◈ | ● HIGH | [Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train - Google Research](https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjYwVDI5dkh1QzFCaFhNbzlvRW9jRV9XMVhKSXhWblAwMy10VDBabFM4QkoxWDg4NGo3blNuSUlWbTA3M2RzdE5rTC1iVXRCUnN0X2RvczN2em5tUFVubkEyUFduQUdGeENObWNnRWFjX0FDZWoxeU5sM2xiMlREVXpDX2R2TDRKWDZWaFhDUUZfMFJtVkJlcEhuODZubmkzRjFXa1VVSGR3QnBmSjNoSjdJTWpLWm8?oc=5) |
-| 11 | **CNBC · provider monitor** | Compliance & Ethics | ◈ | ● HIGH | [Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce](https://news.google.com/rss/articles/CBMingFBVV95cUxNamhBSWgtcmZwTVRVOXlnbGZMN2R1bDFlMWEtV21wUXFmUGVoWW5vQWNVbU55OEE0T0lWMUFlMXFZVGdvNmN0TElFUGNkQUlwQ01hU09aUEZIZlBjd0lMbGJMOVJHbmhOSTNRaHU0cXBnNmRVQ2lTb21odDUzOGlRQ1phSTRDUDVucThHQjNncjI1Q1pMOVV0WlotdDVpUdIBowFBVV95cUxNQW5ST21vbGJyUWYzcHVFZFJOZUgzTEJ3TWFkS3Y4Nm9fQ2w3c3puMnJqaFBpbl9CVG5Gd1RSZUVGQmJqLVZaN0dBZ0dOWEZNb3IxMDBtaGhWNGllb29aZERqeGxibHhnakZJRDgxeF9oa1NDSGV2YzYwa3plQ0dhZU43aHJNb1MyUlZRRm1hb1BZRVpZRVF4LUd1OWNQXzJpZFpr?oc=5) |
-| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) |
+| 01 | **Gulf Business · provider monitor** | Compliance & Ethics | ◈ | ● HIGH | [Core42's Rajeev Nair on how AI governance and security are moving into the infrastructure layer](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWms1cV91YWZza0pVZUtlVWVsSDZYV0pndDE0el9XNXF6U2tKcEp5aS03TXhsXzFZUDhDbEQtYVlJMDhwRkxkaUc3ek5KOTQ5OTAtaGh3OWQ4N3hUMm82Qi1lN0trdGpfSDV5TUFiTkVUcEI2Mno4cjA2dUtuZnhYOHVmdHI3U1VGTFYyZGxUcUJ1UWI3LXo1Sld6YVhmNGdoZ2ZiSTZFTzZwSFBmV1U1NVMyVVpMd0lDeHRfcjhzMHZGQ2Fnd0xLM01WeGZISFNzcFVNeU1Fc05ZS2ZGRmMyRQ?oc=5) |
+| 02 | **NVIDIA AI Blog** | Safety & Security | 🖼️ | ● HIGH | [University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK](https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/) |
+| 03 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Making sovereign, open-weight AI the technology frontier - mistral.ai](https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5) |
+| 04 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Measure by measure, studying society accurately](https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916) |
+| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Optimal Pruning for Neural Architectures using Fisher Information Distances](https://arxiv.org/abs/2609.16129) |
+| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation](https://arxiv.org/abs/2609.16145) |
+| 07 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events](https://arxiv.org/abs/2609.16163) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Position: AI Is Not Ready for Strategic Conflicts](https://arxiv.org/abs/2609.16189) |
+| 09 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving](https://arxiv.org/abs/2609.16206) |
+| 10 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance](https://arxiv.org/abs/2609.16213) |
+| 11 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [Where Should the KV Cache Live? Placement Policies Across GPU, CPU, and SSD for Long-Lived Sessions](https://arxiv.org/abs/2609.16215) |
+| 12 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Toward Governance-Aware Autonomous GIS: A Narrative Review of Ethical and Privacy Risks in LLM-Enabled GeoAI](https://arxiv.org/abs/2609.16232) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
