@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-17 19:14 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-17 22:24 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Decoder** | Industry | 🖼️ | ● HIGH | [OpenAI reportedly closes in on solving the Hodge conjecture, its second Millennium Prize Problem](https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/) |
-| 02 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects) |
-| 03 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [The AI Slowdown Debate Crashed Salesforce’s Party](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/) |
-| 04 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Anthropic keeps pushing Claude Code toward autonomous coding with new parallel agent workflows](https://the-decoder.com/anthropic-keeps-pushing-claude-code-toward-autonomous-coding-with-new-parallel-agent-workflows/) |
-| 05 | **AWS Machine Learning** | Compliance & Ethics | ◈ | ● HIGH | [Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent](https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/) |
-| 06 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Even the king of England has his hesitations about AI](https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/) |
-| 07 | **TechCrunch AI** | Compliance & Ethics | ◈ | ● HIGH | [Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire](https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/) |
-| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI](https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/) |
-| 09 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 10 | **PCWorld · provider monitor** | Industry | ◈ | ● HIGH | [Get a daily iPhone briefing with one simple Apple AI prompt](https://news.google.com/rss/articles/CBMipwFBVV95cUxNS19ZUGhIMjA5X3g4ZkVGTDhub1BZNVhmUWhpZDRwaFBHdEI0OEJoQkNmbDRaMkpwdk1VeXlvWG5RR3NCT0Vyd3VySlRIbzNxT1NqdnVnd2FTYVZ1Z0U4U194bFRFUDZ6OVZUYWRCNl9wU1hqNEdVajF0c3NoQnpqS3UxTmNKbkpPSXpFUW1jVC14N1RDZjl3VlZ3QVdDYXRUMjhobC0zUQ?oc=5) |
-| 11 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Selecting a vector store for Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/) |
-| 12 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [A serverless, data-driven Git metrics dashboard using Amazon Quick Sight](https://aws.amazon.com/blogs/machine-learning/a-serverless-data-driven-git-metrics-dashboard-using-amazon-quick-sight/) |
+| 01 | **WIRED AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Here’s What the AI Apocalypse Could Look Like](https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/) |
+| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The FAA’s plan to fix air traffic? $875 million worth of AI](https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/) |
+| 03 | **All About Cookies · provider monitor** | Industry | ◈ | ● HIGH | [Is Character.AI Safe? Safer for Teens, Not for Their Data](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiM1hUaW45anpBLU9QSnFleV9HZl9sQjM4a1FpNHdOVkdJb2hPeDFybjVyUWNXSjlWeDRTQXZVU1RQMFZfcFptTE5pRWpCSHhLbHlacEVtSmc0NGZr?oc=5) |
+| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic) |
+| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The fix for rogue AI agents could be more AI](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/) |
+| 06 | **TechCrunch AI** | Frontier Models | ◈ | ● HIGH | [OpenAI caught its models leaving notes to successors to hide bad behavior](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/) |
+| 07 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 08 | **Ars Technica AI** | Products & Agents | 🖼️ | ● HIGH | [Google announces new experimental "CC" AI agent for families](https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/) |
+| 09 | **TechCrunch AI** | Compliance & Ethics | ◈ | ● HIGH | [Is the AI safety debate about safety or control?](https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/) |
+| 10 | **Google AI Blog** | Industry | 🖼️ | ● HIGH | [Making global data easier to explore](https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [UN turns to Google to make its global data ready for AI agents](https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/) |
+| 12 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [The AI ‘Slowdown’ Is an Antitrust Mess](https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
