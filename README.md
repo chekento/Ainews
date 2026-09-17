@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-17 00:20 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-17 05:14 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
 | 01 | **Anthropic News** | Industry | ◈ | ● HIGH | [Scenarios for our Economic Future - Anthropic](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5) |
-| 02 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 03 | **SiliconANGLE · provider monitor** | Industry | ◈ | ● HIGH | [Cohere and Aleph Alpha agree to merge in reported $20B deal](https://news.google.com/rss/articles/CBMimwFBVV95cUxObjdLbFl0R2V0U0YzaXowb19oa2RtcjMwNl85d2xCdURkenVJbWE2YUZWMXhqcVd2cktXZGo0M0FLMmdRYXRodlR5UENUcUQzNlZSUVY5QXBkSlB2WG9OYmZaajh3bkhWUzY5YXFvV2NfeGtqR1pEdnFaT0VTTWpWNV9Zc3U3VEFDLUVwQm9QVUlydzhadThjeFdKdw?oc=5) |
-| 04 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [OpenAI Creates a New Framework to Disclose Bad AI Behavior](https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/) |
-| 05 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 06 | **OECD.AI** | Compliance & Ethics | ◈ | ● HIGH | [Robust and Reliable Algorithmic Recourse (ROAR) - OECD AI Policy Observatory](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWWR2UU0zLTZuSm9LWG85UHZkbnZsWUFraTRaeVFfNldBTTJsQTZZRVdtVnZGbUsyMl93Uk5HWUhTc2FvQm9ERVpEZkdiNmctUkJpUDRLSXp1bVNYU3Bzbjc0dDNUOUpYNEFUakxjcFlNNWVUZEgtVUtSaHBVNDhCX0ZIV2FUV3htcGZN?oc=5) |
-| 07 | **TechCrunch AI** | Compliance & Ethics | ◈ | ● HIGH | [Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?](https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/) |
-| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long](https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review) |
-| 09 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Washington Won’t Be Regulating AI Anytime Soon](https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/) |
-| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 11 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [The AI data center e-waste problem is huge — and getting bigger](https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban) |
-| 12 | **Reuters AI & Technology** | Industry | ◈ | ◐ MED | [NEWSLETTER: Everyone wants safer AI. But who will rein it in? - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHZQd1U3OURxVVlCcHdqdlRlVEFHWUZTSXV2d19US3BkTzZNZVFoVVhYS3RHc1p1b2FTd3ZTME95TU16SXo2SVdaSmxnTDU2RkpnekJzenR4SWE2ZzZ0YXJiMUwweVZnTXQ2Wlp0aWRqZnZsbnEtTEtZQ0RlNGVqVnRtbWZIT1c1SlVQOWVKXzNnNkJzS3VIdWNKNWd6WVNTcjR2T3ppX1RDcjQ2LVJpdw?oc=5) |
+| 02 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records](https://arxiv.org/abs/2609.17631) |
+| 03 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents](https://arxiv.org/abs/2609.17632) |
+| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [One Color Preprocessing Improves DSATUR](https://arxiv.org/abs/2609.17633) |
+| 05 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees](https://arxiv.org/abs/2609.17635) |
+| 06 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization](https://arxiv.org/abs/2609.17637) |
+| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video](https://arxiv.org/abs/2609.17688) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents](https://arxiv.org/abs/2609.17695) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [GVD: Governed Versioning and Deduplication for Document Repositories](https://arxiv.org/abs/2609.17696) |
+| 10 | **arXiv cs.AI** | Open Source | ◈ | ● HIGH | [NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation](https://arxiv.org/abs/2609.17699) |
+| 11 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [A Systematic Evaluation of the COTQ Provincial Land Cover Product: Structural Consistency, Spectral Separability, and Relative Positioning Against ESA, ESRI, and Google Products](https://arxiv.org/abs/2609.17731) |
+| 12 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Imitation Learning for Autonomous Driving in CARLA](https://arxiv.org/abs/2609.17757) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
