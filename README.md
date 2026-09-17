@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-17 05:14 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-17 10:21 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
 | 01 | **Anthropic News** | Industry | ◈ | ● HIGH | [Scenarios for our Economic Future - Anthropic](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5) |
-| 02 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records](https://arxiv.org/abs/2609.17631) |
-| 03 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents](https://arxiv.org/abs/2609.17632) |
-| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [One Color Preprocessing Improves DSATUR](https://arxiv.org/abs/2609.17633) |
-| 05 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees](https://arxiv.org/abs/2609.17635) |
-| 06 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization](https://arxiv.org/abs/2609.17637) |
-| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video](https://arxiv.org/abs/2609.17688) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents](https://arxiv.org/abs/2609.17695) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [GVD: Governed Versioning and Deduplication for Document Repositories](https://arxiv.org/abs/2609.17696) |
-| 10 | **arXiv cs.AI** | Open Source | ◈ | ● HIGH | [NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation](https://arxiv.org/abs/2609.17699) |
-| 11 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [A Systematic Evaluation of the COTQ Provincial Land Cover Product: Structural Consistency, Spectral Separability, and Relative Positioning Against ESA, ESRI, and Google Products](https://arxiv.org/abs/2609.17731) |
-| 12 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Imitation Learning for Autonomous Driving in CARLA](https://arxiv.org/abs/2609.17757) |
+| 02 | **AI News** | Industry | 🖼️ | ● HIGH | [Lidl deploys driverless truck for store deliveries in Germany](https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/) |
+| 03 | **Council of Europe AI** | Compliance & Ethics | ◈ | ● HIGH | [How can we detect AI systems contributing to discrimination? - coe.int](https://news.google.com/rss/articles/CBMinAFBVV95cUxOdXRDV0k0MnlTSHBOdkhHWng5eEtJbTQ3WGtNVlRWaDJwNEhmMTFFS3hCQl9QQ1pTTEJvRXlBR2duVUpYNGdJcjFTSlB4aHlZRDZ5M3BWLVl4SkVia29Wbkl0X3NXeGpWRkduODluWFVLV1JZS1Q2STdxYVRnM2ZSQ2FOYWJKcE0zU1RjQy1DaEFJeWlUOFRIbXFPekc?oc=5) |
+| 04 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [OpenAI's GPT-6 Astra decrypts a Nazi radio message in ten hours that went unsolved for 83 years](https://the-decoder.com/openais-gpt-6-astra-decrypts-a-nazi-radio-message-in-ten-hours-that-went-unsolved-for-83-years/) |
+| 05 | **Techzine Global · provider monitor** | Industry | ◈ | ● HIGH | [Cohere and Aleph Alpha merge: an AI company with two headquarters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNalJDbFY4VDhBMnVRMVFZMkJwWGFFOVVNSlFibDNPWmtPdUwyMzRmaWlDWWRzWmo1ZW93NlhWTlozZmxFUzFFUjNIS3dsQXhRN3NHaWROajM3Q0doZWVaeHRtMm5yYUN3VjV4SjdLcUI3NmdYcGJkSUNRVk1KaVpMMVJHSklSelQ0YVR4bU5FOXUzSTBFemZwdjNYSnN0ZS0zU3BVSkFubzlBMUtsU25rNUN5OEpqcGM?oc=5) |
+| 06 | **European AI Office** | Compliance & Ethics | ◈ | ● HIGH | [EU KIDS Act to restrict social media platforms’ access to children in the EU - EU Digital Strategy](https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1BYcmNwZDhxMnpVa0luRDVoZmVyTjBJS1lmMTNlZDA5a0RQVmczV2l0a0ZUdi1ENXZ1Y0J6dVdpalhGUTRtcFJhSWlKZGZkc1lONVFOdzluZG1WRnBLeWNWSV91bnJsNnNCQXVZaE1MWS1uTFc1WXkxWjdlcnZKVEs4RVNEa3RWYnpzUm1pQUZINVlWZjZ0ZzgyUHdCVWUxbzRUNExQUDlMVFE0?oc=5) |
+| 07 | **medicaleconomics.com · provider monitor** | Industry | ◈ | ● HIGH | [6 in 10 Americans worry about high blood pressure; Pennsylvania sues Character.AI for impersonating a doctor; Ohio physician famous for vaccine magnetism claim ordered to pay $699,000 in back taxes – Morning Medical Update](https://news.google.com/rss/articles/CBMi8AJBVV95cUxNUTFVSWFaWHVWX29LRkEzTjBPazRMV3NnaXc4MC1FQ3FPelNNbmhkLXNFeVRuSTdvX0kxYl9reS1ZU0lKSWxsTjN2VG5MeXVLMjAycHlRcTlOVWVaSzBOUlNZbDNOQTRyOWNwOEhGcG9xaHpqYXd6UU1ETXctNWVBendmQmlJYkhlUHJHaGFmQkFhRGlqOXpza3VPX0hibHA5RUU2RjFDY1IyNEUxcXEzeDZUMVdFVFhYMUtqSlNkbWhDcTAtclAzczNINUtLV1FoVEJuVmZteGhldWhSUXlfNVlQQmVjTVFlMUJ6aUZyYWc2SjF1dF9TejJiZ3ZQVXJyMVktZ2h4ekEwN2xJak1QYVFtVWFkUnpSaWpmSkV6OVNyNnFfSWk5UkxvZ2kxcGlxUi02LTRUTV9odVhwYms4OTBRU2pQeTBCY1ZsdnY5MXFzQTlGOUIybktHaDBZWWNxZVhRZWlZcG4wY3F2ZS1TMQ?oc=5) |
+| 08 | **Seoul Economic Daily · provider monitor** | Products & Agents | ◈ | ● HIGH | [NAVER AI Shopping Agent Adds Real-Time Delivery Data](https://news.google.com/rss/articles/CBMimgFBVV95cUxPTF9BbXpXMXRNNVRCUVBObnJOLU5ZbUh5WmpxNFI1bEFITTNkSjBVYlhvdHZCVHVCcmhhSk5ldmQ5MUtIcldpWEYzSXBOSDVMM1BXOHhlV1RQa001bFQ5Z2g1RVZzMWNzUXVZaGVPMGtaYndzaFFiY0o2OVR1S1AzUGh6N3FXSTFqUXdQa1NBTW83X3BYT2R4WXBR?oc=5) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 10 | **TechCrunch AI** | Robotics & Embodied AI | ◈ | ● HIGH | [Iceland-based Treble raises $18 million for its voice simulation platform](https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/) |
+| 11 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 12 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records](https://arxiv.org/abs/2609.17631) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
