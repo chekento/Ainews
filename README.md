@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-18 05:48 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-18 11:04 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes](https://arxiv.org/abs/2609.19170) |
-| 02 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research](https://arxiv.org/abs/2609.19180) |
-| 03 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks](https://arxiv.org/abs/2609.19182) |
-| 04 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer](https://arxiv.org/abs/2609.19203) |
-| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis](https://arxiv.org/abs/2609.19212) |
-| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses](https://arxiv.org/abs/2609.19244) |
-| 07 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [Do AI Agents Understand Computer Architecture?](https://arxiv.org/abs/2609.19387) |
-| 08 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs](https://arxiv.org/abs/2609.19391) |
-| 09 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Closed-World Resolution Against Tool Hallucination in LLM Agents](https://arxiv.org/abs/2609.19425) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [The syntax and semantics of goals](https://arxiv.org/abs/2609.19448) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Compositional Reasoning in Language Models under Reinforcement Learning Post-Training](https://arxiv.org/abs/2609.19465) |
-| 12 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models](https://arxiv.org/abs/2609.19472) |
+| 01 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [The Leftist Split Over AI Doom](https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/) |
+| 02 | **ITP.net · provider monitor** | Infrastructure | ◈ | ● HIGH | [Core42 and TII Sign Agreement to Advance UAE-Built Cybersecurity Innovation](https://news.google.com/rss/articles/CBMirgFBVV95cUxPX19XWXVyY25VZlBya01SY3VHZG9tMDZfT0tiVndoMVJyWXEzd0ZEd1dpRlczTG54MF9oeU9BTUpuMlA4bjM4QnQ0dkJ2OVpuWmRzUnppM3Z4Ykgyc1Bod0kwRS1zV1doa2J0dGFOTjk3MnJXNmdUMnBtLUYzXzZtZldIbFdfUUdleUJQVGRiYzVFZk9QekNMazktay13ZU9kZFR2TkZQWndveUtRdkE?oc=5) |
+| 03 | **The Decoder** | Industry | 🖼️ | ◐ MED | [US and China experts push for shared rules banning AI control over nuclear weapons](https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/) |
+| 04 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Napster Is Back, and It Wants to Digitally Clone Teachers](https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 06 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons](https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/) |
+| 07 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 08 | **VentureBeat AI** | Safety & Security | ◈ | ● HIGH | [OpenAI hacked by small team of white hat security researchers using Anthropic's Claude Opus 5 - VentureBeat](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVEZZeGktN1g3SEdtT0hCbHZoT1gyUHpnZ1NEMDJaY05pRzdLeDVBeVBKS1dyaVFGUEx1a04tUzFGNWh6MER2SXJpU0hLSGZpQVVmU0g5T29aU1JrRVpnb2hFcElWX1N0bFlta2lTZU5jbnlPbmw1MjVMVUhoUmc3QmFzUVlJU1BzS2s5amFsekFCWC0zUzNSdDRCZzFzVjZyTVVoSmdsNXJwZlBhWDhxbnFTMkR2VXlyZERaYm1yT3QxZU0?oc=5) |
+| 09 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes](https://arxiv.org/abs/2609.19170) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research](https://arxiv.org/abs/2609.19180) |
+| 11 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks](https://arxiv.org/abs/2609.19182) |
+| 12 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer](https://arxiv.org/abs/2609.19203) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
