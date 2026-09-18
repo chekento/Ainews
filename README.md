@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-18 00:44 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-18 05:48 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - anthropic.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 02 | **XenoSpectrum · provider monitor** | Research | ◈ | ● HIGH | [OpenAI's Codex Team Warns of a 'Coordination Tax' in AI Sub-Agents—Even as Nous Research Uses 1,393](https://news.google.com/rss/articles/CBMieEFVX3lxTE91U3RGZmtKOE1NUFFaMEthU2N4MmtPaXVOZDlDS1BtbFBKMUo0ZnljbDVqdmlod1NfaGlqRVlJMG9wM2tZUC13azdyXzloa2xpcjZ5Zkp4VF9CM0JuS251bzBCWFRfeDNmYVJNZlNCMWlSRmhrekgxdw?oc=5) |
-| 03 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/) |
-| 04 | **TechCrunch AI** | Research | ◈ | ● HIGH | [Google DeepMind launches institute to widen the AGI debate](https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/) |
-| 05 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 06 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [PrismML hopes its tiny LLM will change how we all use AI](https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/) |
-| 07 | **WIRED AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Here’s What the AI Apocalypse Could Look Like](https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/) |
-| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The FAA’s plan to fix air traffic? $875M worth of AI](https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/) |
-| 09 | **404 Media AI** | Industry | ◈ | ● HIGH | [‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft - 404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxNLS1wOHhDcG5fTG40d210MXhQaURtbktUMXJiMWVFTVhiUVFiX21QVG5pbGVXUHJ6QmU2dFhYOU9aOTVJTFpZTmdUc0JTeklMSF80c1dkV2lPVXFvTkpPUjFranFvdjlGR25KUlJLcE5BczNaMmpPR2JCdXMwbzVZS2ItZVpELWtQR1g1QjAxZFliLUgzLXIyT0pkYlNseER0S1E5ZWxESmFJZWpVRVE?oc=5) |
-| 10 | **Bloomberg.com · provider monitor** | Industry | ◈ | ● HIGH | [Watch 01.AI's Kai-Fu Lee on Pacing Frontier AI Development](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdlJoVTk4Mm51S2p2U1J1MjVERG1Gend4d2xTY05XTkpwaW8waTBOMnBsV0tZMl9KN3JhZjNidlZnLWdObVIxMm5qZjg5Nnh2Rl9vZmhSRUllQ0lCN2ZIOG4tZTBVVE9jeUZWdjNiOWNNZjJiQ3dJMmY1S3IxZEtJOEVoRmI5VHFGblhqUVpLVVU3R1dXdi05NE9weGEyd0hQN01GYkZ5d19UaVU?oc=5) |
-| 11 | **All About Cookies · provider monitor** | Industry | ◈ | ● HIGH | [Is Character.AI Safe? Safer for Teens, Not for Their Data](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiM1hUaW45anpBLU9QSnFleV9HZl9sQjM4a1FpNHdOVkdJb2hPeDFybjVyUWNXSjlWeDRTQXZVU1RQMFZfcFptTE5pRWpCSHhLbHlacEVtSmc0NGZr?oc=5) |
-| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic) |
+| 01 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes](https://arxiv.org/abs/2609.19170) |
+| 02 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research](https://arxiv.org/abs/2609.19180) |
+| 03 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks](https://arxiv.org/abs/2609.19182) |
+| 04 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer](https://arxiv.org/abs/2609.19203) |
+| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis](https://arxiv.org/abs/2609.19212) |
+| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses](https://arxiv.org/abs/2609.19244) |
+| 07 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [Do AI Agents Understand Computer Architecture?](https://arxiv.org/abs/2609.19387) |
+| 08 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs](https://arxiv.org/abs/2609.19391) |
+| 09 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Closed-World Resolution Against Tool Hallucination in LLM Agents](https://arxiv.org/abs/2609.19425) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [The syntax and semantics of goals](https://arxiv.org/abs/2609.19448) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Compositional Reasoning in Language Models under Reinforcement Learning Post-Training](https://arxiv.org/abs/2609.19465) |
+| 12 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models](https://arxiv.org/abs/2609.19472) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
