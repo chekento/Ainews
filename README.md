@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-18 18:18 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-18 21:10 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **AI Now Institute** | Safety & Security | ◈ | ● HIGH | [Hugging Face Hack Shows Humans Can Keep AI In Check](https://ainowinstitute.org/news/press/hugging-face-hack-shows-humans-can-keep-ai-in-check) |
-| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Disney’s first CTO led an AI startup it once accused of copying its characters](https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/) |
-| 03 | **The Decoder** | Compliance & Ethics | 🖼️ | ◐ MED | [California Governor Newsom signs executive order demanding "kill switch" for AI models](https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/) |
-| 04 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Google’s new ‘CC’ is an AI agent that helps families run their households](https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/) |
-| 05 | **Ars Technica AI** | Open Source | 🖼️ | ● HIGH | [US government website used Chinese model the FBI called "malicious"](https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/) |
-| 06 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours](https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/) |
-| 07 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?](https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/) |
-| 08 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Automattic’s 33-Hour Coup, and can AI labs police themselves?](https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/) |
-| 09 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Introducing Kimi K3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/) |
-| 10 | **Deadline · provider monitor** | Industry | ◈ | ● HIGH | [A Year After Jousting With Character.AI, Disney Names Its CEO As Its First Chief Technology Officer](https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ1V4dWlBcXBsMWNDMkNFVTB6OVpnMGhzU1dia0Q5S21UVXRhT1F4UlBGYTc4Si1NaDE3LU1kYXVDUk1KNW54WkRuMENESkZ3U21iYlduRUlyNEtOeC1jcjhzX1ZPTEtsTVhldmZvNVFvUzVaVk1oMThIb2p0SFRrNGhOcGk1UzJtX0xFcEJn?oc=5) |
-| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops](https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/) |
-| 12 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [A new chapter for MIT Reads](https://news.mit.edu/2026/new-chapter-mit-reads-0918) |
+| 01 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Amazon SageMaker Inference: 2026 year-to-date launches in review](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/) |
+| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/) |
+| 03 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Here’s How an AI Slowdown Could Actually Be Enforced](https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/) |
+| 04 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [Virginia governor creates an AI task force and moves to restrain data centers](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force) |
+| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [A new kind of AI model from a ChatGPT inventor is thrilling developers](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/) |
+| 06 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 07 | **The Verge · provider monitor** | Industry | ◈ | ● HIGH | [Disney’s first CTO is Character.AI’s former CEO](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHJJUU85aGtsSGlsYW9FTmxzN0ZxTGpvUFh1WmwyT21KZmxJUjlTNzZleTJuNjBhZV9VSlN6S0J5VEVBZW1hdTRiRlpLVjY3OWVIejJHY3N2WjE5Tkp3TXE4S09rb2dFd2tEWVZMYVJ5czJlUXloN3VIUWNiUG9acmdqNkQwQVhL?oc=5) |
+| 08 | **AI Now Institute** | Safety & Security | ◈ | ● HIGH | [Hugging Face Hack Shows Humans Can Keep AI In Check](https://ainowinstitute.org/news/press/hugging-face-hack-shows-humans-can-keep-ai-in-check) |
+| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Disney’s first CTO led an AI startup it once accused of copying its characters](https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/) |
+| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 11 | **Sakana AI** | Industry | ◈ | ● HIGH | [- marlin.sakana.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
+| 12 | **The Decoder** | Compliance & Ethics | 🖼️ | ◐ MED | [California Governor Newsom signs executive order demanding "kill switch" for AI models](https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
