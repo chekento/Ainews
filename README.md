@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-17 22:24 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-18 00:44 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **WIRED AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Here’s What the AI Apocalypse Could Look Like](https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/) |
-| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The FAA’s plan to fix air traffic? $875 million worth of AI](https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/) |
-| 03 | **All About Cookies · provider monitor** | Industry | ◈ | ● HIGH | [Is Character.AI Safe? Safer for Teens, Not for Their Data](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiM1hUaW45anpBLU9QSnFleV9HZl9sQjM4a1FpNHdOVkdJb2hPeDFybjVyUWNXSjlWeDRTQXZVU1RQMFZfcFptTE5pRWpCSHhLbHlacEVtSmc0NGZr?oc=5) |
-| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic) |
-| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The fix for rogue AI agents could be more AI](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/) |
-| 06 | **TechCrunch AI** | Frontier Models | ◈ | ● HIGH | [OpenAI caught its models leaving notes to successors to hide bad behavior](https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/) |
-| 07 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 08 | **Ars Technica AI** | Products & Agents | 🖼️ | ● HIGH | [Google announces new experimental "CC" AI agent for families](https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/) |
-| 09 | **TechCrunch AI** | Compliance & Ethics | ◈ | ● HIGH | [Is the AI safety debate about safety or control?](https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/) |
-| 10 | **Google AI Blog** | Industry | 🖼️ | ● HIGH | [Making global data easier to explore](https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/) |
-| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [UN turns to Google to make its global data ready for AI agents](https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/) |
-| 12 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [The AI ‘Slowdown’ Is an Antitrust Mess](https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/) |
+| 01 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - anthropic.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 02 | **XenoSpectrum · provider monitor** | Research | ◈ | ● HIGH | [OpenAI's Codex Team Warns of a 'Coordination Tax' in AI Sub-Agents—Even as Nous Research Uses 1,393](https://news.google.com/rss/articles/CBMieEFVX3lxTE91U3RGZmtKOE1NUFFaMEthU2N4MmtPaXVOZDlDS1BtbFBKMUo0ZnljbDVqdmlod1NfaGlqRVlJMG9wM2tZUC13azdyXzloa2xpcjZ5Zkp4VF9CM0JuS251bzBCWFRfeDNmYVJNZlNCMWlSRmhrekgxdw?oc=5) |
+| 03 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/) |
+| 04 | **TechCrunch AI** | Research | ◈ | ● HIGH | [Google DeepMind launches institute to widen the AGI debate](https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/) |
+| 05 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 06 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [PrismML hopes its tiny LLM will change how we all use AI](https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/) |
+| 07 | **WIRED AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Here’s What the AI Apocalypse Could Look Like](https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/) |
+| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The FAA’s plan to fix air traffic? $875M worth of AI](https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/) |
+| 09 | **404 Media AI** | Industry | ◈ | ● HIGH | [‘Doom Loop’: OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft - 404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxNLS1wOHhDcG5fTG40d210MXhQaURtbktUMXJiMWVFTVhiUVFiX21QVG5pbGVXUHJ6QmU2dFhYOU9aOTVJTFpZTmdUc0JTeklMSF80c1dkV2lPVXFvTkpPUjFranFvdjlGR25KUlJLcE5BczNaMmpPR2JCdXMwbzVZS2ItZVpELWtQR1g1QjAxZFliLUgzLXIyT0pkYlNseER0S1E5ZWxESmFJZWpVRVE?oc=5) |
+| 10 | **Bloomberg.com · provider monitor** | Industry | ◈ | ● HIGH | [Watch 01.AI's Kai-Fu Lee on Pacing Frontier AI Development](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdlJoVTk4Mm51S2p2U1J1MjVERG1Gend4d2xTY05XTkpwaW8waTBOMnBsV0tZMl9KN3JhZjNidlZnLWdObVIxMm5qZjg5Nnh2Rl9vZmhSRUllQ0lCN2ZIOG4tZTBVVE9jeUZWdjNiOWNNZjJiQ3dJMmY1S3IxZEtJOEVoRmI5VHFGblhqUVpLVVU3R1dXdi05NE9weGEyd0hQN01GYkZ5d19UaVU?oc=5) |
+| 11 | **All About Cookies · provider monitor** | Industry | ◈ | ● HIGH | [Is Character.AI Safe? Safer for Teens, Not for Their Data](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiM1hUaW45anpBLU9QSnFleV9HZl9sQjM4a1FpNHdOVkdJb2hPeDFybjVyUWNXSjlWeDRTQXZVU1RQMFZfcFptTE5pRWpCSHhLbHlacEVtSmc0NGZr?oc=5) |
+| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
