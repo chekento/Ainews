@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-18 14:55 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-18 18:18 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Visible chains of thought are a safety advantage for AI, but that transparency is slipping away](https://the-decoder.com/visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away/) |
-| 02 | **The Decoder** | Research | 🖼️ | ● HIGH | [Anthropic wants you to know Claude leads a quarter of its research, but "lead" doesn't mean what you think](https://the-decoder.com/anthropic-wants-you-to-know-claude-leads-a-quarter-of-its-research-but-lead-doesnt-mean-what-you-think/) |
-| 03 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Researchers used Anthropic’s Claude to hack into OpenAI](https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/) |
-| 04 | **Google AI Blog** | Industry | 🖼️ | ● HIGH | [New experts join Google’s AI & Economy team](https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/) |
-| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/) |
-| 06 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [OpenAI takes aim at the legal market with Astra for Law](https://the-decoder.com/openai-takes-aim-at-the-legal-market-with-astra-for-law/) |
-| 07 | **WIRED AI** | Infrastructure | 🖼️ | ● HIGH | [Adopt This Data Center Plushie and Hear Its Piercing Scream](https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/) |
-| 08 | **AWS Machine Learning** | Infrastructure | ◈ | ● HIGH | [Introducing Amazon SageMaker HyperPod Inference Gateway](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/) |
-| 09 | **Google AI Blog** | Industry | 🖼️ | ● HIGH | [Co-creating the future of fashion with Google](https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/) |
-| 10 | **Telecompaper · provider monitor** | Compliance & Ethics | ◈ | ● HIGH | [Core42 and TII partner on sovereign cloud and AI security](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbXFXZkxMS0VTZ1U0Q3lROG41TW0yb0NVQUJyZVFHMWxVQkFjZG9heTQ0Rmh5LW9LSkJlbjB4U0VwdUJiY1ZtVlBrLWNLR1g0RDNnOGZUb0lTUWk3VVBCV1ppRmhmLW9XaVpnVXA5U1lGaE13ZUVhbWZQMmdPVnJ5dklpZ0hDSFBWMUQyY3N5ZjRrZnBNNk9RY1B5Z2txcU1yckE?oc=5) |
-| 11 | **AI News** | Infrastructure | 🖼️ | ● HIGH | [Gartner outlines four AI tiers in warehouse automation](https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/) |
-| 12 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 01 | **AI Now Institute** | Safety & Security | ◈ | ● HIGH | [Hugging Face Hack Shows Humans Can Keep AI In Check](https://ainowinstitute.org/news/press/hugging-face-hack-shows-humans-can-keep-ai-in-check) |
+| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Disney’s first CTO led an AI startup it once accused of copying its characters](https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/) |
+| 03 | **The Decoder** | Compliance & Ethics | 🖼️ | ◐ MED | [California Governor Newsom signs executive order demanding "kill switch" for AI models](https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/) |
+| 04 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Google’s new ‘CC’ is an AI agent that helps families run their households](https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/) |
+| 05 | **Ars Technica AI** | Open Source | 🖼️ | ● HIGH | [US government website used Chinese model the FBI called "malicious"](https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/) |
+| 06 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours](https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/) |
+| 07 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?](https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/) |
+| 08 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Automattic’s 33-Hour Coup, and can AI labs police themselves?](https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/) |
+| 09 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Introducing Kimi K3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/) |
+| 10 | **Deadline · provider monitor** | Industry | ◈ | ● HIGH | [A Year After Jousting With Character.AI, Disney Names Its CEO As Its First Chief Technology Officer](https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ1V4dWlBcXBsMWNDMkNFVTB6OVpnMGhzU1dia0Q5S21UVXRhT1F4UlBGYTc4Si1NaDE3LU1kYXVDUk1KNW54WkRuMENESkZ3U21iYlduRUlyNEtOeC1jcjhzX1ZPTEtsTVhldmZvNVFvUzVaVk1oMThIb2p0SFRrNGhOcGk1UzJtX0xFcEJn?oc=5) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops](https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/) |
+| 12 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [A new chapter for MIT Reads](https://news.mit.edu/2026/new-chapter-mit-reads-0918) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
