@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-18 21:10 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-18 23:32 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Amazon SageMaker Inference: 2026 year-to-date launches in review](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/) |
-| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/) |
-| 03 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Here’s How an AI Slowdown Could Actually Be Enforced](https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/) |
-| 04 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [Virginia governor creates an AI task force and moves to restrain data centers](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force) |
-| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [A new kind of AI model from a ChatGPT inventor is thrilling developers](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/) |
-| 06 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 07 | **The Verge · provider monitor** | Industry | ◈ | ● HIGH | [Disney’s first CTO is Character.AI’s former CEO](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUHJJUU85aGtsSGlsYW9FTmxzN0ZxTGpvUFh1WmwyT21KZmxJUjlTNzZleTJuNjBhZV9VSlN6S0J5VEVBZW1hdTRiRlpLVjY3OWVIejJHY3N2WjE5Tkp3TXE4S09rb2dFd2tEWVZMYVJ5czJlUXloN3VIUWNiUG9acmdqNkQwQVhL?oc=5) |
-| 08 | **AI Now Institute** | Safety & Security | ◈ | ● HIGH | [Hugging Face Hack Shows Humans Can Keep AI In Check](https://ainowinstitute.org/news/press/hugging-face-hack-shows-humans-can-keep-ai-in-check) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Disney’s first CTO led an AI startup it once accused of copying its characters](https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/) |
+| 01 | **TechCrunch AI** | Robotics & Embodied AI | ◈ | ● HIGH | [A startup that builds other startups raised $100M, and is all-in on physical AI](https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/) |
+| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Anthropic is operating a lab that conducts biology experiments](https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/) |
+| 03 | **TechCrunch AI** | Research | ◈ | ● HIGH | [AI hallucination nearly triggers US military operation](https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/) |
+| 04 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 05 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic) |
+| 06 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Anthropic’s first embedded evaluator is … Accenture?](https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/) |
+| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Gavin Newsom is pushing for an AI kill switch](https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch) |
+| 08 | **FourWeekMBA · provider monitor** | Industry | ◈ | ● HIGH | [Liquid AI and Mercedes-Benz: Why 600 Megabytes Is a Distribution Decision](https://news.google.com/rss/articles/CBMif0FVX3lxTE9Dd0wyeUhkWWVia2xGQkN6LWlocmxoTGNJcWVRVFNwaGR4MHluSXlGVjBVY3E2TkpFRWdJakRQaHFXTkZaV3ZsazM5LVNOa3JVai1uclJNSThVLVhFLW9mdDdHUnZ2UHpvRWswLUh3MS14X2tXelpKNWdTTVJKU0E?oc=5) |
+| 09 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero) |
 | 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 11 | **Sakana AI** | Industry | ◈ | ● HIGH | [- marlin.sakana.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
-| 12 | **The Decoder** | Compliance & Ethics | 🖼️ | ◐ MED | [California Governor Newsom signs executive order demanding "kill switch" for AI models](https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/) |
+| 11 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Amazon SageMaker Inference: 2026 year-to-date launches in review](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/) |
+| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
