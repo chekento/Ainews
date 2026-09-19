@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-19 11:25 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-19 14:43 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
 | 01 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 02 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts](https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/) |
-| 03 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening](https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/) |
-| 04 | **The Decoder** | Industry | 🖼️ | ◐ MED | [AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline](https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/) |
-| 05 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [Mathematicians Hate AI. They Can’t Quit It](https://www.wired.com/story/mathematicians-cant-quit-ai/) |
-| 06 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Google's Gemini also accidentally hacked three real companies during security testing](https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/) |
-| 07 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Join the WIRED World Fair in Miami on November 4](https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/) |
-| 08 | **The Decoder** | Safety & Security | 🖼️ | ◐ MED | [U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report](https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 11 | **KOMU 8 · provider monitor** | Industry | ◈ | ● HIGH | [HIGHLIGHTS: Palmyra at Macon](https://news.google.com/rss/articles/CBMipgFBVV95cUxNTEt5UjB3elNQLXVwVzllZnRhS253c2tmMGo3WkQxWlYxaXVSM2E1SjY1NzJ4WEVhR20tZElMMGF0aEJoSElsLS1EUi1JcVZnZ2hoYmhRVU16Smo1U0h1WGxaR2c1b242RVdKby1BM0VYWDItX0hfaDFSUEZMenlwUjNGaXZ2QUhPd0pSVHkycFEtalo0ZUE4c0RLUU54Y04tN2wxMm5B0gGrAUFVX3lxTFBpXzh6SkNjcGFhOTEtcVZvTDE5UXVRV0hXcUV6TExKT1Z3OXZ2V0FNYUpDT3JLUE9McnA5amxyWmFUREZFdW9wT0dXalNzbGt0MC1LZ1pTQ3YxMHlDLUxVcWlpdE5nQlNpMTJFN1J0dGJPMkFfTXVlTGJXODdiUC1VcVBaVl9PUkdGY0lvT2IyM1ZiakdNeWZHeW1yWmpZT0ZoWEdVZWlyb2ozaw?oc=5) |
-| 12 | **Artificial Analysis** | Industry | ◈ | ● HIGH | [Step 5 Preview - Intelligence, Performance & Price Analysis - Artificial Analysis](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vMDF1d0ZMQjB1TTRTdXlzMDRoZDhiQUloSnRBd2hWUERhamRkQ1p4aGxTblJkWW11ZndJcHIwSFZreFBQV3ZjWVJOMElXY1dQeGllQk53?oc=5) |
+| 02 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks](https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/) |
+| 03 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Unity launches official plugins for Claude Code and OpenAI Codex to stop AI agents from using outdated tutorials](https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/) |
+| 04 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark](https://the-decoder.com/gpt-6-astra-and-claude-fable-turn-robot-arms-into-slapstick-killer-robots-in-new-safety-benchmark/) |
+| 05 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - engadget.com](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 06 | **TechCrunch AI** | Compliance & Ethics | ◈ | ● HIGH | [Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking](https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 09 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts](https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/) |
+| 10 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening](https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/) |
+| 11 | **The Decoder** | Industry | 🖼️ | ◐ MED | [AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline](https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/) |
+| 12 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [Mathematicians Hate AI. They Can’t Quit It](https://www.wired.com/story/mathematicians-cant-quit-ai/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
