@@ -219,7 +219,7 @@ Widgets share source exclusions, expose configurable content mode/accent/text sc
 Every page carries the same beta status, current APK link and legal/privacy navigation.
 
 - **[News](portal/news.md)** — current AI stream
-- **[LLM Provider Wire](portal/llm-wire.md)** — 18 model ecosystems
+- **[LLM Provider Wire](portal/llm-wire.md)** — 61 provider ecosystems
 - **[Governance Radar](portal/governance.md)** — policy, standards, ethics and safety
 - **[Official Social](portal/social.md)** — official profile links plus public RSS/Atom/Bluesky signals; no private-account scraping
 - **[AI News Copilot](portal/copilot.md)** — context-aware research surface
@@ -235,12 +235,12 @@ Every page carries the same beta status, current APK link and legal/privacy navi
 - `scripts/fetch-news.mjs` — AI-only aggregation, dedupe, category assignment, source/provider monitors and feed-image extraction
 - `scripts/update-readme-news.mjs` — refreshes the live repository frontpage block
 - `data/news.json` — generated intelligence dataset
-- `config/sources.json` — 60-source matrix
-- `config/providers.json` — 18 LLM/provider ecosystems
+- `config/sources.json` + `config/sources-extra.json` — 160-source matrix
+- `config/providers.json` + `config/providers-extra.json` — 61 provider ecosystems
 - `android/` — Android beta app, native widgets and local mobile UI
 - `assets/branding/` — repository/web logo system
 - `.github/workflows/refresh-news.yml` — 30-minute feed refresh
-- `.github/workflows/android-apk.yml` — Android 3.3 beta build and stable `android-latest` download
+- .github/workflows/android-apk.yml — Android 3.7 beta build and stable `android-latest` download
 
 ### Android build
 
@@ -248,12 +248,12 @@ Package: `cloud.kosch.ainews`
 Status: **Beta / in development**  
 Minimum Android: API 26  
 Target / compile SDK: 35  
-Java: 17
+Java: 21
 
 ### Current direct-test release
 
 - APK: `https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk`
-- SHA-256: `bfe651766068d11c0c489364014fdeedcf4a36a7f133b58f502c5d8e5ae39272`
+- SHA-256: [download checksum](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256)
 - Release channel: `android-latest`
 
 </details>
