@@ -86,22 +86,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-20 10:03 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-20 10:58 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Simulated students that make realistic mistakes help AI tutors learn faster](https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/) |
-| 02 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 03 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Trump announces "AI Force" and plans for an "AI czar" as he pushes unchecked AI growth](https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/) |
-| 04 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Following OpenAI, Anthropic is also reportedly postponing its IPO](https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - cursor.com](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 01 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Meta's Muse Is Better at Surveilling Than Helping Me](https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/) |
+| 02 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [It’s Donald Trump Versus MAGA on Data Centers](https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/) |
+| 03 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 04 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Daily AI usage in the U.S. has more than doubled in just six months](https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/) |
+| 05 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Simulated students that make realistic mistakes help AI tutors learn faster](https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/) |
 | 06 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - cursor.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 08 | **Together AI Blog** | Industry | ◈ | ● HIGH | [- Together AI](https://news.google.com/rss/articles/CBMidEFVX3lxTFBGSEdpVmhObHdjQmVqRGtMcWM0eEYxblM1TGpiQ2VObzY3bTRUREQxdktyVUptSURtbWZwUjNEZjExZ2JaallMRGoyUUdkOG02Y2lvdHFjMkZjcFYxcXRiVDZEdTRlMlhpSGdwUmVWNnU2R1px?oc=5) |
-| 09 | **Sakana AI** | Industry | ◈ | ● HIGH | [- marlin.sakana.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
-| 10 | **tech-insider.org · provider monitor** | Industry | ◈ | ● HIGH | [Nano Banana Pro vs Midjourney vs FLUX.2: 94% vs 10% [2026]](https://news.google.com/rss/articles/CBMifkFVX3lxTE8zMW1iX3NUM09WTjIzU0tRN3lnaV9YUG1FYzgwc3JOcWVpTEEzX0lQRUs1ZVF1UDBkVFdJbGFCZjlTUjhhb0p4UU5nbTRLOUhjNGMxQ2k4ZFpRS296T1NBN2RIQ0t0RUx6U1VONGxVUmR0WVdBR1hCU01GVTE3dw?oc=5) |
-| 11 | **Nous Research** | Research | ◈ | ● HIGH | [Plugin Catalog - Hermes Agent](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kSHAwWUhIWWRWeEtHWUIxek9tWG8tdmpWZk1sdWZhb01OMGVWQzBLM1pXWHV1NjdXZlp1ZHRoR1BqOFRFMm9YeUZZNTlJZU5NZUVpeVQ4eC1PZWZQQ0ZN?oc=5) |
-| 12 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - replicate.com](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 08 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Trump announces "AI Force" and plans for an "AI czar" as he pushes unchecked AI growth](https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/) |
+| 09 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Following OpenAI, Anthropic is also reportedly postponing its IPO](https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/) |
+| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 11 | **Sakana AI** | Industry | ◈ | ● HIGH | [- marlin.sakana.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
+| 12 | **tech-insider.org · provider monitor** | Industry | ◈ | ● HIGH | [Nano Banana Pro vs Midjourney vs FLUX.2: 94% vs 10% [2026]](https://news.google.com/rss/articles/CBMifkFVX3lxTE8zMW1iX3NUM09WTjIzU0tRN3lnaV9YUG1FYzgwc3JOcWVpTEEzX0lQRUs1ZVF1UDBkVFdJbGFCZjlTUjhhb0p4UU5nbTRLOUhjNGMxQ2k4ZFpRS296T1NBN2RIQ0t0RUx6U1VONGxVUmR0WVdBR1hCU01GVTE3dw?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
