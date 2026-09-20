@@ -267,14 +267,14 @@ public final class OnDeviceLlm {
         setState("loading");
         Engine next = null;
         try {
-            next = new Engine(new EngineConfig(modelFile().getAbsolutePath(), new Backend.GPU()));
+            next = new Engine(new EngineConfig(modelFile().getAbsolutePath(), new Backend.GPU(), new Backend.CPU(), new Backend.CPU(), null, null, null));
             next.initialize();
             backend = "GPU";
         } catch (Throwable gpuFailure) {
             if (next != null) {
                 try { next.close(); } catch (Exception ignored) { }
             }
-            next = new Engine(new EngineConfig(modelFile().getAbsolutePath()));
+            next = new Engine(new EngineConfig(modelFile().getAbsolutePath(), new Backend.CPU(), new Backend.CPU(), new Backend.CPU(), null, null, null));
             next.initialize();
             backend = "CPU";
         }
