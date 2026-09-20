@@ -88,22 +88,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-20 14:38 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-20 16:23 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [6 days left to get ahead at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) |
-| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 04 | **Dealroom · provider monitor** | Industry | ◈ | ● HIGH | [Class A Dig: Inflection AI Microsoft $650M was talent+licence — not company ACQ; company still independent](https://news.google.com/rss/articles/CBMi0AFBVV95cUxONzVqVENRQzlsaTBNaWdFWWdOdFFKeG5BR3VyWnRwMEQycHlNY3UwZG5uZGRzdHpHWHhmMjFyOFVSaHBoVWp6cTNUZGlhcHU3SGVQNFg2T2JHT2RQXy1qdS0xOUl2d3l1THRwS1dEby15ek5MSVoxVU1NcThVNFZwdEhubWV2NlRtODlJenF5QlZsdzVDc0xRRGpYdVZER014cEFhcmtDNXJEVkg5OUNyNlBNNjd6TlJfRm5wOE9yUmZtOEg4b0RKZWNLODFydTBN?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 06 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
-| 07 | **The Decoder** | Robotics & Embodied AI | 🖼️ | ● HIGH | [Runway wants to turn AI video generation into a live stream you control in real time](https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/) |
-| 08 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Meta's Muse Is Better at Surveilling Than Helping Me](https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/) |
-| 09 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [It’s Donald Trump Versus MAGA on Data Centers](https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/) |
-| 10 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 11 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Daily AI usage in the U.S. has more than doubled in just six months](https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/) |
-| 12 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Simulated students that make realistic mistakes help AI tutors learn faster](https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/) |
+| 01 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters](https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/) |
+| 02 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 03 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar) |
+| 04 | **Reddit · r/LocalLLaMA** | Infrastructure | ◈ | ● HIGH | [I tested 9 LLMs on the exact same web-dev prompt for ~8 hours — RTX 3060 12GB results (Rate the best!)](https://www.reddit.com/r/LocalLLaMA/comments/1wljzix/i_tested_9_llms_on_the_exact_same_webdev_prompt/) |
+| 05 | **Product Wire · Google Antigravity** | Products & Agents | ◈ | ● HIGH | [Google Antigravity vs Kiro vs Windsurf: $200 Gap [2026]](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wOGVPWXUwVFgxS2dLbUtxTlByQ3JKN2VJcFQ5RTlPZnlyZWgtaHBwX0hvQUtBYmJ0X0NOWUwtRGJvOXBYTE1scHB4OXo5NW1tcHVvSDRGeGZBT2ZQZzNBbDkyNHNUN3JqUU9YQ1RJWQ?oc=5) |
+| 06 | **Reddit · r/LocalLLaMA** | Research | ◈ | ● HIGH | [focus-llama: a llama.cpp fork implementing Declarative Attention (arXiv:2609.02737)](https://www.reddit.com/r/LocalLLaMA/comments/1wli0wz/focusllama_a_llamacpp_fork_implementing/) |
+| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [6 days left to get ahead at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) |
+| 08 | **Reddit · r/LocalLLaMA** | Open Source | ◈ | ● HIGH | [Qwen-Image-2.1 released!](https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 10 | **Dealroom · provider monitor** | Industry | ◈ | ● HIGH | [Class A Dig: Inflection AI Microsoft $650M was talent+licence — not company ACQ; company still independent](https://news.google.com/rss/articles/CBMi0AFBVV95cUxONzVqVENRQzlsaTBNaWdFWWdOdFFKeG5BR3VyWnRwMEQycHlNY3UwZG5uZGRzdHpHWHhmMjFyOFVSaHBoVWp6cTNUZGlhcHU3SGVQNFg2T2JHT2RQXy1qdS0xOUl2d3l1THRwS1dEby15ek5MSVoxVU1NcThVNFZwdEhubWV2NlRtODlJenF5QlZsdzVDc0xRRGpYdVZER014cEFhcmtDNXJEVkg5OUNyNlBNNjd6TlJfRm5wOE9yUmZtOEg4b0RKZWNLODFydTBN?oc=5) |
+| 11 | **Reddit · r/LocalLLaMA** | Industry | ◈ | ● HIGH | [Is Typesafe based/derived from work done by the Laya author?](https://www.reddit.com/r/LocalLLaMA/comments/1wlfmgq/is_typesafe_basedderived_from_work_done_by_the/) |
+| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
@@ -147,7 +147,7 @@ Copilot is a **contextual intelligence layer**, not a detached chatbot. It follo
 
 **Built in:** local API-free discussion mode · evidence cards · primary-source boost · Summary · Why it matters · Compare · Timeline · Risk & policy · Source check · session-only follow-up context · inline Copilot actions · direct Widget → Copilot story summary.
 
-**On-device generative mode:** download the free Qwen3 0.6B dynamic INT4 model (~328 MB) once; LiteRT-LM then generates Copilot answers locally without an API key or cloud endpoint.
+**On-device mode:** optional downloadable Qwen3 0.6B dynamic INT4 model (~328 MB) via LiteRT-LM. After the one-time download, generative Copilot answers run locally without an API key or cloud endpoint.
 
 > Copilot output is experimental. Source grounding reduces error risk but does not eliminate it; inspect the evidence and original publication for important claims.
 
@@ -161,7 +161,7 @@ Copilot is a **contextual intelligence layer**, not a detached chatbot. It follo
 
 Android 3.7 keeps **Latest · For You · High Signal · Story Clusters · Brief** and adds a more deliberate Discover experience: opening Discover no longer focuses the search field or opens the keyboard. Search starts only after an explicit tap.
 
-**New in 3.7:** Social Wire with 61 provider ecosystems and official multi-platform links · AI product/service wire for Claude Code, Google Antigravity, Flow, Make, Zapier, KNIME, Suno, Udio, Websim.ai and more · API-free local Copilot discussion · separate Governance desk for AI czar / AI Force, laws and ethics · interactive radar with Matrix rain · 28 app/widget themes including Kawaii Plush and Kawaii Candy ·  Smart Brief presets for Morning / Evening / Since last visit · quick Smart-Watch templates · Widget Studio presets · direct Widget → Copilot story summary · local For-You reset/control · expanded core+extended source registry · 160 AI sources · 61 provider ecosystems.
+**New in 3.7:** Social Wire with 61 provider ecosystems and official multi-platform links · AI product/service wire for Claude Code, Google Antigravity, Flow, Make, Zapier, KNIME, Suno, Udio, Websim.ai and more · API-free local Copilot discussion · optional downloadable Qwen3 on-device LLM · separate Governance desk for AI czar / AI Force, laws and ethics · interactive radar with Matrix rain · 28 app/widget themes including Kawaii Plush and Kawaii Candy ·  Smart Brief presets for Morning / Evening / Since last visit · quick Smart-Watch templates · Widget Studio presets · direct Widget → Copilot story summary · local For-You reset/control · expanded core+extended source registry · 160 AI sources · 61 provider ecosystems.
 
 > **Development status:** this is an active beta/test build. Bugs, incomplete functions and breaking changes are possible. **Use at your own risk / Nutzung auf eigene Gefahr.**
 
