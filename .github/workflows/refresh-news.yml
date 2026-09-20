@@ -8,6 +8,8 @@ on:
     branches: [main]
     paths:
       - 'app.js'
+      - 'page-v32.js'
+      - 'page-v32.css'
       - 'index.html'
       - 'styles.css'
       - 'sw.js'
@@ -40,10 +42,12 @@ jobs:
       - name: Validate application, expanded registries and privacy coverage
         run: |
           node --check app.js
+          node --check page-v32.js
           node --check android/app/src/main/assets/app.js
           node --check android/app/src/main/assets/copilot-v2.js
           node --check android/app/src/main/assets/intelligence-v3.js
           node --check android/app/src/main/assets/ux-v31.js
+          node --check android/app/src/main/assets/ux-v32.js
           node --check scripts/patch-mobile-discover.mjs
           node --check scripts/fetch-news.mjs
           node --check scripts/fetch-news-expanded.mjs
