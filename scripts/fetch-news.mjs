@@ -5,9 +5,12 @@ const sourcesDoc=JSON.parse(await fs.readFile(new URL('../config/sources.json',i
 const providersDoc=JSON.parse(await fs.readFile(new URL('../config/providers.json',import.meta.url),'utf8'));
 const sources=sourcesDoc.sources||[];
 const providers=providersDoc.providers||[];
+const socialFeedsDoc=JSON.parse(await fs.readFile(new URL('../config/social-feeds.json',import.meta.url),'utf8'));
+const socialFeeds=socialFeedsDoc.feeds||[];
 const MAX_PER_SOURCE=12;
 const MAX_SOURCE_MONITOR=3;
 const MAX_PROVIDER_MONITOR=4;
+const MAX_SOCIAL_PER_FEED=10;
 const MIN_HEALTHY_ITEMS=15;
 const MAX_AGE_DAYS=45;
 
@@ -202,6 +205,57 @@ async function fetchProviderMonitor(provider){
   }catch(error){return{provider,items:[],status:'error',error:String(error?.message||error)}}
 }
 
+
+function blueskyRecords(raw){
+  let data;
+  try{data=JSON.parse(raw)}catch{return[]}
+  return (data.feed||[]).map(entry=>{
+    const post=entry.post||{},record=post.record||{},author=post.author||{};
+    const handle=author.handle||'public-ai';
+    const text=clean(record.text||'');
+    const rkey=String(post.uri||'').split('/').pop();
+    return{
+      title:text.slice(0,180)||(author.displayName||handle)+' public AI signal',
+      url:rkey?'https://bsky.app/profile/'+handle+'/post/'+rkey:'https://bsky.app/',
+      publishedAt:iso(record.createdAt||post.indexedAt),
+      summary:text,
+      publisher:'@'+handle
+    };
+  }).filter(x=>x.title&&/^https?:\/\//i.test(x.url));
+}
+
+function mapSocialItem(feed,i){
+  const text=feed.name+' '+i.title+' '+(i.summary||'');
+  const source={name:feed.name,strictAI:!!feed.strictAI,class:feed.class||'community'};
+  return{
+    id:hash('social|'+feed.id+'|'+i.url+'|'+i.title),
+    title:i.title,
+    summary:(i.summary||'Public social signal. Open the original post for full context.').slice(0,420),
+    url:i.url,
+    source:feed.name,
+    publishedAt:i.publishedAt||new Date().toISOString(),
+    category:categoryFor(text),
+    provenance:source.class,
+    tags:[...new Set(['Social',feed.platform||'Social',...(feed.tags||[]),...tagsFor(text)])].slice(0,6),
+    providers:providersFor(feed.name,text),
+    monitor:true,
+    isSocial:true,
+    socialPlatform:feed.platform||'Social',
+    aiConfidence:aiConfidence(source,text),
+    image:null,
+    imageOrigin:null
+  };
+}
+
+async function fetchSocialFeed(feed){
+  try{
+    const raw=await fetchText(feed.url,feed.format==='bluesky-json'?'application/json':'application/rss+xml, application/atom+xml, application/xml, text/xml, */*');
+    const parsed=feed.format==='bluesky-json'?blueskyRecords(raw):parseFeed(raw);
+    const items=parsed.filter(i=>notTooOld(i.publishedAt)).filter(i=>isAIRelevant({name:feed.name,strictAI:!!feed.strictAI,class:feed.class||'community'},feed.name+' '+i.title+' '+(i.summary||''))).slice(0,MAX_SOCIAL_PER_FEED).map(i=>mapSocialItem(feed,i));
+    return{feed,items,status:'ok'};
+  }catch(error){return{feed,items:[],status:'error',error:String(error?.message||error)}}
+}
+
 const results=[];
 for(let i=0;i<sources.length;i+=6)results.push(...await Promise.all(sources.slice(i,i+6).map(fetchSource)));
 
@@ -215,7 +269,10 @@ for(let i=0;i<monitorTargets.length;i+=6)sourceMonitorResults.push(...await Prom
 const providerMonitorResults=[];
 for(let i=0;i<providers.length;i+=6)providerMonitorResults.push(...await Promise.all(providers.slice(i,i+6).map(fetchProviderMonitor)));
 
-let items=[...results.flatMap(r=>r.items),...sourceMonitorResults.flatMap(r=>r.items),...providerMonitorResults.flatMap(r=>r.items)];
+const socialResults=[];
+for(let i=0;i<socialFeeds.length;i+=4)socialResults.push(...await Promise.all(socialFeeds.slice(i,i+4).map(fetchSocialFeed)));
+
+let items=[...results.flatMap(r=>r.items),...sourceMonitorResults.flatMap(r=>r.items),...providerMonitorResults.flatMap(r=>r.items),...socialResults.flatMap(r=>r.items)];
 items=items.filter(i=>i.aiConfidence==='high'||i.aiConfidence==='medium');
 const seenTitle=new Set(),seenUrl=new Set();
 items=items.filter(i=>{
@@ -238,6 +295,9 @@ const payload={
   healthyFeeds:results.filter(r=>r.status==='ok').length,
   sourceMonitors:monitorTargets.length,healthySourceMonitors:sourceMonitorResults.filter(r=>r.status==='ok').length,
   providerMonitors:providers.length,healthyProviderMonitors:providerMonitorResults.filter(r=>r.status==='ok').length,
+  socialFeeds:socialFeeds.length,healthySocialFeeds:socialResults.filter(r=>r.status==='ok').length,
+  failedSocialFeeds:socialResults.filter(r=>r.status==='error').map(r=>({feed:r.feed.name,error:r.error})),
+  socialItemCount:items.filter(i=>i.isSocial).length,
   failedSources:results.filter(r=>r.status==='error').map(r=>({source:r.source.name,error:r.error})),
   failedSourceMonitors:sourceMonitorResults.filter(r=>r.status==='error').map(r=>({source:r.source.name,error:r.error})),
   failedProviderMonitors:providerMonitorResults.filter(r=>r.status==='error').map(r=>({provider:r.provider.name,error:r.error})),

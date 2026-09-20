@@ -46,6 +46,7 @@ jobs:
       - name: Validate mobile JavaScript, expanded registries and privacy coverage
         run: |
           node --check android/app/src/main/assets/app.js
+          node --check android/app/src/main/assets/theme-radar.js
           node --check android/app/src/main/assets/media.js
           node --check android/app/src/main/assets/copilot-v2.js
           node --check android/app/src/main/assets/intelligence-v3.js
@@ -79,6 +80,7 @@ jobs:
           cp config/providers-extra.json android/app/src/main/assets/providers-extra.json
           cp config/sources.json android/app/src/main/assets/sources.json
           cp config/sources-extra.json android/app/src/main/assets/sources-extra.json
+          cp config/social-feeds.json android/app/src/main/assets/social-feeds.json
       - name: Build installable debug APK
         run: gradle -p android :app:assembleDebug --stacktrace
       - name: Prepare downloads
@@ -88,7 +90,7 @@ jobs:
           sha256sum dist/AI-News.apk > dist/AI-News.apk.sha256
       - uses: actions/upload-artifact@v4
         with:
-          name: AI-News-Android-3.3-Beta
+          name: AI-News-Android-3.4-Beta
           path: |
             dist/AI-News.apk
             dist/AI-News.apk.sha256
@@ -99,10 +101,10 @@ jobs:
         run: |
           git tag -f android-latest "$GITHUB_SHA"
           git push origin refs/tags/android-latest --force
-          NOTES="AI News Android 3.3 Beta • UX Command Center & Expanded Intelligence. Discover has no implicit search focus in the base mobile JavaScript or UX layer; the keyboard opens only after an explicit tap in the search input. Adds collapsible Filter Workspace, personal RSS/Atom sources, saved local filters, official social-link directory, two native overview widgets (Signal Stack and Live AI Radar), complete core+extended provider/source coverage, and the existing Smart Brief/Widget Studio intelligence layer. Privacy/source transparency is CI-generated and checked. The APK remains a debug-signed beta/development build; use at your own risk."
+          NOTES="AI News Android 3.4 Beta • Live Radar, Social Signals & Theme Studio. Discover has no implicit search focus in the base mobile JavaScript or UX layer; the keyboard opens only after an explicit tap in the search input. Adds collapsible Filter Workspace, personal RSS/Atom sources, saved local filters, official social-link directory, two native overview widgets (Signal Stack and Live AI Radar), complete core+extended provider/source coverage, and the existing Smart Brief/Widget Studio intelligence layer. Privacy/source transparency is CI-generated and checked. The APK remains a debug-signed beta/development build; use at your own risk."
           if gh release view android-latest >/dev/null 2>&1; then
             gh release upload android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --clobber
-            gh release edit android-latest --title "AI News Android 3.3 Beta • UX Command Center" --notes "$NOTES"
+            gh release edit android-latest --title "AI News Android 3.4 Beta • Live Radar & Theme Studio" --notes "$NOTES"
           else
-            gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --title "AI News Android 3.2 Beta • Expanded Intelligence" --notes "$NOTES"
+            gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --title "AI News Android 3.4 Beta • Live Radar & Theme Studio" --notes "$NOTES"
           fi

@@ -43,13 +43,16 @@ jobs:
         run: |
           node --check app.js
           node --check page-v32.js
+          node --check theme-radar-web.js
           node --check android/app/src/main/assets/app.js
+          node --check android/app/src/main/assets/theme-radar.js
           node --check android/app/src/main/assets/copilot-v2.js
           node --check android/app/src/main/assets/intelligence-v3.js
           node --check android/app/src/main/assets/ux-v31.js
           node --check android/app/src/main/assets/ux-v32.js
           node --check scripts/patch-mobile-discover.mjs
           node --check scripts/fetch-news.mjs
+          node --check scripts/fetch-news-expanded.mjs
           node --check scripts/fetch-news-expanded.mjs
           node --check scripts/update-readme-news.mjs
           node --check scripts/update-privacy-sources.mjs

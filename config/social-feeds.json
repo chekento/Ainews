@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "updated": "2026-09-20",
+  "policy": "Public RSS/Atom and documented public APIs only. No login-gated content, private groups, or platform-page scraping.",
+  "feeds": [
+    {
+      "id": "reddit-artificial",
+      "name": "Reddit · r/artificial",
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/r/artificial/.rss?limit=50",
+      "homepage": "https://www.reddit.com/r/artificial/",
+      "class": "community",
+      "strictAI": true,
+      "tags": ["Social", "Community", "AI"]
+    },
+    {
+      "id": "reddit-machinelearning",
+      "name": "Reddit · r/MachineLearning",
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/r/MachineLearning/.rss?limit=50",
+      "homepage": "https://www.reddit.com/r/MachineLearning/",
+      "class": "community",
+      "strictAI": true,
+      "tags": ["Social", "Community", "Research"]
+    },
+    {
+      "id": "reddit-localllama",
+      "name": "Reddit · r/LocalLLaMA",
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/r/LocalLLaMA/.rss?limit=50",
+      "homepage": "https://www.reddit.com/r/LocalLLaMA/",
+      "class": "community",
+      "strictAI": true,
+      "tags": ["Social", "Community", "Open Source", "Models"]
+    },
+    {
+      "id": "bluesky-ai-search",
+      "name": "Bluesky · public AI search",
+      "platform": "Bluesky",
+      "url": "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?q=AI%20OR%20LLM&limit=50",
+      "homepage": "https://bsky.app/",
+      "format": "bluesky-json",
+      "class": "community",
+      "strictAI": false,
+      "tags": ["Social", "Bluesky", "AI"]
+    }
+  ]
+}

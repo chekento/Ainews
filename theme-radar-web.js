@@ -1,0 +1,76 @@
+
+(function(){
+  "use strict";
+  var THEMES=[
+    {id:"cyber-news",name:"Cyber News",accent:"#63f3c4",bg:"#050813",bg2:"#09111f",panel:"rgba(12,20,35,.78)",panel2:"rgba(17,28,47,.92)",text:"#f6f8ff",muted:"#8d9bb2",line:"rgba(153,179,224,.14)"},
+    {id:"modern-news",name:"Modern News",accent:"#315fdc",bg:"#eef3fa",bg2:"#fbfdff",panel:"rgba(255,255,255,.8)",panel2:"rgba(255,255,255,.96)",text:"#0b1728",muted:"#607087",line:"rgba(28,56,91,.14)"},
+    {id:"old-news",name:"Old News",accent:"#b78442",bg:"#221a12",bg2:"#392a1c",panel:"rgba(71,50,30,.88)",panel2:"#4a3420",text:"#f8e9c9",muted:"#c9ad83",line:"rgba(230,195,142,.22)"},
+    {id:"newspaper-old",name:"Newspaper Old",accent:"#8b6b43",bg:"#e7ddc6",bg2:"#c7b99d",panel:"rgba(248,241,224,.92)",panel2:"#f5ecd8",text:"#2b2419",muted:"#766751",line:"rgba(73,57,35,.22)"},
+    {id:"interactive-matrix",name:"Interactive Matrix",accent:"#00ff73",bg:"#020604",bg2:"#07140c",panel:"rgba(2,25,13,.9)",panel2:"#061d10",text:"#d9ffe8",muted:"#72bf8d",line:"rgba(0,255,115,.22)"},
+    {id:"cyberpunk",name:"Cyberpunk",accent:"#ff4fd8",bg:"#13051b",bg2:"#24113b",panel:"rgba(39,12,58,.9)",panel2:"#32154b",text:"#fff2ff",muted:"#cf9ddd",line:"rgba(255,79,216,.25)"},
+    {id:"neon-tokyo",name:"Neon Tokyo",accent:"#55d9ff",bg:"#06101a",bg2:"#12233a",panel:"rgba(11,33,53,.9)",panel2:"#122c49",text:"#effcff",muted:"#91c7d9",line:"rgba(85,217,255,.24)"},
+    {id:"synthwave",name:"Synthwave",accent:"#ff78c8",bg:"#160c2b",bg2:"#351145",panel:"rgba(48,17,64,.9)",panel2:"#42175c",text:"#fff1fb",muted:"#d0a5cd",line:"rgba(255,120,200,.24)"},
+    {id:"aurora-glass",name:"Aurora Glass",accent:"#7effd1",bg:"#07151a",bg2:"#152c38",panel:"rgba(30,67,75,.62)",panel2:"rgba(23,54,68,.84)",text:"#effffd",muted:"#9ac7c9",line:"rgba(126,255,209,.24)"},
+    {id:"midnight-editorial",name:"Midnight Editorial",accent:"#d7b26d",bg:"#101114",bg2:"#20232a",panel:"rgba(33,35,42,.94)",panel2:"#282b33",text:"#f8f3e8",muted:"#aaa49a",line:"rgba(215,178,109,.22)"},
+    {id:"solar-flare",name:"Solar Flare",accent:"#ffad3d",bg:"#271006",bg2:"#55200a",panel:"rgba(88,28,8,.88)",panel2:"#67220a",text:"#fff7e9",muted:"#efbd88",line:"rgba(255,173,61,.25)"},
+    {id:"oceanic-signal",name:"Oceanic Signal",accent:"#44d8ff",bg:"#04131c",bg2:"#073b53",panel:"rgba(6,48,65,.9)",panel2:"#0b4a61",text:"#effcff",muted:"#96c9d7",line:"rgba(68,216,255,.25)"},
+    {id:"forest-terminal",name:"Forest Terminal",accent:"#9aff73",bg:"#07130b",bg2:"#12341d",panel:"rgba(18,54,29,.9)",panel2:"#1a4825",text:"#efffe9",muted:"#a8cf9e",line:"rgba(154,255,115,.24)"},
+    {id:"desert-chrome",name:"Desert Chrome",accent:"#f2c27b",bg:"#261d17",bg2:"#58422d",panel:"rgba(84,62,39,.9)",panel2:"#705236",text:"#fff7eb",muted:"#d3b895",line:"rgba(242,194,123,.25)"},
+    {id:"crimson-alert",name:"Crimson Alert",accent:"#ff617b",bg:"#1b070d",bg2:"#3f0d18",panel:"rgba(67,11,25,.9)",panel2:"#551323",text:"#fff1f3",muted:"#dda4ae",line:"rgba(255,97,123,.26)"},
+    {id:"violet-quantum",name:"Violet Quantum",accent:"#bf9aff",bg:"#10091e",bg2:"#291354",panel:"rgba(42,20,78,.9)",panel2:"#351c65",text:"#faf5ff",muted:"#c7b4e8",line:"rgba(191,154,255,.26)"},
+    {id:"monochrome-wire",name:"Monochrome Wire",accent:"#e7edf6",bg:"#0c0e12",bg2:"#20242b",panel:"rgba(30,34,41,.95)",panel2:"#292e37",text:"#f5f7fa",muted:"#aeb6c1",line:"rgba(231,237,246,.22)"},
+    {id:"paper-light",name:"Paper Light",accent:"#2764c7",bg:"#edf2f7",bg2:"#ffffff",panel:"rgba(255,255,255,.94)",panel2:"#ffffff",text:"#13223a",muted:"#687894",line:"rgba(39,77,125,.18)"},
+    {id:"blueprint",name:"Blueprint",accent:"#79d7ff",bg:"#09233b",bg2:"#0d4164",panel:"rgba(11,57,87,.9)",panel2:"#104c73",text:"#eaf8ff",muted:"#9bc8dc",line:"rgba(121,215,255,.27)"},
+    {id:"holographic",name:"Holographic",accent:"#d9faff",bg:"#07131b",bg2:"#254256",panel:"rgba(34,75,91,.72)",panel2:"rgba(29,62,82,.88)",text:"#f4ffff",muted:"#a6ced5",line:"rgba(217,250,255,.26)"},
+    {id:"retro-crt",name:"Retro CRT",accent:"#ffb35a",bg:"#111008",bg2:"#2e2710",panel:"rgba(48,39,12,.92)",panel2:"#3a2f0c",text:"#fff3cf",muted:"#d0b77d",line:"rgba(255,179,90,.24)"},
+    {id:"high-contrast",name:"High Contrast",accent:"#ffff00",bg:"#000000",bg2:"#111111",panel:"rgba(18,18,18,.98)",panel2:"#171717",text:"#ffffff",muted:"#e0e0e0",line:"rgba(255,255,255,.48)"},
+    {id:"arctic-light",name:"Arctic Light",accent:"#007fba",bg:"#e7f4f8",bg2:"#ffffff",panel:"rgba(255,255,255,.95)",panel2:"#ffffff",text:"#102b3c",muted:"#527487",line:"rgba(0,93,135,.18)"},
+    {id:"gold-observatory",name:"Gold Observatory",accent:"#ffd36a",bg:"#120e08",bg2:"#30210a",panel:"rgba(59,40,8,.9)",panel2:"#4a3108",text:"#fff8dc",muted:"#d6bd83",line:"rgba(255,211,106,.27)"},
+    {id:"deep-space",name:"Deep Space",accent:"#8fa8ff",bg:"#02040d",bg2:"#111b42",panel:"rgba(15,24,57,.9)",panel2:"#18265b",text:"#f2f5ff",muted:"#9ba9d0",line:"rgba(143,168,255,.25)"},
+    {id:"sunset-newsroom",name:"Sunset Newsroom",accent:"#ff8b5c",bg:"#210d12",bg2:"#55220f",panel:"rgba(77,27,21,.9)",panel2:"#662d1c",text:"#fff4e9",muted:"#dda991",line:"rgba(255,139,92,.25)"}
+  ];
+  var PREF="aiNewsPageThemeV1",RADAR="aiNewsPageRadarV1",DEFAULT={hours:72,mix:"all",max:24};
+  function q(s){return document.querySelector(s)}
+  function esc(v){return String(v==null?"":v).replace(/[&<>"']/g,function(m){return({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[m])})}
+  function read(k,f){try{var x=JSON.parse(localStorage.getItem(k)||"");return x&&typeof x==="object"?x:f}catch(e){return f}}
+  function write(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+  function app(){return window.AINewsWebState||null}
+  function theme(id){return THEMES.find(function(x){return x.id===id})||THEMES[0]}
+  function palette(t){var root=document.documentElement;root.classList.toggle("light",/light|paper|arctic|newspaper/.test(t.id));[["--bg",t.bg],["--bg2",t.bg2],["--panel",t.panel],["--panel-2",t.panel2],["--text",t.text],["--muted",t.muted],["--line",t.line],["--line-strong",t.line],["--mint",t.accent],["--blue",t.accent],["--violet",t.accent],["--pink",t.accent]].forEach(function(p){root.style.setProperty(p[0],p[1])});document.body.dataset.v34Theme=t.id}
+  function themeButtons(){return THEMES.map(function(t){return"<button type='button' class='v34-web-theme' data-v34-theme='"+t.id+"' style='--v34-swatch:"+t.accent+";--v34-theme-bg:"+t.bg+"'><i></i><span>"+esc(t.name)+"</span></button>"}).join("")}
+  function apply(id){var t=theme(id);palette(t);localStorage.setItem(PREF,t.id);document.querySelectorAll("[data-v34-theme]").forEach(function(b){b.classList.toggle("active",b.getAttribute("data-v34-theme")===t.id)});var s=app();if(s&&typeof window.AINewsWebRender==="function")window.AINewsWebRender()}
+  function insertRadar(){
+    if(q("#v34WebRadar"))return;
+    var anchor=q("#v32WebOverview")||q(".hero");if(!anchor)return;
+    anchor.insertAdjacentHTML("afterend","<section id='v34WebRadar' class='v34-web-radar shell'><div class='v34-web-radar-head'><div><span class='kicker'>LIVE SIGNAL RADAR</span><h2>New news and social signals</h2><p>Fresh public-feed items land here as soon as the dataset refreshes. Tap a signal to open the original source.</p></div><button id='v34WebRadarTune' type='button'>Tune radar ›</button></div><div class='v34-web-radar-grid'><div class='v34-web-radar-stage' id='v34WebRadarStage'><div class='v34-web-sweep'></div><div id='v34WebRadarPoints'></div><b class='v34-web-axis n'>NEW</b><b class='v34-web-axis e'>SOCIAL</b><b class='v34-web-axis s'>OLDER</b><b class='v34-web-axis w'>NEWS</b></div><div class='v34-web-radar-side'><div class='v34-web-radar-stats'><strong id='v34WebRadarCount'>0</strong><span id='v34WebRadarMeta'>signals · 72h</span><em id='v34WebRadarSocial'>0 social</em></div><div id='v34WebRadarFeed'></div></div></div><div id='v34WebRadarSettings' class='v34-web-radar-settings' hidden><label>Window<select id='v34WebRadarHours'><option value='6'>6h</option><option value='12'>12h</option><option value='24'>24h</option><option value='72'>72h</option><option value='168'>7d</option></select></label><label>Mix<select id='v34WebRadarMix'><option value='all'>News + social</option><option value='news'>News</option><option value='social'>Social</option></select></label><label>Maximum<input id='v34WebRadarMax' type='range' min='8' max='40' step='4' value='24'><span id='v34WebRadarMaxLabel'>24</span></label></div></section>");
+    var p=read(RADAR,DEFAULT);q("#v34WebRadarHours").value=String(p.hours);q("#v34WebRadarMix").value=p.mix;q("#v34WebRadarMax").value=String(p.max);
+    q("#v34WebRadarTune").addEventListener("click",function(){var x=q("#v34WebRadarSettings");x.hidden=!x.hidden;this.textContent=x.hidden?"Tune radar ›":"Close tune ×"});
+    ["v34WebRadarHours","v34WebRadarMix"].forEach(function(id){q("#"+id).addEventListener("change",function(){var n=read(RADAR,DEFAULT);if(id==="v34WebRadarHours")n.hours=Number(this.value);else n.mix=this.value;write(RADAR,n);renderRadar()})});
+    q("#v34WebRadarMax").addEventListener("input",function(){var n=read(RADAR,DEFAULT);n.max=Number(this.value);write(RADAR,n);q("#v34WebRadarMaxLabel").textContent=this.value;renderRadar()});
+  }
+  function insertThemePanel(){
+    if(q("#v34ThemePanel"))return;
+    document.body.insertAdjacentHTML("beforeend","<aside id='v34ThemePanel' aria-hidden='true'><div class='v34-theme-backdrop' data-v34-theme-close></div><section><header><div><span>VISUAL SYSTEM</span><h2>Theme Studio · 26 worlds</h2></div><button data-v34-theme-close>×</button></header><p>Choose a visual atmosphere for the GitHub Page. The radar, cards and controls follow the selected theme.</p><div class='v34-web-theme-grid'>"+themeButtons()+"</div></section></aside>");
+    var actions=q(".top-actions");if(actions&&!q("#v34WebThemeBtn"))actions.insertAdjacentHTML("beforeend","<button id='v34WebThemeBtn' class='icon-btn' type='button' title='Theme Studio'>✧</button>");
+  }
+  function signalSocial(i){return !!(i&&((i.isSocial===true)||(i.social===true)||/social|reddit|mastodon|bluesky|youtube/i.test(String(i.source||"")+" "+String(i.socialPlatform||""))))}
+  function hash(v){var h=0;String(v||"").split("").forEach(function(c){h=(h*31+c.charCodeAt(0))>>>0});return h}
+  function ago(v){var t=new Date(v).getTime();if(!t)return"undated";var m=Math.max(0,Math.floor((Date.now()-t)/60000));return m<2?"now":m<60?m+"m":m<1440?Math.floor(m/60)+"h":Math.floor(m/1440)+"d"}
+  function radarList(){var s=app();if(!s)return[];var p=read(RADAR,DEFAULT),cut=Date.now()-Number(p.hours||72)*3600000;return(s.items||[]).filter(function(i){var t=new Date(i.publishedAt||0).getTime();if(!t||t<cut)return false;var social=signalSocial(i);return p.mix==="all"||(p.mix==="social"&&social)||(p.mix==="news"&&!social)}).sort(function(a,b){return new Date(b.publishedAt)-new Date(a.publishedAt)}).slice(0,Number(p.max||24))}
+  function openSignal(id){var s=app(),i=s&&(s.items||[]).find(function(x){return x.id===id});if(i&&i.url)window.open(i.url,"_blank","noopener,noreferrer")}
+  function renderRadar(){
+    var stage=q("#v34WebRadarStage"),points=q("#v34WebRadarPoints"),feed=q("#v34WebRadarFeed"),s=app();if(!stage||!points||!feed||!s)return;
+    var p=read(RADAR,DEFAULT),list=radarList(),now=Date.now(),radius=Math.max(48,Math.min((stage.clientWidth||420)/2-28,184)),ph="",fh="";
+    list.forEach(function(i,n){var age=Math.max(0,now-new Date(i.publishedAt).getTime()),social=signalSocial(i),fresh=age<=Math.min(6,Number(p.hours||72))*3600000,ang=(hash(i.id||i.title)%360)*Math.PI/180,dist=radius*(.25+((hash(i.source||"AI")+n*17)%72)/100),x=Math.round(Math.cos(ang)*dist),y=Math.round(Math.sin(ang)*dist),cl="v34-web-point "+(social?"social":"news")+(fresh?" fresh":"");ph+="<button class='"+cl+"' data-v34-radar-story='"+esc(i.id)+"' style='left:calc(50% + "+x+"px);top:calc(50% + "+y+"px)' title='"+esc(i.title)+"'><i></i><span>"+(fresh?"NEW":social?"SOCIAL":"NEWS")+"</span></button>";if(n<8)fh+="<button class='v34-web-radar-item "+(fresh?"fresh":"")+"' data-v34-radar-story='"+esc(i.id)+"'><span class='"+(social?"social":"news")+"'>"+(social?"SOCIAL":"NEWS")+"</span><strong>"+esc(String(i.title||"").slice(0,150))+"</strong><small>"+esc(i.source||"AI News")+" · "+ago(i.publishedAt)+"</small></button>"});
+    points.innerHTML=ph||"<span class='v34-web-empty'>No signals in this window.</span>";feed.innerHTML=fh||"<span class='v34-web-empty'>Waiting for fresh data.</span>";q("#v34WebRadarCount").textContent=String(list.length);q("#v34WebRadarSocial").textContent=String(list.filter(signalSocial).length)+" social";q("#v34WebRadarMeta").textContent=(p.mix==="all"?"news + social":p.mix)+" · "+p.hours+"h window";q("#v34WebRadarMaxLabel").textContent=String(p.max);
+  }
+  function events(){
+    document.addEventListener("click",function(e){var b=e.target.closest("[data-v34-theme]");if(b){apply(b.getAttribute("data-v34-theme"));return}var close=e.target.closest("[data-v34-theme-close]");if(close){q("#v34ThemePanel").classList.remove("open");q("#v34ThemePanel").setAttribute("aria-hidden","true");return}var open=e.target.closest("#v34WebThemeBtn");if(open){q("#v34ThemePanel").classList.add("open");q("#v34ThemePanel").setAttribute("aria-hidden","false");return}var story=e.target.closest("[data-v34-radar-story]");if(story)openSignal(story.getAttribute("data-v34-radar-story"))},true);
+  }
+  function boot(n){
+    if(!app()||!q("main")){if(n<80)setTimeout(function(){boot(n+1)},180);return}
+    insertRadar();insertThemePanel();events();apply(localStorage.getItem(PREF)||"cyber-news");renderRadar();setInterval(renderRadar,3000);window.addEventListener("resize",renderRadar);
+  }
+  window.AINewsWebThemeCatalog=THEMES;
+  if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",function(){boot(0)});else boot(0);
+})();

@@ -62,12 +62,14 @@ public abstract class BaseNewsWidget extends AppWidgetProvider {
         RemoteViews rv=new RemoteViews(context.getPackageName(),R.layout.widget_news);
         rv.setInt(R.id.widgetRoot,"setBackgroundResource",backgroundRes());
         JSONObject settings=settings(context);
-        int accent=resolveAccent(settings.optString("accent","native")); if(accent==0)accent=accentColor();
+        int[] palette=themePalette(settings.optString("theme","cyber-news"));
+        rv.setInt(R.id.widgetRoot,"setBackgroundColor",palette[0]);
+        int accent=resolveAccent(settings.optString("accent","native")); if(accent==0)accent=palette[4];
         double scale=settings.optDouble("textScale",1.0); String density=settings.optString("density","comfortable");
         boolean showSummary=settings.optBoolean("showSummary",true),showMeta=settings.optBoolean("showMeta",true);
         int pad="compact".equals(density)?10:"roomy".equals(density)?18:14;
         rv.setViewPadding(R.id.widgetRoot,dp(context,pad),dp(context,pad),dp(context,pad),dp(context,pad));
-        rv.setTextColor(R.id.widgetTitle,accent); rv.setTextColor(R.id.widgetBadge,accent); rv.setTextColor(R.id.widgetCopilot,accent); rv.setTextViewText(R.id.widgetTitle,label());
+        rv.setTextColor(R.id.widgetTitle,accent); rv.setTextColor(R.id.widgetBadge,accent); rv.setTextColor(R.id.widgetCopilot,accent); rv.setTextColor(R.id.widgetHeadline,palette[1]); rv.setTextColor(R.id.widgetMeta,palette[3]); rv.setTextColor(R.id.widgetExtra,palette[3]); rv.setTextColor(R.id.widgetNext,palette[1]); rv.setTextColor(R.id.widgetRefresh,palette[1]); rv.setTextViewText(R.id.widgetTitle,label());
         rv.setTextViewTextSize(R.id.widgetHeadline,TypedValue.COMPLEX_UNIT_SP,(float)(16*scale));
         rv.setTextViewTextSize(R.id.widgetMeta,TypedValue.COMPLEX_UNIT_SP,(float)(10*scale));
         rv.setTextViewTextSize(R.id.widgetExtra,TypedValue.COMPLEX_UNIT_SP,(float)(10*scale));
@@ -101,11 +103,42 @@ public abstract class BaseNewsWidget extends AppWidgetProvider {
     private String shortCat(String c){if(c.startsWith("Frontier"))return"MODELS";if(c.startsWith("Products"))return"AGENTS";if(c.startsWith("Compliance"))return"POLICY";if(c.startsWith("Safety"))return"SAFETY";if(c.startsWith("Robotics"))return"ROBOTICS";return c.toUpperCase(Locale.ROOT);}
     private String badgeFor(String requested){switch(requested){case"primary":return"PRIMARY";case"models":return"MODEL WIRE";case"agents":return"AGENTS";case"policy":return"POLICY";case"research":return"RESEARCH";case"safety":return"SAFETY";case"infra":return"INFRA";case"robotics":return"ROBOTICS";default:return mode()==8?"ACTIVITY":"AI ONLY";}}
     private int resolveAccent(String a){switch(a){case"mint":return 0xFF65F7C4;case"cyan":return 0xFF55D9FF;case"violet":return 0xFFA993FF;case"magenta":return 0xFFFF78C8;case"amber":return 0xFFFFBF5B;default:return 0;}}
+    private int[] themePalette(String key){
+        if(key==null||key.isEmpty()||"cyber".equals(key))key="cyber-news";
+        switch(key){
+            case"modern-news":return new int[]{0xFFF4F7FB,0xFF152038,0xFFFFFFFF,0xFF64718A,0xFF315FDC};
+            case"old-news":return new int[]{0xFF221A12,0xFFF8E9C9,0xFF4A3420,0xFFC9AD83,0xFFB78442};
+            case"newspaper-old":return new int[]{0xFFE7DDC6,0xFF2B2419,0xFFF5ECD8,0xFF766751,0xFF8B6B43};
+            case"interactive-matrix":return new int[]{0xFF020604,0xFFD9FFE8,0xFF061D10,0xFF72BF8D,0xFF00FF73};
+            case"cyberpunk":return new int[]{0xFF13051B,0xFFFFF2FF,0xFF32154B,0xFFCF9DDD,0xFFFF4FD8};
+            case"neon-tokyo":return new int[]{0xFF06101A,0xFFEFFCFF,0xFF122C49,0xFF91C7D9,0xFF55D9FF};
+            case"synthwave":return new int[]{0xFF160C2B,0xFFFFF1FB,0xFF42175C,0xFFD0A5CD,0xFFFF78C8};
+            case"aurora-glass":return new int[]{0xFF07151A,0xFFEFFFFD,0xFF173644,0xFF9AC7C9,0xFF7EFFD1};
+            case"midnight-editorial":return new int[]{0xFF101114,0xFFF8F3E8,0xFF282B33,0xFFAAA49A,0xFFD7B26D};
+            case"solar-flare":return new int[]{0xFF271006,0xFFFFF7E9,0xFF67220A,0xFFEFBD88,0xFFFFAD3D};
+            case"oceanic-signal":return new int[]{0xFF04131C,0xFFEFFCFF,0xFF0B4A61,0xFF96C9D7,0xFF44D8FF};
+            case"forest-terminal":return new int[]{0xFF07130B,0xFFEFFFE9,0xFF1A4825,0xFFA8CF9E,0xFF9AFF73};
+            case"desert-chrome":return new int[]{0xFF261D17,0xFFFFF7EB,0xFF705236,0xFFD3B895,0xFFF2C27B};
+            case"crimson-alert":return new int[]{0xFF1B070D,0xFFFFF1F3,0xFF551323,0xFFDDA4AE,0xFFFF617B};
+            case"violet-quantum":return new int[]{0xFF10091E,0xFFFAF5FF,0xFF351C65,0xFFC7B4E8,0xFFBF9AFF};
+            case"monochrome-wire":return new int[]{0xFF0C0E12,0xFFF5F7FA,0xFF292E37,0xFFAEB6C1,0xFFE7EDF6};
+            case"paper-light":return new int[]{0xFFEDF2F7,0xFF13223A,0xFFFFFFFF,0xFF687894,0xFF2764C7};
+            case"blueprint":return new int[]{0xFF09233B,0xFFEAF8FF,0xFF104C73,0xFF9BC8DC,0xFF79D7FF};
+            case"holographic":return new int[]{0xFF07131B,0xFFF4FFFF,0xFF1D3E52,0xFFA6CED5,0xFFD9FAFF};
+            case"retro-crt":return new int[]{0xFF111008,0xFFFFF3CF,0xFF3A2F0C,0xFFD0B77D,0xFFFFB35A};
+            case"high-contrast":return new int[]{0xFF000000,0xFFFFFFFF,0xFF171717,0xFFE0E0E0,0xFFFFFF00};
+            case"arctic-light":return new int[]{0xFFE7F4F8,0xFF102B3C,0xFFFFFFFF,0xFF527487,0xFF007FBA};
+            case"gold-observatory":return new int[]{0xFF120E08,0xFFFFF8DC,0xFF4A3108,0xFFD6BD83,0xFFFFD36A};
+            case"deep-space":return new int[]{0xFF02040D,0xFFF2F5FF,0xFF18265B,0xFF9BA9D0,0xFF8FA8FF};
+            case"sunset-newsroom":return new int[]{0xFF210D12,0xFFFFF4E9,0xFF662D1C,0xFFDDA991,0xFFFF8B5C};
+            default:return new int[]{0xFF050711,0xFFF5F7FF,0xFF11182C,0xFF9BA8C3,0xFF65F7C4};
+        }
+    }
     private int dp(Context c,int v){return Math.round(v*c.getResources().getDisplayMetrics().density);}
     private String timeLabel(String iso){try{if(iso!=null&&iso.length()>=16)return iso.substring(11,16)+"Z";}catch(Exception ignored){}return"LIVE";}
     private JSONObject settings(Context context){try{return new JSONObject(context.getSharedPreferences("widgetPrefs",Context.MODE_PRIVATE).getString("settings","{}"));}catch(Exception ignored){return new JSONObject();}}
 
-    private List<JSONObject> loadItems(Context context){String json=null;try{HttpURLConnection conn=(HttpURLConnection)new URL(REMOTE+"?widget="+System.currentTimeMillis()).openConnection();conn.setConnectTimeout(7000);conn.setReadTimeout(7000);conn.setRequestProperty("User-Agent","AI-News-Android-Widget/3.2");if(conn.getResponseCode()>=200&&conn.getResponseCode()<300)json=read(conn.getInputStream());conn.disconnect();}catch(Exception ignored){}if(json==null){try{json=read(context.getAssets().open("news.json"));}catch(Exception ignored){}}List<JSONObject> out=new ArrayList<>();if(json==null)return out;Set<String> disabled=disabled(context);try{JSONObject root=new JSONObject(json);JSONArray arr=root.optJSONArray("items");if(arr==null)return out;for(int i=0;i<arr.length()&&out.size()<180;i++){JSONObject o=arr.optJSONObject(i);if(o!=null&&!"low".equals(o.optString("aiConfidence"))&&!disabled.contains(o.optString("source","")))out.add(o);}}catch(Exception ignored){}return out;}
+    private List<JSONObject> loadItems(Context context){String json=null;try{HttpURLConnection conn=(HttpURLConnection)new URL(REMOTE+"?widget="+System.currentTimeMillis()).openConnection();conn.setConnectTimeout(7000);conn.setReadTimeout(7000);conn.setRequestProperty("User-Agent","AI-News-Android-Widget/3.4");if(conn.getResponseCode()>=200&&conn.getResponseCode()<300)json=read(conn.getInputStream());conn.disconnect();}catch(Exception ignored){}if(json==null){try{json=read(context.getAssets().open("news.json"));}catch(Exception ignored){}}List<JSONObject> out=new ArrayList<>();if(json==null)return out;Set<String> disabled=disabled(context);try{JSONObject root=new JSONObject(json);JSONArray arr=root.optJSONArray("items");if(arr==null)return out;for(int i=0;i<arr.length()&&out.size()<180;i++){JSONObject o=arr.optJSONObject(i);if(o!=null&&!"low".equals(o.optString("aiConfidence"))&&!disabled.contains(o.optString("source","")))out.add(o);}}catch(Exception ignored){}return out;}
     private Set<String> disabled(Context context){Set<String> out=new HashSet<>();try{String raw=context.getSharedPreferences("widgetPrefs",Context.MODE_PRIVATE).getString("disabledSources","[]");JSONArray a=new JSONArray(raw);for(int i=0;i<a.length();i++)out.add(a.optString(i));}catch(Exception ignored){}return out;}
     private String read(InputStream in)throws Exception{BufferedReader br=new BufferedReader(new InputStreamReader(in,StandardCharsets.UTF_8));StringBuilder sb=new StringBuilder();String line;while((line=br.readLine())!=null)sb.append(line);br.close();return sb.toString();}
     public static void refreshAll(Context context){Class<?>[] classes=new Class<?>[]{BreakingWidget.class,TopStoryWidget.class,ProviderWireWidget.class,GovernanceWidget.class,ResearchWidget.class,CompactStackWidget.class,NeonMatrixWidget.class,SignalClockWidget.class,LiveRadarWidget.class};for(Class<?> cls:classes){Intent i=new Intent(context,cls);i.setAction(ACTION_REFRESH);context.sendBroadcast(i);}}
