@@ -237,7 +237,7 @@ Dieses Dokument ist der automatisch erzeugte Transparenz-Anhang zur Datenschutze
 | 60 | Replit AI | Replit Agent · coding assistants | US | https://blog.replit.com/ai |
 | 61 | Websim.ai | AI web simulation · creative apps · rapid prototypes | Global | https://websim.ai/ |
 
-## 40 registrierte AI-Produkte & Services
+## 114 registrierte AI-Produkte & Services
 
 | # | Produkt / Service | Fokus | Region | Offizielle Einstiegsseite |
 |---:|---|---|---|---|
@@ -281,6 +281,80 @@ Dieses Dokument ist der automatisch erzeugte Transparenz-Anhang zur Datenschutze
 | 38 | Replicate | models, inference, developer | US | https://replicate.com/ |
 | 39 | Ollama | local AI, open models, developer | US | https://ollama.com/ |
 | 40 | LM Studio | local AI, open models, developer | US | https://lmstudio.ai/ |
+| 41 | OpenAI API | developer, models, platform | US | https://openai.com/api/ |
+| 42 | ChatGPT Enterprise | enterprise, assistant, product | US | https://openai.com/chatgpt/enterprise/ |
+| 43 | ChatGPT Edu | education, assistant, enterprise | US | https://openai.com/chatgpt/education/ |
+| 44 | ChatGPT Deep Research | research, agents, assistant | US | https://chatgpt.com/ |
+| 45 | ChatGPT Atlas | browser, agents, assistant | US | https://chatgpt.com/atlas |
+| 46 | Claude | assistant, models, consumer AI | US | https://claude.ai/ |
+| 47 | Claude API | developer, models, platform | US | https://docs.anthropic.com/ |
+| 48 | Vertex AI | cloud, enterprise, platform | US | https://cloud.google.com/vertex-ai |
+| 49 | Gemini API | developer, models, platform | US | https://ai.google.dev/ |
+| 50 | Veo | video, creative AI, models | US | https://deepmind.google/models/veo/ |
+| 51 | Imagen | image, creative AI, models | US | https://deepmind.google/technologies/imagen/ |
+| 52 | Jules | coding, agents, developer | US | https://jules.google/ |
+| 53 | Lyria | music, audio, creative AI | US | https://deepmind.google/models/lyria/lyria-realtime/ |
+| 54 | Microsoft Copilot Studio | agents, enterprise, automation | US | https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio |
+| 55 | Azure OpenAI Service | cloud, enterprise, models | US | https://azure.microsoft.com/en-us/products/ai-services/openai-service |
+| 56 | Microsoft Foundry | cloud, enterprise, developer | US | https://azure.microsoft.com/en-us/products/ai-foundry |
+| 57 | Amazon Bedrock | cloud, models, enterprise | US | https://aws.amazon.com/bedrock/ |
+| 58 | Amazon Q Developer | coding, agents, developer | US | https://aws.amazon.com/q/developer/ |
+| 59 | Amazon SageMaker AI | cloud, mlops, enterprise | US | https://aws.amazon.com/sagemaker/ai/ |
+| 60 | Meta AI | assistant, consumer AI, product | US | https://www.meta.ai/ |
+| 61 | Llama | models, open source, developer | US | https://www.llama.com/ |
+| 62 | Meta AI Studio | agents, creator, consumer AI | US | https://ai.meta.com/ai-studio/ |
+| 63 | Mistral API | developer, models, platform | EU | https://console.mistral.ai/ |
+| 64 | Codestral | coding, models, developer | EU | https://mistral.ai/models/codestral |
+| 65 | Mistral OCR | documents, vision, enterprise | EU | https://mistral.ai/products/mistral-ocr |
+| 66 | Magistral | reasoning, models, research | EU | https://mistral.ai/models/magistral |
+| 67 | Cohere Command | models, enterprise, developer | Canada | https://cohere.com/command |
+| 68 | Cohere North | enterprise, agents, workflow | Canada | https://cohere.com/north |
+| 69 | Grok | assistant, models, consumer AI | US | https://grok.com/ |
+| 70 | xAI API | developer, models, platform | US | https://x.ai/api |
+| 71 | DeepSeek Chat | assistant, models, consumer AI | China | https://www.deepseek.com/ |
+| 72 | DeepSeek API | developer, models, platform | China | https://platform.deepseek.com/ |
+| 73 | Qwen Chat | assistant, models, consumer AI | China | https://chat.qwen.ai/ |
+| 74 | Alibaba Model Studio | cloud, models, developer | China | https://www.alibabacloud.com/en/product/model-studio |
+| 75 | Kimi | assistant, models, consumer AI | China | https://kimi.ai/ |
+| 76 | Kimi API | developer, models, platform | China | https://platform.moonshot.ai/ |
+| 77 | GLM | models, assistant, developer | China | https://chat.z.ai/ |
+| 78 | Hugging Face Hub | open source, models, community | US | https://huggingface.co/models |
+| 79 | Hugging Face Spaces | apps, open source, developer | US | https://huggingface.co/spaces |
+| 80 | Hugging Face Inference Providers | inference, models, developer | US | https://huggingface.co/inference-api |
+| 81 | NVIDIA NIM | inference, enterprise, developer | US | https://www.nvidia.com/en-us/ai-data-science/products/nim-microservices/ |
+| 82 | NVIDIA NeMo | training, models, developer | US | https://developer.nvidia.com/nemo |
+| 83 | NVIDIA DGX Cloud | cloud, infrastructure, enterprise | US | https://www.nvidia.com/en-us/data-center/dgx-cloud/ |
+| 84 | Mosaic AI | mlops, enterprise, platform | US | https://www.databricks.com/product/mosaic-ai |
+| 85 | Agentforce | agents, enterprise, automation | US | https://www.salesforce.com/agentforce/ |
+| 86 | Adobe Acrobat AI Assistant | documents, productivity, enterprise | US | https://www.adobe.com/acrobat/generative-ai-pdf.html |
+| 87 | Ideogram AI | image, creative AI, product | Canada | https://ideogram.ai/ |
+| 88 | Kling AI | video, creative AI, product | China | https://klingai.com/ |
+| 89 | Luma Dream Machine | video, creative AI, product | US | https://lumalabs.ai/dream-machine |
+| 90 | Leonardo.Ai | image, creative AI, product | Australia | https://leonardo.ai/ |
+| 91 | Freepik AI | image, design, creative AI | Spain | https://www.freepik.com/ai |
+| 92 | Descript AI | audio, video, product | US | https://www.descript.com/ |
+| 93 | GitHub Models | models, developer, platform | US | https://github.com/marketplace/models |
+| 94 | GitHub Spark | web creation, developer, agents | US | https://github.com/features/spark |
+| 95 | Cline | coding, agents, developer | US | https://cline.bot/ |
+| 96 | Kiro | coding, agents, developer | US | https://kiro.dev/ |
+| 97 | n8n AI | automation, workflow, agents | EU | https://n8n.io/ai/ |
+| 98 | Dify | agents, workflow, developer | Global | https://dify.ai/ |
+| 99 | Langflow | agents, workflow, developer | US | https://www.langflow.org/ |
+| 100 | Flowise | agents, workflow, developer | Global | https://flowiseai.com/ |
+| 101 | Palantir AIP | enterprise, agents, governance | US | https://www.palantir.com/platforms/aip/ |
+| 102 | SAP Joule | enterprise, assistant, workflow | EU | https://www.sap.com/products/artificial-intelligence/ai-assistant.html |
+| 103 | ServiceNow Now Assist | enterprise, assistant, workflow | US | https://www.servicenow.com/products/now-assist.html |
+| 104 | Snowflake Cortex AI | enterprise, data, platform | US | https://www.snowflake.com/en/product/features/cortex-ai/ |
+| 105 | IBM watsonx | enterprise, models, platform | US | https://www.ibm.com/watsonx |
+| 106 | UiPath AI | automation, enterprise, agents | US | https://www.uipath.com/platform/ai |
+| 107 | Murf AI | voice, audio, creative AI | India | https://murf.ai/ |
+| 108 | AIVA | music, audio, creative AI | Luxembourg | https://www.aiva.ai/ |
+| 109 | Riffusion | music, audio, creative AI | US | https://www.riffusion.com/ |
+| 110 | Stable Audio | music, audio, creative AI | US | https://www.stableaudio.com/ |
+| 111 | NVIDIA Isaac | robotics, embodied AI, developer | US | https://developer.nvidia.com/isaac |
+| 112 | Figure Helix | robotics, embodied AI, agents | US | https://www.figure.ai/ |
+| 113 | Inspect AI | evaluation, safety, research | UK | https://inspect.aisi.org.uk/ |
+| 114 | Google Whisk | image, creative AI, product | US | https://labs.google/whisk/ |
 
 ## Monitoring-Hinweis
 
