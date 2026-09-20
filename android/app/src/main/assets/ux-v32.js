@@ -1,6 +1,6 @@
 (function(){
   "use strict";
-  var VERSION="3.3.0";
+  var VERSION="3.5.0";
   var FILTER_KEY="aiNewsCustomFiltersV33";
   var SOURCE_KEY="aiNewsCustomSourcesV33";
   var SOCIAL_KEY="aiNewsCustomSocialV33";
@@ -22,6 +22,7 @@
   function active(){var s=state();try{return activeItems()}catch(e){return s?(s.items||[]):[]}}
   function renderApp(){try{render()}catch(e){try{renderNews();renderFilters()}catch(x){}}setTimeout(renderV32,30)}
   function merge(base,extra,key){var out=[],seen=new Set();(base||[]).concat(extra||[]).forEach(function(x){if(!x||!x[key]||seen.has(x[key]))return;seen.add(x[key]);out.push(x)});return out}
+  function applySocialDirectory(s,d){var list=(d&&d.providers)||[],by=new Map(list.map(function(x){return[x.id,x]})),changed=false;(s.providers||[]).forEach(function(p){var x=by.get(p.id);if(x&&x.social){var before=JSON.stringify(p.social||{});p.social=Object.assign({},x.social,p.social||{});if(JSON.stringify(p.social)!==before)changed=true}});return changed}
   function customSources(){return list(SOURCE_KEY)}
   function customFilters(){return list(FILTER_KEY)}
   function customSocial(){return list(SOCIAL_KEY)}
@@ -74,13 +75,15 @@
       var readRegistry=function(remote,local,empty){return fetch(remote+"?v="+Date.now()).then(function(r){return r.ok?r.json():Promise.reject(new Error("remote registry"))}).catch(function(){return fetch(local).then(function(r){return r.ok?r.json():empty}).catch(function(){return empty})})};
       var pair=await Promise.all([
         readRegistry("config/providers-extra.json","providers-extra.json",{providers:[]}),
-        readRegistry("config/sources-extra.json","sources-extra.json",{sources:[]})
+        readRegistry("config/sources-extra.json","sources-extra.json",{sources:[]}),
+        readRegistry("config/social-directory.json","social-directory.json",{providers:[]})
       ]);
       var beforeP=(s.providers||[]).length,beforeS=(s.sources||[]).length;
       s.providers=merge(s.providers,pair[0].providers||[],"id");
       s.sources=merge(s.sources,pair[1].sources||[],"name");
+      var socialChanged=applySocialDirectory(s,pair[2]);
       ensureCustomRegistry();
-      if(s.providers.length!==beforeP||s.sources.length!==beforeS)renderApp();
+      if(s.providers.length!==beforeP||s.sources.length!==beforeS||socialChanged)renderApp();
       fetchCustomFeeds(true);
     }catch(e){}
   }
