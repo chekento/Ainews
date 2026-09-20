@@ -10,7 +10,7 @@ const state={
   items:[],sources:[],providers:[],generatedAt:null,providerCoverage:{},
   category:'All',provider:'all',source:'all',query:'',sort:'newest',savedOnly:false,visible:PAGE_SIZE,
   compact:false,bookmarks:new Set(JSON.parse(localStorage.getItem('aiNewsBookmarks')||'[]')),
-  nextRefresh:Date.now()+AUTO_REFRESH_MS,chatArticle:null
+  nextRefresh:Date.now()+AUTO_REFRESH_MS,chatArticle:null,copilotEnabled:localStorage.getItem('aiNewsCopilotEnabled')!=='0',chatHistory:[]
 };
 
 const $=s=>document.querySelector(s);
@@ -170,8 +170,11 @@ function renderSourceMatrix(){
 function setProvider(id,{scroll=true}={}){state.provider=id||'all';state.visible=PAGE_SIZE;renderProviderRail();renderControls();renderFeatured();renderNews();if(scroll)$('#stream').scrollIntoView({behavior:'smooth',block:'center'})}
 function setCategory(category){state.category=category;state.visible=PAGE_SIZE;renderControls();renderFeatured();renderNews();$('#stream').scrollIntoView({behavior:'smooth',block:'center'})}
 
-function openChat(item=null){
-  state.chatArticle=item||null;const drawer=$('#chatDrawer');drawer.classList.add('open');drawer.setAttribute('aria-hidden','false');document.body.classList.add('chat-open');
+function syncCopilotUi(){const enabled=state.copilotEnabled;document.body.classList.toggle('copilot-disabled',!enabled);const btn=$('#chatBtn');if(btn)btn.innerHTML=enabled?'<span>✦</span> AI News Copilot':'<span>○</span> Enable Copilot';const pref=$('#copilotEnabledPref');if(pref)pref.checked=enabled;const hero=$('#heroChatBtn');if(hero)hero.hidden=!enabled}
+function setCopilotEnabled(on){state.copilotEnabled=!!on;localStorage.setItem('aiNewsCopilotEnabled',state.copilotEnabled?'1':'0');if(!state.copilotEnabled)closeChat();syncCopilotUi();toast(state.copilotEnabled?'Copilot enabled · API-free local mode ready':'Copilot disabled')}
+function toggleChatMinimized(){const drawer=$('#chatDrawer');state.chatMinimized=!state.chatMinimized;drawer.classList.toggle('minimized',state.chatMinimized);localStorage.setItem('aiNewsChatMinimized',state.chatMinimized?'1':'0')}
+function openChat(item=null){if(!state.copilotEnabled){toast('Copilot is disabled. Use Enable Copilot in the top bar.');return}
+  state.chatArticle=item||null;const drawer=$('#chatDrawer');state.chatMinimized=false;drawer.classList.remove('minimized');drawer.classList.add('open');drawer.setAttribute('aria-hidden','false');document.body.classList.add('chat-open');
   const ctx=$('#chatContext');
   if(item){ctx.innerHTML=`<span>${esc(item.source)} · ${esc(item.category)}</span><strong>${esc(item.title)}</strong><p>${esc(item.summary||'No excerpt available.')}</p>`}
   else ctx.innerHTML='<span>GLOBAL FEED</span><strong>Ask across the current AI news dataset</strong><p>The built-in research mode works from loaded headlines, excerpts and provider tags.</p>';
@@ -179,30 +182,27 @@ function openChat(item=null){
   addChat('assistant',item?'Article context loaded. Ask for a summary, related coverage, provider comparisons, or governance implications.':'Current feed loaded. Ask about providers, trends, models, safety, compliance or related coverage.');
   setTimeout(()=>$('#chatInput').focus(),120);
 }
-function closeChat(){const drawer=$('#chatDrawer');drawer.classList.remove('open');drawer.setAttribute('aria-hidden','true');document.body.classList.remove('chat-open')}
+function closeChat(){const drawer=$('#chatDrawer');drawer.classList.remove('open','minimized');state.chatMinimized=false;drawer.setAttribute('aria-hidden','true');document.body.classList.remove('chat-open')}
 function addChat(role,text){const wrap=$('#chatMessages'),el=document.createElement('div');el.className=`chat-message ${role}`;const label=document.createElement('span');label.textContent=role==='user'?'YOU':'COPILOT';const p=document.createElement('p');p.textContent=text;el.append(label,p);wrap.appendChild(el);wrap.scrollTop=wrap.scrollHeight}
 function tokens(s){return[...new Set(String(s||'').toLowerCase().replace(/[^a-z0-9äöüß.-]+/gi,' ').split(/\s+/).filter(x=>x.length>2&&!['the','and','for','with','this','that','what','about','from','into','und','der','die','das','ein','eine','mit','von','wie','was'].includes(x)))]}
 function scoreItem(item,queryTokens){const hay=`${item.title} ${item.summary} ${item.source} ${providerNames(item).join(' ')} ${(item.tags||[]).join(' ')}`.toLowerCase();return queryTokens.reduce((n,t)=>n+(hay.includes(t)?1:0),0)+(state.chatArticle&&item.id===state.chatArticle.id?4:0)}
 function localAnswer(question){
-  const q=question.toLowerCase(),qTokens=tokens(question);let pool=[...state.items].sort((a,b)=>scoreItem(b,qTokens)-scoreItem(a,qTokens)||new Date(b.publishedAt)-new Date(a.publishedAt));
+  const raw=String(question||'').trim(),q=raw.toLowerCase(),qTokens=tokens(raw);
+  const previous=state.chatHistory.slice(-3).map(x=>x.text).join(' ');
+  const contextTokens=raw.length<20?tokens(previous):qTokens;
+  let pool=[...state.items].sort((a,b)=>scoreItem(b,contextTokens)-scoreItem(a,contextTokens)||new Date(b.publishedAt)-new Date(a.publishedAt));
   if(state.chatArticle)pool=[state.chatArticle,...pool.filter(i=>i.id!==state.chatArticle.id)];
-  const related=pool.filter(i=>scoreItem(i,qTokens)>0||i.id===state.chatArticle?.id).slice(0,5);
-  if(!related.length)return'I could not find a strong match in the currently loaded headlines and excerpts. Try a provider name, model, policy topic, or select a specific article first.';
-  if(/compliance|ethic|risk|safety|regulat|ai act|governance|waico|recht|risiko/.test(q)){
-    const gov=state.items.filter(i=>i.category==='Compliance & Ethics'||i.category==='Safety & Security').filter(i=>{const hay=`${i.title} ${i.summary}`.toLowerCase();return qTokens.some(t=>hay.includes(t))||(state.chatArticle?.providers||[]).some(p=>(i.providers||[]).includes(p))}).slice(0,4);
-    const base=state.chatArticle?`For “${state.chatArticle.title}”, the excerpt alone does not establish legal compliance. Relevant risk themes should be checked against the original source and applicable rules.`:'The feed treats governance separately from product news; headlines alone are not a legal conclusion.';
-    return `${base}${gov.length?` Related governance/safety coverage: ${gov.map(i=>`${i.source}: ${i.title}`).join(' · ')}`:' I found no closely matched governance story in the current dataset.'}`;
-  }
-  if(/compare|compet|versus|vs|anbieter|provider/.test(q)){
-    const byProvider=new Map();related.concat(state.items.slice(0,120)).forEach(i=>(i.providers||[]).forEach(id=>{if(!byProvider.has(id))byProvider.set(id,i)}));
-    const picks=[...byProvider.entries()].slice(0,5).map(([id,i])=>`${providerFor(id).name}: ${i.title}`);
-    return picks.length?`Current provider signals: ${picks.join(' · ')}. Open the originals before drawing conclusions because this view uses only headlines and brief excerpts.`:'No multi-provider comparison is available in the loaded excerpt set.';
-  }
-  if(/related|coverage|ähnlich|weitere/.test(q))return`Related coverage in the current feed: ${related.map(i=>`${i.source}: ${i.title}`).join(' · ')}.`;
-  const lead=state.chatArticle||related[0];const providers=providerNames(lead);
-  return `${lead.title} — ${lead.summary||'No excerpt available.'}${providers.length?` Provider tags: ${providers.join(', ')}.`:''} Related signals: ${related.slice(1,4).map(i=>`${i.source}: ${i.title}`).join(' · ')||'none in the current dataset'}. This answer is based only on the dashboard's loaded headlines and excerpts.`;
-}
-async function connectedAnswer(question){
+  const related=pool.filter(i=>scoreItem(i,contextTokens)>0||i.id===state.chatArticle?.id).slice(0,7);
+  if(!related.length)return'Local Research Mode could not find a strong match in the loaded headlines. Try a provider, model, policy topic, or select an article first.';
+  const lead=state.chatArticle||related[0],summary=lead.summary||'No excerpt is available; open the original source for the full context.';
+  const evidence=related.slice(0,5).map((i,n)=>'[S'+(n+1)+'] '+i.title+' — '+i.source).join(' · ');
+  if(/discuss|debate|erörter|diskut|abwäg|pros?\s+and\s+cons?|what do you think/.test(q))return'LOCAL DISCUSSION · API-FREE\n\n'+lead.title+'\n'+summary+'\n\nEvidence to discuss: '+evidence+'\n\nUpside to examine: '+(lead.category==='Infrastructure'?'capacity, cost or latency may improve':lead.category==='Safety & Security'?'controls and evaluation may improve':'capability, adoption or research progress may accelerate')+'. Counterpoint: the loaded excerpts are incomplete; open the originals before treating this as a conclusion.\n\nFollow-up: compare providers, build a timeline, or ask for the risk boundary.';
+  if(/timeline|chronolog|when|wann|history|entwicklung|changed|änder/.test(q)){const t=[...related].sort((a,b)=>new Date(a.publishedAt)-new Date(b.publishedAt));return'LOCAL TIMELINE · API-FREE\n\n'+t.slice(0,7).map((i,n)=>(n+1)+'. '+fmtDate(i.publishedAt)+' · '+i.title+' ('+i.source+')').join('\n')+'\n\nTimeline is reconstructed from loaded publication dates; open each original source for the full sequence.';}
+  if(/compare|compet|versus|\bvs\b|anbieter|provider/.test(q)){const groups=new Map();related.concat(state.items.slice(0,120)).forEach(i=>(i.providers||[]).forEach(id=>{if(!groups.has(id))groups.set(id,i)}));const picks=[...groups.entries()].slice(0,6).map(([id,i])=>(providerFor(id).name||id)+': '+i.title);return picks.length?'LOCAL COMPARISON · API-FREE\n\n'+picks.join('\n')+'\n\nDescriptive comparison only: this local mode does not rank providers. Evidence: '+evidence:'No multi-provider comparison is available in the loaded excerpt set.';}
+  if(/compliance|ethic|risk|safety|regulat|ai act|governance|waico|recht|risiko/.test(q)){const gov=state.items.filter(i=>i.category==='Compliance & Ethics'||i.category==='Safety & Security').filter(i=>{const hay=(i.title+' '+(i.summary||'')).toLowerCase();return contextTokens.some(t=>hay.includes(t))||(state.chatArticle?.providers||[]).some(p=>(i.providers||[]).includes(p))}).slice(0,5);return'LOCAL RISK REVIEW · API-FREE\n\n'+(state.chatArticle?'The selected excerpt does not establish legal compliance.':'Governance is separated from product news; headlines alone are not a legal conclusion.')+'\n\n'+(gov.length?gov.map((i,n)=>'[S'+(n+1)+'] '+i.title+' — '+i.source).join('\n'):'No closely matched governance story was found.')+'\n\nOpen the originals and applicable rules before making a high-stakes decision.';}
+  if(/related|coverage|ähnlich|weitere/.test(q))return'LOCAL RELATED COVERAGE · API-FREE\n\n'+related.map((i,n)=>(n+1)+'. '+i.source+': '+i.title).join('\n');
+  return'LOCAL RESEARCH · API-FREE\n\n'+lead.title+'\n'+summary+(providerNames(lead).length?'\nProviders: '+providerNames(lead).join(', '):'')+'\n\nRelated evidence:\n'+(related.slice(1,5).map((i,n)=>'[S'+(n+2)+'] '+i.title+' — '+i.source).join('\n')||'No related signal in the current dataset.')+'\n\nThis answer uses only the loaded headlines, excerpts and provider tags; original sources remain the authority.';
+}async function connectedAnswer(question){
   const endpoint=$('#llmEndpoint').value.trim(),model=$('#llmModel').value.trim(),token=$('#llmToken').value;
   if(!endpoint||!model)throw new Error('Add endpoint and model first');
   const context=(state.chatArticle?[state.chatArticle]:filteredItems(false).slice(0,10)).map(i=>`- ${i.title}\n  Source: ${i.source}\n  Excerpt: ${i.summary}\n  URL: ${i.url}`).join('\n');
@@ -210,7 +210,7 @@ async function connectedAnswer(question){
   const r=await fetch(endpoint,{method:'POST',headers,body:JSON.stringify({model,messages:[{role:'system',content:'You are an AI-news research assistant. Answer only from the supplied news context, clearly distinguish facts from inference, do not invent article contents, and encourage checking original sources for high-stakes claims.'},{role:'user',content:`NEWS CONTEXT:\n${context}\n\nQUESTION:\n${question}`}],temperature:0.2})});
   if(!r.ok)throw new Error(`Endpoint returned ${r.status}`);const data=await r.json();return data?.choices?.[0]?.message?.content||data?.output_text||'The endpoint returned no readable answer.';
 }
-async function submitChat(question){addChat('user',question);const input=$('#chatInput');input.value='';addChat('assistant','Thinking from the current news context…');const pending=$('#chatMessages .chat-message.assistant:last-child p');try{const answer=$('#llmEnabled').checked?await connectedAnswer(question):localAnswer(question);pending.textContent=answer}catch(err){pending.textContent=`Connected LLM unavailable: ${err.message}. Falling back to local research mode. ${localAnswer(question)}`}}
+async function submitChat(question){if(!state.copilotEnabled)return;addChat('user',question);state.chatHistory.push({role:'user',text:question});state.chatHistory=state.chatHistory.slice(-8);const input=$('#chatInput');input.value='';addChat('assistant','Thinking from the current news context…');const pending=$('#chatMessages .chat-message.assistant:last-child p');try{const answer=$('#llmEnabled').checked?await connectedAnswer(question):localAnswer(question);pending.textContent=answer;state.chatHistory.push({role:'assistant',text:answer});state.chatHistory=state.chatHistory.slice(-8)}catch(err){const fallback=localAnswer(question);pending.textContent='Connected LLM unavailable: '+err.message+'. Falling back to local research mode. '+fallback;state.chatHistory.push({role:'assistant',text:fallback})}}
 
 $('#providerRail').addEventListener('click',e=>{if(e.target.closest('a'))return;const card=e.target.closest('[data-provider-card]');if(card)setProvider(card.dataset.providerCard)});
 $('#clearProviderBtn').addEventListener('click',()=>setProvider('all', {scroll:false}));
@@ -224,7 +224,7 @@ $('#loadMoreBtn').addEventListener('click',()=>{state.visible+=PAGE_SIZE;renderN
 $('#refreshBtn').addEventListener('click',()=>refreshNews({manual:true}));
 $('#viewBtn').addEventListener('click',()=>{state.compact=!state.compact;$('#viewBtn').textContent=state.compact?'☷':'▦';renderNews()});
 $('#themeBtn').addEventListener('click',()=>{document.documentElement.classList.toggle('light');localStorage.setItem('aiNewsTheme',document.documentElement.classList.contains('light')?'light':'dark')});
-$('#chatBtn').addEventListener('click',()=>openChat());$('#heroChatBtn').addEventListener('click',()=>openChat());
+$('#chatBtn').addEventListener('click',()=>{if(!state.copilotEnabled){setCopilotEnabled(true);openChat()}else openChat()});$('#heroChatBtn').addEventListener('click',()=>openChat());$('#chatMinimizeBtn').addEventListener('click',toggleChatMinimized);$('#chatDisableBtn').addEventListener('click',()=>setCopilotEnabled(false));$('#copilotEnabledPref').addEventListener('change',e=>setCopilotEnabled(e.target.checked));
 $$('[data-close-chat]').forEach(x=>x.addEventListener('click',closeChat));
 $$('[data-filter]').forEach(b=>b.addEventListener('click',()=>setCategory(b.dataset.filter)));
 $('#featured').addEventListener('click',e=>{const b=e.target.closest('[data-feature-chat]');if(b){const item=state.items.find(i=>i.id===b.dataset.featureChat);if(item)openChat(item)}});
@@ -240,6 +240,6 @@ setInterval(()=>{const remaining=Math.max(0,state.nextRefresh-Date.now()),m=Math
 if('serviceWorker'in navigator)window.addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));
 
 (async function init(){
-  try{await Promise.all([loadSources(),loadProviders(),loadNewsRaw()]);renderAll()}
+  try{await Promise.all([loadSources(),loadProviders(),loadNewsRaw()]);renderAll();syncCopilotUi()}
   catch(err){console.error(err);toast('Some newsroom data could not be loaded');renderAll()}
 })();
