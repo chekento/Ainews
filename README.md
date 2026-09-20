@@ -13,14 +13,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-BETA_%2F_IN_DEVELOPMENT-FFB347?style=for-the-badge" alt="Beta / in development">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.8.1_BETA-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download current Android Beta APK"></a>
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.8_BETA-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download current Android Beta APK"></a>
 </p>
 
 > [!WARNING]
 > **BETA / IN DEVELOPMENT.** AI News and the Android APK are active test builds and may contain bugs, incomplete functions, inaccurate classifications, notification issues or breaking changes. **Use at your own risk / Nutzung auf eigene Gefahr.** Do not rely on the app as the sole source for important, legal, safety-critical, financial or operational decisions. Verify important information with the linked original sources. The directly distributed APK is currently a **debug-signed beta build**, not a production Play Store release.
 
 <p align="center">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.8.1 BETA</strong></a><br>
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.8 BETA</strong></a><br>
   <a href="https://github.com/chekento/Ainews/releases/tag/android-latest">Release details</a> ·
   <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256">SHA-256 checksum</a> ·
   <a href="PRIVACY.md">Datenschutz / Privacy & all sources</a> ·
@@ -53,7 +53,7 @@ Strict AI-only relevance filtering across labs, research, independent reporting,
 </td>
 <td width="50%" valign="top">
 
-### 📱 ANDROID 3.8.1 BETA
+### 📱 ANDROID 3.8 BETA
 
 Command Center home, Discover search, source controls, saved stories, Smart Watches and nine configurable home-screen widgets.
 
@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-20 20:43 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-20 23:10 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/) |
-| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Is the AI industry really ready to slow down?](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/) |
-| 03 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Vocci’s ring adds a new form factor to meeting note-taking](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/) |
-| 05 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
-| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 07 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [ScrollEd wants to turn textbooks into TikTok](https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/) |
-| 10 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [How is your experience with ICLR LLM Feedback? [D]](https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/) |
-| 11 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters](https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/) |
-| 12 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar) |
+| 01 | **Product Wire · Copy.ai** | Products & Agents | ◈ | ● HIGH | [Outcome Data Could Become the Harder-to-Copy AI Moat for Korean Startups](https://news.google.com/rss/articles/CBMic0FVX3lxTE12bFhNS0ZGVlU0eXlJWVFrTTBqVlFMc25TYmhoT0pBSURGb2hxRURGVE9TNlN0cHdQa3Q5Sld3eGE1WU9KLVloVVZjTlN2MDQ1cEJ6YU5ZLWp1akU0NmVONWIwUFh5TVJ5T05KclJSbFBUT3c?oc=5) |
+| 02 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [6 days left to save up to $200 to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) |
+| 04 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 06 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - anthropic.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/) |
+| 09 | **Product Wire · Llama** | Products & Agents | ◈ | ● HIGH | [llama ai fact checking Android Software Installer](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rSFR5SXRvdTZNNnM3NGtQblVSU2l4NnRIOW9ta08yOE9QLVJ0Z0xmSlN0R1ZNSmRnXzQzcXBqXzhuMVFBem5rSXNURlRHaEVjSXp6dA?oc=5) |
+| 10 | **Product Wire · Microsoft Copilot Studio** | Products & Agents | ◈ | ● HIGH | [Computer use is now in public preview in Microsoft Copilot Studio](https://news.google.com/rss/articles/CBMixAFBVV95cUxOODk3eUFxQ1RBRXFjQWt2WTNObWJhcGtSc282VHBnZ0FvTjNCMDBKQlQ4YjJrb29mMjhWYlpHTGtBNWZSYm83QXVTTW5acFYtdlhlYVVSRUdGeTBjNnpoT1l6RE91SkFQUzE0eGo0TjBpRy1TNTJnRFJ6eTVtNzhCb1dILWYyZC0wMVlCUldqWEhMcXJPLTE0NlpSRnlJMGhIaFpHN0JNNUg1ZkttdWlXcDRxSkVTU2hFamhOczM3TUFLaFNE?oc=5) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Is the AI industry really ready to slow down?](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/) |
+| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Vocci’s ring adds a new form factor to meeting note-taking](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
@@ -143,17 +143,17 @@ The product desk monitors usable AI services separately from general model news:
 ---
 
 <!-- INTELLIGENCE_SUITE:START -->
-## ◉ Intelligence Suite 3.8.1 — Discover & Expanded Intelligence · BETA
+## ◉ Intelligence Suite 3.8 — Discover & Expanded Intelligence · BETA
 
-Android 3.8.1 keeps **Latest · For You · High Signal · Story Clusters · Brief** and the expanded Discover surface. Search starts only after an explicit tap.
+Android 3.8 keeps **Latest · For You · High Signal · Story Clusters · Brief** and the expanded Discover surface. Search starts only after an explicit tap.
 
-**New in 3.8.1:** Social Wire with 61 provider ecosystems and official multi-platform links · a product/service wire with 264 tracked products · a separate Governance desk for AI czar / AI Force, laws, standards and ethics · interactive radar with Matrix rain · 28 app/widget themes including Kawaii Plush and Kawaii Candy · Smart Brief presets for Morning / Evening / Since last visit · quick Smart-Watch templates · Widget Studio presets · local For-You reset/control · expanded core+extended source registry · 160 AI sources · 61 provider ecosystems.
+**New in 3.8:** Social Wire with 61 provider ecosystems and official multi-platform links · a product/service wire with 264 tracked products · a separate Governance desk for AI czar / AI Force, laws, standards and ethics · interactive radar with Matrix rain · 28 app/widget themes including Kawaii Plush and Kawaii Candy · Smart Brief presets for Morning / Evening / Since last visit · quick Smart-Watch templates · Widget Studio presets · local For-You reset/control · expanded core+extended source registry · 160 AI sources · 61 provider ecosystems.
 
 This release contains no generative model runtime; news discovery, filtering, clustering, brief overviews, TTS, watchlists and original-source links remain available locally.
 
 > **Development status:** this is an active beta/test build. Bugs, incomplete functions and breaking changes are possible. **Use at your own risk / Nutzung auf eigene Gefahr.**
 
-### [⬇ Download AI News Android 3.8.1 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.8 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- INTELLIGENCE_SUITE:END -->
 
 ---
@@ -173,7 +173,7 @@ All custom filters, sources, profile links and the local personalization data re
 
 ---
 
-## 📱 Android 3.8.1 Beta — Discover & Expanded Intelligence
+## 📱 Android 3.8 Beta — Discover & Expanded Intelligence
 
 The APK uses a local mobile interface rather than depending on GitHub Pages. Android 3.8.1 contains no generative model runtime; news, filters, radar, TTS, watchlists and original-source links remain available. It downloads the current AI-only JSON feed directly from this repository and keeps a bundled offline fallback inside the package.
 
@@ -191,13 +191,13 @@ The APK uses a local mobile interface rather than depending on GitHub Pages. And
 <!-- ANDROID_WIDGETS:START -->
 ## ⚡ Hypercyber Android Widgets · BETA
 
-Android **3.8.1** ships nine native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock · Live AI Radar**.
+Android **3.8** ships nine native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock · Live AI Radar**.
 
 Widgets share source exclusions, expose configurable content mode/accent/text scale/density/summary/metadata, support **Next › · Refresh ↻**, and include one-tap **Widget Studio presets** for balanced, minimal, dense and desk-specific setups. Tapping a headline opens the original source directly.
 
 > Widget refresh timing and rendering can vary by Android device, launcher and battery-management policy. This remains beta functionality.
 
-### [⬇ Download AI News Android 3.8.1 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.8 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- ANDROID_WIDGETS:END -->
 
 ---
@@ -227,7 +227,7 @@ Every page carries the same beta status, current APK link and legal/privacy navi
 - `android/` — Android beta app, native widgets and local mobile UI
 - `assets/branding/` — repository/web logo system
 - `.github/workflows/refresh-news.yml` — 30-minute feed refresh
-- .github/workflows/android-apk.yml — Android 3.8.1 beta build and stable `android-latest` download
+- .github/workflows/android-apk.yml — Android 3.8 beta build and stable `android-latest` download
 
 ### Android build
 
