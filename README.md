@@ -88,22 +88,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-20 14:28 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-20 14:38 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
 | 01 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
 | 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [6 days left to get ahead at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) |
-| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Shishir Mehrotra (Superhuman CEO) on the mid-career point where the promotion criterion reverses](https://www.reddit.com/r/artificial/comments/1wlgvm1/shishir_mehrotra_superhuman_ceo_on_the_midcareer/) |
-| 04 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [21 AI models shifted their political answers to match the user. Is personalization quietly becoming persuasion?](https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/) |
-| 05 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [Plugin4Shell and NIST IR 8587, days apart: what actually authorizes an AI agent’s action?](https://www.reddit.com/r/artificial/comments/1wlgc6q/plugin4shell_and_nist_ir_8587_days_apart_what/) |
-| 06 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [AI Acitvity Preference](https://www.reddit.com/r/artificial/comments/1wlgbnn/ai_acitvity_preference/) |
-| 07 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [I love having persistent memory. It makes everything so easy check it out.remote app on chat mode controls my host](https://www.reddit.com/r/artificial/comments/1wlga6r/i_love_having_persistent_memory_it_makes/) |
-| 08 | **Dealroom · provider monitor** | Industry | ◈ | ● HIGH | [Class A Dig: Inflection AI Microsoft $650M was talent+licence — not company ACQ; company still independent](https://news.google.com/rss/articles/CBMi0AFBVV95cUxONzVqVENRQzlsaTBNaWdFWWdOdFFKeG5BR3VyWnRwMEQycHlNY3UwZG5uZGRzdHpHWHhmMjFyOFVSaHBoVWp6cTNUZGlhcHU3SGVQNFg2T2JHT2RQXy1qdS0xOUl2d3l1THRwS1dEby15ek5MSVoxVU1NcThVNFZwdEhubWV2NlRtODlJenF5QlZsdzVDc0xRRGpYdVZER014cEFhcmtDNXJEVkg5OUNyNlBNNjd6TlJfRm5wOE9yUmZtOEg4b0RKZWNLODFydTBN?oc=5) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 10 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
-| 11 | **The Decoder** | Robotics & Embodied AI | 🖼️ | ● HIGH | [Runway wants to turn AI video generation into a live stream you control in real time](https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/) |
-| 12 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Meta's Muse Is Better at Surveilling Than Helping Me](https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/) |
+| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 04 | **Dealroom · provider monitor** | Industry | ◈ | ● HIGH | [Class A Dig: Inflection AI Microsoft $650M was talent+licence — not company ACQ; company still independent](https://news.google.com/rss/articles/CBMi0AFBVV95cUxONzVqVENRQzlsaTBNaWdFWWdOdFFKeG5BR3VyWnRwMEQycHlNY3UwZG5uZGRzdHpHWHhmMjFyOFVSaHBoVWp6cTNUZGlhcHU3SGVQNFg2T2JHT2RQXy1qdS0xOUl2d3l1THRwS1dEby15ek5MSVoxVU1NcThVNFZwdEhubWV2NlRtODlJenF5QlZsdzVDc0xRRGpYdVZER014cEFhcmtDNXJEVkg5OUNyNlBNNjd6TlJfRm5wOE9yUmZtOEg4b0RKZWNLODFydTBN?oc=5) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 06 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
+| 07 | **The Decoder** | Robotics & Embodied AI | 🖼️ | ● HIGH | [Runway wants to turn AI video generation into a live stream you control in real time](https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/) |
+| 08 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Meta's Muse Is Better at Surveilling Than Helping Me](https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/) |
+| 09 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [It’s Donald Trump Versus MAGA on Data Centers](https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/) |
+| 10 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 11 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Daily AI usage in the U.S. has more than doubled in just six months](https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/) |
+| 12 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Simulated students that make realistic mistakes help AI tutors learn faster](https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
