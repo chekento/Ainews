@@ -50,6 +50,7 @@ jobs:
           node --check android/app/src/main/assets/copilot-v2.js
           node --check android/app/src/main/assets/intelligence-v3.js
           node --check android/app/src/main/assets/ux-v31.js
+          node --check android/app/src/main/assets/ux-v32.js
           node --check scripts/patch-mobile-discover.mjs
           node --check scripts/fetch-news.mjs
           node --check scripts/fetch-news-expanded.mjs
@@ -87,7 +88,7 @@ jobs:
           sha256sum dist/AI-News.apk > dist/AI-News.apk.sha256
       - uses: actions/upload-artifact@v4
         with:
-          name: AI-News-Android-3.2-Beta
+          name: AI-News-Android-3.3-Beta
           path: |
             dist/AI-News.apk
             dist/AI-News.apk.sha256
@@ -98,10 +99,10 @@ jobs:
         run: |
           git tag -f android-latest "$GITHUB_SHA"
           git push origin refs/tags/android-latest --force
-          NOTES="AI News Android 3.2 Beta • Discover & Expanded Intelligence. Discover has no implicit search focus in the base mobile JavaScript or UX layer; the keyboard opens only after an explicit tap in the search input. Adds Morning/Evening/Since-last-visit Smart Briefs, quick Smart-Watch templates, Widget Studio presets, local For-You reset/control, and an expanded AI-only catalog combining the stable core with the extended registry. Privacy/source transparency is CI-generated and checked. The APK remains a debug-signed beta/development build; use at your own risk."
+          NOTES="AI News Android 3.3 Beta • UX Command Center & Expanded Intelligence. Discover has no implicit search focus in the base mobile JavaScript or UX layer; the keyboard opens only after an explicit tap in the search input. Adds collapsible Filter Workspace, personal RSS/Atom sources, saved local filters, official social-link directory, two native overview widgets (Signal Stack and Live AI Radar), complete core+extended provider/source coverage, and the existing Smart Brief/Widget Studio intelligence layer. Privacy/source transparency is CI-generated and checked. The APK remains a debug-signed beta/development build; use at your own risk."
           if gh release view android-latest >/dev/null 2>&1; then
             gh release upload android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --clobber
-            gh release edit android-latest --title "AI News Android 3.2 Beta • Expanded Intelligence" --notes "$NOTES"
+            gh release edit android-latest --title "AI News Android 3.3 Beta • UX Command Center" --notes "$NOTES"
           else
             gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --title "AI News Android 3.2 Beta • Expanded Intelligence" --notes "$NOTES"
           fi
