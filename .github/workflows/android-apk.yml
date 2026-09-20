@@ -104,7 +104,7 @@ jobs:
           sha256sum dist/AI-News.apk > dist/AI-News.apk.sha256
       - uses: actions/upload-artifact@v4
         with:
-          name: AI-News-Android-3.8.0-Beta
+          name: AI-News-Android-3.8.1-Beta
           path: |
             dist/AI-News.apk
             dist/AI-News.apk.sha256

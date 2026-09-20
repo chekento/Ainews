@@ -22,8 +22,6 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.view.View;
-import android.view.WindowInsets;
-import android.view.WindowInsetsController;
 import android.view.WindowManager;
 import java.io.File;
 import cloud.kosch.ainews.widget.BaseNewsWidget;
@@ -38,12 +36,12 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        enterFullscreen();
         cleanupLegacyLlmStorage();
         getWindow().setStatusBarColor(Color.rgb(5, 7, 17));
         getWindow().setNavigationBarColor(Color.rgb(5, 7, 17));
         webView = new WebView(this);
         setContentView(webView);
+        enterFullscreen();
 
         WebSettings settings = webView.getSettings();
         settings.setJavaScriptEnabled(true);
@@ -76,16 +74,14 @@ public class MainActivity extends Activity {
         scheduleWatchJob();
     }
 
+    /**
+     * Apply immersive fullscreen without loading API-30-only classes during
+     * Activity startup. The legacy system-ui flags remain supported on the
+     * minimum API level and are safe to reapply after focus changes.
+     */
     private void enterFullscreen() {
-        getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
-            getWindow().setDecorFitsSystemWindows(false);
-            WindowInsetsController controller = getWindow().getInsetsController();
-            if (controller != null) {
-                controller.hide(WindowInsets.Type.statusBars() | WindowInsets.Type.navigationBars());
-                controller.setSystemBarsBehavior(WindowInsetsController.BEHAVIOR_SHOW_TRANSIENT_BARS_BY_SWIPE);
-            }
-        } else {
+        try {
+            getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
             getWindow().getDecorView().setSystemUiVisibility(
                 View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY |
                 View.SYSTEM_UI_FLAG_FULLSCREEN |
@@ -93,11 +89,18 @@ public class MainActivity extends Activity {
                 View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN |
                 View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION |
                 View.SYSTEM_UI_FLAG_LAYOUT_STABLE);
+        } catch (Throwable ignored) {
+            // Some vendor window managers reject an immersive flag. Keep the
+            // Activity usable instead of failing the launcher start.
         }
     }
 
     private void cleanupLegacyLlmStorage() {
-        try { deleteRecursively(new File(getFilesDir(), "ondevice-models")); } catch (Exception ignored) { }
+        final File legacyRoot = new File(getFilesDir(), "ondevice-models");
+        if (!legacyRoot.exists()) return;
+        new Thread(() -> {
+            try { deleteRecursively(legacyRoot); } catch (Throwable ignored) { }
+        }, "legacy-llm-cleanup").start();
     }
 
     private void deleteRecursively(File target) {
