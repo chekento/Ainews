@@ -114,6 +114,18 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 
 ---
 
+<!-- PRODUCT_WIRE:START -->
+## ◈ Product & Service Wire
+
+The product desk monitors usable AI services separately from general model news: Claude Code, Google Antigravity, Google Flow, Make, Zapier, KNIME, Suno, Udio, Websim.ai and more.
+
+**Tracked:** 40 products · official product pages · original-link news monitoring · no article mirroring.
+
+**[→ Product registry](config/products.json)** · **[→ Android APK archive](ANDROID-ARCHIVE.md)**
+<!-- PRODUCT_WIRE:END -->
+
+---
+
 ## 🧭 Signal Deck
 
 | Desk | Coverage |
