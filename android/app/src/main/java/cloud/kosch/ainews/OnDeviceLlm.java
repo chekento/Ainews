@@ -275,7 +275,7 @@ public final class OnDeviceLlm {
         Engine next = null;
         Throwable gpuFailure = null;
         try {
-            next = new Engine(new EngineConfig(modelFile().getAbsolutePath(), new Backend.GPU()));
+            next = new Engine(new EngineConfig(modelFile().getAbsolutePath(), new Backend.GPU(), null, null, null, null, null));
             next.initialize();
             backend = "GPU";
         } catch (Throwable throwable) {
@@ -288,7 +288,7 @@ public final class OnDeviceLlm {
 
         if (next == null) {
             try {
-                next = new Engine(new EngineConfig(modelFile().getAbsolutePath(), new Backend.CPU()));
+                next = new Engine(new EngineConfig(modelFile().getAbsolutePath(), new Backend.CPU(), null, null, null, null, null));
                 next.initialize();
                 backend = "CPU";
             } catch (Throwable cpuFailure) {
