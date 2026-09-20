@@ -264,22 +264,55 @@ public final class OnDeviceLlm {
             return;
         }
         if (!modelFile().isFile()) throw new IllegalStateException("Model file is missing.");
+
+        // Qwen3 0.6B is a text-only LiteRT-LM artifact. Do not configure vision or
+        // audio executors: doing so asks the runtime for TF_LITE_AUDIO_ENCODER_HW,
+        // which this model does not contain.
+        if (engine != null || conversation != null) closeEngine();
         setState("loading");
+        backend = "not loaded";
+
         Engine next = null;
+        Throwable gpuFailure = null;
         try {
-            next = new Engine(new EngineConfig(modelFile().getAbsolutePath(), new Backend.GPU(), new Backend.CPU(), new Backend.CPU(), null, null, null));
+            next = new Engine(new EngineConfig(modelFile().getAbsolutePath(), new Backend.GPU()));
             next.initialize();
             backend = "GPU";
-        } catch (Throwable gpuFailure) {
+        } catch (Throwable throwable) {
+            gpuFailure = throwable;
             if (next != null) {
                 try { next.close(); } catch (Exception ignored) { }
             }
-            next = new Engine(new EngineConfig(modelFile().getAbsolutePath(), new Backend.CPU(), new Backend.CPU(), new Backend.CPU(), null, null, null));
-            next.initialize();
-            backend = "CPU";
+            next = null;
         }
+
+        if (next == null) {
+            try {
+                next = new Engine(new EngineConfig(modelFile().getAbsolutePath(), new Backend.CPU()));
+                next.initialize();
+                backend = "CPU";
+            } catch (Throwable cpuFailure) {
+                if (next != null) {
+                    try { next.close(); } catch (Exception ignored) { }
+                }
+                String gpuMessage = gpuFailure == null ? "not attempted" : readableError(gpuFailure);
+                throw new IllegalStateException(
+                    "Text-only model initialization failed. GPU: " + gpuMessage +
+                    " · CPU: " + readableError(cpuFailure), cpuFailure
+                );
+            }
+        }
+
         engine = next;
-        conversation = engine.createConversation(new ConversationConfig());
+        try {
+            conversation = engine.createConversation(new ConversationConfig());
+        } catch (Throwable conversationFailure) {
+            closeEngine();
+            throw new IllegalStateException(
+                "Text-only conversation could not be created: " + readableError(conversationFailure),
+                conversationFailure
+            );
+        }
         error = "";
         setState("ready");
     }
@@ -321,6 +354,7 @@ public final class OnDeviceLlm {
         object.put("modelSource", MODEL_SOURCE);
         object.put("license", MODEL_LICENSE);
         object.put("runtime", RUNTIME_VERSION);
+        object.put("mode", "text-only");
         object.put("sizeLabel", "~328 MB");
         object.put("modelBytes", modelFile().isFile() ? modelFile().length() : 0);
         object.put("installed", modelFile().isFile());

@@ -14,7 +14,15 @@
       "source": "LiteRT Community / Hugging Face",
       "modelCard": "https://huggingface.co/litert-community/Qwen3-0.6B",
       "downloadUrl": "https://huggingface.co/litert-community/Qwen3-0.6B/resolve/main/Qwen3-0.6B_dynamic_wi4b32_afp32.litertlm",
-      "capabilities": ["text generation", "multi-turn Copilot discussion", "offline source-grounded answers"]
+      "capabilities": [
+        "text generation",
+        "multi-turn Copilot discussion",
+        "offline source-grounded answers"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "initialization": "Text-only LiteRT-LM engine; no vision or audio backend."
     }
   ]
 }

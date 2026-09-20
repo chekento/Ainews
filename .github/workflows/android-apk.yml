@@ -73,14 +73,14 @@ jobs:
           const sources=[...coreS,...extraS],providers=[...coreP,...extraP];
           const socialIds=new Set(social.map(x=>x.id));
           const missingSocial=providers.filter(x=>!socialIds.has(x.id)).map(x=>x.name);
-          const requiredProducts=['Claude Code','Google Antigravity','Google Flow','Make','Zapier','KNIME','Suno','Udio','Websim.ai'];
+          const requiredProducts=['Claude Code','OpenAI API','Claude API','Vertex AI','Amazon Bedrock','Microsoft Copilot Studio','Mistral API','Hugging Face Hub','NVIDIA NIM','GitHub Models','n8n AI','Websim.ai'];
           const missingProducts=requiredProducts.filter(name=>!products.some(x=>x.name===name));
           if(missingSocial.length){console.error('Social directory missing providers:',missingSocial);process.exit(6)}
           if(missingProducts.length){console.error('Product registry missing required products:',missingProducts);process.exit(7)}
           const privacy=fs.readFileSync('PRIVACY.md','utf8')+'\n'+fs.readFileSync('PRIVACY-SOURCES.md','utf8');
           const missing=[...sources.map(x=>x.name),...providers.map(x=>x.name),...products.map(x=>x.name)].filter(name=>!privacy.includes(name));
           if(missing.length){console.error('Privacy catalog missing registered names:',missing);process.exit(3)}
-          if(sources.length<135||providers.length<50||products.length<30)process.exit(2);
+          if(sources.length<135||providers.length<50||products.length<90)process.exit(2);
           if(/searchInput['"]?\)?\.focus|searchInput.*focus/.test(fs.readFileSync('android/app/src/main/assets/app.js','utf8'))){console.error('Discover auto-focus still present');process.exit(5)}
           console.log('Mobile assets + expanded privacy + products + Discover UX OK:',sources.length,'sources,',providers.length,'providers,',products.length,'products');
           NODE
@@ -106,7 +106,7 @@ jobs:
           sha256sum dist/AI-News.apk > dist/AI-News.apk.sha256
       - uses: actions/upload-artifact@v4
         with:
-          name: AI-News-Android-3.7.2-Beta
+          name: AI-News-Android-3.7.3-Beta
           path: |
             dist/AI-News.apk
             dist/AI-News.apk.sha256
