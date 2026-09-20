@@ -1,0 +1,10 @@
+/* AI News web readability baseline. */
+html,body{color:var(--text)!important}
+button,input,select,textarea{font:inherit;color:var(--text)}
+button{-webkit-appearance:none;appearance:none}
+button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px solid var(--mint);outline-offset:2px}
+main,.shell,.section,.stream-section,.settings-section{min-width:0}
+.story-card,.news-card,.provider-card,.product-card,.gov-card,.social-card{min-width:0}
+h1,h2,h3,h4,h5,h6,strong,b{color:var(--text)}
+input,select,textarea{border-color:var(--line);background:var(--panel-2);color:var(--text)}
+input::placeholder,textarea::placeholder{color:var(--muted);opacity:.85}

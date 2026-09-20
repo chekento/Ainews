@@ -4,7 +4,7 @@
 
   var THEMES=[
     {id:"cyber-news",name:"Cyber News",group:"Cyber",accent:"#65f7c4",bg:"#050711",bg2:"#0b1020",panel:"rgba(13,19,36,.86)",panel2:"#11182c",text:"#f5f7ff",muted:"#9ba8c3",line:"rgba(153,179,224,.16)"},
-    {id:"modern-news",name:"Modern News",group:"Editorial",accent:"#4f7cff",bg:"#101827",bg2:"#f3f6fb",panel:"rgba(255,255,255,.92)",panel2:"#ffffff",text:"#152038",muted:"#64718a",line:"rgba(31,55,91,.16)"},
+    {id:"modern-news",name:"Modern News",group:"Editorial",accent:"#315fdc",bg:"#f3f6fb",bg2:"#fbfdff",panel:"rgba(255,255,255,.92)",panel2:"#ffffff",text:"#152038",muted:"#64718a",line:"rgba(31,55,91,.16)"},
     {id:"old-news",name:"Old News",group:"Editorial",accent:"#b78442",bg:"#221a12",bg2:"#392a1c",panel:"rgba(71,50,30,.88)",panel2:"#4a3420",text:"#f8e9c9",muted:"#c9ad83",line:"rgba(230,195,142,.22)"},
     {id:"newspaper-old",name:"Newspaper Old",group:"Editorial",accent:"#8b6b43",bg:"#e7ddc6",bg2:"#c7b99d",panel:"rgba(248,241,224,.92)",panel2:"#f5ecd8",text:"#2b2419",muted:"#766751",line:"rgba(73,57,35,.22)"},
     {id:"interactive-matrix",name:"Interactive Matrix",group:"Digital",accent:"#00ff73",bg:"#020604",bg2:"#07140c",panel:"rgba(2,25,13,.9)",panel2:"#061d10",text:"#d9ffe8",muted:"#72bf8d",line:"rgba(0,255,115,.22)"},
@@ -54,7 +54,7 @@
     var t=theme(id),root=document.documentElement,body=document.body;
     if(!body)return;
     body.dataset.theme=t.id;
-    [["--bg",t.bg],["--bg2",t.bg2],["--panel",t.panel],["--panel2",t.panel2],["--text",t.text],["--muted",t.muted],["--line",t.line],["--theme-accent",t.accent]].forEach(function(pair){root.style.setProperty(pair[0],pair[1]);body.style.setProperty(pair[0],pair[1])});
+    [["--bg",t.bg],["--bg2",t.bg2],["--panel",t.panel],["--panel2",t.panel2],["--text",t.text],["--muted",t.muted],["--line",t.line],["--accent",t.accent],["--theme-accent",t.accent]].forEach(function(pair){root.style.setProperty(pair[0],pair[1]);body.style.setProperty(pair[0],pair[1])});
     if(!body.dataset.themeMotion)body.dataset.themeMotion="on";syncVisualFx(t.id);
   }
 
@@ -200,7 +200,7 @@
 
   function boot(){
     var s=app();if(!s)return;
-    if(s.prefs.theme==="cyber")s.prefs.theme="cyber-news";
+    if(s.prefs.theme==="cyber"){s.prefs.theme="cyber-news";try{persistPrefs()}catch(e){}}
     s.widget=s.widget||{};
     if(!s.widget.theme)s.widget.theme="cyber-news";
     insertRadar();insertThemeStudio();syncThemeControls();events();renderRadar();

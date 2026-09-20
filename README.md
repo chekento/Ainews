@@ -20,7 +20,7 @@
 > **BETA / IN DEVELOPMENT.** AI News and the Android APK are active test builds and may contain bugs, incomplete functions, inaccurate classifications, notification issues or breaking changes. **Use at your own risk / Nutzung auf eigene Gefahr.** Do not rely on the app as the sole source for important, legal, safety-critical, financial or operational decisions. Verify important information with the linked original sources. The directly distributed APK is currently a **debug-signed beta build**, not a production Play Store release.
 
 <p align="center">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.7 BETA</strong></a><br>
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.7.1 BETA</strong></a><br>
   <a href="https://github.com/chekento/Ainews/releases/tag/android-latest">Release details</a> ·
   <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256">SHA-256 checksum</a> ·
   <a href="PRIVACY.md">Datenschutz / Privacy & all sources</a> ·
@@ -53,9 +53,11 @@ Strict AI-only relevance filtering across labs, research, independent reporting,
 </td>
 <td width="50%" valign="top">
 
-### 📱 ANDROID 3.7 BETA
+### 📱 ANDROID 3.7.1 BETA
 
 Command Center home, Discover search, source controls, saved stories, Copilot, Smart Watches and nine configurable home-screen widgets.
+
+**3.7.1 UX layer:** Readability recovery, duplicate-WebView boot prevention, an explicit Settings entry and a dedicated Discover surface are included in this repair build.
 
 **3.7 UX layer:** Official X/Twitter, LinkedIn, YouTube, Instagram and Facebook provider profiles; collapsible Copilot; API-free local topic discussion; live news/social radar with adjustable window; Matrix glyph rain; 28 selectable app/widget themes and two Kawaii plush themes.
 
@@ -165,7 +167,7 @@ Android 3.7 keeps **Latest · For You · High Signal · Story Clusters · Brief*
 
 > **Development status:** this is an active beta/test build. Bugs, incomplete functions and breaking changes are possible. **Use at your own risk / Nutzung auf eigene Gefahr.**
 
-### [⬇ Download AI News Android 3.7 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.7.1 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- INTELLIGENCE_SUITE:END -->
 
 ---
@@ -185,7 +187,7 @@ All custom filters, sources, profile links and the downloaded on-device model re
 
 ---
 
-## 📱 Android 3.7 Beta — Discover & Expanded Intelligence
+## 📱 Android 3.7.1 Beta — Discover & Expanded Intelligence
 
 The APK uses a local mobile interface rather than depending on GitHub Pages. Android 3.7 adds an optional downloadable Qwen3 0.6B on-device model for private generative Copilot conversations. It downloads the current AI-only JSON feed directly from this repository and keeps a bundled offline fallback inside the package.
 
@@ -193,7 +195,7 @@ The APK uses a local mobile interface rather than depending on GitHub Pages. And
 
 **Customization:** Hypercyber/OLED/Light/System themes, multiple accents, UI density, font scale, animation level, summaries, visual previews, default time range, sorting, refresh cadence, primary-source boost, provider monitors and research-paper visibility.
 
-### [⬇ Download current Android 3.7 Beta APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download current Android 3.7.1 Beta APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 
 > [!CAUTION]
 > This direct APK is a **debug-signed development/beta build**. Installation and use are at your own risk. Back up important data and do not treat the app as production-critical software. A Play Store production package should use dedicated release signing and an AAB pipeline.
@@ -209,7 +211,7 @@ Widgets share source exclusions, expose configurable content mode/accent/text sc
 
 > Widget refresh timing and rendering can vary by Android device, launcher and battery-management policy. This remains beta functionality.
 
-### [⬇ Download AI News Android 3.7 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.7.1 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- ANDROID_WIDGETS:END -->
 
 ---
@@ -240,7 +242,7 @@ Every page carries the same beta status, current APK link and legal/privacy navi
 - `android/` — Android beta app, native widgets and local mobile UI
 - `assets/branding/` — repository/web logo system
 - `.github/workflows/refresh-news.yml` — 30-minute feed refresh
-- .github/workflows/android-apk.yml — Android 3.7 beta build and stable `android-latest` download
+- .github/workflows/android-apk.yml — Android 3.7.1 beta build and stable `android-latest` download
 
 ### Android build
 

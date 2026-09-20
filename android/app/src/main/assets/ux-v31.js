@@ -5,8 +5,8 @@
   const CORE_SOURCES_URL='https://github.com/chekento/Ainews/blob/main/config/sources.json';
   const EXTRA_SOURCES_URL='https://github.com/chekento/Ainews/blob/main/config/sources-extra.json';
   const RAW='https://raw.githubusercontent.com/chekento/Ainews/main/';
-  const VERSION='3.2';
-  document.title='AI News 3.2 Beta';
+  const VERSION='3.7.1';
+  document.title='AI News 3.7.1 · UX Command Center';
 
   function ext(url){
     try{if(window.AndroidBridge&&typeof AndroidBridge.openExternal==='function'){AndroidBridge.openExternal(url);return;}}catch{}

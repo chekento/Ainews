@@ -4,11 +4,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
   <meta name="theme-color" content="#050711">
-  <title>AI News 3.7 · UX Command Center</title
-  <link rel="stylesheet" href="app.css">
-  <link rel="stylesheet" href="theme-radar.css">
-  <link rel="stylesheet" href="source.css">
-  <link rel="stylesheet" href="media.css">
+  <title>AI News 3.7.1 · UX Command Center</title>
+  <link id="app-css" rel="stylesheet" href="app.css">
+  <link id="ux-v31-css" rel="stylesheet" href="ux-v31.css">
+  <link id="ux-v32-css" rel="stylesheet" href="ux-v32.css">
+  <link id="intelligence-v3-css" rel="stylesheet" href="intelligence-v3.css">
+  <link id="copilot-v2-css" rel="stylesheet" href="copilot-v2.css">
+  <link id="theme-radar-css" rel="stylesheet" href="theme-radar.css">
+  <link id="source-css" rel="stylesheet" href="source.css">
+  <link id="media-css" rel="stylesheet" href="media.css">
+  <link id="readability-fix-css" rel="stylesheet" href="readability-fix.css">
 </head>
 <body data-theme="cyber" data-density="comfortable" data-cards="rich" data-motion="full">
   <div class="fx-grid"></div><div class="fx-orb fx-a"></div><div class="fx-orb fx-b"></div>
@@ -149,11 +154,12 @@
   <div id="chatSheet" class="chat-sheet" aria-hidden="true"><div class="sheet-backdrop" data-close-chat></div><section class="sheet-panel"><div class="sheet-handle"></div><header><div><small>ARTICLE INTELLIGENCE</small><h2>✦ AI News Copilot</h2></div><button data-close-chat>×</button></header><div id="chatContext" class="chat-context"></div><div id="chatMessages" class="chat-messages"></div><div class="quick-row"><button data-q="Summarize why this matters.">Why it matters</button><button data-q="Find related stories and competing providers.">Related</button><button data-q="What are the compliance, safety or ethics implications?">Risk & policy</button></div><form id="chatForm"><textarea id="chatInput" rows="2" placeholder="Ask about this story or the current filtered AI feed…"></textarea><button type="submit">↑</button></form><details class="model-settings"><summary>Local Research Mode · free and API-free (optional connected model)</summary><p class="cp-local-note">The built-in mode discusses the loaded AI news locally without an API key. A connected model is optional and never required.</p><input id="llmEndpoint" placeholder="https://…/v1/chat/completions"><input id="llmModel" placeholder="model-name"><input id="llmToken" type="password" placeholder="session token"><label><input id="llmEnabled" type="checkbox"> Use connected model</label></details></section></div>
 
   <div id="toast" class="toast"></div>
-  <script src="app.js"></script>
-  <script src="media.js"></script>
-  <script src="ux-v32.js"></script>
-  <script src="intelligence-v3.js"></script>
-  <script src="copilot-v2.js"></script>
-  <script src="theme-radar.js"></script>
+  <script id="app-js" src="app.js"></script>
+  <script id="media-js" src="media.js"></script>
+  <script id="ux-v31-js" src="ux-v31.js"></script>
+  <script id="ux-v32-js" src="ux-v32.js"></script>
+  <script id="intelligence-v3-js" src="intelligence-v3.js"></script>
+  <script id="copilot-v2-js" src="copilot-v2.js"></script>
+  <script id="theme-radar-js" src="theme-radar.js"></script>
 </body>
 </html>

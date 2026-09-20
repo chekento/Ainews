@@ -92,7 +92,7 @@
   function bar(){
     if(q("#v32Commandbar"))return;
     var appbar=q(".appbar");if(!appbar)return;
-    appbar.insertAdjacentHTML("afterend","<nav id=\"v32Commandbar\" class=\"v32-commandbar\" aria-label=\"Command Center\"><button data-v32-page=\"0\" class=\"active\">⌂ Command</button><button data-v32-page=\"1\">⌕ Discover</button><button data-v32-page=\"2\">⬡ LLM Wire</button><button data-v32-page=\"3\">◇ Governance</button><button data-v32-page=\"4\">◎ Social</button><button data-v32-page=\"6\">⚙ Customize</button><span class=\"v32-live\"><i></i><span id=\"v32LiveCount\">LIVE</span></span></nav>");
+    appbar.insertAdjacentHTML("afterend","<nav id=\"v32Commandbar\" class=\"v32-commandbar\" aria-label=\"Command Center\"><button data-v32-page=\"0\" class=\"active\">⌂ Command</button><button data-v32-page=\"1\">⌕ Discover</button><button data-v32-page=\"2\">⬡ LLM Wire</button><button data-v32-page=\"3\">◇ Governance</button><button data-v32-page=\"4\">◎ Social</button><button data-v32-page=\"6\">⚙ Settings</button><span class=\"v32-live\"><i></i><span id=\"v32LiveCount\">LIVE</span></span></nav>");
   }
   function syncBar(index){
     qq("#v32Commandbar [data-v32-page]").forEach(function(b){b.classList.toggle("active",Number(b.getAttribute("data-v32-page"))===index)})

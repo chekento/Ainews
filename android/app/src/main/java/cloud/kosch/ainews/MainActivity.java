@@ -55,8 +55,8 @@ public class MainActivity extends Activity {
             @Override public void onPageFinished(WebView view, String url) {
                 super.onPageFinished(view, url);
                 String bootstrap = "(function(){" +
-                    "function css(id,href){if(!document.getElementById(id)){var l=document.createElement('link');l.id=id;l.rel='stylesheet';l.href=href;document.head.appendChild(l);}}" +
-                    "function seq(files,i){if(i>=files.length)return;var f=files[i],old=document.getElementById(f[0]);if(old){seq(files,i+1);return;}var s=document.createElement('script');s.id=f[0];s.src=f[1];s.onload=function(){seq(files,i+1)};s.onerror=function(){seq(files,i+1)};document.body.appendChild(s);}" +
+                    "function css(id,href){if(document.getElementById(id))return;var found=Array.from(document.querySelectorAll('link[rel=\"stylesheet\"]')).find(function(x){return x.getAttribute('href')===href});if(found){found.id=id;return;}var l=document.createElement('link');l.id=id;l.rel='stylesheet';l.href=href;document.head.appendChild(l);}" +
+                    "function seq(files,i){if(i>=files.length)return;var f=files[i],old=document.getElementById(f[0])||Array.from(document.scripts).find(function(x){return x.getAttribute('src')===f[1]||x.getAttribute('src')===('./'+f[1])});if(old){old.id=f[0];seq(files,i+1);return;}var s=document.createElement('script');s.id=f[0];s.src=f[1];s.onload=function(){seq(files,i+1)};s.onerror=function(){seq(files,i+1)};document.body.appendChild(s);}" +
                     "css('copilot-v2-css','copilot-v2.css');css('intelligence-v3-css','intelligence-v3.css');css('ux-v31-css','ux-v31.css');css('ux-v32-css','ux-v32.css');" +
                     "seq([['copilot-v2-js','copilot-v2.js'],['intelligence-v3-js','intelligence-v3.js'],['ux-v31-js','ux-v31.js'],['ux-v32-js','ux-v32.js']],0);" +
                     "})();";
