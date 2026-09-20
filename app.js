@@ -158,7 +158,9 @@ function renderNews(){
 function renderSocialGrid(){
   const cards=[];
   state.providers.forEach(p=>Object.entries(p.social||{}).forEach(([platform,url])=>cards.push({p,platform,url})));
-  $('#socialGrid').innerHTML=cards.map(({p,platform,url})=>`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer" class="social-card ${esc(platform)}"><span class="social-icon">${platform==='linkedin'?'in':platform==='instagram'?'◎':'f'}</span><div><small>${esc(platform.toUpperCase())}</small><strong>${esc(p.name)}</strong><span>Open official profile ↗</span></div></a>`).join('');
+  const labels={x:'X / TWITTER',linkedin:'LINKEDIN',youtube:'YOUTUBE',instagram:'INSTAGRAM',facebook:'FACEBOOK'};
+  const icons={x:'𝕏',linkedin:'in',youtube:'▶',instagram:'◎',facebook:'f'};
+  $('#socialGrid').innerHTML=cards.map(({p,platform,url})=>`<a href="${esc(url)}" target="_blank" rel="noopener noreferrer" class="social-card ${esc(platform)}"><span class="social-icon">${icons[platform]||'↗'}</span><div><small>${esc(labels[platform]||platform.toUpperCase())}</small><strong>${esc(p.name)}</strong><span>Open official profile ↗</span></div></a>`).join('');
 }
 function renderSourceMatrix(){
   const groups=[['Primary Labs','primary'],['Research','research'],['Journalism','journalism'],['Governance & Standards','official','governance']];

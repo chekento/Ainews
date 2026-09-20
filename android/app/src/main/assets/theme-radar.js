@@ -28,7 +28,9 @@
     {id:"arctic-light",name:"Arctic Light",group:"Light",accent:"#007fba",bg:"#e7f4f8",bg2:"#ffffff",panel:"rgba(255,255,255,.95)",panel2:"#ffffff",text:"#102b3c",muted:"#527487",line:"rgba(0,93,135,.18)"},
     {id:"gold-observatory",name:"Gold Observatory",group:"Luxury",accent:"#ffd36a",bg:"#120e08",bg2:"#30210a",panel:"rgba(59,40,8,.9)",panel2:"#4a3108",text:"#fff8dc",muted:"#d6bd83",line:"rgba(255,211,106,.27)"},
     {id:"deep-space",name:"Deep Space",group:"Cosmic",accent:"#8fa8ff",bg:"#02040d",bg2:"#111b42",panel:"rgba(15,24,57,.9)",panel2:"#18265b",text:"#f2f5ff",muted:"#9ba9d0",line:"rgba(143,168,255,.25)"},
-    {id:"sunset-newsroom",name:"Sunset Newsroom",group:"Editorial",accent:"#ff8b5c",bg:"#210d12",bg2:"#55220f",panel:"rgba(77,27,21,.9)",panel2:"#662d1c",text:"#fff4e9",muted:"#dda991",line:"rgba(255,139,92,.25)"}
+    {id:"sunset-newsroom",name:"Sunset Newsroom",group:"Editorial",accent:"#ff8b5c",bg:"#210d12",bg2:"#55220f",panel:"rgba(77,27,21,.9)",panel2:"#662d1c",text:"#fff4e9",muted:"#dda991",line:"rgba(255,139,92,.25)"},
+    {id:"kawaii-plush",name:"Kawaii Plush",group:"Kawaii",accent:"#f48ab5",bg:"#fff0f6",bg2:"#ffe1ed",panel:"rgba(255,255,255,.9)",panel2:"#fff8fb",text:"#5b3650",muted:"#a26b86",line:"rgba(226,126,164,.28)"},
+    {id:"kawaii-candy",name:"Kawaii Candy",group:"Kawaii",accent:"#8bcbff",bg:"#effcff",bg2:"#fff0fb",panel:"rgba(255,255,255,.9)",panel2:"#ffffff",text:"#3e4a68",muted:"#7180a5",line:"rgba(137,206,255,.28)"}
   ];
 
   var RADAR_KEY="aiNewsRadarPrefsV1";
@@ -53,9 +55,16 @@
     if(!body)return;
     body.dataset.theme=t.id;
     [["--bg",t.bg],["--bg2",t.bg2],["--panel",t.panel],["--panel2",t.panel2],["--text",t.text],["--muted",t.muted],["--line",t.line],["--theme-accent",t.accent]].forEach(function(pair){root.style.setProperty(pair[0],pair[1]);body.style.setProperty(pair[0],pair[1])});
-    if(!body.dataset.themeMotion)body.dataset.themeMotion="on";
+    if(!body.dataset.themeMotion)body.dataset.themeMotion="on";syncVisualFx(t.id);
   }
 
+  var matrixCanvas=null,matrixCtx=null,matrixFrame=0,matrixColumns=[],kawaiiDecor=null;
+  function syncVisualFx(id){var body=document.body;if(!body)return;body.classList.toggle("v34-matrix-active",id==="interactive-matrix");body.classList.toggle("v34-kawaii-plush-active",id==="kawaii-plush");body.classList.toggle("v34-kawaii-candy-active",id==="kawaii-candy");if(id==="interactive-matrix")startMatrixRain();else stopMatrixRain();if(/^kawaii-/.test(id))ensureKawaiiDecor(id);else if(kawaiiDecor)kawaiiDecor.classList.remove("active")}
+  function resizeMatrixRain(){if(!matrixCanvas||!matrixCtx)return;var d=Math.min(window.devicePixelRatio||1,2);matrixCanvas.width=Math.max(1,Math.floor(window.innerWidth*d));matrixCanvas.height=Math.max(1,Math.floor(window.innerHeight*d));matrixCtx.setTransform(d,0,0,d,0,0);matrixColumns=[];for(var i=0;i<Math.ceil(window.innerWidth/16)+1;i++)matrixColumns.push(Math.random()*-40)}
+  function drawMatrixRain(){if(!matrixCanvas||!document.body.classList.contains("v34-matrix-active")){matrixFrame=0;return}var ctx=matrixCtx,w=window.innerWidth,h=window.innerHeight;ctx.fillStyle="rgba(2,6,4,.17)";ctx.fillRect(0,0,w,h);ctx.font="14px monospace";for(var i=0;i<matrixColumns.length;i++){var x=i*16,y=matrixColumns[i]*16,glyph="アカサタナハマヤラワ"+(Math.random()>.5?"01":"");ctx.fillStyle=i%5===0?"rgba(188,255,218,.9)":"rgba(0,255,115,.68)";ctx.fillText(glyph.charAt(Math.floor(Math.random()*glyph.length)),x,y);if(y>h&&Math.random()>.976)matrixColumns[i]=Math.random()*-20;else matrixColumns[i]+=0.65}matrixFrame=requestAnimationFrame(drawMatrixRain)}
+  function startMatrixRain(){if(!matrixCanvas){matrixCanvas=document.createElement("canvas");matrixCanvas.id="v34MatrixCanvas";matrixCanvas.className="v34-matrix-canvas";matrixCanvas.setAttribute("aria-hidden","true");document.body.insertBefore(matrixCanvas,document.body.firstChild);matrixCtx=matrixCanvas.getContext("2d");window.addEventListener("resize",resizeMatrixRain)}resizeMatrixRain();matrixCanvas.classList.add("active");if(!matrixFrame)matrixFrame=requestAnimationFrame(drawMatrixRain)}
+  function stopMatrixRain(){if(matrixFrame){cancelAnimationFrame(matrixFrame);matrixFrame=0}if(matrixCanvas){matrixCanvas.classList.remove("active");if(matrixCtx)matrixCtx.clearRect(0,0,window.innerWidth,window.innerHeight)}}
+  function ensureKawaiiDecor(id){if(!kawaiiDecor){kawaiiDecor=document.createElement("div");kawaiiDecor.id="v34KawaiiDecor";kawaiiDecor.className="v34-kawaii-decor";kawaiiDecor.setAttribute("aria-hidden","true");document.body.insertBefore(kawaiiDecor,document.body.firstChild)}kawaiiDecor.innerHTML=id==="kawaii-plush"?"<span>🧸</span><span>🐰</span><span>🌸</span><span>✦</span>":"<span>🍬</span><span>🧸</span><span>🌈</span><span>✧</span>";kawaiiDecor.classList.add("active")}
   function themeOptions(){
     return THEMES.map(function(t){return"<option value='"+t.id+"'>"+esc(t.name)+"</option>"}).join("");
   }
@@ -113,7 +122,7 @@
     var host=document.querySelector(".settings-page .settings-card");
     if(!host)return;
     host.insertAdjacentHTML("afterend",
-      "<section id='v34ThemeStudio' class='settings-card v34-theme-card'><header><span>02</span><div><small>VISUAL SYSTEM</small><h2>Theme Studio · 26 worlds</h2></div></header>"+
+      "<section id='v34ThemeStudio' class='settings-card v34-theme-card'><header><span>02</span><div><small>VISUAL SYSTEM</small><h2>Theme Studio · 28 worlds</h2></div></header>"+
       "<div class='v34-theme-intro'>Choose an independent theme for the app and for all home-screen widgets. Your choice stays on this device.</div>"+
       "<div class='v34-theme-select-row'><label>App theme<select id='v34AppThemePref'>"+themeOptions()+"</select></label><label>Widget theme<select id='widgetThemePref'>"+themeOptions()+"</select></label></div>"+
       "<div class='v34-theme-label'>APP THEMES</div><div id='v34AppThemeGrid' class='v34-theme-grid'>"+themeButtons("app")+"</div>"+

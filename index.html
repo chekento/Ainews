@@ -165,7 +165,7 @@
   <aside id="chatDrawer" class="chat-drawer" aria-hidden="true" aria-labelledby="chatTitle">
     <div class="chat-backdrop" data-close-chat></div>
     <div class="chat-panel">
-      <header><div><span class="kicker">ARTICLE INTELLIGENCE</span><h2 id="chatTitle">AI News Copilot</h2></div><button class="close-btn" type="button" data-close-chat>×</button></header>
+      <header><div><span class="kicker">ARTICLE INTELLIGENCE</span><h2 id="chatTitle">AI News Copilot</h2></div><div class="chat-header-actions"><button id="chatMinimizeBtn" class="chat-tool-btn" type="button" title="Minimize Copilot">—</button><button id="chatDisableBtn" class="chat-tool-btn danger" type="button" title="Disable Copilot">Disable</button><button class="close-btn" type="button" data-close-chat>×</button></div></header>
       <div id="chatContext" class="chat-context"><span>GLOBAL FEED</span><strong>Ask across the current AI news dataset</strong><p>The built-in research mode answers from loaded headlines and excerpts. Choose an article to focus the context.</p></div>
       <div id="chatMessages" class="chat-messages" aria-live="polite"></div>
       <div class="quick-prompts">
@@ -176,9 +176,9 @@
       </div>
       <form id="chatForm" class="chat-form"><textarea id="chatInput" rows="2" placeholder="Ask about this article or the current AI news…" required></textarea><button type="submit">Send <span>↑</span></button></form>
       <details class="llm-settings">
-        <summary>Connect an optional LLM endpoint</summary>
+        <summary>Local Research Mode · free and API-free (optional connected model)</summary><p class="local-mode-note">The built-in Copilot discusses the loaded AI news without an API key. A connected model is optional.</p>
         <p>GitHub Pages cannot securely hold server secrets. Use a browser-accessible OpenAI-compatible endpoint only if you understand the exposure risk. The token is kept in session memory, never committed or stored permanently.</p>
-        <div class="settings-grid"><label>Endpoint<input id="llmEndpoint" type="url" placeholder="https://example.com/v1/chat/completions"></label><label>Model<input id="llmModel" type="text" placeholder="model-name"></label><label>Session token<input id="llmToken" type="password" autocomplete="off" placeholder="optional"></label><label class="toggle"><input id="llmEnabled" type="checkbox"><span>✦</span> Use connected LLM</label></div>
+        <div class="settings-grid"><label>Endpoint<input id="llmEndpoint" type="url" placeholder="https://example.com/v1/chat/completions"></label><label>Model<input id="llmModel" type="text" placeholder="model-name"></label><label>Session token<input id="llmToken" type="password" autocomplete="off" placeholder="optional"></label><label class="toggle"><input id="copilotEnabledPref" type="checkbox" checked><span>✦</span> Local Copilot active</label><label class="toggle"><input id="llmEnabled" type="checkbox"><span>✦</span> Use connected LLM</label></div>
       </details>
     </div>
   </aside>

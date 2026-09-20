@@ -106,7 +106,7 @@ jobs:
           NOTES="AI News Android 3.5 Beta • Social Wire, Local Copilot & Theme Studio. Discover has no implicit search focus in the base mobile JavaScript or UX layer; the keyboard opens only after an explicit tap in the search input. Adds collapsible Filter Workspace, personal RSS/Atom sources, saved local filters, official social-link directory, two native overview widgets (Signal Stack and Live AI Radar), complete core+extended provider/source coverage, and the existing Smart Brief/Widget Studio intelligence layer. Privacy/source transparency is CI-generated and checked. The APK remains a debug-signed beta/development build; use at your own risk."
           if gh release view android-latest >/dev/null 2>&1; then
             gh release upload android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --clobber
-            gh release edit android-latest --title "AI News Android 3.4 Beta • Live Radar & Theme Studio" --notes "$NOTES"
+            gh release edit android-latest --title "AI News Android 3.5 Beta • Social Wire, Local Copilot & Theme Studio" --notes "$NOTES"
           else
             gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --title "AI News Android 3.4 Beta • Live Radar & Theme Studio" --notes "$NOTES"
           fi
