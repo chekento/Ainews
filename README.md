@@ -20,7 +20,7 @@
 > **BETA / IN DEVELOPMENT.** AI News and the Android APK are active test builds and may contain bugs, incomplete functions, inaccurate classifications, notification issues or breaking changes. **Use at your own risk / Nutzung auf eigene Gefahr.** Do not rely on the app as the sole source for important, legal, safety-critical, financial or operational decisions. Verify important information with the linked original sources. The directly distributed APK is currently a **debug-signed beta build**, not a production Play Store release.
 
 <p align="center">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.7.1 BETA</strong></a><br>
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.7 BETA</strong></a><br>
   <a href="https://github.com/chekento/Ainews/releases/tag/android-latest">Release details</a> ·
   <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256">SHA-256 checksum</a> ·
   <a href="PRIVACY.md">Datenschutz / Privacy & all sources</a> ·
@@ -53,7 +53,7 @@ Strict AI-only relevance filtering across labs, research, independent reporting,
 </td>
 <td width="50%" valign="top">
 
-### 📱 ANDROID 3.7.1 BETA
+### 📱 ANDROID 3.7 BETA
 
 Command Center home, Discover search, source controls, saved stories, Copilot, Smart Watches and nine configurable home-screen widgets.
 
@@ -90,7 +90,7 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-20 16:24 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-20 17:14 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
@@ -99,13 +99,13 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 | 03 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters](https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/) |
 | 04 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
 | 05 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar) |
-| 06 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Typesafe's JEV model work as an LLM [P]](https://www.reddit.com/r/MachineLearning/comments/1wljyk0/typesafes_jev_model_work_as_an_llm_p/) |
-| 07 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
+| 06 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
 | 08 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Autograd project [P]](https://www.reddit.com/r/MachineLearning/comments/1wlj8vv/autograd_project_p/) |
 | 09 | **Product Wire · Google Antigravity** | Products & Agents | ◈ | ● HIGH | [Google Antigravity vs Kiro vs Windsurf: $200 Gap [2026]](https://news.google.com/rss/articles/CBMib0FVX3lxTE9wOGVPWXUwVFgxS2dLbUtxTlByQ3JKN2VJcFQ5RTlPZnlyZWgtaHBwX0hvQUtBYmJ0X0NOWUwtRGJvOXBYTE1scHB4OXo5NW1tcHVvSDRGeGZBT2ZQZzNBbDkyNHNUN3JqUU9YQ1RJWQ?oc=5) |
 | 10 | **Vocal · provider monitor** | Industry | ◈ | ● HIGH | [I Spent a Week With the Doubao AI Phone. Here’s the Truth About Whether It’s Worth $800.](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZzZjNW1FbXIybGR5UTNIMVdEVVZXalRvaVczbFB0N2lWQUZCN3R4d1R1RkQ3N2V6WW0xZ3dmMlZ0Nm5UdTU5LTIzS0JDOXd6dUVSczU3VjhSc3NHR0hRdmhuYndsNkRPakdDcDBTQndQVTdKTVpFOFhJNUw3QUoyQk00NzlsdUJVcm4zY1pleFZ6RWRHRHdUNFJ0Q19TX1F5aEtlZENHMlNLUQ?oc=5) |
-| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [6 days left to get ahead at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 11 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Why decontamination reports can't fix benchmark contamination, and what an evaluator has to do instead [D]](https://www.reddit.com/r/MachineLearning/comments/1wlimaj/why_decontamination_reports_cant_fix_benchmark/) |
+| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [6 days left to get ahead at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
@@ -167,7 +167,7 @@ Android 3.7 keeps **Latest · For You · High Signal · Story Clusters · Brief*
 
 > **Development status:** this is an active beta/test build. Bugs, incomplete functions and breaking changes are possible. **Use at your own risk / Nutzung auf eigene Gefahr.**
 
-### [⬇ Download AI News Android 3.7.1 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.7 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- INTELLIGENCE_SUITE:END -->
 
 ---
@@ -187,7 +187,7 @@ All custom filters, sources, profile links and the downloaded on-device model re
 
 ---
 
-## 📱 Android 3.7.1 Beta — Discover & Expanded Intelligence
+## 📱 Android 3.7 Beta — Discover & Expanded Intelligence
 
 The APK uses a local mobile interface rather than depending on GitHub Pages. Android 3.7 adds an optional downloadable Qwen3 0.6B on-device model for private generative Copilot conversations. It downloads the current AI-only JSON feed directly from this repository and keeps a bundled offline fallback inside the package.
 
@@ -211,7 +211,7 @@ Widgets share source exclusions, expose configurable content mode/accent/text sc
 
 > Widget refresh timing and rendering can vary by Android device, launcher and battery-management policy. This remains beta functionality.
 
-### [⬇ Download AI News Android 3.7.1 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.7 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- ANDROID_WIDGETS:END -->
 
 ---
@@ -242,7 +242,7 @@ Every page carries the same beta status, current APK link and legal/privacy navi
 - `android/` — Android beta app, native widgets and local mobile UI
 - `assets/branding/` — repository/web logo system
 - `.github/workflows/refresh-news.yml` — 30-minute feed refresh
-- .github/workflows/android-apk.yml — Android 3.7.1 beta build and stable `android-latest` download
+- .github/workflows/android-apk.yml — Android 3.7 beta build and stable `android-latest` download
 
 ### Android build
 
