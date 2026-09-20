@@ -1,6 +1,6 @@
 (function(){
   "use strict";
-  var VERSION="3.7.0";
+  var VERSION="3.7.2";
   var FILTER_KEY="aiNewsCustomFiltersV33";
   var SOURCE_KEY="aiNewsCustomSourcesV33";
   var SOCIAL_KEY="aiNewsCustomSocialV33";
@@ -90,9 +90,11 @@
     }catch(e){}
   }
   function bar(){
+    qq("#v32Commandbar").forEach(function(el,index){if(index)el.remove()});
+    var legacy=q("#swipeTabs");if(legacy){legacy.setAttribute("data-v32-legacy","true");legacy.setAttribute("aria-hidden","true")}
     if(q("#v32Commandbar"))return;
     var appbar=q(".appbar");if(!appbar)return;
-    appbar.insertAdjacentHTML("afterend","<nav id=\"v32Commandbar\" class=\"v32-commandbar\" aria-label=\"Command Center\"><button data-v32-page=\"0\" class=\"active\">⌂ Command</button><button data-v32-page=\"1\">⌕ Discover</button><button data-v32-page=\"2\">⬡ LLM Wire</button><button data-v32-page=\"3\">◇ Governance</button><button data-v32-page=\"4\">◎ Social</button><button data-v32-page=\"6\">⚙ Settings</button><span class=\"v32-live\"><i></i><span id=\"v32LiveCount\">LIVE</span></span></nav>");
+    appbar.insertAdjacentHTML("afterend","<nav id=\"v32Commandbar\" class=\"v32-commandbar\" aria-label=\"Primary sections\"><button data-v32-page=\"0\" class=\"active\">⌂ Command</button><button data-v32-page=\"1\">⌕ Discover</button><button data-v32-page=\"2\">⬡ LLM Wire</button><button data-v32-page=\"3\">◇ Governance</button><button data-v32-page=\"4\">◎ Social Wire</button><button data-v32-page=\"5\">★ Saved</button><button data-v32-page=\"6\">⚙ Settings</button><span class=\"v32-live\"><i></i><span id=\"v32LiveCount\">LIVE</span></span></nav>");
   }
   function syncBar(index){
     qq("#v32Commandbar [data-v32-page]").forEach(function(b){b.classList.toggle("active",Number(b.getAttribute("data-v32-page"))===index)})
@@ -152,7 +154,7 @@
   }
   function addSocialPanel(){
     var page=q('[data-index="4"] .page-inner'),listHost=q("#socialList");if(!page||!listHost||q("#v32SocialExtra"))return;
-    listHost.insertAdjacentHTML("afterend","<section id=\"v32SocialExtra\" class=\"v32-social-extra\"><h3>Official channels you choose</h3><p>Store additional official profile links locally. AI News opens the original platform; it does not copy posts or media.</p><div class=\"v32-social-form\"><input id=\"v32SocialLabel\" placeholder=\"Provider or organization\"><select id=\"v32SocialPlatform\"><option value=\"linkedin\">LinkedIn</option><option value=\"x\">X</option><option value=\"youtube\">YouTube</option><option value=\"instagram\">Instagram</option><option value=\"facebook\">Facebook</option><option value=\"mastodon\">Mastodon</option><option value=\"other\">Other official channel</option></select><input id=\"v32SocialUrl\" placeholder=\"https://…\"><button class=\"v32-action\" data-v32-social-save>Save official channel</button></div><div id=\"v32SocialList\" class=\"v32-custom-social-list\"></div></section>");
+    listHost.insertAdjacentHTML("afterend","<section id=\"v32SocialExtra\" class=\"v32-social-extra\"><h3>Official channels you choose</h3><p>Store additional official profile links locally. AI News opens the original platform; it does not copy posts or media.</p><div class=\"v32-social-form\"><input id=\"v32SocialLabel\" placeholder=\"Provider or organization\"><select id=\"v32SocialPlatform\"><option value=\"linkedin\">LinkedIn</option><option value=\"x\">X</option><option value=\"youtube\">YouTube</option><option value=\"instagram\">Instagram</option><option value=\"facebook\">Facebook</option><option value=\"reddit\">Reddit</option><option value=\"discord\">Discord</option><option value=\"mastodon\">Mastodon</option><option value=\"other\">Other official channel</option></select><input id=\"v32SocialUrl\" placeholder=\"https://…\"><button class=\"v32-action\" data-v32-social-save>Save official channel</button></div><div id=\"v32SocialList\" class=\"v32-custom-social-list\"></div></section>");
   }
   function renderSocialV32(){
     var host=q("#v32SocialList");if(!host)return;var a=customSocial();
@@ -183,8 +185,8 @@
     try{native("refreshWidgets")}catch(e){}toastV(kind==="stack"?"Signal Stack overview enabled":"Live AI Radar overview enabled");haptic()
   }
   function labels(){
-    document.title="AI News 3.7 · UX Command Center";
-    var small=q(".brand small");if(small)small.textContent="HYPERINTELLIGENCE · 3.7 BETA";
+    document.title="AI News 3.7.2 · UX Command Center";
+    var small=q(".brand small");if(small)small.textContent="HYPERINTELLIGENCE · 3.7.2 BETA";
     var text=q(".settings-page .page-heading p");if(text)text.textContent="Shape the interface, source workspace, watchlists, briefings and all nine home-screen widgets.";
     qq("#swipeTabs [data-page]").forEach(function(b){var labels=["Command","Discover","LLM Wire","Governance","Social Wire","Saved","Settings"];if(labels[Number(b.getAttribute("data-page"))])b.textContent=labels[Number(b.getAttribute("data-page"))]});
   }

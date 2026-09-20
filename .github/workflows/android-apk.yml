@@ -69,7 +69,14 @@ jobs:
           const coreP=JSON.parse(fs.readFileSync('config/providers.json','utf8')).providers||[];
           const products=JSON.parse(fs.readFileSync('config/products.json','utf8')).products||[];
           const extraP=JSON.parse(fs.readFileSync('config/providers-extra.json','utf8')).providers||[];
+          const social=JSON.parse(fs.readFileSync('config/social-directory.json','utf8')).providers||[];
           const sources=[...coreS,...extraS],providers=[...coreP,...extraP];
+          const socialIds=new Set(social.map(x=>x.id));
+          const missingSocial=providers.filter(x=>!socialIds.has(x.id)).map(x=>x.name);
+          const requiredProducts=['Claude Code','Google Antigravity','Google Flow','Make','Zapier','KNIME','Suno','Udio','Websim.ai'];
+          const missingProducts=requiredProducts.filter(name=>!products.some(x=>x.name===name));
+          if(missingSocial.length){console.error('Social directory missing providers:',missingSocial);process.exit(6)}
+          if(missingProducts.length){console.error('Product registry missing required products:',missingProducts);process.exit(7)}
           const privacy=fs.readFileSync('PRIVACY.md','utf8')+'\n'+fs.readFileSync('PRIVACY-SOURCES.md','utf8');
           const missing=[...sources.map(x=>x.name),...providers.map(x=>x.name),...products.map(x=>x.name)].filter(name=>!privacy.includes(name));
           if(missing.length){console.error('Privacy catalog missing registered names:',missing);process.exit(3)}
@@ -99,7 +106,7 @@ jobs:
           sha256sum dist/AI-News.apk > dist/AI-News.apk.sha256
       - uses: actions/upload-artifact@v4
         with:
-          name: AI-News-Android-3.7.1-Beta
+          name: AI-News-Android-3.7.2-Beta
           path: |
             dist/AI-News.apk
             dist/AI-News.apk.sha256
