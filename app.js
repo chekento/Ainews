@@ -21,6 +21,8 @@ const hueFor=s=>[...String(s||'AI')].reduce((a,c)=>a+c.charCodeAt(0),0)%360;
 const providerFor=id=>state.providers.find(p=>p.id===id)||{};
 const sourceFor=name=>state.sources.find(s=>s.name===name)||{};
 const providerNames=item=>(item.providers||[]).map(id=>providerFor(id).name).filter(Boolean);
+window.AINewsWebState=state;
+window.AINewsWebRender=()=>renderAll();
 
 function toast(message){const el=$('#toast');el.textContent=message;el.classList.add('show');clearTimeout(toast.t);toast.t=setTimeout(()=>el.classList.remove('show'),2600)}
 function saveBookmarks(){localStorage.setItem('aiNewsBookmarks',JSON.stringify([...state.bookmarks]))}
@@ -31,13 +33,43 @@ async function loadProviders(){const data=await jsonFetch(PROVIDERS_URL);state.p
 async function loadNewsRaw(){const data=await jsonFetch(DATA_URL);state.items=Array.isArray(data.items)?data.items:[];state.generatedAt=data.generatedAt||null;state.providerCoverage=data.providerCoverage||{};state.nextRefresh=Date.now()+AUTO_REFRESH_MS}
 async function refreshNews({manual=false}={}){const btn=$('#refreshBtn');btn.classList.add('loading');try{await loadNewsRaw();state.visible=PAGE_SIZE;renderAll();if(manual)toast(`Updated · ${state.items.length} AI stories`)}catch(err){console.error(err);toast('Refresh failed — keeping the current dataset')}finally{btn.classList.remove('loading')}}
 
+function parseNewsQuery(q){
+  const parsed={terms:[],neg:[],phrases:[],source:[],provider:[],cat:[],tag:[],type:[],after:null,before:null,is:[]};
+  const re=/"([^"]+)"|(\S+)/g;let m;
+  while((m=re.exec(q||''))){
+    if(m[1]){parsed.phrases.push(m[1].toLowerCase());continue}
+    const token=m[2],negative=token.startsWith('-')&&token.length>1,raw=negative?token.slice(1):token;
+    const match=raw.match(/^([a-z]+):(.*)$/i);
+    if(match){
+      const key=match[1].toLowerCase(),value=match[2].trim().toLowerCase();
+      if(['source','provider','cat','tag','type','is'].includes(key)&&value)parsed[key].push(value);
+      else if(key==='after')parsed.after=value;
+      else if(key==='before')parsed.before=value;
+      else parsed.terms.push((negative?'-':'')+raw.toLowerCase());
+    }else if(negative)parsed.neg.push(raw.toLowerCase());else parsed.terms.push(raw.toLowerCase());
+  }
+  return parsed;
+}
 function filteredItems(limit=true){
+  const parsed=parseNewsQuery(state.query);
   let arr=[...state.items];
   if(state.category!=='All')arr=arr.filter(i=>i.category===state.category);
   if(state.provider!=='all')arr=arr.filter(i=>(i.providers||[]).includes(state.provider));
   if(state.source!=='all')arr=arr.filter(i=>i.source===state.source);
   if(state.savedOnly)arr=arr.filter(i=>state.bookmarks.has(i.id));
-  if(state.query){const q=state.query.toLowerCase();arr=arr.filter(i=>`${i.title} ${i.summary} ${i.source} ${(i.tags||[]).join(' ')} ${providerNames(i).join(' ')}`.toLowerCase().includes(q))}
+  const textFor=i=>String(i.title||'')+' '+String(i.summary||'')+' '+String(i.source||'')+' '+(i.tags||[]).join(' ')+' '+providerNames(i).join(' ')+' '+String(i.category||'')+' '+String(i.provenance||'');
+  if(parsed.neg.length)arr=arr.filter(i=>{const hay=textFor(i).toLowerCase();return !parsed.neg.some(term=>hay.includes(term))});
+  if(parsed.phrases.length)arr=arr.filter(i=>{const hay=textFor(i).toLowerCase();return parsed.phrases.every(term=>hay.includes(term))});
+  if(parsed.terms.length)arr=arr.filter(i=>{const hay=textFor(i).toLowerCase();return parsed.terms.every(term=>hay.includes(term))});
+  if(parsed.source.length)arr=arr.filter(i=>parsed.source.every(term=>String(i.source||'').toLowerCase().includes(term)));
+  if(parsed.provider.length)arr=arr.filter(i=>parsed.provider.every(term=>(String((i.providers||[]).join(' '))+' '+providerNames(i).join(' ')).toLowerCase().includes(term)));
+  if(parsed.cat.length)arr=arr.filter(i=>parsed.cat.every(term=>String(i.category||'').toLowerCase().includes(term)));
+  if(parsed.tag.length)arr=arr.filter(i=>parsed.tag.every(term=>(i.tags||[]).join(' ').toLowerCase().includes(term)));
+  if(parsed.type.length)arr=arr.filter(i=>parsed.type.includes(String(sourceFor(i.source).class||i.provenance||'').toLowerCase()));
+  if(parsed.is.includes('saved'))arr=arr.filter(i=>state.bookmarks.has(i.id));
+  if(parsed.is.includes('primary'))arr=arr.filter(i=>['primary','official'].includes(sourceFor(i.source).class||i.provenance));
+  if(parsed.after){const t=Date.parse(parsed.after);if(!Number.isNaN(t))arr=arr.filter(i=>new Date(i.publishedAt).getTime()>=t)}
+  if(parsed.before){const t=Date.parse(parsed.before+'T23:59:59');if(!Number.isNaN(t))arr=arr.filter(i=>new Date(i.publishedAt).getTime()<=t)}
   if(state.sort==='source')arr.sort((a,b)=>a.source.localeCompare(b.source)||new Date(b.publishedAt)-new Date(a.publishedAt));
   else if(state.sort==='trust')arr.sort((a,b)=>(trustRank[sourceFor(a.source).class]??9)-(trustRank[sourceFor(b.source).class]??9)||new Date(b.publishedAt)-new Date(a.publishedAt));
   else arr.sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt));
@@ -86,6 +118,7 @@ function renderFeatured(){
   if(!i){el.innerHTML='<div class="empty-state">No current item.</div>';return}
   const src=sourceFor(i.source),providers=providerNames(i);
   el.style.setProperty('--feature-hue',hueFor(providers[0]||i.source));
+  el.dataset.storyId=i.id;el.dataset.originalUrl=i.url;
   el.innerHTML=`<div class="feature-visual"><span>TOP SIGNAL</span><strong>${esc((providers[0]||i.source).slice(0,22))}</strong><div class="feature-lines"></div></div>
     <div class="feature-content"><div class="feature-top"><span class="feature-source">${esc(i.source)}</span><span class="feature-index">${esc(i.category)} · ${esc(fmtDate(i.publishedAt))}</span></div>
     <h2>${esc(i.title)}</h2><p>${esc(i.summary||'Open the original source for full context.')}</p>
@@ -105,6 +138,7 @@ function renderNews(){
   if(!items.length)grid.innerHTML='<div class="empty-state"><strong>No matching AI stories.</strong><br>Try another provider, category, source or search term.</div>';
   else items.forEach(item=>{
     const node=tpl.content.cloneNode(true),card=node.querySelector('.news-card'),src=sourceFor(item.source),save=node.querySelector('.save-btn'),ask=node.querySelector('.ask-btn'),providers=providerNames(item);
+    card.dataset.storyId=item.id;card.dataset.originalUrl=item.url;
     card.style.setProperty('--card-hue',hueFor(providers[0]||item.source));
     node.querySelector('.preview-category').textContent=item.category;
     node.querySelector('.preview-mark').textContent=(providers[0]||item.source).split(/\s|\//).filter(Boolean).slice(0,2).map(x=>x[0]).join('').toUpperCase().slice(0,3)||'AI';
