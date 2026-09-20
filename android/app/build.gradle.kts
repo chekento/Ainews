@@ -10,8 +10,8 @@ android {
         applicationId = "cloud.kosch.ainews"
         minSdk = 26
         targetSdk = 35
-        versionCode = 7
-        versionName = "3.1.0"
+        versionCode = 9
+        versionName = "3.3.0"
     }
 
     compileOptions {
