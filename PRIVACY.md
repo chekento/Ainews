@@ -47,6 +47,7 @@ Die App ruft den aktuellen AI-only-Datensatz und Konfigurationen über GitHub / 
 - `data/news.json`
 - `config/sources.json`
 - `config/providers.json`
+- `config/sources-extra.json` and `config/providers-extra.json` for the extended register
 
 Zusätzlich enthält das APK eine Offline-Kopie dieser Dateien als Fallback. GitHub kann bei Netzwerkabrufen technisch notwendige Verbindungs- und Server-Logdaten verarbeiten. Maßgeblich sind hierfür die Datenschutzbestimmungen von GitHub.
 
@@ -97,9 +98,9 @@ Die App verwendet derzeit folgende Android-Berechtigungen:
 
 Die App bietet lokale Löschmöglichkeiten in den Settings. Zusätzlich können sämtliche App-Daten jederzeit über die Android-Systemeinstellungen gelöscht oder durch Deinstallation der App entfernt werden. Daten, die bei einem bewusst geöffneten externen Anbieter oder einem selbst konfigurierten AI-Endpoint verarbeitet wurden, unterliegen den Lösch- und Datenschutzregeln des jeweiligen externen Anbieters.
 
-## 12. Quellenverzeichnis — 60 kuratierte AI-Quellen
+## 12. Quellenverzeichnis — Kernquellen (60) und vollständiges Register (160)
 
-Die folgende Liste entspricht `config/sources.json`. Das CI prüft automatisch, dass jeder dort registrierte Quellenname auch in dieser Datenschutzerklärung vorkommt.
+Die folgende Tabelle ist die Kernliste aus `config/sources.json`; das vollständige Register mit allen 160 registrierten AI-Quellen liegt in [`PRIVACY-SOURCES.md`](PRIVACY-SOURCES.md) und wird durch CI gegen die App-Register geprüft.
 
 | # | Quelle | Klasse | Homepage |
 |---:|---|---|---|
@@ -164,9 +165,9 @@ Die folgende Liste entspricht `config/sources.json`. Das CI prüft automatisch, 
 | 59 | UK AI Security Institute | Official | https://www.gov.uk/government/organisations/ai-security-institute |
 | 60 | Artificial Analysis | Research | https://artificialanalysis.ai/ |
 
-## 13. Provider-Monitoring — 18 LLM-/AI-Ökosysteme
+## 13. Provider-Monitoring — Kernliste (18) von 61 LLM-/AI-Ökosystemen
 
-Zusätzlich zu den kuratierten Quellen führt der Aggregator Provider-Monitoring für folgende Ökosysteme aus. Die Monitor-Abfragen werden serverseitig im GitHub-Workflow erzeugt; die Android-App erhält anschließend nur den erzeugten News-Datensatz.
+Zusätzlich zu den kuratierten Quellen führt der Aggregator Provider-Monitoring aus. Die folgende Liste zeigt die 18 Kernanbieter; das vollständige Register mit 61 Ökosystemen liegt in [`PRIVACY-SOURCES.md`](PRIVACY-SOURCES.md). Die Monitor-Abfragen werden serverseitig im GitHub-Workflow erzeugt; die Android-App erhält anschließend nur den erzeugten News-Datensatz.
 
 1. OpenAI — https://openai.com/news/
 2. Anthropic — https://www.anthropic.com/news
