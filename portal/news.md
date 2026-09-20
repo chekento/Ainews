@@ -18,7 +18,7 @@
 
 ## Current AI intelligence
 
-The generated dataset is refreshed automatically from a **stable core registry plus an extended international source registry**. The current 3.2 catalog targets **147 AI-news sources and 60 AI / LLM provider ecosystems**. The registry is deliberately open-ended: new relevant labs, model providers, research groups, standards bodies and AI-native news desks can be added without breaking the stable core configuration.
+The generated dataset is refreshed automatically from a **stable core registry plus an extended international source registry**. The current 3.6 catalog targets **159+ AI-news sources, 60 AI / LLM provider ecosystems and a dedicated AI product/service monitor wire**. The registry is deliberately open-ended: new relevant labs, model providers, research groups, standards bodies and AI-native news desks can be added without breaking the stable core configuration.
 
 **[→ Open the current generated dataset](../data/news.json)**
 
@@ -33,6 +33,10 @@ The generated dataset is refreshed automatically from a **stable core registry p
 - provider-monitor results must mention the tracked ecosystem;
 - low-confidence signals are discarded before publication;
 - duplicate URLs and near-duplicate coverage are reduced before the app builds clusters and briefings.
+
+### Product and governance separation
+
+Product/service monitors cover Claude Code, Google Antigravity, Google Flow, Make, Zapier, KNIME, Suno, Udio, Websim.ai and many more. Governance signals such as the US AI czar / AI Force, AI laws, standards and ethics are kept in the dedicated Governance desk.
 
 ### Source-first policy
 

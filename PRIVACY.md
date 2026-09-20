@@ -1,6 +1,6 @@
 # Datenschutzerklärung / Privacy Policy — AI News
 
-**Stand:** 15. September 2026  
+**Updated:** 20 September 2026
 **App:** AI News (`cloud.kosch.ainews`)  
 **Projekt / Anbieterinformationen:** [kosch.cloud](https://kosch.cloud)  
 **Repository:** `chekento/Ainews`  
@@ -36,7 +36,11 @@ Je nach Nutzung können lokal auf dem Gerät gespeichert werden:
 
 Diese Daten dienen ausschließlich der Funktion der App auf dem jeweiligen Gerät. In **Settings → Privacy & legal** können Personalisierungs-/Copilot-Sitzungsdaten und gespeicherte Artikel gezielt gelöscht werden.
 
-## 4. Nachrichtenabruf über GitHub
+## 4. Product & service monitoring
+
+The product wire monitors named AI products and services such as Claude Code, Google Antigravity, Google Flow, Make, Zapier, KNIME, Suno, Udio and Websim.ai. Where no stable first-party feed exists, the workflow uses product-scoped public news monitoring. The app stores only short metadata and the original URL; it does not mirror full articles or social posts.
+
+## 5. Nachrichtenabruf über GitHub
 
 Die App ruft den aktuellen AI-only-Datensatz und Konfigurationen über GitHub / `raw.githubusercontent.com` ab, insbesondere:
 
@@ -46,13 +50,13 @@ Die App ruft den aktuellen AI-only-Datensatz und Konfigurationen über GitHub / 
 
 Zusätzlich enthält das APK eine Offline-Kopie dieser Dateien als Fallback. GitHub kann bei Netzwerkabrufen technisch notwendige Verbindungs- und Server-Logdaten verarbeiten. Maßgeblich sind hierfür die Datenschutzbestimmungen von GitHub.
 
-## 5. Externe Artikel, Newsrooms und Social-Profile
+## 6. Externe Artikel, Newsrooms und Social-Profile
 
 Artikelinhalte externer Webseiten werden **nicht innerhalb der App gescrapt**. AI News verarbeitet Überschriften, kurze Feed-/Monitor-Metadaten, Quellenangaben und – soweit vom Feed ausdrücklich bereitgestellt – Feed-Bildinformationen. Vollständige Artikel werden über einen Nutzer-Tap im externen Browser geöffnet.
 
 Gleiches gilt für offizielle LinkedIn-, Instagram- und Facebook-Profile der Anbieter: AI News verlinkt diese Profile, kopiert aber keine Social-Posts, Medien oder Profiltracking-Technik in die App. Erst beim bewussten Öffnen eines externen Links wird eine Verbindung zum jeweiligen Anbieter hergestellt.
 
-## 6. AI News Copilot
+## 7. AI News Copilot
 
 Der eingebaute Copilot kann ohne externes Modell lokal mit dem geladenen Nachrichtenbestand arbeiten. Er verwendet dabei Titel, kurze Zusammenfassungen, Tags, Provider, Kategorien, Provenienz und Zeitstempel und stellt verwendete Quellen als Evidence Cards dar.
 

@@ -8,19 +8,19 @@
 
 <p align="center">
   <strong>AI-only intelligence for models, agents, research, infrastructure, robotics, safety and governance.</strong><br>
-  Source-first · 147 registered AI sources · 60 provider monitors · refreshed every 30 minutes
+  Source-first · 160 registered AI sources · 61 provider monitors · refreshed every 30 minutes
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-BETA_%2F_IN_DEVELOPMENT-FFB347?style=for-the-badge" alt="Beta / in development">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.5_BETA-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download current Android Beta APK"></a>
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.6_BETA-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download current Android Beta APK"></a>
 </p>
 
 > [!WARNING]
 > **BETA / IN DEVELOPMENT.** AI News and the Android APK are active test builds and may contain bugs, incomplete functions, inaccurate classifications, notification issues or breaking changes. **Use at your own risk / Nutzung auf eigene Gefahr.** Do not rely on the app as the sole source for important, legal, safety-critical, financial or operational decisions. Verify important information with the linked original sources. The directly distributed APK is currently a **debug-signed beta build**, not a production Play Store release.
 
 <p align="center">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.5 BETA</strong></a><br>
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.6 BETA</strong></a><br>
   <a href="https://github.com/chekento/Ainews/releases/tag/android-latest">Release details</a> ·
   <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256">SHA-256 checksum</a> ·
   <a href="PRIVACY.md">Datenschutz / Privacy & all sources</a> ·
@@ -29,8 +29,8 @@
 
 <p align="center">
   <a href="portal/news.md"><img src="https://img.shields.io/badge/LIVE_AI_NEWS-55D9FF?style=for-the-badge&logo=rss&logoColor=07111f" alt="Live AI News"></a>
-  <a href="config/sources.json"><img src="https://img.shields.io/badge/147_AI_SOURCES-A993FF?style=for-the-badge" alt="147 AI sources"></a>
-  <a href="config/providers.json"><img src="https://img.shields.io/badge/60_AI_PROVIDER_ECOSYSTEMS-FF78C8?style=for-the-badge" alt="60 AI providers"></a>
+  <a href="config/sources.json"><img src="https://img.shields.io/badge/160_AI_SOURCES-A993FF?style=for-the-badge" alt="160 AI sources"></a>
+  <a href="config/providers.json"><img src="https://img.shields.io/badge/61_AI_PROVIDER_ECOSYSTEMS-FF78C8?style=for-the-badge" alt="61 AI providers"></a>
 </p>
 
 <p align="center">
@@ -53,11 +53,11 @@ Strict AI-only relevance filtering across labs, research, independent reporting,
 </td>
 <td width="50%" valign="top">
 
-### 📱 ANDROID 3.2 BETA
+### 📱 ANDROID 3.6 BETA
 
 Command Center home, Discover search, source controls, saved stories, Copilot, Smart Watches and nine configurable home-screen widgets.
 
-**3.5 UX layer:** Official X/Twitter, LinkedIn, YouTube, Instagram and Facebook provider profiles; collapsible Copilot; API-free local topic discussion; live news/social radar with adjustable window; Matrix glyph rain; 28 selectable app/widget themes and two Kawaii plush themes.
+**3.6 UX layer:** Official X/Twitter, LinkedIn, YouTube, Instagram and Facebook provider profiles; collapsible Copilot; API-free local topic discussion; live news/social radar with adjustable window; Matrix glyph rain; 28 selectable app/widget themes and two Kawaii plush themes.
 
 **[⬇ Download current APK →](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)**
 
@@ -88,7 +88,7 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-20 14:07 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-20 14:07 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
@@ -129,7 +129,11 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 ---
 
 <!-- COPILOT_INTELLIGENCE:START -->
-## ✦ Copilot Intelligence 3.5 · BETA
+## ◈ Product & Service Wire
+
+The product desk monitors usable AI services separately from general model news: Claude Code, Google Antigravity, Google Flow, Make, Zapier, KNIME, Suno, Udio, Websim.ai, ChatGPT, Codex, Gemini, Copilot, GitHub Copilot, Cursor, Windsurf, Replit, Runway, Midjourney, ElevenLabs, Firefly and more. See the [machine-readable product registry](config/products.json) and [APK archive](ANDROID-ARCHIVE.md).
+
+## ✦ Copilot Intelligence 3.6 · BETA
 
 Copilot is a **contextual intelligence layer**, not a detached chatbot. It follows the selected story, Discover filters, provider context or the full enabled feed and retrieves a source-diverse evidence set across titles, excerpts, tags, providers, categories, provenance and recency.
 
@@ -143,20 +147,20 @@ Copilot is a **contextual intelligence layer**, not a detached chatbot. It follo
 ---
 
 <!-- INTELLIGENCE_SUITE:START -->
-## ◉ Intelligence Suite 3.5 — Discover & Expanded Intelligence · BETA
+## ◉ Intelligence Suite 3.6 — Discover & Expanded Intelligence · BETA
 
-Android 3.5 keeps **Latest · For You · High Signal · Story Clusters · Brief** and adds a more deliberate Discover experience: opening Discover no longer focuses the search field or opens the keyboard. Search starts only after an explicit tap.
+Android 3.6 keeps **Latest · For You · High Signal · Story Clusters · Brief** and adds a more deliberate Discover experience: opening Discover no longer focuses the search field or opens the keyboard. Search starts only after an explicit tap.
 
-**New in 3.5:** Social Wire with 60 provider ecosystems and official multi-platform links · API-free local Copilot discussion · interactive radar with Matrix rain · 28 app/widget themes including Kawaii Plush and Kawaii Candy ·  Smart Brief presets for Morning / Evening / Since last visit · quick Smart-Watch templates · Widget Studio presets · direct Widget → Copilot story summary · local For-You reset/control · expanded core+extended source registry · 147 AI sources · 60 provider ecosystems.
+**New in 3.6:** Social Wire with 61 provider ecosystems and official multi-platform links · API-free local Copilot discussion · interactive radar with Matrix rain · 28 app/widget themes including Kawaii Plush and Kawaii Candy ·  Smart Brief presets for Morning / Evening / Since last visit · quick Smart-Watch templates · Widget Studio presets · direct Widget → Copilot story summary · local For-You reset/control · expanded core+extended source registry · 160 AI sources · 61 provider ecosystems.
 
 > **Development status:** this is an active beta/test build. Bugs, incomplete functions and breaking changes are possible. **Use at your own risk / Nutzung auf eigene Gefahr.**
 
-### [⬇ Download AI News Android 3.5 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.6 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- INTELLIGENCE_SUITE:END -->
 
 ---
 
-## ✦ AI News 3.5 · UX Command Center
+## ✦ AI News 3.6 · UX Command Center
 
 The current beta turns the app and GitHub Page into a personal AI intelligence workspace:
 
@@ -171,7 +175,7 @@ All custom filters, sources and profile links remain local to the current device
 
 ---
 
-## 📱 Android 3.2 Beta — Discover & Expanded Intelligence
+## 📱 Android 3.6 Beta — Discover & Expanded Intelligence
 
 The APK uses a local mobile interface rather than depending on GitHub Pages. It downloads the current AI-only JSON feed directly from this repository and keeps a bundled offline fallback inside the package.
 
@@ -179,7 +183,7 @@ The APK uses a local mobile interface rather than depending on GitHub Pages. It 
 
 **Customization:** Hypercyber/OLED/Light/System themes, multiple accents, UI density, font scale, animation level, summaries, visual previews, default time range, sorting, refresh cadence, primary-source boost, provider monitors and research-paper visibility.
 
-### [⬇ Download current Android 3.5 Beta APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download current Android 3.6 Beta APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 
 > [!CAUTION]
 > This direct APK is a **debug-signed development/beta build**. Installation and use are at your own risk. Back up important data and do not treat the app as production-critical software. A Play Store production package should use dedicated release signing and an AAB pipeline.
@@ -189,13 +193,13 @@ The APK uses a local mobile interface rather than depending on GitHub Pages. It 
 <!-- ANDROID_WIDGETS:START -->
 ## ⚡ Hypercyber Android Widgets · BETA
 
-Android **3.5** ships nine native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock · Live AI Radar**.
+Android **3.6** ships nine native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock · Live AI Radar**.
 
 Widgets share source exclusions, expose configurable content mode/accent/text scale/density/summary/metadata, support **Next › · ✦ Copilot Summary · Refresh ↻**, and include one-tap **Widget Studio presets** for balanced, minimal, dense and desk-specific setups. The ✦ action passes the currently visible story into Copilot and opens an evidence-grounded summary context.
 
 > Widget refresh timing and rendering can vary by Android device, launcher and battery-management policy. This remains beta functionality.
 
-### [⬇ Download AI News Android 3.5 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.6 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- ANDROID_WIDGETS:END -->
 
 ---
@@ -207,7 +211,7 @@ Every page carries the same beta status, current APK link and legal/privacy navi
 - **[News](portal/news.md)** — current AI stream
 - **[LLM Provider Wire](portal/llm-wire.md)** — 18 model ecosystems
 - **[Governance Radar](portal/governance.md)** — policy, standards, ethics and safety
-- **[Official Social](portal/social.md)** — official profile links only; no post scraping
+- **[Official Social](portal/social.md)** — official profile links plus public RSS/Atom/Bluesky signals; no private-account scraping
 - **[AI News Copilot](portal/copilot.md)** — context-aware research surface
 - **[Privacy & all sources](PRIVACY.md)** — data flows, local storage, permissions and source transparency
 

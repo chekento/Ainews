@@ -3,20 +3,23 @@ import crypto from 'node:crypto';
 
 const sourcesDoc=JSON.parse(await fs.readFile(new URL('../config/sources.json',import.meta.url),'utf8'));
 const providersDoc=JSON.parse(await fs.readFile(new URL('../config/providers.json',import.meta.url),'utf8'));
+const productsDoc=JSON.parse(await fs.readFile(new URL('../config/products.json',import.meta.url),'utf8'));
 const sources=sourcesDoc.sources||[];
 const providers=providersDoc.providers||[];
+const products=productsDoc.products||[];
 const socialFeedsDoc=JSON.parse(await fs.readFile(new URL('../config/social-feeds.json',import.meta.url),'utf8'));
 const socialFeeds=socialFeedsDoc.feeds||[];
 const MAX_PER_SOURCE=12;
 const MAX_SOURCE_MONITOR=3;
 const MAX_PROVIDER_MONITOR=4;
+const MAX_PRODUCT_MONITOR=3;
 const MAX_SOCIAL_PER_FEED=10;
 const MIN_HEALTHY_ITEMS=15;
 const MAX_AGE_DAYS=45;
 
 const aiPattern=/\b(AI|artificial intelligence|generative AI|genAI|machine learning|deep learning|large language model|LLM|foundation model|neural network|transformer|multimodal|vision language|VLM|AI agent|agentic|ChatGPT|GPT[-\s]?\d|Claude|Gemini|Llama|Mistral|DeepSeek|Qwen|Grok|Copilot|Kimi|GLM|Jamba|Nova|Nemotron|Granite|MiniMax|Hailuo|Hugging Face|OpenAI|Anthropic|DeepMind|Cohere|Perplexity|xAI|Together AI|Groq|Cerebras|Stability AI|ElevenLabs|LangChain|LlamaIndex|computer vision|AI Act|AI safety|AI governance|AI model|AI chip|inference|model training|RAG|retrieval augmented|embeddings|diffusion model|text-to-image|text-to-video|AI benchmark|MLPerf|alignment|robot learning|embodied AI)\b/i;
 const modelPattern=/\b(GPT|Claude|Gemini|Llama|Mistral|DeepSeek|Qwen|Grok|Kimi|GLM|Jamba|Nova|Nemotron|Granite|MiniMax|Hailuo|Stable Diffusion|Sora|Veo|Imagen|OLMo|Molmo|Tülu)\b/i;
-const governancePattern=/\b(AI Act|AI Office|WAICO|regulat|governance|compliance|ethic|responsible AI|AI safety|AI security|algorithmic accountability|human rights|transparency|watermark|standard|risk management|NIST|OECD|UNESCO|Council of Europe|law|policy)\b/i;
+const governancePattern=/\b(AI Act|AI Office|AI czar|AI force|AI task force|special unit|WAICO|FTC|Copyright Office|regulat|governance|compliance|ethic|responsible AI|AI safety|AI security|algorithmic accountability|human rights|transparency|watermark|standard|risk management|NIST|OECD|UNESCO|Council of Europe|law|policy)\b/i;
 const securityPattern=/\b(safety|security|misuse|cyber|alignment|red team|jailbreak|biosecurity|catastrophic|risk|threat|model eval|evaluation)\b/i;
 const researchPattern=/\b(research|paper|study|benchmark|dataset|science|arXiv|evaluation|method|architecture|capabilities)\b/i;
 const infraPattern=/\b(GPU|chip|semiconductor|data ?center|infrastructure|compute|CUDA|accelerator|TPU|inference server|training cluster|tokens per second|neocloud)\b/i;
@@ -86,7 +89,7 @@ function categoryFor(text){
 function tagsFor(text){
   const out=[];
   for(const [label,re] of [
-    ['EU AI Act',/AI Act|AI Office/i],['WAICO',/WAICO/i],['Agents',/agent|agentic|MCP/i],
+    ['EU AI Act',/AI Act|AI Office/i],['US AI Czar / AI Force',/AI czar|AI force|AI task force|special unit/i],['Ethics',/ethic|bias|human rights|algorithmic accountability/i],['WAICO',/WAICO/i],['Agents',/agent|agentic|MCP/i],
     ['Open source',/open[- ]source|open weights|open model/i],['Safety',/safety|alignment|risk|evaluation/i],
     ['Chips',/GPU|chip|semiconductor|accelerator/i],['Research',/research|paper|benchmark|arXiv/i],
     ['Multimodal',/multimodal|vision|video|audio/i],['Enterprise',/enterprise|business|deployment/i],
@@ -138,7 +141,7 @@ function mapSourceItem(source,i,{monitor=false}={}){
     url:i.url,
     source:source.name,
     publishedAt:i.publishedAt||new Date().toISOString(),
-    category:categoryFor(text),
+    category:source.category||categoryFor(text),
     provenance:source.class,
     tags:[...new Set([...(monitor?['Source monitor']:[]),...tagsFor(text)])].slice(0,5),
     providers:providersFor(source.name,text),
@@ -183,6 +186,39 @@ function providerMention(provider,text){
   const hay=norm(text);
   return (provider.aliases||[]).some(a=>{const x=norm(a).trim();return x&&hay.includes(x)});
 }
+function productQuery(product){
+  const terms=(product.aliases||[]).filter(Boolean).slice(0,4).map(x=>`"${x.replace(/"/g,'')}"`);
+  return `${terms.join(' OR ')} (AI OR model OR LLM OR launch) when:30d`;
+}
+function productMention(product,text){
+  const hay=norm(text);
+  return (product.aliases||[]).some(a=>{const x=norm(a).trim();return x&&hay.includes(x)});
+}
+async function fetchProductMonitor(product){
+  const feed=`https://news.google.com/rss/search?q=${encodeURIComponent(productQuery(product))}&hl=en-US&gl=US&ceid=US:en`;
+  try{
+    const xml=await fetchText(feed);
+    const parsed=parseFeed(xml).filter(i=>notTooOld(i.publishedAt)&&productMention(product,`${i.title} ${i.summary}`)).slice(0,MAX_PRODUCT_MONITOR);
+    const items=parsed.map(i=>{
+      const publisher=i.publisher||'News coverage';
+      const suffix=` - ${publisher}`;
+      const title=i.title.endsWith(suffix)?i.title.slice(0,-suffix.length):i.title;
+      const providerName=product.providerId?(providers.find(p=>p.id===product.providerId)?.name||'AI ecosystem'):'AI ecosystem';
+      return{
+        id:hash(`product-monitor|${product.id}|${i.url}|${title}`),title,
+        summary:`Product wire coverage surfaced for ${product.name}. Open the original publication for the complete report and context.`,
+        url:i.url,source:`Product Wire · ${product.name}`,publishedAt:i.publishedAt||new Date().toISOString(),
+        category:'Products & Agents',provenance:'journalism',
+        tags:[...new Set(['Product wire',product.name,providerName,...(product.tags||[])])].slice(0,6),
+        providers:product.providerId?[product.providerId]:[],productId:product.id,productName:product.name,
+        productPublisher:providerName,monitor:true,isProduct:true,aiConfidence:'high',
+        image:i.image||null,imageOrigin:i.image?'feed':null
+      };
+    });
+    return{product,items,status:'ok'};
+  }catch(error){return{product,items:[],status:'error',error:String(error?.message||error)}}
+}
+
 async function fetchProviderMonitor(provider){
   const feed=`https://news.google.com/rss/search?q=${encodeURIComponent(monitorQuery(provider))}&hl=en-US&gl=US&ceid=US:en`;
   try{
@@ -269,10 +305,13 @@ for(let i=0;i<monitorTargets.length;i+=6)sourceMonitorResults.push(...await Prom
 const providerMonitorResults=[];
 for(let i=0;i<providers.length;i+=6)providerMonitorResults.push(...await Promise.all(providers.slice(i,i+6).map(fetchProviderMonitor)));
 
+const productMonitorResults=[];
+for(let i=0;i<products.length;i+=8)productMonitorResults.push(...await Promise.all(products.slice(i,i+8).map(fetchProductMonitor)));
+
 const socialResults=[];
 for(let i=0;i<socialFeeds.length;i+=4)socialResults.push(...await Promise.all(socialFeeds.slice(i,i+4).map(fetchSocialFeed)));
 
-let items=[...results.flatMap(r=>r.items),...sourceMonitorResults.flatMap(r=>r.items),...providerMonitorResults.flatMap(r=>r.items),...socialResults.flatMap(r=>r.items)];
+let items=[...results.flatMap(r=>r.items),...sourceMonitorResults.flatMap(r=>r.items),...providerMonitorResults.flatMap(r=>r.items),...productMonitorResults.flatMap(r=>r.items),...socialResults.flatMap(r=>r.items)];
 items=items.filter(i=>i.aiConfidence==='high'||i.aiConfidence==='medium');
 const seenTitle=new Set(),seenUrl=new Set();
 items=items.filter(i=>{
@@ -295,6 +334,9 @@ const payload={
   healthyFeeds:results.filter(r=>r.status==='ok').length,
   sourceMonitors:monitorTargets.length,healthySourceMonitors:sourceMonitorResults.filter(r=>r.status==='ok').length,
   providerMonitors:providers.length,healthyProviderMonitors:providerMonitorResults.filter(r=>r.status==='ok').length,
+  productMonitors:products.length,healthyProductMonitors:productMonitorResults.filter(r=>r.status==='ok').length,
+  productCount:products.length,productItemCount:items.filter(i=>i.isProduct).length,
+  productCoverage:Object.fromEntries(products.map(p=>[p.id,items.filter(i=>i.productId===p.id).length])),
   socialFeeds:socialFeeds.length,healthySocialFeeds:socialResults.filter(r=>r.status==='ok').length,
   failedSocialFeeds:socialResults.filter(r=>r.status==='error').map(r=>({feed:r.feed.name,error:r.error})),
   socialItemCount:items.filter(i=>i.isSocial).length,
@@ -306,4 +348,4 @@ const payload={
 
 await fs.mkdir(new URL('../data/',import.meta.url),{recursive:true});
 await fs.writeFile(new URL('../data/news.json',import.meta.url),JSON.stringify(payload,null,2)+'\n','utf8');
-console.log(`Wrote ${items.length} AI-only stories from ${payload.healthyFeeds}/${payload.feedCount} feeds, ${payload.healthySourceMonitors}/${payload.sourceMonitors} source monitors and ${payload.healthyProviderMonitors}/${providers.length} provider monitors. Feed images are preserved only when explicitly published in RSS/Atom metadata.`);
+console.log(`Wrote ${items.length} AI-only stories from ${payload.healthyFeeds}/${payload.feedCount} feeds, ${payload.healthySourceMonitors}/${payload.sourceMonitors} source monitors, ${payload.healthyProviderMonitors}/${providers.length} provider monitors and ${payload.healthyProductMonitors}/${payload.productMonitors} product monitors. Feed images are preserved only when explicitly published in RSS/Atom metadata.`);

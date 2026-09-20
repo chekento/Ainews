@@ -1,49 +1,703 @@
 {
   "version": 1,
-  "updated": "2026-09-16",
+  "updated": "2026-09-20",
   "policy": "Extended AI / model provider registry. It supplements the stable core registry and is intentionally open-ended: providers can be added as new relevant model ecosystems emerge.",
   "providers": [
-    {"id":"huggingface","name":"Hugging Face","models":"Open model hub · Transformers · inference","region":"Global","newsroom":"https://huggingface.co/blog","sources":["Hugging Face Blog"],"aliases":["Hugging Face","HuggingFace","Transformers"],"social":{}},
-    {"id":"apple","name":"Apple AI / ML","models":"Apple Intelligence · foundation models","region":"US","newsroom":"https://machinelearning.apple.com/","sources":["Apple Machine Learning Research"],"aliases":["Apple Intelligence","Apple foundation model","Apple AI"],"social":{}},
-    {"id":"databricks","name":"Databricks / Mosaic AI","models":"DBRX · Mosaic AI · foundation models","region":"US","newsroom":"https://www.databricks.com/blog/category/artificial-intelligence","sources":["Databricks AI"],"aliases":["Databricks AI","Mosaic AI","DBRX","MosaicML"],"social":{}},
-    {"id":"together","name":"Together AI","models":"Open-model training · inference · foundation models","region":"US","newsroom":"https://www.together.ai/blog","sources":["Together AI Blog"],"aliases":["Together AI","Together Inference"],"social":{}},
-    {"id":"groq","name":"Groq","models":"LPU inference · foundation model serving","region":"US","newsroom":"https://groq.com/blog","sources":["Groq Blog"],"aliases":["Groq","GroqCloud","LPU"],"social":{}},
-    {"id":"cerebras","name":"Cerebras","models":"Wafer-scale AI · inference · foundation models","region":"US","newsroom":"https://www.cerebras.ai/blog","sources":["Cerebras Blog"],"aliases":["Cerebras","Cerebras Inference","Wafer Scale Engine"],"social":{}},
-    {"id":"stability","name":"Stability AI","models":"Stable Diffusion · Stable Audio · generative models","region":"UK/US","newsroom":"https://stability.ai/news-updates","sources":["Stability AI"],"aliases":["Stability AI","Stable Diffusion","Stable Audio"],"social":{}},
-    {"id":"elevenlabs","name":"ElevenLabs","models":"Voice · speech · audio · agent models","region":"US/UK","newsroom":"https://elevenlabs.io/blog","sources":["ElevenLabs Blog"],"aliases":["ElevenLabs","Eleven Labs","Eleven v"],"social":{}},
-    {"id":"runway","name":"Runway","models":"Gen video · multimodal foundation models","region":"US","newsroom":"https://runwayml.com/news","sources":["Runway News"],"aliases":["Runway AI","RunwayML","Runway Gen-","Runway Gen "] ,"social":{}},
-    {"id":"bfl","name":"Black Forest Labs","models":"FLUX · image foundation models","region":"EU","newsroom":"https://blackforestlabs.ai/","sources":["Black Forest Labs"],"aliases":["Black Forest Labs","FLUX model","FLUX.1","FLUX.2"],"social":{}},
-    {"id":"writer","name":"Writer","models":"Palmyra · enterprise foundation models","region":"US","newsroom":"https://writer.com/blog/","sources":["Writer AI"],"aliases":["Writer AI","Palmyra","Writer model"],"social":{}},
-    {"id":"alephalpha","name":"Aleph Alpha","models":"Luminous · Pharia · sovereign foundation models","region":"EU","newsroom":"https://www.aleph-alpha.com/news/","sources":["Aleph Alpha"],"aliases":["Aleph Alpha","Luminous","Pharia"],"social":{}},
-    {"id":"sakana","name":"Sakana AI","models":"research · evolutionary · agentic foundation models","region":"JP","newsroom":"https://sakana.ai/blog/","sources":["Sakana AI"],"aliases":["Sakana AI","AI Scientist"],"social":{}},
-    {"id":"reka","name":"Reka AI","models":"Reka Core · Reka Flash · multimodal foundation models","region":"US","newsroom":"https://www.reka.ai/news","sources":["Reka AI"],"aliases":["Reka AI","Reka Core","Reka Flash"],"social":{}},
-    {"id":"liquid","name":"Liquid AI","models":"LFM · Liquid foundation models","region":"US","newsroom":"https://www.liquid.ai/blog","sources":["Liquid AI"],"aliases":["Liquid AI","LFM2","Liquid Foundation Model"],"social":{}},
-    {"id":"baidu","name":"Baidu ERNIE","models":"ERNIE · Wenxin · foundation models","region":"CN","newsroom":"https://yiyan.baidu.com/","sources":["Baidu ERNIE"],"aliases":["Baidu ERNIE","ERNIE Bot","ERNIE model","Wenxin"],"social":{}},
-    {"id":"tencent","name":"Tencent Hunyuan","models":"Hunyuan · multimodal foundation models","region":"CN","newsroom":"https://hunyuan.tencent.com/","sources":["Tencent Hunyuan"],"aliases":["Tencent Hunyuan","Hunyuan model","Hunyuan AI"],"social":{}},
-    {"id":"bytedance","name":"ByteDance Seed / Doubao","models":"Seed · Doubao · foundation models","region":"CN","newsroom":"https://seed.bytedance.com/","sources":["ByteDance Seed"],"aliases":["ByteDance Seed","Doubao","Seed model","ByteDance AI"],"social":{}},
-    {"id":"yi","name":"01.AI","models":"Yi · foundation models","region":"CN","newsroom":"https://www.01.ai/","sources":["01.AI"],"aliases":["01.AI","01 AI","Yi model","Yi-Large","Yi Light"],"social":{}},
-    {"id":"tii","name":"TII Falcon","models":"Falcon · open foundation models","region":"UAE","newsroom":"https://www.tii.ae/ai-and-digital-science","sources":["TII Falcon"],"aliases":["TII Falcon","Falcon model","Falcon LLM","Technology Innovation Institute AI"],"social":{}},
-    {"id":"lg","name":"LG AI Research","models":"EXAONE · foundation models","region":"KR","newsroom":"https://www.lgresearch.ai/","sources":["LG AI Research"],"aliases":["LG AI Research","EXAONE","Exaone model"],"social":{}},
-    {"id":"naver","name":"NAVER AI","models":"HyperCLOVA X · foundation models","region":"KR","newsroom":"https://clova.ai/en/","sources":["NAVER AI"],"aliases":["NAVER AI","HyperCLOVA","HyperCLOVA X","Clova X"],"social":{}},
-    {"id":"nous","name":"Nous Research","models":"Hermes · open foundation models","region":"US","newsroom":"https://nousresearch.com/","sources":["Nous Research"],"aliases":["Nous Research","Nous Hermes","Hermes model"],"social":{}},
-    {"id":"g42","name":"G42 / Core42","models":"Jais · sovereign foundation models · AI infrastructure","region":"UAE","newsroom":"https://www.g42.ai/","sources":["G42 AI","AI71"],"aliases":["G42 AI","Core42","Jais model","AI71"],"social":{}},
-    {"id":"openrouter","name":"OpenRouter","models":"multi-model routing · model marketplace · inference","region":"US","newsroom":"https://openrouter.ai/blog/","sources":["OpenRouter Blog"],"aliases":["OpenRouter","Open Router"],"social":{}},
-    {"id":"fireworks","name":"Fireworks AI","models":"inference · fine-tuning · foundation model serving","region":"US","newsroom":"https://fireworks.ai/blog","sources":["Fireworks AI Blog"],"aliases":["Fireworks AI","Fireworks.ai"],"social":{}},
-    {"id":"salesforce","name":"Salesforce AI","models":"Einstein · Agentforce · foundation models","region":"US","newsroom":"https://www.salesforceairesearch.com/","sources":["Salesforce AI Research"],"aliases":["Salesforce AI","Salesforce Einstein","Agentforce"],"social":{}},
-    {"id":"adobe","name":"Adobe AI","models":"Firefly · creative foundation models","region":"US","newsroom":"https://blog.adobe.com/en/topics/ai","sources":["Adobe AI"],"aliases":["Adobe Firefly","Adobe AI","Firefly model"],"social":{}},
-    {"id":"intel","name":"Intel AI","models":"Gaudi · Xeon AI · edge AI","region":"US","newsroom":"https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html","sources":["Intel AI"],"aliases":["Intel AI","Intel Gaudi","Gaudi accelerator"],"social":{}},
-    {"id":"amd","name":"AMD AI","models":"Instinct · ROCm · AI accelerators","region":"US","newsroom":"https://www.amd.com/en/solutions/ai.html","sources":["AMD AI"],"aliases":["AMD AI","AMD Instinct","ROCm AI"],"social":{}},
-    {"id":"qualcomm","name":"Qualcomm AI","models":"on-device AI · edge foundation models","region":"US","newsroom":"https://www.qualcomm.com/research/artificial-intelligence","sources":["Qualcomm AI"],"aliases":["Qualcomm AI","Qualcomm AI Hub","Snapdragon AI"],"social":{}},
-    {"id":"cognition","name":"Cognition","models":"Devin · coding agents","region":"US","newsroom":"https://cognition.ai/blog","sources":["Cognition AI"],"aliases":["Cognition AI","Devin AI","Devin coding agent"],"social":{}},
-    {"id":"cursor","name":"Cursor / Anysphere","models":"AI coding agents · editor models","region":"US","newsroom":"https://www.cursor.com/blog","sources":["Cursor Blog"],"aliases":["Cursor AI","Cursor coding","Anysphere","Cursor agent"],"social":{}},
-    {"id":"windsurf","name":"Windsurf","models":"AI coding agents · developer models","region":"US","newsroom":"https://windsurf.com/blog","sources":["Windsurf Blog"],"aliases":["Windsurf AI","Windsurf coding","Codeium"],"social":{}},
-    {"id":"midjourney","name":"Midjourney","models":"image · video generative models","region":"US","newsroom":"https://www.midjourney.com/updates","sources":["Midjourney Updates"],"aliases":["Midjourney","Midjourney model","Midjourney V"],"social":{}},
-    {"id":"luma","name":"Luma AI","models":"Dream Machine · video foundation models","region":"US","newsroom":"https://lumalabs.ai/","sources":["Luma AI"],"aliases":["Luma AI","Luma Dream Machine","Ray2","Ray3"],"social":{}},
-    {"id":"pika","name":"Pika","models":"video generative models","region":"US","newsroom":"https://pika.art/","sources":["Pika"],"aliases":["Pika AI","Pika Labs","Pika video"],"social":{}},
-    {"id":"characterai","name":"Character.AI","models":"conversational foundation models","region":"US","newsroom":"https://blog.character.ai/","sources":["Character.AI"],"aliases":["Character.AI","Character AI","c.ai"],"social":{}},
-    {"id":"inflection","name":"Inflection AI","models":"Pi · enterprise foundation models","region":"US","newsroom":"https://inflection.ai/","sources":["Inflection AI"],"aliases":["Inflection AI","Inflection Pi","Pi AI"],"social":{}},
-    {"id":"poolside","name":"Poolside","models":"coding foundation models · agents","region":"US/EU","newsroom":"https://poolside.ai/","sources":["Poolside AI"],"aliases":["Poolside AI","Poolside model"],"social":{}},
-    {"id":"magic","name":"Magic","models":"coding foundation models · agents","region":"US","newsroom":"https://magic.dev/","sources":["Magic AI"],"aliases":["Magic.dev","Magic AI coding","Magic LTM"],"social":{}},
-    {"id":"replit","name":"Replit AI","models":"Replit Agent · coding assistants","region":"US","newsroom":"https://blog.replit.com/ai","sources":["Replit AI"],"aliases":["Replit AI","Replit Agent","Replit Assistant"],"social":{}}
+    {
+      "id": "huggingface",
+      "name": "Hugging Face",
+      "models": "Open model hub · Transformers · inference",
+      "region": "Global",
+      "newsroom": "https://huggingface.co/blog",
+      "sources": [
+        "Hugging Face Blog"
+      ],
+      "aliases": [
+        "Hugging Face",
+        "HuggingFace",
+        "Transformers"
+      ],
+      "social": {}
+    },
+    {
+      "id": "apple",
+      "name": "Apple AI / ML",
+      "models": "Apple Intelligence · foundation models",
+      "region": "US",
+      "newsroom": "https://machinelearning.apple.com/",
+      "sources": [
+        "Apple Machine Learning Research"
+      ],
+      "aliases": [
+        "Apple Intelligence",
+        "Apple foundation model",
+        "Apple AI"
+      ],
+      "social": {}
+    },
+    {
+      "id": "databricks",
+      "name": "Databricks / Mosaic AI",
+      "models": "DBRX · Mosaic AI · foundation models",
+      "region": "US",
+      "newsroom": "https://www.databricks.com/blog/category/artificial-intelligence",
+      "sources": [
+        "Databricks AI"
+      ],
+      "aliases": [
+        "Databricks AI",
+        "Mosaic AI",
+        "DBRX",
+        "MosaicML"
+      ],
+      "social": {}
+    },
+    {
+      "id": "together",
+      "name": "Together AI",
+      "models": "Open-model training · inference · foundation models",
+      "region": "US",
+      "newsroom": "https://www.together.ai/blog",
+      "sources": [
+        "Together AI Blog"
+      ],
+      "aliases": [
+        "Together AI",
+        "Together Inference"
+      ],
+      "social": {}
+    },
+    {
+      "id": "groq",
+      "name": "Groq",
+      "models": "LPU inference · foundation model serving",
+      "region": "US",
+      "newsroom": "https://groq.com/blog",
+      "sources": [
+        "Groq Blog"
+      ],
+      "aliases": [
+        "Groq",
+        "GroqCloud",
+        "LPU"
+      ],
+      "social": {}
+    },
+    {
+      "id": "cerebras",
+      "name": "Cerebras",
+      "models": "Wafer-scale AI · inference · foundation models",
+      "region": "US",
+      "newsroom": "https://www.cerebras.ai/blog",
+      "sources": [
+        "Cerebras Blog"
+      ],
+      "aliases": [
+        "Cerebras",
+        "Cerebras Inference",
+        "Wafer Scale Engine"
+      ],
+      "social": {}
+    },
+    {
+      "id": "stability",
+      "name": "Stability AI",
+      "models": "Stable Diffusion · Stable Audio · generative models",
+      "region": "UK/US",
+      "newsroom": "https://stability.ai/news-updates",
+      "sources": [
+        "Stability AI"
+      ],
+      "aliases": [
+        "Stability AI",
+        "Stable Diffusion",
+        "Stable Audio"
+      ],
+      "social": {}
+    },
+    {
+      "id": "elevenlabs",
+      "name": "ElevenLabs",
+      "models": "Voice · speech · audio · agent models",
+      "region": "US/UK",
+      "newsroom": "https://elevenlabs.io/blog",
+      "sources": [
+        "ElevenLabs Blog"
+      ],
+      "aliases": [
+        "ElevenLabs",
+        "Eleven Labs",
+        "Eleven v"
+      ],
+      "social": {}
+    },
+    {
+      "id": "runway",
+      "name": "Runway",
+      "models": "Gen video · multimodal foundation models",
+      "region": "US",
+      "newsroom": "https://runwayml.com/news",
+      "sources": [
+        "Runway News"
+      ],
+      "aliases": [
+        "Runway AI",
+        "RunwayML",
+        "Runway Gen-",
+        "Runway Gen "
+      ],
+      "social": {}
+    },
+    {
+      "id": "bfl",
+      "name": "Black Forest Labs",
+      "models": "FLUX · image foundation models",
+      "region": "EU",
+      "newsroom": "https://blackforestlabs.ai/",
+      "sources": [
+        "Black Forest Labs"
+      ],
+      "aliases": [
+        "Black Forest Labs",
+        "FLUX model",
+        "FLUX.1",
+        "FLUX.2"
+      ],
+      "social": {}
+    },
+    {
+      "id": "writer",
+      "name": "Writer",
+      "models": "Palmyra · enterprise foundation models",
+      "region": "US",
+      "newsroom": "https://writer.com/blog/",
+      "sources": [
+        "Writer AI"
+      ],
+      "aliases": [
+        "Writer AI",
+        "Palmyra",
+        "Writer model"
+      ],
+      "social": {}
+    },
+    {
+      "id": "alephalpha",
+      "name": "Aleph Alpha",
+      "models": "Luminous · Pharia · sovereign foundation models",
+      "region": "EU",
+      "newsroom": "https://www.aleph-alpha.com/news/",
+      "sources": [
+        "Aleph Alpha"
+      ],
+      "aliases": [
+        "Aleph Alpha",
+        "Luminous",
+        "Pharia"
+      ],
+      "social": {}
+    },
+    {
+      "id": "sakana",
+      "name": "Sakana AI",
+      "models": "research · evolutionary · agentic foundation models",
+      "region": "JP",
+      "newsroom": "https://sakana.ai/blog/",
+      "sources": [
+        "Sakana AI"
+      ],
+      "aliases": [
+        "Sakana AI",
+        "AI Scientist"
+      ],
+      "social": {}
+    },
+    {
+      "id": "reka",
+      "name": "Reka AI",
+      "models": "Reka Core · Reka Flash · multimodal foundation models",
+      "region": "US",
+      "newsroom": "https://www.reka.ai/news",
+      "sources": [
+        "Reka AI"
+      ],
+      "aliases": [
+        "Reka AI",
+        "Reka Core",
+        "Reka Flash"
+      ],
+      "social": {}
+    },
+    {
+      "id": "liquid",
+      "name": "Liquid AI",
+      "models": "LFM · Liquid foundation models",
+      "region": "US",
+      "newsroom": "https://www.liquid.ai/blog",
+      "sources": [
+        "Liquid AI"
+      ],
+      "aliases": [
+        "Liquid AI",
+        "LFM2",
+        "Liquid Foundation Model"
+      ],
+      "social": {}
+    },
+    {
+      "id": "baidu",
+      "name": "Baidu ERNIE",
+      "models": "ERNIE · Wenxin · foundation models",
+      "region": "CN",
+      "newsroom": "https://yiyan.baidu.com/",
+      "sources": [
+        "Baidu ERNIE"
+      ],
+      "aliases": [
+        "Baidu ERNIE",
+        "ERNIE Bot",
+        "ERNIE model",
+        "Wenxin"
+      ],
+      "social": {}
+    },
+    {
+      "id": "tencent",
+      "name": "Tencent Hunyuan",
+      "models": "Hunyuan · multimodal foundation models",
+      "region": "CN",
+      "newsroom": "https://hunyuan.tencent.com/",
+      "sources": [
+        "Tencent Hunyuan"
+      ],
+      "aliases": [
+        "Tencent Hunyuan",
+        "Hunyuan model",
+        "Hunyuan AI"
+      ],
+      "social": {}
+    },
+    {
+      "id": "bytedance",
+      "name": "ByteDance Seed / Doubao",
+      "models": "Seed · Doubao · foundation models",
+      "region": "CN",
+      "newsroom": "https://seed.bytedance.com/",
+      "sources": [
+        "ByteDance Seed"
+      ],
+      "aliases": [
+        "ByteDance Seed",
+        "Doubao",
+        "Seed model",
+        "ByteDance AI"
+      ],
+      "social": {}
+    },
+    {
+      "id": "yi",
+      "name": "01.AI",
+      "models": "Yi · foundation models",
+      "region": "CN",
+      "newsroom": "https://www.01.ai/",
+      "sources": [
+        "01.AI"
+      ],
+      "aliases": [
+        "01.AI",
+        "01 AI",
+        "Yi model",
+        "Yi-Large",
+        "Yi Light"
+      ],
+      "social": {}
+    },
+    {
+      "id": "tii",
+      "name": "TII Falcon",
+      "models": "Falcon · open foundation models",
+      "region": "UAE",
+      "newsroom": "https://www.tii.ae/ai-and-digital-science",
+      "sources": [
+        "TII Falcon"
+      ],
+      "aliases": [
+        "TII Falcon",
+        "Falcon model",
+        "Falcon LLM",
+        "Technology Innovation Institute AI"
+      ],
+      "social": {}
+    },
+    {
+      "id": "lg",
+      "name": "LG AI Research",
+      "models": "EXAONE · foundation models",
+      "region": "KR",
+      "newsroom": "https://www.lgresearch.ai/",
+      "sources": [
+        "LG AI Research"
+      ],
+      "aliases": [
+        "LG AI Research",
+        "EXAONE",
+        "Exaone model"
+      ],
+      "social": {}
+    },
+    {
+      "id": "naver",
+      "name": "NAVER AI",
+      "models": "HyperCLOVA X · foundation models",
+      "region": "KR",
+      "newsroom": "https://clova.ai/en/",
+      "sources": [
+        "NAVER AI"
+      ],
+      "aliases": [
+        "NAVER AI",
+        "HyperCLOVA",
+        "HyperCLOVA X",
+        "Clova X"
+      ],
+      "social": {}
+    },
+    {
+      "id": "nous",
+      "name": "Nous Research",
+      "models": "Hermes · open foundation models",
+      "region": "US",
+      "newsroom": "https://nousresearch.com/",
+      "sources": [
+        "Nous Research"
+      ],
+      "aliases": [
+        "Nous Research",
+        "Nous Hermes",
+        "Hermes model"
+      ],
+      "social": {}
+    },
+    {
+      "id": "g42",
+      "name": "G42 / Core42",
+      "models": "Jais · sovereign foundation models · AI infrastructure",
+      "region": "UAE",
+      "newsroom": "https://www.g42.ai/",
+      "sources": [
+        "G42 AI",
+        "AI71"
+      ],
+      "aliases": [
+        "G42 AI",
+        "Core42",
+        "Jais model",
+        "AI71"
+      ],
+      "social": {}
+    },
+    {
+      "id": "openrouter",
+      "name": "OpenRouter",
+      "models": "multi-model routing · model marketplace · inference",
+      "region": "US",
+      "newsroom": "https://openrouter.ai/blog/",
+      "sources": [
+        "OpenRouter Blog"
+      ],
+      "aliases": [
+        "OpenRouter",
+        "Open Router"
+      ],
+      "social": {}
+    },
+    {
+      "id": "fireworks",
+      "name": "Fireworks AI",
+      "models": "inference · fine-tuning · foundation model serving",
+      "region": "US",
+      "newsroom": "https://fireworks.ai/blog",
+      "sources": [
+        "Fireworks AI Blog"
+      ],
+      "aliases": [
+        "Fireworks AI",
+        "Fireworks.ai"
+      ],
+      "social": {}
+    },
+    {
+      "id": "salesforce",
+      "name": "Salesforce AI",
+      "models": "Einstein · Agentforce · foundation models",
+      "region": "US",
+      "newsroom": "https://www.salesforceairesearch.com/",
+      "sources": [
+        "Salesforce AI Research"
+      ],
+      "aliases": [
+        "Salesforce AI",
+        "Salesforce Einstein",
+        "Agentforce"
+      ],
+      "social": {}
+    },
+    {
+      "id": "adobe",
+      "name": "Adobe AI",
+      "models": "Firefly · creative foundation models",
+      "region": "US",
+      "newsroom": "https://blog.adobe.com/en/topics/ai",
+      "sources": [
+        "Adobe AI"
+      ],
+      "aliases": [
+        "Adobe Firefly",
+        "Adobe AI",
+        "Firefly model"
+      ],
+      "social": {}
+    },
+    {
+      "id": "intel",
+      "name": "Intel AI",
+      "models": "Gaudi · Xeon AI · edge AI",
+      "region": "US",
+      "newsroom": "https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html",
+      "sources": [
+        "Intel AI"
+      ],
+      "aliases": [
+        "Intel AI",
+        "Intel Gaudi",
+        "Gaudi accelerator"
+      ],
+      "social": {}
+    },
+    {
+      "id": "amd",
+      "name": "AMD AI",
+      "models": "Instinct · ROCm · AI accelerators",
+      "region": "US",
+      "newsroom": "https://www.amd.com/en/solutions/ai.html",
+      "sources": [
+        "AMD AI"
+      ],
+      "aliases": [
+        "AMD AI",
+        "AMD Instinct",
+        "ROCm AI"
+      ],
+      "social": {}
+    },
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm AI",
+      "models": "on-device AI · edge foundation models",
+      "region": "US",
+      "newsroom": "https://www.qualcomm.com/research/artificial-intelligence",
+      "sources": [
+        "Qualcomm AI"
+      ],
+      "aliases": [
+        "Qualcomm AI",
+        "Qualcomm AI Hub",
+        "Snapdragon AI"
+      ],
+      "social": {}
+    },
+    {
+      "id": "cognition",
+      "name": "Cognition",
+      "models": "Devin · coding agents",
+      "region": "US",
+      "newsroom": "https://cognition.ai/blog",
+      "sources": [
+        "Cognition AI"
+      ],
+      "aliases": [
+        "Cognition AI",
+        "Devin AI",
+        "Devin coding agent"
+      ],
+      "social": {}
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor / Anysphere",
+      "models": "AI coding agents · editor models",
+      "region": "US",
+      "newsroom": "https://www.cursor.com/blog",
+      "sources": [
+        "Cursor Blog"
+      ],
+      "aliases": [
+        "Cursor AI",
+        "Cursor coding",
+        "Anysphere",
+        "Cursor agent"
+      ],
+      "social": {}
+    },
+    {
+      "id": "windsurf",
+      "name": "Windsurf",
+      "models": "AI coding agents · developer models",
+      "region": "US",
+      "newsroom": "https://windsurf.com/blog",
+      "sources": [
+        "Windsurf Blog"
+      ],
+      "aliases": [
+        "Windsurf AI",
+        "Windsurf coding",
+        "Codeium"
+      ],
+      "social": {}
+    },
+    {
+      "id": "midjourney",
+      "name": "Midjourney",
+      "models": "image · video generative models",
+      "region": "US",
+      "newsroom": "https://www.midjourney.com/updates",
+      "sources": [
+        "Midjourney Updates"
+      ],
+      "aliases": [
+        "Midjourney",
+        "Midjourney model",
+        "Midjourney V"
+      ],
+      "social": {}
+    },
+    {
+      "id": "luma",
+      "name": "Luma AI",
+      "models": "Dream Machine · video foundation models",
+      "region": "US",
+      "newsroom": "https://lumalabs.ai/",
+      "sources": [
+        "Luma AI"
+      ],
+      "aliases": [
+        "Luma AI",
+        "Luma Dream Machine",
+        "Ray2",
+        "Ray3"
+      ],
+      "social": {}
+    },
+    {
+      "id": "pika",
+      "name": "Pika",
+      "models": "video generative models",
+      "region": "US",
+      "newsroom": "https://pika.art/",
+      "sources": [
+        "Pika"
+      ],
+      "aliases": [
+        "Pika AI",
+        "Pika Labs",
+        "Pika video"
+      ],
+      "social": {}
+    },
+    {
+      "id": "characterai",
+      "name": "Character.AI",
+      "models": "conversational foundation models",
+      "region": "US",
+      "newsroom": "https://blog.character.ai/",
+      "sources": [
+        "Character.AI"
+      ],
+      "aliases": [
+        "Character.AI",
+        "Character AI",
+        "c.ai"
+      ],
+      "social": {}
+    },
+    {
+      "id": "inflection",
+      "name": "Inflection AI",
+      "models": "Pi · enterprise foundation models",
+      "region": "US",
+      "newsroom": "https://inflection.ai/",
+      "sources": [
+        "Inflection AI"
+      ],
+      "aliases": [
+        "Inflection AI",
+        "Inflection Pi",
+        "Pi AI"
+      ],
+      "social": {}
+    },
+    {
+      "id": "poolside",
+      "name": "Poolside",
+      "models": "coding foundation models · agents",
+      "region": "US/EU",
+      "newsroom": "https://poolside.ai/",
+      "sources": [
+        "Poolside AI"
+      ],
+      "aliases": [
+        "Poolside AI",
+        "Poolside model"
+      ],
+      "social": {}
+    },
+    {
+      "id": "magic",
+      "name": "Magic",
+      "models": "coding foundation models · agents",
+      "region": "US",
+      "newsroom": "https://magic.dev/",
+      "sources": [
+        "Magic AI"
+      ],
+      "aliases": [
+        "Magic.dev",
+        "Magic AI coding",
+        "Magic LTM"
+      ],
+      "social": {}
+    },
+    {
+      "id": "replit",
+      "name": "Replit AI",
+      "models": "Replit Agent · coding assistants",
+      "region": "US",
+      "newsroom": "https://blog.replit.com/ai",
+      "sources": [
+        "Replit AI"
+      ],
+      "aliases": [
+        "Replit AI",
+        "Replit Agent",
+        "Replit Assistant"
+      ],
+      "social": {}
+    },
+    {
+      "id": "websim",
+      "name": "Websim.ai",
+      "models": "AI web simulation · creative apps · rapid prototypes",
+      "region": "Global",
+      "newsroom": "https://websim.ai/",
+      "sources": [
+        "Websim.ai Product Watch"
+      ],
+      "aliases": [
+        "Websim.ai",
+        "Websim",
+        "web simulation AI"
+      ],
+      "social": {}
+    }
   ]
 }

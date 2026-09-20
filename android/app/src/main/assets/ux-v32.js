@@ -1,6 +1,6 @@
 (function(){
   "use strict";
-  var VERSION="3.5.0";
+  var VERSION="3.6.0";
   var FILTER_KEY="aiNewsCustomFiltersV33";
   var SOURCE_KEY="aiNewsCustomSourcesV33";
   var SOCIAL_KEY="aiNewsCustomSocialV33";
@@ -76,14 +76,16 @@
       var pair=await Promise.all([
         readRegistry("config/providers-extra.json","providers-extra.json",{providers:[]}),
         readRegistry("config/sources-extra.json","sources-extra.json",{sources:[]}),
-        readRegistry("config/social-directory.json","social-directory.json",{providers:[]})
+        readRegistry("config/social-directory.json","social-directory.json",{providers:[]}),
+        readRegistry("config/products.json","products.json",{products:[]})
       ]);
-      var beforeP=(s.providers||[]).length,beforeS=(s.sources||[]).length;
+      var beforeP=(s.providers||[]).length,beforeS=(s.sources||[]).length,beforeProducts=(s.products||[]).length;
       s.providers=merge(s.providers,pair[0].providers||[],"id");
       s.sources=merge(s.sources,pair[1].sources||[],"name");
+      s.products=merge(s.products,pair[3].products||[],"id");
       var socialChanged=applySocialDirectory(s,pair[2]);
       ensureCustomRegistry();
-      if(s.providers.length!==beforeP||s.sources.length!==beforeS||socialChanged)renderApp();
+      if(s.providers.length!==beforeP||s.sources.length!==beforeS||s.products.length!==beforeProducts||socialChanged)renderApp();
       fetchCustomFeeds(true);
     }catch(e){}
   }

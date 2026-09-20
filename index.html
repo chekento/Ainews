@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#050813">
   <meta name="description" content="AI News // Hyperintelligence — AI-only newsroom with LLM news, research, infrastructure, safety and governance intelligence.">
   <meta property="og:title" content="AI News // Hyperintelligence">
-  <meta property="og:description" content="Only AI news. 60 curated sources, 18 LLM ecosystems, research, independent reporting and governance intelligence.">
+  <meta property="og:description" content="Only AI news. 160 curated sources, 61 provider ecosystems, 40 product monitors, research, independent reporting and governance intelligence.">
   <meta property="og:type" content="website">
   <title>AI News // Hyperintelligence</title>
   <link rel="icon" type="image/svg+xml" href="assets/branding/logo-mark.svg">
@@ -45,7 +45,7 @@
       <div class="hero-copy">
         <div class="eyebrow"><span class="live-dot"></span> Live AI intelligence · source first · no scraping</div>
         <h1>Everything AI.<br><span>One signal layer.</span></h1>
-        <p>Frontier-model releases, LLM providers, agents, research, chips, open source and business — with a dedicated compliance, ethics, EU AI Act and WAICO desk.</p>
+        <p>Frontier-model releases, LLM providers, agents, research, chips, open source and business — with a dedicated governance, ethics, EU AI Act, WAICO and US AI policy desk.</p>
         <div class="hero-cta">
           <a class="primary-cta" href="#stream">Explore live feed <span>↓</span></a>
           <button class="ghost-cta" id="heroChatBtn" type="button">✦ Chat about the news</button>
@@ -64,6 +64,7 @@
       <article><span>Curated sources</span><strong id="metricSources">—</strong><small>primary + independent</small></article>
       <article><span>Governance</span><strong id="metricCompliance">—</strong><small>compliance & ethics items</small></article>
       <article><span>Primary / official</span><strong id="metricPrimary">—</strong><small>first-party sources</small></article>
+      <article><span>AI products</span><strong id="metricProducts">—</strong><small>services monitored</small></article>
     </section>
 
     <section class="ticker-wrap shell" aria-label="Latest headlines">
@@ -73,10 +74,18 @@
 
     <section id="providers" class="providers-section shell">
       <div class="section-head">
-        <div><span class="kicker">LLM PROVIDER WIRE</span><h2>18 labs. One live radar.</h2><p>Official newsroom access plus automatically matched coverage across the complete AI feed.</p></div>
+        <div><span class="kicker">LLM PROVIDER WIRE</span><h2>Complete provider wire. One live radar.</h2><p>Official newsroom access, provider monitoring and a dedicated product/service signal layer.</p></div>
         <div class="section-tools"><button id="clearProviderBtn" class="mini-btn" type="button">Show all providers</button></div>
       </div>
       <div id="providerRail" class="provider-rail" aria-label="LLM providers"></div>
+    </section>
+
+    <section id="products" class="products-section shell panel" aria-labelledby="productsTitle">
+      <div class="section-head">
+        <div><span class="kicker">AI PRODUCT & SERVICE WIRE</span><h2 id="productsTitle">What people can actually use</h2><p>Claude Code, Google Antigravity, Flow, Make, Zapier, KNIME, Suno, Udio, Websim.ai and more — official product pages plus source-first news monitoring.</p></div>
+        <span class="legal-badge">PRODUCT NEWS · ORIGINAL LINKS</span>
+      </div>
+      <div id="productGrid" class="product-grid"></div>
     </section>
 
     <section class="signal-grid shell">
@@ -103,8 +112,12 @@
         <a class="gov-card waico" href="https://www.mfa.gov.cn/eng/wjbzhd/202607/t20260717_11984747.html" target="_blank" rel="noopener noreferrer"><span>WAICO</span><strong>Global cooperation watch</strong><p>Track the emerging multilateral AI-governance organization and membership developments.</p><b>GLOBAL ↗</b></a>
         <a class="gov-card" href="https://www.nist.gov/artificial-intelligence" target="_blank" rel="noopener noreferrer"><span>NIST</span><strong>Risk & standards</strong><p>AI RMF, measurement, testing and technical standards.</p><b>US ↗</b></a>
         <a class="gov-card" href="https://oecd.ai/" target="_blank" rel="noopener noreferrer"><span>OECD.AI</span><strong>Policy observatory</strong><p>International AI policy, principles and governance indicators.</p><b>OECD ↗</b></a>
+        <a class="gov-card us-ai" href="https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/" target="_blank" rel="noopener noreferrer"><span>US AI CZAR / AI FORCE</span><strong>US policy watch</strong><p>Dedicated coverage for the announced AI czar and new AI Force, separate from product news.</p><b>US ↗</b></a>
+        <a class="gov-card" href="https://www.ftc.gov/business-guidance/artificial-intelligence" target="_blank" rel="noopener noreferrer"><span>FTC · COPYRIGHT</span><strong>Enforcement & rights</strong><p>Consumer protection, copyright, provenance and accountability developments.</p><b>US ↗</b></a>
+        <a class="gov-card" href="https://www.un.org/en/ai-advisory-body" target="_blank" rel="noopener noreferrer"><span>UN AI GOVERNANCE</span><strong>International ethics</strong><p>Multilateral governance, human rights, ethics and global coordination.</p><b>GLOBAL ↗</b></a>
       </div>
-    </section>
+          <div class="governance-feed-head"><div><span class="kicker">SEPARATE POLICY INDEX</span><h3>Governance & ethics signals</h3><p>AI czar, AI Force, regulation, standards, safety, rights and ethics stay out of the general product stream.</p></div><span id="governanceCount" class="source-count">—</span></div><div id="governanceNewsGrid" class="news-grid governance-news-grid"></div>
+</section>
 
     <section id="stream" class="control-deck shell panel" aria-label="News controls">
       <div class="search-box"><span>⌕</span><input id="searchInput" type="search" autocomplete="off" placeholder="Search models, companies, policy, agents…" aria-label="Search news"><kbd>⌘K</kbd></div>
@@ -145,7 +158,7 @@
 
   <footer class="shell footer">
     <div><strong>AI NEWS // HYPERINTELLIGENCE</strong><span>Provider-first AI intelligence with provenance.</span></div>
-    <div><span>No tracking · No social scraping · No paywall bypass · Headlines + brief excerpts only</span><a href="https://github.com/chekento/Ainews" target="_blank" rel="noopener noreferrer">GitHub ↗</a></div>
+    <div><span>No tracking · Public social signals only · No private-account scraping · No paywall bypass · Headlines + brief excerpts only</span><a href="PRIVACY.md">Privacy ↗</a><a href="https://kosch.cloud" target="_blank" rel="noopener noreferrer">❣️ by KoSch ↗</a><a href="https://github.com/chekento/Ainews" target="_blank" rel="noopener noreferrer">GitHub ↗</a></div>
   </footer>
 
   <template id="newsCardTemplate">

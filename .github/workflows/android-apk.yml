@@ -15,6 +15,9 @@ on:
       - 'config/sources.json'
       - 'config/sources-extra.json'
       - 'config/social-directory.json'
+      - 'config/products.json'
+      - 'assets/branding/**'
+      - 'scripts/update-android-archive.mjs'
       - 'PRIVACY.md'
       - 'PRIVACY-SOURCES.md'
       - '.github/workflows/android-apk.yml'
@@ -57,20 +60,22 @@ jobs:
           node --check scripts/fetch-news.mjs
           node --check scripts/fetch-news-expanded.mjs
           node --check scripts/update-privacy-sources.mjs
+          node --check scripts/update-android-archive.mjs
           node scripts/update-privacy-sources.mjs
           node <<'NODE'
           const fs=require('fs');
           const coreS=JSON.parse(fs.readFileSync('config/sources.json','utf8')).sources||[];
           const extraS=JSON.parse(fs.readFileSync('config/sources-extra.json','utf8')).sources||[];
           const coreP=JSON.parse(fs.readFileSync('config/providers.json','utf8')).providers||[];
+          const products=JSON.parse(fs.readFileSync('config/products.json','utf8')).products||[];
           const extraP=JSON.parse(fs.readFileSync('config/providers-extra.json','utf8')).providers||[];
           const sources=[...coreS,...extraS],providers=[...coreP,...extraP];
           const privacy=fs.readFileSync('PRIVACY.md','utf8')+'\n'+fs.readFileSync('PRIVACY-SOURCES.md','utf8');
-          const missing=[...sources.map(x=>x.name),...providers.map(x=>x.name)].filter(name=>!privacy.includes(name));
+          const missing=[...sources.map(x=>x.name),...providers.map(x=>x.name),...products.map(x=>x.name)].filter(name=>!privacy.includes(name));
           if(missing.length){console.error('Privacy catalog missing registered names:',missing);process.exit(3)}
-          if(sources.length<120||providers.length<50)process.exit(2);
+          if(sources.length<135||providers.length<50||products.length<30)process.exit(2);
           if(/searchInput['"]?\)?\.focus|searchInput.*focus/.test(fs.readFileSync('android/app/src/main/assets/app.js','utf8'))){console.error('Discover auto-focus still present');process.exit(5)}
-          console.log('Mobile assets + expanded privacy + Discover UX OK:',sources.length,'sources,',providers.length,'providers');
+          console.log('Mobile assets + expanded privacy + products + Discover UX OK:',sources.length,'sources,',providers.length,'providers,',products.length,'products');
           NODE
       - name: Refresh bundled expanded AI-only data
         run: node scripts/fetch-news-expanded.mjs
@@ -83,6 +88,7 @@ jobs:
           cp config/sources-extra.json android/app/src/main/assets/sources-extra.json
           cp config/social-feeds.json android/app/src/main/assets/social-feeds.json
           cp config/social-directory.json android/app/src/main/assets/social-directory.json
+          cp config/products.json android/app/src/main/assets/products.json
       - name: Build installable debug APK
         run: gradle -p android :app:assembleDebug --stacktrace
       - name: Prepare downloads
@@ -92,21 +98,52 @@ jobs:
           sha256sum dist/AI-News.apk > dist/AI-News.apk.sha256
       - uses: actions/upload-artifact@v4
         with:
-          name: AI-News-Android-3.5-Beta
+          name: AI-News-Android-3.6-Beta
           path: |
             dist/AI-News.apk
             dist/AI-News.apk.sha256
           if-no-files-found: error
-      - name: Publish stable Android download
+      - name: Preserve the previous stable APK as a versioned archive entry
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          git tag -f android-latest "$GITHUB_SHA"
+          if ! gh release view android-v3.5.0 >/dev/null 2>&1; then
+            mkdir -p dist/legacy
+            if curl -fL --retry 3 "https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk" -o dist/legacy/AI-News-Android-3.5.0.apk; then
+              sha256sum dist/legacy/AI-News-Android-3.5.0.apk > dist/legacy/AI-News-Android-3.5.0.apk.sha256
+              gh release create android-v3.5.0 dist/legacy/AI-News-Android-3.5.0.apk dist/legacy/AI-News-Android-3.5.0.apk.sha256 --title "AI News Android 3.5.0 Beta · Archived" --notes "Archived stable alias before the Android 3.6 product/governance release."
+            fi
+          fi
+      - name: Publish versioned APK archive and stable download
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          VERSION="$(sed -n 's/.*versionName = "\([^"]*\)".*/\1/p' android/app/build.gradle.kts | head -n1)"
+          TAG="android-v${VERSION}"
+          ARCHIVE_APK="AI-News-Android-${VERSION}.apk"
+          cp dist/AI-News.apk "dist/${ARCHIVE_APK}"
+          sha256sum "dist/${ARCHIVE_APK}" > "dist/${ARCHIVE_APK}.sha256"
+          NOTES="AI News Android ${VERSION} Beta · Product & Service Wire, separate Governance & Ethics desk, US AI czar / AI Force watch, settings persistence, kosch.cloud partner banner, legal links and versioned APK archive. The APK is a debug-signed beta/development build; use at your own risk."
+          if gh release view "${TAG}" >/dev/null 2>&1; then
+            gh release upload "${TAG}" "dist/${ARCHIVE_APK}" "dist/${ARCHIVE_APK}.sha256" --clobber
+            gh release edit "${TAG}" --title "AI News Android ${VERSION} Beta · Product & Governance Wire" --notes "${NOTES}"
+          else
+            gh release create "${TAG}" "dist/${ARCHIVE_APK}" "dist/${ARCHIVE_APK}.sha256" --target "${GITHUB_SHA}" --title "AI News Android ${VERSION} Beta · Product & Governance Wire" --notes "${NOTES}"
+          fi
+          git tag -f android-latest "${GITHUB_SHA}"
           git push origin refs/tags/android-latest --force
-          NOTES="AI News Android 3.5 Beta • Social Wire, Local Copilot & Theme Studio. Discover has no implicit search focus in the base mobile JavaScript or UX layer; the keyboard opens only after an explicit tap in the search input. Adds collapsible Filter Workspace, personal RSS/Atom sources, saved local filters, official social-link directory, two native overview widgets (Signal Stack and Live AI Radar), complete core+extended provider/source coverage, and the existing Smart Brief/Widget Studio intelligence layer. Privacy/source transparency is CI-generated and checked. The APK remains a debug-signed beta/development build; use at your own risk."
           if gh release view android-latest >/dev/null 2>&1; then
             gh release upload android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --clobber
-            gh release edit android-latest --title "AI News Android 3.5 Beta • Social Wire, Local Copilot & Theme Studio" --notes "$NOTES"
+            gh release edit android-latest --title "AI News Android ${VERSION} Beta · Product & Governance Wire" --notes "${NOTES}"
           else
-            gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --title "AI News Android 3.4 Beta • Live Radar & Theme Studio" --notes "$NOTES"
+            gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --target "${GITHUB_SHA}" --title "AI News Android ${VERSION} Beta · Product & Governance Wire" --notes "${NOTES}"
+          fi
+          node scripts/update-android-archive.mjs
+          git config user.name "ai-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add ANDROID-ARCHIVE.md
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: update Android APK archive"
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi

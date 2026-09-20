@@ -2,7 +2,7 @@
 
 # ⬡ AI / LLM Provider Wire
 
-### 60 monitored model and AI ecosystems · core + extended radar
+### 60 monitored model and AI ecosystems · product/service wire · core + extended radar
 
 [← Portal](../README.md) · [News](news.md) · [Governance](governance.md) · [Social](social.md) · [Copilot](copilot.md)
 
@@ -16,13 +16,19 @@
 
 ---
 
+## Product & service wire
+
+The separate product desk tracks Claude Code, Google Antigravity, Google Flow, Make, Zapier, KNIME, Suno.ai, Udio.ai, Websim.ai, ChatGPT, Codex, Gemini, Copilot, GitHub Copilot, Cursor, Windsurf, Replit, Runway, Midjourney, ElevenLabs, Firefly and more.
+
+**[→ Product registry](../config/products.json)**
+
 ## Core radar
 
 OpenAI · Anthropic · Google DeepMind · Microsoft AI · Meta AI · xAI · Mistral AI · Cohere · Perplexity · Alibaba Qwen · Moonshot/Kimi · DeepSeek · Z.AI/Zhipu · MiniMax · AI21 Labs · Amazon AI · NVIDIA · IBM.
 
 ## Extended radar
 
-The 3.2 registry adds model, inference, multimodal, coding, creative and regional ecosystems including Hugging Face, Apple, Databricks/Mosaic AI, Together AI, Groq, Cerebras, Stability AI, ElevenLabs, Runway, Black Forest Labs, Writer, Aleph Alpha, Sakana AI, Reka AI, Liquid AI, Baidu ERNIE, Tencent Hunyuan, ByteDance Seed/Doubao, 01.AI/Yi, TII/Falcon, LG AI Research/EXAONE, NAVER/HyperCLOVA, Nous Research, G42/Core42, OpenRouter, Fireworks AI, Salesforce AI, Adobe Firefly, Intel AI, AMD AI, Qualcomm AI, Cognition/Devin, Cursor/Anysphere, Windsurf, Midjourney, Luma AI, Pika, Character.AI, Inflection AI, Poolside, Magic and Replit AI.
+The 3.6 registry adds model, inference, multimodal, coding, creative and regional ecosystems including Hugging Face, Apple, Databricks/Mosaic AI, Together AI, Groq, Cerebras, Stability AI, ElevenLabs, Runway, Black Forest Labs, Writer, Aleph Alpha, Sakana AI, Reka AI, Liquid AI, Baidu ERNIE, Tencent Hunyuan, ByteDance Seed/Doubao, 01.AI/Yi, TII/Falcon, LG AI Research/EXAONE, NAVER/HyperCLOVA, Nous Research, G42/Core42, OpenRouter, Fireworks AI, Salesforce AI, Adobe Firefly, Intel AI, AMD AI, Qualcomm AI, Cognition/Devin, Cursor/Anysphere, Windsurf, Midjourney, Luma AI, Pika, Character.AI, Inflection AI, Poolside, Magic and Replit AI.
 
 Provider monitoring combines official/provider-native sources with independent coverage. A company does not need a working RSS feed to stay on the radar: where appropriate the GitHub workflow uses domain-scoped monitoring, while the Android app receives only the generated AI-only dataset.
 

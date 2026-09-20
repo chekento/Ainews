@@ -15,6 +15,7 @@ on:
       - 'sw.js'
       - 'scripts/**'
       - 'config/**'
+      - 'ANDROID-ARCHIVE.md'
       - 'PRIVACY.md'
       - 'PRIVACY-SOURCES.md'
       - '.github/workflows/refresh-news.yml'
@@ -53,26 +54,27 @@ jobs:
           node --check scripts/patch-mobile-discover.mjs
           node --check scripts/fetch-news.mjs
           node --check scripts/fetch-news-expanded.mjs
-          node --check scripts/fetch-news-expanded.mjs
           node --check scripts/update-readme-news.mjs
           node --check scripts/update-privacy-sources.mjs
+          node --check scripts/update-android-archive.mjs
           node scripts/update-privacy-sources.mjs
           node <<'NODE'
           const fs=require('fs');
           const coreS=JSON.parse(fs.readFileSync('config/sources.json','utf8')).sources||[];
           const extraS=JSON.parse(fs.readFileSync('config/sources-extra.json','utf8')).sources||[];
           const coreP=JSON.parse(fs.readFileSync('config/providers.json','utf8')).providers||[];
+          const products=JSON.parse(fs.readFileSync('config/products.json','utf8')).products||[];
           const extraP=JSON.parse(fs.readFileSync('config/providers-extra.json','utf8')).providers||[];
           const privacy=fs.readFileSync('PRIVACY.md','utf8')+'\n'+fs.readFileSync('PRIVACY-SOURCES.md','utf8');
           const sources=[...coreS,...extraS],providers=[...coreP,...extraP];
-          const missing=[...sources.map(x=>x.name),...providers.map(x=>x.name)].filter(name=>!privacy.includes(name));
+          const missing=[...sources.map(x=>x.name),...providers.map(x=>x.name),...products.map(x=>x.name)].filter(name=>!privacy.includes(name));
           const dupS=sources.map(x=>x.name).filter((x,i,a)=>a.indexOf(x)!==i);
           const dupP=providers.map(x=>x.id).filter((x,i,a)=>a.indexOf(x)!==i);
-          if(sources.length<120||providers.length<50){console.error('Expanded catalog unexpectedly small',sources.length,providers.length);process.exit(2)}
+          if(sources.length<135||providers.length<50||products.length<30){console.error('Expanded catalog unexpectedly small',sources.length,providers.length);process.exit(2)}
           if(missing.length){console.error('Privacy catalog missing registered names:',missing);process.exit(3)}
           if(dupS.length||dupP.length){console.error('Duplicate registry keys',dupS,dupP);process.exit(4)}
           if(/searchInput['"]?\)?\.focus|searchInput.*focus/.test(fs.readFileSync('android/app/src/main/assets/app.js','utf8'))){console.error('Discover auto-focus still present');process.exit(5)}
-          console.log('Expanded JSON + privacy + Discover UX checks OK:',sources.length,'sources,',providers.length,'providers');
+          console.log('Expanded JSON + privacy + products + Discover UX checks OK:',sources.length,'sources,',providers.length,'providers,',products.length,'products');
           NODE
       - name: Build strict expanded AI-only news dataset
         run: node scripts/fetch-news-expanded.mjs
@@ -80,13 +82,13 @@ jobs:
         run: node scripts/update-readme-news.mjs
       - name: Commit live dataset, privacy catalog, UX patch and frontpage
         run: |
-          if git diff --quiet -- data/news.json README.md PRIVACY.md PRIVACY-SOURCES.md android/app/src/main/assets/app.js; then
+          if git diff --quiet -- data/news.json README.md PRIVACY.md PRIVACY-SOURCES.md android/app/src/main/assets/app.js ANDROID-ARCHIVE.md; then
             echo "No feed/frontpage/catalog/UX change."
             exit 0
           fi
           git config user.name "ai-news-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/news.json README.md PRIVACY.md PRIVACY-SOURCES.md android/app/src/main/assets/app.js
+          git add data/news.json README.md PRIVACY.md PRIVACY-SOURCES.md android/app/src/main/assets/app.js ANDROID-ARCHIVE.md
           git commit -m "data: refresh expanded AI-only intelligence feed"
           git pull --rebase origin main
           git push origin HEAD:main

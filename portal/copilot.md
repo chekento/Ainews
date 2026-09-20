@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ AI News Copilot 2.2
+# ✦ AI News Copilot 2.3
 
 ### Contextual, source-grounded intelligence for the AI news corpus
 
@@ -11,12 +11,12 @@
 > [!WARNING]
 > **BETA / IN DEVELOPMENT.** Copilot, retrieval, clustering and heuristic inference are experimental and can misunderstand, omit or overstate information. **Use at your own risk / Nutzung auf eigene Gefahr.** Always inspect the displayed evidence and original source for important claims.
 
-**📱 Current Android Beta:** [Download AI News 3.1 APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk) · [Release](https://github.com/chekento/Ainews/releases/tag/android-latest) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256)  
+**📱 Current Android Beta:** [Download AI News 3.6 APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk) · [Release](https://github.com/chekento/Ainews/releases/tag/android-latest) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256)  
 **🔐 Legal & privacy:** [Datenschutz / Privacy & all sources](../PRIVACY.md) · [Impressum / kosch.cloud](https://kosch.cloud)
 
 ---
 
-In Android 3.1 Beta, Copilot follows the user's **story, provider, category, search/filter state or the full enabled feed** and retrieves a source-diverse evidence set before answering.
+In Android 3.6 Beta, Copilot follows the user's **story, provider, category, search/filter state or the full enabled feed** and retrieves a source-diverse evidence set before answering.
 
 ## Retrieval model
 
@@ -52,6 +52,10 @@ Android settings expose:
 - **Evidence cards** on/off
 - **Session follow-up memory** on/off
 
+## Settings persistence
+
+Selected filters, UI choices and Copilot enable/minimize preferences persist locally for the next session. API tokens are never stored permanently.
+
 ## Optional connected model
 
 The built-in retrieval and structured local analysis do not require an API. An optional OpenAI-compatible endpoint can be connected for synthesis. The model receives the retrieved evidence with source IDs and is instructed to answer only from that context, cite source IDs and label inference.
@@ -68,4 +72,4 @@ Copilot output is generated assistance, not a substitute for the original public
 
 ---
 
-**[⬇ Download Android 3.1 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)** · **[Back to AI News portal →](../README.md)**
+**[⬇ Download Android 3.6 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)** · **[Back to AI News portal →](../README.md)**

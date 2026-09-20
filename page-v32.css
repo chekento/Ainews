@@ -7,3 +7,26 @@
 .news-card,.feature-card{cursor:pointer}
 @media(max-width:860px){.v32-web-nav{top:66px;width:calc(100% - 22px)}.v32-web-overview-grid{grid-template-columns:1fr}.v32-web-bar{grid-template-columns:120px 1fr 32px}.v32-web-form,.v32-web-form.source{grid-template-columns:1fr}.v32-web-custom-social{grid-template-columns:1fr 1fr}}
 @media(max-width:620px){.v32-web-overview-head{display:block}.v32-web-overview-head span{display:block;text-align:left;margin-top:5px}.v32-web-card{min-height:0;padding:16px}.v32-web-card h3{font-size:22px}.v32-web-form{grid-template-columns:1fr}.v32-web-custom-social{grid-template-columns:1fr}.v32-web-modal-panel{padding:16px!important}}
+/* 3.6 product/governance/legal workspace */
+.products-section{margin-top:24px}
+.product-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+.product-card{border:1px solid var(--line);border-radius:18px;padding:16px;background:linear-gradient(145deg,rgba(255,255,255,.06),rgba(255,255,255,.015));box-shadow:inset 0 0 0 1px rgba(255,255,255,.02);position:relative;overflow:hidden}
+.product-card:before{content:"";position:absolute;inset:0 auto 0 0;width:3px;background:hsl(var(--product-hue),80%,65%);opacity:.9}
+.product-card-top,.product-card>div:last-child{display:flex;justify-content:space-between;gap:10px;align-items:center;color:var(--muted);font-size:.72rem;text-transform:uppercase;letter-spacing:.08em}
+.product-card h3{margin:12px 0 5px;font-size:1.08rem}
+.product-card p{margin:0 0 10px;color:var(--muted);font-size:.78rem}
+.product-card>strong{display:block;min-height:42px;font-size:.86rem;line-height:1.35}
+.product-card a{color:var(--mint);white-space:nowrap}
+.governance-feed-head{display:flex;align-items:end;justify-content:space-between;gap:20px;margin:24px 0 10px}
+.governance-feed-head h3{margin:5px 0;font-size:1.5rem}
+.governance-feed-head p{margin:0;color:var(--muted)}
+.governance-news-grid{margin-top:0}
+.governance-news-card{min-height:0}
+.governance-news-card time{color:var(--muted);font-size:.75rem}
+.kosch-banner{display:block;border-radius:18px;overflow:hidden;border:1px solid var(--line);background:#07101e}
+.kosch-banner img{display:block;width:100%;height:auto}
+.kosch-link{display:inline-block;margin-top:10px;color:var(--mint);font-weight:700}
+.v32-disclaimer{font-size:.78rem;color:var(--muted);line-height:1.55}
+.v32-legal-links{display:flex;gap:14px;flex-wrap:wrap}
+.v32-legal-links a{color:var(--text)}
+@media(max-width:720px){.governance-feed-head{display:block}.product-grid{grid-template-columns:1fr}}

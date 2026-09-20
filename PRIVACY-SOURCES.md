@@ -1,12 +1,12 @@
-# AI News — vollständiges Quellen- & Provider-Verzeichnis
+# AI News — vollständiges Quellen-, Provider- & Produktverzeichnis
 
-**Stand:** 16. September 2026  
+**Stand:** 20. September 2026  
 **Teil der Datenschutzerklärung:** [PRIVACY.md](PRIVACY.md)  
-**Maschinenlesbar:** [core sources](config/sources.json) · [extended sources](config/sources-extra.json) · [core providers](config/providers.json) · [extended providers](config/providers-extra.json)
+**Maschinenlesbar:** [core sources](config/sources.json) · [extended sources](config/sources-extra.json) · [core providers](config/providers.json) · [extended providers](config/providers-extra.json) · [products](config/products.json)
 
-Dieses Dokument ist der automatisch erzeugte Transparenz-Anhang zur Datenschutzerklärung. Es listet sämtliche aktuell registrierten Nachrichtenquellen und AI-/LLM-Provider-Radare auf. Das Register ist bewusst erweiterbar und erhebt keinen Anspruch darauf, jedes weltweit existierende AI-Projekt dauerhaft vollständig abzudecken.
+Dieses Dokument ist der automatisch erzeugte Transparenz-Anhang zur Datenschutzerklärung. Es listet die registrierten Nachrichtenquellen, AI-/LLM-Provider-Radare und überwachten AI-Produkte/Services auf. Das Register ist bewusst erweiterbar und erhebt keinen Anspruch darauf, jedes weltweit existierende AI-Projekt dauerhaft vollständig abzudecken.
 
-## 147 registrierte AI-Newsquellen
+## 160 registrierte AI-Newsquellen
 
 | # | Quelle | Klasse | Region | Homepage / Originalquelle |
 |---:|---|---|---|---|
@@ -157,8 +157,21 @@ Dieses Dokument ist der automatisch erzeugte Transparenz-Anhang zur Datenschutze
 | 145 | ENISA AI Security | Official | EU | https://www.enisa.europa.eu/topics/artificial-intelligence |
 | 146 | Linux Foundation AI & Data | Governance | Global | https://lfaidata.foundation/blog/ |
 | 147 | C2PA | Governance | Global | https://c2pa.org/news/ |
+| 148 | White House AI / AI.gov | Official | US | https://www.ai.gov/ |
+| 149 | White House AI Policy | Official | US | https://www.whitehouse.gov/briefings-statements/ |
+| 150 | US AI Czar & AI Force Watch | Journalism | Global | https://www.reuters.com/technology/artificial-intelligence/ |
+| 151 | AP News AI Policy | Journalism | Global | https://apnews.com/hub/artificial-intelligence |
+| 152 | POLITICO AI Policy | Journalism | Global | https://www.politico.com/newsletters/technology |
+| 153 | U.S. Federal Trade Commission AI | Official | US | https://www.ftc.gov/business-guidance/artificial-intelligence |
+| 154 | U.S. Copyright Office AI | Official | US | https://www.copyright.gov/ai/ |
+| 155 | United Nations AI Governance | Official | US | https://www.un.org/en/ai-advisory-body |
+| 156 | Data & Society AI | Governance | Global | https://datasociety.net/research/ai/ |
+| 157 | Future of Privacy Forum AI | Governance | Global | https://fpf.org/issues/artificial-intelligence/ |
+| 158 | Algorithmic Justice League | Governance | Global | https://www.ajl.org/ |
+| 159 | Center for AI and Digital Policy | Governance | Global | https://www.caidp.org/ |
+| 160 | ACM TechPolicy AI | Governance | Global | https://techpolicy.acm.org/ |
 
-## 60 registrierte AI-/LLM-Provider-Radare
+## 61 registrierte AI-/LLM-Provider-Radare
 
 | # | Provider / Ökosystem | Modelle / Fokus | Region | Offizieller Newsroom / Einstieg |
 |---:|---|---|---|---|
@@ -222,10 +235,56 @@ Dieses Dokument ist der automatisch erzeugte Transparenz-Anhang zur Datenschutze
 | 58 | Poolside | coding foundation models · agents | US/EU | https://poolside.ai/ |
 | 59 | Magic | coding foundation models · agents | US | https://magic.dev/ |
 | 60 | Replit AI | Replit Agent · coding assistants | US | https://blog.replit.com/ai |
+| 61 | Websim.ai | AI web simulation · creative apps · rapid prototypes | Global | https://websim.ai/ |
+
+## 40 registrierte AI-Produkte & Services
+
+| # | Produkt / Service | Fokus | Region | Offizielle Einstiegsseite |
+|---:|---|---|---|---|
+| 1 | Claude Code | coding, agents, developer | US | https://www.anthropic.com/claude-code |
+| 2 | Google Antigravity | agents, developer, product | US | https://antigravity.google/ |
+| 3 | Google Flow | video, creative AI, product | US | https://labs.google/flow/about |
+| 4 | Make | automation, workflow, agents | EU | https://www.make.com/en |
+| 5 | Zapier | automation, workflow, agents | US | https://zapier.com/ai |
+| 6 | KNIME | analytics, workflow, enterprise | EU | https://www.knime.com/ai |
+| 7 | Suno | music, audio, creative AI | US | https://suno.com/ |
+| 8 | Udio | music, audio, creative AI | US | https://www.udio.com/ |
+| 9 | Websim.ai | web creation, prototyping, AI apps | Global | https://websim.ai/ |
+| 10 | ChatGPT | assistant, agents, consumer AI | US | https://chatgpt.com/ |
+| 11 | OpenAI Codex | coding, agents, developer | US | https://openai.com/codex/ |
+| 12 | Sora | video, creative AI, product | US | https://sora.com/ |
+| 13 | Gemini | assistant, models, consumer AI | US | https://gemini.google.com/ |
+| 14 | Google AI Studio | developer, API, models | US | https://aistudio.google.com/ |
+| 15 | NotebookLM | research, assistant, product | US | https://notebooklm.google/ |
+| 16 | Microsoft Copilot | assistant, enterprise, agents | US | https://copilot.microsoft.com/ |
+| 17 | GitHub Copilot | coding, developer, agents | US | https://github.com/features/copilot |
+| 18 | Azure AI Foundry | enterprise, cloud, developer | US | https://azure.microsoft.com/products/ai-studio |
+| 19 | Perplexity | search, agents, assistant | US | https://www.perplexity.ai/ |
+| 20 | Le Chat | assistant, models, consumer AI | EU | https://chat.mistral.ai/ |
+| 21 | Cursor | coding, developer, agents | US | https://www.cursor.com/ |
+| 22 | Windsurf | coding, developer, agents | US | https://windsurf.com/ |
+| 23 | Replit AI | coding, developer, agents | US | https://replit.com/ai |
+| 24 | Devin | coding, agents, developer | US | https://devin.ai/ |
+| 25 | OpenRouter | models, routing, developer | US | https://openrouter.ai/ |
+| 26 | Runway | video, creative AI, product | US | https://runwayml.com/ |
+| 27 | Midjourney | image, creative AI, product | US | https://www.midjourney.com/ |
+| 28 | ElevenLabs | audio, voice, agents | US | https://elevenlabs.io/ |
+| 29 | Adobe Firefly | image, creative AI, enterprise | US | https://firefly.adobe.com/ |
+| 30 | Canva Magic Studio | design, creative AI, product | AU | https://www.canva.com/magic-studio/ |
+| 31 | HeyGen | video, avatars, creative AI | US | https://www.heygen.com/ |
+| 32 | Synthesia | video, avatars, enterprise | UK | https://www.synthesia.io/ |
+| 33 | Notion AI | productivity, assistant, workflow | US | https://www.notion.so/product/ai |
+| 34 | Gamma | presentations, creative AI, product | US | https://gamma.app/ |
+| 35 | Lovable | web creation, coding, agents | EU | https://lovable.dev/ |
+| 36 | Bolt.new | web creation, coding, developer | US | https://bolt.new/ |
+| 37 | v0 | web creation, coding, developer | US | https://v0.dev/ |
+| 38 | Replicate | models, inference, developer | US | https://replicate.com/ |
+| 39 | Ollama | local AI, open models, developer | US | https://ollama.com/ |
+| 40 | LM Studio | local AI, open models, developer | US | https://lmstudio.ai/ |
 
 ## Monitoring-Hinweis
 
-Wenn eine Quelle keinen stabilen RSS-/Atom-Feed bereitstellt, kann der GitHub-Aggregator einen domainbezogenen Such-/Monitoring-Feed verwenden. Diese Abfragen laufen im GitHub-Workflow und enthalten keine lokalen App-Nutzerdaten, Watchlist-Regeln oder Personalisierungsprofile. Vollständige Artikel werden nicht gespiegelt; der Originalanbieter bleibt das Ziel.
+Wenn eine Quelle keinen stabilen RSS-/Atom-Feed bereitstellt, kann der GitHub-Aggregator einen domain- oder produktbezogenen Such-/Monitoring-Feed verwenden.
 
 ---
 
