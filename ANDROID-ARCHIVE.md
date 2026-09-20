@@ -4,6 +4,7 @@ Versioned Android releases are immutable download points. The stable alias [andr
 
 | Version | Downloads | Release | Notes |
 |---|---|---|---|
+| 3.7.2 Beta | [APK](https://github.com/chekento/Ainews/releases/download/android-v3.7.2/AI-News-Android-3.7.2.apk) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-v3.7.2/AI-News-Android-3.7.2.apk.sha256) | [Release assets](https://github.com/chekento/Ainews/releases/tag/android-v3.7.2) | Versioned archive entry |
 | 3.7.1 Beta | [APK](https://github.com/chekento/Ainews/releases/download/android-v3.7.1/AI-News-Android-3.7.1.apk) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-v3.7.1/AI-News-Android-3.7.1.apk.sha256) | [Release assets](https://github.com/chekento/Ainews/releases/tag/android-v3.7.1) | Versioned archive entry |
 | 3.7.0 Beta | [APK](https://github.com/chekento/Ainews/releases/download/android-v3.7.0/AI-News-Android-3.7.0.apk) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-v3.7.0/AI-News-Android-3.7.0.apk.sha256) | [Release assets](https://github.com/chekento/Ainews/releases/tag/android-v3.7.0) | Versioned archive entry |
 | 3.6.0 Beta | [APK](https://github.com/chekento/Ainews/releases/download/android-v3.6.0/AI-News-Android-3.6.0.apk) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-v3.6.0/AI-News-Android-3.6.0.apk.sha256) | [Release assets](https://github.com/chekento/Ainews/releases/tag/android-v3.6.0) | Versioned archive entry |
