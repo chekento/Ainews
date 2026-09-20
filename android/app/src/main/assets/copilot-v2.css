@@ -7,3 +7,12 @@
 .cp-evidence{display:grid;gap:5px;margin-top:5px;padding-top:8px;border-top:1px solid var(--line)}.cp-evidence header{display:flex;justify-content:space-between;color:var(--muted);font-size:7px;letter-spacing:.09em}.cp-evidence header span{color:var(--accent)}.cp-evidence button{display:grid;grid-template-columns:28px 1fr 16px;align-items:center;gap:7px;border:1px solid var(--line);border-radius:10px;background:rgba(255,255,255,.018);color:var(--text);padding:7px;text-align:left}.cp-evidence i{width:26px;height:26px;border-radius:8px;display:grid;place-items:center;font-style:normal;font-size:7px;background:color-mix(in srgb,var(--accent) 10%,transparent);color:var(--accent)}.cp-evidence button>span{min-width:0;display:grid;gap:2px}.cp-evidence strong{font-size:8px;line-height:1.25;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.cp-evidence small{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.cp-evidence em{font-style:normal;color:var(--accent)}
 .cp-settings select,.cp-settings input[type="range"]{max-width:48%}.cp-settings input[type="range"]{accent-color:var(--accent)}
 @media(max-width:390px){.copilot-dock b{font-size:9px}.cp-compare{grid-template-columns:1fr}.cp-evidence strong{font-size:7.5px}.copilot-inline{gap:4px}.copilot-inline button{padding:5px 6px}}
+
+
+.od-llm-card{border-color:color-mix(in srgb,var(--accent) 24%,var(--line));background:linear-gradient(145deg,color-mix(in srgb,var(--accent) 7%,transparent),rgba(255,255,255,.018))}
+.od-llm-intro,.od-llm-legal{font-size:8px;line-height:1.5;color:var(--muted);margin:0 0 9px}
+.od-llm-model{display:grid;gap:3px;border:1px solid var(--line);border-radius:10px;padding:9px;margin-bottom:8px;background:rgba(255,255,255,.025)}
+.od-llm-model strong{font-size:9px;color:var(--text)}.od-llm-model span{font-size:7px;color:var(--muted)}
+.od-llm-status{display:grid;gap:3px;margin:8px 0}.od-llm-status strong{font-size:9px;color:var(--accent)}.od-llm-status small{font-size:7px;line-height:1.35;color:var(--muted);min-height:11px}
+.od-llm-progress{height:5px;border-radius:999px;background:rgba(255,255,255,.08);overflow:hidden;margin:7px 0}.od-llm-progress>div{height:100%;width:0;border-radius:inherit;background:linear-gradient(90deg,var(--accent),#a993ff);transition:width .25s ease}
+.od-llm-actions{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0}.od-llm-actions .settings-action{flex:1 1 135px;margin:0}.od-llm-legal a{color:var(--accent)}

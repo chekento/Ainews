@@ -29,6 +29,7 @@ public class MainActivity extends Activity {
     private static final int WATCH_JOB_ID = 44021;
     private WebView webView;
     private TextToSpeech tts;
+    private OnDeviceLlm onDeviceLlm;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -64,6 +65,7 @@ public class MainActivity extends Activity {
             }
         });
 
+        onDeviceLlm = new OnDeviceLlm(this, this::dispatchLocalLlmEvent);
         webView.addJavascriptInterface(new AndroidBridge(this), "AndroidBridge");
         webView.loadUrl("file:///android_asset/index.html");
         scheduleWatchJob();
@@ -145,7 +147,16 @@ public class MainActivity extends Activity {
         });
     }
 
+    private void dispatchLocalLlmEvent(String json) {
+        runOnUiThread(() -> {
+            if (webView == null) return;
+            String script = "(function(){try{if(window.AINewsLocalLlmEvent)window.AINewsLocalLlmEvent(" + JSONObject.quote(json) + ");}catch(e){}})();";
+            webView.evaluateJavascript(script, null);
+        });
+    }
+
     @Override protected void onDestroy() {
+        if (onDeviceLlm != null) { onDeviceLlm.close(); onDeviceLlm = null; }
         if (tts != null) { tts.stop(); tts.shutdown(); tts = null; }
         if (webView != null) webView.destroy();
         super.onDestroy();
@@ -230,6 +241,34 @@ public class MainActivity extends Activity {
         @JavascriptInterface public String speak(String text, String languageTag) {
             activity.speakText(text, languageTag);
             return "native";
+        }
+
+        @JavascriptInterface public String localLlmStatus() {
+            return activity.onDeviceLlm == null ? "{\"state\":\"unavailable\"}" : activity.onDeviceLlm.statusJson();
+        }
+
+        @JavascriptInterface public void localLlmDownloadModel() {
+            if (activity.onDeviceLlm != null) activity.onDeviceLlm.downloadModel();
+        }
+
+        @JavascriptInterface public void localLlmPrepareModel() {
+            if (activity.onDeviceLlm != null) activity.onDeviceLlm.prepareModel();
+        }
+
+        @JavascriptInterface public void localLlmCancelDownload() {
+            if (activity.onDeviceLlm != null) activity.onDeviceLlm.cancelDownload();
+        }
+
+        @JavascriptInterface public void localLlmRemoveModel() {
+            if (activity.onDeviceLlm != null) activity.onDeviceLlm.removeModel();
+        }
+
+        @JavascriptInterface public void localLlmAsk(String requestId, String prompt) {
+            if (activity.onDeviceLlm != null) activity.onDeviceLlm.ask(requestId, prompt);
+        }
+
+        @JavascriptInterface public void localLlmCancelGeneration() {
+            if (activity.onDeviceLlm != null) activity.onDeviceLlm.cancelGeneration();
         }
 
         @JavascriptInterface public void stopSpeech() {

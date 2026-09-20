@@ -11,7 +11,7 @@
 > [!WARNING]
 > **BETA / IN DEVELOPMENT.** Governance classification, monitoring and automated summaries are experimental and may be incomplete, outdated or incorrectly categorized. **Use at your own risk.** This is not legal advice; verify obligations and official positions with the linked primary sources.
 
-**📱 Current Android Beta:** [Download AI News Android 3.6](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk) · [Release archive](../ANDROID-ARCHIVE.md) · [Release](https://github.com/chekento/Ainews/releases/tag/android-latest) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256)  
+**📱 Current Android Beta:** [Download AI News Android 3.7](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk) · [Release archive](../ANDROID-ARCHIVE.md) · [Release](https://github.com/chekento/Ainews/releases/tag/android-latest) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256)  
 **🔐 Legal & privacy:** [Privacy statement](../PRIVACY.md) · [All sources/providers/products](../PRIVACY-SOURCES.md) · [Imprint / kosch.cloud](https://kosch.cloud)
 
 ---
@@ -52,4 +52,4 @@ The registry now includes Data & Society, Future of Privacy Forum, Algorithmic J
 
 ---
 
-**[⬇ Download AI News Android 3.6](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)** · **[Back to AI News portal →](../README.md)**
+**[⬇ Download AI News Android 3.7](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)** · **[Back to AI News portal →](../README.md)**

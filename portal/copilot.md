@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ AI News Copilot 2.3
+# ✦ AI News Copilot 3.7
 
 ### Contextual, source-grounded intelligence for the AI news corpus
 
@@ -11,12 +11,12 @@
 > [!WARNING]
 > **BETA / IN DEVELOPMENT.** Copilot, retrieval, clustering and heuristic inference are experimental and can misunderstand, omit or overstate information. **Use at your own risk / Nutzung auf eigene Gefahr.** Always inspect the displayed evidence and original source for important claims.
 
-**📱 Current Android Beta:** [Download AI News 3.6 APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk) · [Release](https://github.com/chekento/Ainews/releases/tag/android-latest) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256)  
+**📱 Current Android Beta:** [Download AI News 3.7 APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk) · [Release](https://github.com/chekento/Ainews/releases/tag/android-latest) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256)  
 **🔐 Legal & privacy:** [Datenschutz / Privacy & all sources](../PRIVACY.md) · [Impressum / kosch.cloud](https://kosch.cloud)
 
 ---
 
-In Android 3.6 Beta, Copilot follows the user's **story, provider, category, search/filter state or the full enabled feed** and retrieves a source-diverse evidence set before answering.
+In Android 3.7 Beta, Copilot follows the user's **story, provider, category, search/filter state or the full enabled feed** and retrieves a source-diverse evidence set before answering.
 
 ## Retrieval model
 
@@ -56,6 +56,14 @@ Android settings expose:
 
 Selected filters, UI choices and Copilot enable/minimize preferences persist locally for the next session. API tokens are never stored permanently.
 
+## On-device generative mode
+
+Android 3.7 can download **Qwen3 0.6B · dynamic INT4** (~328 MB, Apache-2.0) from the public LiteRT Community model card. The model is loaded with Google's **LiteRT-LM** runtime and generates Copilot answers on the device after the one-time download.
+
+No API key, subscription, account or cloud inference endpoint is required for this mode. The model file stays in the app-private Android storage and can be removed from Settings. Hardware, RAM, thermals and device support affect speed; the existing source-grounded local research fallback remains available when the model is not installed or cannot initialize.
+
+**[→ Model registry](../config/on-device-models.json)** · **[→ Qwen3 model card](https://huggingface.co/litert-community/Qwen3-0.6B)** · **[→ LiteRT-LM Android documentation](https://developers.google.com/edge/litert-lm/android)**
+
 ## Optional connected model
 
 The built-in retrieval and structured local analysis do not require an API. An optional OpenAI-compatible endpoint can be connected for synthesis. The model receives the retrieved evidence with source IDs and is instructed to answer only from that context, cite source IDs and label inference.
@@ -72,4 +80,4 @@ Copilot output is generated assistance, not a substitute for the original public
 
 ---
 
-**[⬇ Download Android 3.6 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)** · **[Back to AI News portal →](../README.md)**
+**[⬇ Download Android 3.7 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)** · **[Back to AI News portal →](../README.md)**

@@ -10,8 +10,8 @@ android {
         applicationId = "cloud.kosch.ainews"
         minSdk = 26
         targetSdk = 35
-        versionCode = 12
-        versionName = "3.6.0"
+        versionCode = 13
+        versionName = "3.7.0"
     }
 
     compileOptions {
@@ -25,4 +25,9 @@ android {
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
     }
+
+}
+    
+dependencies {
+    implementation("com.google.ai.edge.litertlm:litertlm-android:0.16.0")
 }

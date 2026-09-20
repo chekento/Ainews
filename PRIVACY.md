@@ -62,6 +62,14 @@ Der eingebaute Copilot kann ohne externes Modell lokal mit dem geladenen Nachric
 
 Optional kann der Nutzer selbst einen **OpenAI-kompatiblen Endpoint**, ein Modell und gegebenenfalls ein Session-Token konfigurieren. In diesem Fall werden die jeweilige Nutzerfrage, der aktuelle Copilot-Kontext und die ausgewählten Evidence-Einträge an **den vom Nutzer gewählten Endpoint** übertragen. Der Betreiber von AI News erhält diese Daten nicht über einen eigenen Backend-Dienst. API-/Session-Tokens werden von der App nicht dauerhaft in das APK eingebettet; ein eingegebenes Token ist für die jeweilige Sitzung bestimmt. Für den gewählten externen AI-Anbieter gelten dessen eigene Datenschutzbedingungen.
 
+### 7.1 On-device generative Copilot model
+
+Android 3.7 optionally downloads the public **Qwen3 0.6B · dynamic INT4** LiteRT-LM model (approximately 328 MB; Apache-2.0) from the linked Hugging Face/LiteRT Community model repository. This download is user-initiated and uses the device's internet connection; it is not an AI inference API and is not a project backend.
+
+After download, prompts, the selected news evidence and generated answers are processed locally by the LiteRT-LM runtime. The app does not send those prompts or evidence to AI News, Hugging Face or a cloud model endpoint for this mode. The model file is stored in app-private Android storage and can be removed from Settings. If the device cannot initialize the model, the app falls back to its local source-grounded research mode.
+
+The model is an independent third-party artifact. Its license, model card, hardware requirements and limitations are maintained by the upstream provider. See [config/on-device-models.json](config/on-device-models.json), the [Qwen3 model card](https://huggingface.co/litert-community/Qwen3-0.6B) and [LiteRT-LM Android documentation](https://developers.google.com/edge/litert-lm).
+
 ## 7. Smart Watchlists und Benachrichtigungen
 
 Smart-Watch-Regeln werden lokal auf dem Android-Gerät gespeichert. Ein Android-Job lädt periodisch den öffentlichen AI-News-Datensatz von GitHub und prüft ihn **lokal** gegen die Watch-Regeln. Die Watch-Regeln selbst werden nicht an GitHub oder die Nachrichtenquellen übertragen.

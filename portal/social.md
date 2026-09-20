@@ -37,4 +37,4 @@ The registry is not a platform-verification service. Provider ownership, account
 
 ---
 
-**[⬇ Download Android 3.6 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)** · **[Back to AI News portal →](../README.md)**
+**[⬇ Download Android 3.7 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)** · **[Back to AI News portal →](../README.md)**

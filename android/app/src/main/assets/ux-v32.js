@@ -1,6 +1,6 @@
 (function(){
   "use strict";
-  var VERSION="3.6.0";
+  var VERSION="3.7.0";
   var FILTER_KEY="aiNewsCustomFiltersV33";
   var SOURCE_KEY="aiNewsCustomSourcesV33";
   var SOCIAL_KEY="aiNewsCustomSocialV33";
@@ -183,8 +183,8 @@
     try{native("refreshWidgets")}catch(e){}toastV(kind==="stack"?"Signal Stack overview enabled":"Live AI Radar overview enabled");haptic()
   }
   function labels(){
-    document.title="AI News 3.3 · UX Command Center";
-    var small=q(".brand small");if(small)small.textContent="HYPERINTELLIGENCE · 3.3 BETA";
+    document.title="AI News 3.7 · UX Command Center";
+    var small=q(".brand small");if(small)small.textContent="HYPERINTELLIGENCE · 3.7 BETA";
     var text=q(".settings-page .page-heading p");if(text)text.textContent="Shape the interface, source workspace, watchlists, briefings and all nine home-screen widgets.";
     qq("#swipeTabs [data-page]").forEach(function(b){var labels=["Command","Discover","LLM Wire","Governance","Social Wire","Saved","Settings"];if(labels[Number(b.getAttribute("data-page"))])b.textContent=labels[Number(b.getAttribute("data-page"))]});
   }
