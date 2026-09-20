@@ -69,7 +69,7 @@ public abstract class BaseNewsWidget extends AppWidgetProvider {
         boolean showSummary=settings.optBoolean("showSummary",true),showMeta=settings.optBoolean("showMeta",true);
         int pad="compact".equals(density)?10:"roomy".equals(density)?18:14;
         rv.setViewPadding(R.id.widgetRoot,dp(context,pad),dp(context,pad),dp(context,pad),dp(context,pad));
-        rv.setTextColor(R.id.widgetTitle,accent); rv.setTextColor(R.id.widgetBadge,accent); rv.setTextColor(R.id.widgetCopilot,accent); rv.setTextColor(R.id.widgetHeadline,palette[1]); rv.setTextColor(R.id.widgetMeta,palette[3]); rv.setTextColor(R.id.widgetExtra,palette[3]); rv.setTextColor(R.id.widgetNext,palette[1]); rv.setTextColor(R.id.widgetRefresh,palette[1]); rv.setTextViewText(R.id.widgetTitle,label());
+        rv.setTextColor(R.id.widgetTitle,accent); rv.setTextColor(R.id.widgetBadge,accent); rv.setTextColor(R.id.widgetHeadline,palette[1]); rv.setTextColor(R.id.widgetMeta,palette[3]); rv.setTextColor(R.id.widgetExtra,palette[3]); rv.setTextColor(R.id.widgetNext,palette[1]); rv.setTextColor(R.id.widgetRefresh,palette[1]); rv.setTextViewText(R.id.widgetTitle,label());
         rv.setTextViewTextSize(R.id.widgetHeadline,TypedValue.COMPLEX_UNIT_SP,(float)(16*scale));
         rv.setTextViewTextSize(R.id.widgetMeta,TypedValue.COMPLEX_UNIT_SP,(float)(10*scale));
         rv.setTextViewTextSize(R.id.widgetExtra,TypedValue.COMPLEX_UNIT_SP,(float)(10*scale));
@@ -82,13 +82,11 @@ public abstract class BaseNewsWidget extends AppWidgetProvider {
         Intent launch=new Intent(context,MainActivity.class);launch.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP|Intent.FLAG_ACTIVITY_SINGLE_TOP);PendingIntent launchPi=PendingIntent.getActivity(context,id,launch,PendingIntent.FLAG_UPDATE_CURRENT|PendingIntent.FLAG_IMMUTABLE);rv.setOnClickPendingIntent(R.id.widgetRoot,launchPi);
         if(item==null){
             rv.setTextViewText(R.id.widgetBadge,"OFFLINE");rv.setTextViewText(R.id.widgetHeadline,"No active AI sources");rv.setTextViewText(R.id.widgetMeta,"Open AI News and enable a source.");rv.setTextViewText(R.id.widgetExtra,"Tap the widget to configure the feed.");
-            rv.setOnClickPendingIntent(R.id.widgetCopilot,launchPi);
         }
         else{
             String source=item.optString("source","AI News"),category=item.optString("category","AI"),title=item.optString("title","AI signal");
             rv.setTextViewText(R.id.widgetBadge,badgeFor(requested)+"  ·  S"+signalScore(item));rv.setTextViewText(R.id.widgetHeadline,title);rv.setTextViewText(R.id.widgetMeta,source+"  ·  "+category+"  ·  "+timeLabel(item.optString("publishedAt")));rv.setTextViewText(R.id.widgetExtra,extra(items,item,requested));
             String url=item.optString("url","");if(url.startsWith("https://")||url.startsWith("http://")){Intent open=new Intent(Intent.ACTION_VIEW,Uri.parse(url));PendingIntent pi=PendingIntent.getActivity(context,id+2000,open,PendingIntent.FLAG_UPDATE_CURRENT|PendingIntent.FLAG_IMMUTABLE);rv.setOnClickPendingIntent(R.id.widgetHeadline,pi);}
-            Intent copilot=new Intent(context,MainActivity.class);copilot.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP|Intent.FLAG_ACTIVITY_SINGLE_TOP);copilot.putExtra("copilotStoryId",item.optString("id",""));copilot.putExtra("copilotAction","summary");PendingIntent copilotPi=PendingIntent.getActivity(context,id+4000,copilot,PendingIntent.FLAG_UPDATE_CURRENT|PendingIntent.FLAG_IMMUTABLE);rv.setOnClickPendingIntent(R.id.widgetCopilot,copilotPi);
         }
         Intent refresh=new Intent(context,getClass());refresh.setAction(ACTION_REFRESH);refresh.putExtra("appWidgetId",id);PendingIntent refreshPi=PendingIntent.getBroadcast(context,id+1000,refresh,PendingIntent.FLAG_UPDATE_CURRENT|PendingIntent.FLAG_IMMUTABLE);rv.setOnClickPendingIntent(R.id.widgetRefresh,refreshPi);
         Intent next=new Intent(context,getClass());next.setAction(ACTION_NEXT);next.putExtra("appWidgetId",id);PendingIntent nextPi=PendingIntent.getBroadcast(context,id+3000,next,PendingIntent.FLAG_UPDATE_CURRENT|PendingIntent.FLAG_IMMUTABLE);rv.setOnClickPendingIntent(R.id.widgetNext,nextPi);

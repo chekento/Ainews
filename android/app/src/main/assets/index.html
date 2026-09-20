@@ -4,12 +4,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
   <meta name="theme-color" content="#050711">
-  <title>AI News 3.7.2 · UX Command Center</title>
+  <title>AI News 3.8.0 · UX Command Center</title>
   <link id="app-css" rel="stylesheet" href="app.css">
   <link id="ux-v31-css" rel="stylesheet" href="ux-v31.css">
   <link id="ux-v32-css" rel="stylesheet" href="ux-v32.css">
   <link id="intelligence-v3-css" rel="stylesheet" href="intelligence-v3.css">
-  <link id="copilot-v2-css" rel="stylesheet" href="copilot-v2.css">
   <link id="theme-radar-css" rel="stylesheet" href="theme-radar.css">
   <link id="source-css" rel="stylesheet" href="source.css">
   <link id="media-css" rel="stylesheet" href="media.css">
@@ -127,7 +126,7 @@
       </section>
 
       <section class="settings-card danger-lite"><header><span>04</span><div><small>RESET</small><h2>Local preferences</h2></div></header><button id="resetSettingsBtn" class="settings-action secondary">Reset interface settings</button></section>
-      <section class="settings-card partner-card"><header><span>05</span><div><small>PARTNER & LEGAL</small><h2>❣️ by KoSch</h2></div></header>
+      <section class="settings-card partner-card"><header><span>07</span><div><small>PARTNER & LEGAL</small><h2>❣️ by KoSch</h2></div></header>
         <a class="kosch-banner" href="https://kosch.cloud/" target="_blank" rel="noopener noreferrer"><img src="branding/kosch-cloud-banner.svg" alt="kosch.cloud — Websim apps, AI creations, music, podcasts and games"></a>
         <div class="partner-copy"><strong>kosch.cloud</strong><span>Websim apps · AI creations · music & podcasts · games · blog · KoSchtube.</span></div>
         <a class="kosch-link" href="https://kosch.cloud/" target="_blank" rel="noopener noreferrer">Visit kosch.cloud ↗</a>
@@ -136,8 +135,6 @@
       </section>
     </div></section>
   </main>
-
-  <button id="copilotFab" class="copilot-fab"><span>✦</span> Copilot</button>
 
   <nav class="bottom-nav" aria-label="Bottom navigation">
     <button data-page="0" class="active"><b>⌂</b><span>Home</span></button>
@@ -151,15 +148,12 @@
 
   <div id="syntaxSheet" class="source-sheet" aria-hidden="true"><div class="source-backdrop" data-close-syntax></div><section class="source-panel syntax-panel"><div class="source-handle"></div><header><div><small>POWER SEARCH</small><h2>⌕ Query syntax</h2></div><button data-close-syntax>×</button></header><div class="syntax-grid"><code>source:OpenAI</code><span>filter publisher/source</span><code>provider:anthropic</code><span>provider ecosystem</span><code>cat:Research</code><span>desk/category</span><code>tag:Agents</code><span>topic tag</span><code>type:official</code><span>provenance class</span><code>after:2026-09-01</code><span>published after date</span><code>before:2026-09-15</code><span>published before date</span><code>is:primary</code><span>primary/official only</span><code>is:saved</code><span>bookmarked stories</span><code>-funding</code><span>exclude a term</span><code>"reasoning model"</code><span>exact phrase</span></div></section></div>
 
-  <div id="chatSheet" class="chat-sheet" aria-hidden="true"><div class="sheet-backdrop" data-close-chat></div><section class="sheet-panel"><div class="sheet-handle"></div><header><div><small>ARTICLE INTELLIGENCE</small><h2>✦ AI News Copilot</h2></div><button data-close-chat>×</button></header><div id="chatContext" class="chat-context"></div><div id="chatMessages" class="chat-messages"></div><div class="quick-row"><button data-q="Summarize why this matters.">Why it matters</button><button data-q="Find related stories and competing providers.">Related</button><button data-q="What are the compliance, safety or ethics implications?">Risk & policy</button></div><form id="chatForm"><textarea id="chatInput" rows="2" placeholder="Ask about this story or the current filtered AI feed…"></textarea><button type="submit">↑</button></form><details class="model-settings"><summary>Local Research Mode · free and API-free (optional connected model)</summary><p class="cp-local-note">The built-in mode discusses the loaded AI news locally without an API key. A connected model is optional and never required.</p><input id="llmEndpoint" placeholder="https://…/v1/chat/completions"><input id="llmModel" placeholder="model-name"><input id="llmToken" type="password" placeholder="session token"><label><input id="llmEnabled" type="checkbox"> Use connected model</label></details></section></div>
-
   <div id="toast" class="toast"></div>
   <script id="app-js" src="app.js"></script>
   <script id="media-js" src="media.js"></script>
   <script id="ux-v31-js" src="ux-v31.js"></script>
   <script id="ux-v32-js" src="ux-v32.js"></script>
   <script id="intelligence-v3-js" src="intelligence-v3.js"></script>
-  <script id="copilot-v2-js" src="copilot-v2.js"></script>
   <script id="theme-radar-js" src="theme-radar.js"></script>
 </body>
 </html>

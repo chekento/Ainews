@@ -10,8 +10,8 @@ android {
         applicationId = "cloud.kosch.ainews"
         minSdk = 26
         targetSdk = 35
-        versionCode = 16
-        versionName = "3.7.3"
+        versionCode = 17
+        versionName = "3.8.0"
     }
 
     compileOptions {
@@ -28,6 +28,3 @@ android {
 
 }
     
-dependencies {
-    implementation("com.google.ai.edge.litertlm:litertlm-android:0.16.0")
-}

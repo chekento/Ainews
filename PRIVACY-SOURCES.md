@@ -2,9 +2,9 @@
 
 **Stand:** 20. September 2026  
 **Teil der Datenschutzerklärung:** [PRIVACY.md](PRIVACY.md)  
-**Maschinenlesbar:** [core sources](config/sources.json) · [extended sources](config/sources-extra.json) · [core providers](config/providers.json) · [extended providers](config/providers-extra.json)
+**Maschinenlesbar:** [core sources](config/sources.json) · [extended sources](config/sources-extra.json) · [core providers](config/providers.json) · [extended providers](config/providers-extra.json) · [product registry](config/products.json)
 
-Dieses Dokument ist der automatisch erzeugte Transparenz-Anhang zur Datenschutzerklärung. Es listet sämtliche aktuell registrierten Nachrichtenquellen und AI-/LLM-Provider-Radare auf. Das Register ist bewusst erweiterbar und erhebt keinen Anspruch darauf, jedes weltweit existierende AI-Projekt dauerhaft vollständig abzudecken.
+Dieses Dokument ist der automatisch erzeugte Transparenz-Anhang zur Datenschutzerklärung. Es listet sämtliche aktuell registrierten Nachrichtenquellen, AI-/LLM-Provider-Radare und Produkt-/Service-Monitore auf. Das Register ist bewusst erweiterbar und erhebt keinen Anspruch darauf, jedes weltweit existierende AI-Projekt dauerhaft vollständig abzudecken.
 
 ## 160 registrierte AI-Newsquellen
 
@@ -237,7 +237,7 @@ Dieses Dokument ist der automatisch erzeugte Transparenz-Anhang zur Datenschutze
 | 60 | Replit AI | Replit Agent · coding assistants | US | https://blog.replit.com/ai |
 | 61 | Websim.ai | AI web simulation · creative apps · rapid prototypes | Global | https://websim.ai/ |
 
-## 114 registrierte AI-Produkte & Services
+## 264 registrierte AI-Produkte & Services
 
 | # | Produkt / Service | Fokus | Region | Offizielle Einstiegsseite |
 |---:|---|---|---|---|
@@ -355,6 +355,156 @@ Dieses Dokument ist der automatisch erzeugte Transparenz-Anhang zur Datenschutze
 | 112 | Figure Helix | robotics, embodied AI, agents | US | https://www.figure.ai/ |
 | 113 | Inspect AI | evaluation, safety, research | UK | https://inspect.aisi.org.uk/ |
 | 114 | Google Whisk | image, creative AI, product | US | https://labs.google/whisk/ |
+| 115 | Whisper | speech, open source, models | US | https://openai.com/index/whisper/ |
+| 116 | DALL·E | image, creative AI, models | US | https://openai.com/index/dall-e-3/ |
+| 117 | Operator | agents, computer use, browser | US | https://openai.com/index/operator/ |
+| 118 | ChatGPT Search | search, assistant, product | US | https://chatgpt.com/ |
+| 119 | ChatGPT Tasks | assistant, automation, product | US | https://help.openai.com/en/articles/10291617-tasks-in-chatgpt |
+| 120 | Responses API | api, agents, developer | US | https://platform.openai.com/docs/api-reference/responses |
+| 121 | Agents SDK | agents, developer, open source | US | https://openai.github.io/openai-agents-python/ |
+| 122 | Realtime API | speech, api, multimodal | US | https://platform.openai.com/docs/guides/realtime |
+| 123 | Moderation API | safety, api, trust | US | https://platform.openai.com/docs/guides/moderation |
+| 124 | OpenAI Embeddings | embeddings, api, developer | US | https://platform.openai.com/docs/guides/embeddings |
+| 125 | Claude Desktop | assistant, desktop, product | US | https://claude.ai/download |
+| 126 | Claude Computer Use | agents, computer use, developer | US | https://www.anthropic.com/news/3-5-models-and-computer-use |
+| 127 | Claude for Enterprise | enterprise, assistant, product | US | https://www.anthropic.com/enterprise |
+| 128 | Claude for Education | education, assistant, product | US | https://www.anthropic.com/education |
+| 129 | Model Context Protocol | agents, developer, open standard | US | https://modelcontextprotocol.io/ |
+| 130 | Claude Cowork | agents, workflow, assistant | US | https://claude.ai/ |
+| 131 | Gemini app | assistant, consumer, product | US | https://gemini.google.com/ |
+| 132 | Vertex AI Agent Builder | agents, enterprise, cloud | US | https://cloud.google.com/vertex-ai/generative-ai/docs/agent-builder/overview |
+| 133 | Firebase Genkit | developer, agents, open source | US | https://firebase.google.com/docs/genkit |
+| 134 | NotebookLM Enterprise | enterprise, research, assistant | US | https://workspace.google.com/solutions/ai/ |
+| 135 | Gemma | open source, models, developer | US | https://ai.google.dev/gemma |
+| 136 | Project Astra | multimodal, agents, research | US | https://deepmind.google/technologies/project-astra/ |
+| 137 | Project Mariner | agents, browser, research | US | https://deepmind.google/technologies/project-mariner/ |
+| 138 | Agent2Agent Protocol | agents, open standard, developer | US | https://a2a-protocol.org/ |
+| 139 | AI Overviews | search, consumer, product | US | https://blog.google/products/search/ai-overviews/ |
+| 140 | Gemini Enterprise | enterprise, assistant, cloud | US | https://cloud.google.com/gemini-enterprise |
+| 141 | Microsoft 365 Copilot | enterprise, assistant, product | US | https://www.microsoft.com/microsoft-365/copilot |
+| 142 | GitHub Copilot CLI | coding, developer, terminal | US | https://github.com/features/copilot/cli |
+| 143 | Copilot Pages | product, collaboration, enterprise | US | https://www.microsoft.com/en-us/microsoft-365/copilot/copilot-pages |
+| 144 | Azure AI Content Safety | safety, enterprise, api | US | https://learn.microsoft.com/en-us/azure/ai-services/content-safety/overview |
+| 145 | Phi models | models, open source, edge | US | https://azure.microsoft.com/en-us/products/phi-3 |
+| 146 | AutoGen | agents, developer, open source | US | https://microsoft.github.io/autogen/ |
+| 147 | Llama Stack | agents, developer, open source | US | https://llama.meta.com/llama-stack/ |
+| 148 | Segment Anything | computer vision, open source, research | US | https://ai.meta.com/sam3/ |
+| 149 | Movie Gen | video, creative AI, research | US | https://ai.meta.com/research/movie-gen/ |
+| 150 | Ray-Ban Meta AI | wearables, assistant, product | US | https://www.meta.com/smart-glasses/ |
+| 151 | Grok Studio | coding, assistant, product | US | https://grok.com/ |
+| 152 | Grok Imagine | image, video, creative AI | US | https://x.ai/news/grok-imagine |
+| 153 | Devstral | coding, models, agents | EU | https://mistral.ai/news/devstral/ |
+| 154 | Voxtral | speech, models, open source | EU | https://mistral.ai/news/voxtral/ |
+| 155 | Ministral | edge, models, open source | EU | https://mistral.ai/news/ministral-3/ |
+| 156 | Mistral Agents | agents, api, enterprise | EU | https://console.mistral.ai/ |
+| 157 | Mistral Platform | api, developer, enterprise | EU | https://console.mistral.ai/ |
+| 158 | Command R | models, enterprise, rag | CA | https://cohere.com/command |
+| 159 | Embed and Rerank | embeddings, rag, enterprise | CA | https://cohere.com/embed |
+| 160 | Aya Expanse | multilingual, models, research | CA | https://cohere.com/research/aya |
+| 161 | Perplexity AI | search, assistant, product | US | https://www.perplexity.ai/ |
+| 162 | Sonar API | api, search, models | US | https://docs.perplexity.ai/ |
+| 163 | Perplexity Enterprise | enterprise, search, assistant | US | https://www.perplexity.ai/enterprise |
+| 164 | Perplexity Comet | browser, agents, product | US | https://www.perplexity.ai/comet |
+| 165 | Perplexity Labs | research, agents, product | US | https://www.perplexity.ai/labs |
+| 166 | Qwen Coder | coding, models, open source | CN | https://qwenlm.github.io/ |
+| 167 | Qwen-Image | image, models, open source | CN | https://huggingface.co/Qwen/Qwen-Image |
+| 168 | BigModel | api, models, enterprise | CN | https://open.bigmodel.cn/ |
+| 169 | GLM API | api, models, developer | CN | https://open.bigmodel.cn/ |
+| 170 | MiniMax Agent | agents, assistant, product | CN | https://www.minimaxi.com/ |
+| 171 | MiniMax Video | video, creative AI, product | CN | https://www.minimaxi.com/ |
+| 172 | Amazon Nova | models, cloud, enterprise | US | https://aws.amazon.com/ai/generative-ai/nova/ |
+| 173 | Nova Act | agents, browser, developer | US | https://aws.amazon.com/ai/nova-act/ |
+| 174 | Amazon Titan | models, cloud, enterprise | US | https://aws.amazon.com/bedrock/amazon-models/titan/ |
+| 175 | Amazon Bedrock Agents | agents, cloud, enterprise | US | https://aws.amazon.com/bedrock/agents/ |
+| 176 | Amazon Bedrock Guardrails | safety, cloud, enterprise | US | https://aws.amazon.com/bedrock/guardrails/ |
+| 177 | Amazon Q Business | enterprise, assistant, product | US | https://aws.amazon.com/q/business/ |
+| 178 | Alexa+ | assistant, consumer, product | US | https://www.amazon.com/alexa-plus |
+| 179 | NVIDIA Cosmos | robotics, video, models | US | https://developer.nvidia.com/cosmos |
+| 180 | NVIDIA GR00T | robotics, models, embodied | US | https://developer.nvidia.com/isaac/gr00t |
+| 181 | BioNeMo | biotech, models, research | US | https://www.nvidia.com/en-us/clara/bionemo/ |
+| 182 | NVIDIA NIM Microservices | inference, enterprise, developer | US | https://developer.nvidia.com/nim |
+| 183 | NVIDIA AI Enterprise | enterprise, infrastructure, inference | US | https://www.nvidia.com/en-us/data-center/products/ai-enterprise/ |
+| 184 | NVIDIA Omniverse | simulation, robotics, enterprise | US | https://www.nvidia.com/en-us/omniverse/ |
+| 185 | Transformers | open source, models, developer | Global | https://huggingface.co/docs/transformers/index |
+| 186 | Diffusers | image, video, open source | Global | https://huggingface.co/docs/diffusers/index |
+| 187 | Text Generation Inference | inference, open source, developer | Global | https://github.com/huggingface/text-generation-inference |
+| 188 | Text Embeddings Inference | embeddings, inference, open source | Global | https://github.com/huggingface/text-embeddings-inference |
+| 189 | Safetensors | open source, security, developer | Global | https://huggingface.co/docs/safetensors/index |
+| 190 | smolagents | agents, developer, open source | Global | https://huggingface.co/docs/smolagents/index |
+| 191 | LeRobot | robotics, open source, embodied | Global | https://huggingface.co/lerobot |
+| 192 | AutoTrain | training, developer, open source | Global | https://huggingface.co/autotrain |
+| 193 | Optimum | inference, edge, open source | Global | https://huggingface.co/docs/optimum/index |
+| 194 | PEFT | training, open source, research | Global | https://huggingface.co/docs/peft/index |
+| 195 | TRL | training, research, open source | Global | https://huggingface.co/docs/trl/index |
+| 196 | Evaluate | evaluation, research, open source | Global | https://huggingface.co/docs/evaluate/index |
+| 197 | MLflow | mlops, open source, enterprise | US | https://mlflow.org/ |
+| 198 | Mosaic AI Agent Framework | agents, enterprise, mlops | US | https://www.databricks.com/product/artificial-intelligence |
+| 199 | AI Gateway | inference, enterprise, governance | US | https://docs.databricks.com/aws/en/ai-gateway/ |
+| 200 | LakehouseIQ | enterprise, assistant, analytics | US | https://www.databricks.com/product/lakehouseiq |
+| 201 | Einstein AI | enterprise, assistant, crm | US | https://www.salesforce.com/ai/ |
+| 202 | Data Cloud AI | data, enterprise, agents | US | https://www.salesforce.com/data/ |
+| 203 | Tableau AI | analytics, enterprise, assistant | US | https://www.tableau.com/products/tableau-ai |
+| 204 | Firefly Video | video, creative AI, product | US | https://www.adobe.com/products/firefly/features/text-to-video.html |
+| 205 | Firefly Services | api, creative AI, developer | US | https://developer.adobe.com/firefly-services/ |
+| 206 | Photoshop Generative Fill | image, creative AI, product | US | https://www.adobe.com/products/photoshop/generative-fill.html |
+| 207 | Premiere Pro AI | video, creative AI, product | US | https://www.adobe.com/products/premiere/ai-video-editing.html |
+| 208 | Stable Diffusion | image, open source, creative AI | US | https://stability.ai/stable-diffusion |
+| 209 | Stable Video Diffusion | video, open source, creative AI | US | https://stability.ai/stable-video |
+| 210 | Stable Fast 3D | 3d, creative AI, open source | US | https://stability.ai/stable-fast-3d |
+| 211 | Gen-4 | video, creative AI, product | US | https://runwayml.com/research/introducing-gen-4/ |
+| 212 | Act-Two | video, creative AI, product | US | https://runwayml.com/research/introducing-act-two/ |
+| 213 | Runway API | api, video, developer | US | https://docs.dev.runwayml.com/ |
+| 214 | Midjourney Web | image, creative AI, product | US | https://www.midjourney.com/ |
+| 215 | Midjourney Editor | image, creative AI, product | US | https://www.midjourney.com/editor |
+| 216 | Pika | video, creative AI, product | US | https://pika.art/ |
+| 217 | Krea AI | image, video, creative AI | US | https://www.krea.ai/ |
+| 218 | D-ID | video, avatars, creative AI | IL | https://www.d-id.com/ |
+| 219 | Tavus | video, avatars, enterprise | US | https://www.tavus.io/ |
+| 220 | ElevenLabs Voice | speech, voice, creative AI | US | https://elevenlabs.io/ |
+| 221 | ElevenLabs Dubbing | speech, translation, creative AI | US | https://elevenlabs.io/dubbing |
+| 222 | ElevenLabs Music | music, audio, creative AI | US | https://elevenlabs.io/music |
+| 223 | Continue | coding, developer, open source | US | https://www.continue.dev/ |
+| 224 | Aider | coding, developer, open source | US | https://aider.chat/ |
+| 225 | Roo Code | coding, agents, open source | US | https://github.com/RooCodeInc/Roo-Code |
+| 226 | Tabnine | coding, developer, enterprise | US | https://www.tabnine.com/ |
+| 227 | Sourcegraph Cody | coding, developer, enterprise | US | https://sourcegraph.com/cody |
+| 228 | JetBrains AI | coding, developer, product | Global | https://www.jetbrains.com/ai/ |
+| 229 | Vercel AI SDK | developer, open source, api | US | https://sdk.vercel.ai/ |
+| 230 | Jan | local AI, desktop, open source | US | https://jan.ai/ |
+| 231 | GPT4All | local AI, open source, desktop | US | https://gpt4all.io/ |
+| 232 | Open WebUI | local AI, developer, open source | Global | https://openwebui.com/ |
+| 233 | LocalAI | local AI, api, open source | Global | https://localai.io/ |
+| 234 | llama.cpp | inference, edge, open source | Global | https://github.com/ggerganov/llama.cpp |
+| 235 | vLLM | inference, open source, developer | Global | https://github.com/vllm-project/vllm |
+| 236 | SGLang | inference, open source, developer | Global | https://github.com/sgl-project/sglang |
+| 237 | TensorRT-LLM | inference, open source, developer | US | https://github.com/NVIDIA/TensorRT-LLM |
+| 238 | ONNX Runtime GenAI | inference, edge, open source | Global | https://onnxruntime.ai/ |
+| 239 | LangChain | agents, developer, framework | US | https://www.langchain.com/ |
+| 240 | LangGraph | agents, developer, open source | US | https://langchain-ai.github.io/langgraph/ |
+| 241 | LlamaIndex | rag, agents, developer | US | https://www.llamaindex.ai/ |
+| 242 | CrewAI | agents, developer, framework | US | https://www.crewai.com/ |
+| 243 | PydanticAI | agents, developer, open source | Global | https://ai.pydantic.dev/ |
+| 244 | Haystack | rag, developer, open source | EU | https://haystack.deepset.ai/ |
+| 245 | DSPy | research, developer, open source | US | https://dspy.ai/ |
+| 246 | n8n | automation, workflow, agents | EU | https://n8n.io/ |
+| 247 | Atlassian Rovo | enterprise, search, assistant | AU | https://www.atlassian.com/software/rovo |
+| 248 | Zoom AI Companion | enterprise, assistant, product | US | https://www.zoom.com/en/ai-assistant/ |
+| 249 | Grammarly AI | writing, productivity, assistant | US | https://www.grammarly.com/ai |
+| 250 | Glean AI | enterprise, search, assistant | US | https://www.glean.com/ |
+| 251 | Harvey AI | legal, enterprise, assistant | US | https://www.harvey.ai/ |
+| 252 | Hebbia | research, enterprise, assistant | US | https://www.hebbia.ai/ |
+| 253 | Jasper AI | marketing, writing, enterprise | US | https://www.jasper.ai/ |
+| 254 | Copy.ai | marketing, agents, workflow | US | https://www.copy.ai/ |
+| 255 | Typeface | marketing, creative AI, enterprise | US | https://www.typeface.ai/ |
+| 256 | Unitree AI | robotics, embodied, product | CN | https://www.unitree.com/ |
+| 257 | 1X Neural | robotics, embodied, product | NO | https://www.1x.tech/ |
+| 258 | Skild AI | robotics, embodied, research | US | https://www.skild.ai/ |
+| 259 | Covariant | robotics, embodied, enterprise | US | https://covariant.ai/ |
+| 260 | Waymo AI | robotics, autonomous, transport | US | https://waymo.com/ |
+| 261 | garak | safety, security, open source | Global | https://github.com/leondz/garak |
+| 262 | Promptfoo | safety, evaluation, developer | US | https://promptfoo.dev/ |
+| 263 | OpenAI Evals | evaluation, safety, open source | US | https://github.com/openai/evals |
+| 264 | LM Evaluation Harness | evaluation, research, open source | Global | https://github.com/EleutherAI/lm-evaluation-harness |
 
 ## Monitoring-Hinweis
 

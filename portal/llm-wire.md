@@ -4,7 +4,7 @@
 
 ### 61 monitored model and AI ecosystems · product/service wire · core + extended radar
 
-[← Portal](../README.md) · [News](news.md) · [Governance](governance.md) · [Social](social.md) · [Copilot](copilot.md)
+[← Portal](../README.md) · [News](news.md) · [Governance](governance.md) · [Social](social.md)
 
 </div>
 

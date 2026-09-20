@@ -4,7 +4,7 @@
 
 ### Official provider channels · public signals · source-first links
 
-[← Portal](../README.md) · [News](news.md) · [LLM Wire](llm-wire.md) · [Governance](governance.md) · [Copilot](copilot.md)
+[← Portal](../README.md) · [News](news.md) · [LLM Wire](llm-wire.md) · [Governance](governance.md)
 
 </div>
 

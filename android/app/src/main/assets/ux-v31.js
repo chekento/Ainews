@@ -5,8 +5,8 @@
   const CORE_SOURCES_URL='https://github.com/chekento/Ainews/blob/main/config/sources.json';
   const EXTRA_SOURCES_URL='https://github.com/chekento/Ainews/blob/main/config/sources-extra.json';
   const RAW='https://raw.githubusercontent.com/chekento/Ainews/main/';
-  const VERSION='3.7.2';
-  document.title='AI News 3.7.2 · UX Command Center';
+  const VERSION='3.8.0';
+  document.title='AI News 3.8.0 · UX Command Center';
 
   function ext(url){
     try{if(window.AndroidBridge&&typeof AndroidBridge.openExternal==='function'){AndroidBridge.openExternal(url);return;}}catch{}
@@ -55,18 +55,18 @@
     const page=document.querySelector('.settings-page');
     if(!page||document.querySelector('#legalSettings31'))return;
     const reset=page.querySelector('.danger-lite');
-    const html=`<section id="legalSettings31" class="settings-card legal-settings"><header><span>07</span><div><small>PRIVACY · SOURCES · LEGAL</small><h2>Privacy & legal</h2></div></header>
+    const html=`<section id="legalSettings31" class="settings-card legal-settings"><header><span>04</span><div><small>PRIVACY · SOURCES · LEGAL</small><h2>Privacy & legal</h2></div></header>
       <div class="privacy-summary"><strong>Local-first by default</strong><span>No account · no in-app analytics · no ad SDK · bookmarks and personalization stay on this device.</span></div>
       <div id="catalogStatus32" class="catalog-status">${S.sources?.length||0} sources · ${S.providers?.length||0} providers</div>
       <div class="legal-actions">
-        <button data-legal-open="privacy"><b>Datenschutz / Privacy</b><small>Data flows, permissions, Copilot, widgets and monitoring</small><em>↗</em></button>
+        <button data-legal-open="privacy"><b>Datenschutz / Privacy</b><small>Data flows, permissions, widgets and monitoring</small><em>↗</em></button>
         <button data-legal-open="catalog"><b>All sources & providers</b><small>Full core + extended transparency register</small><em>↗</em></button>
         <button data-legal-open="impressum"><b>Impressum / Anbieter</b><small>kosch.cloud</small><em>↗</em></button>
         <button data-legal-open="core"><b>Core source registry</b><small>Stable machine-readable core matrix</small><em>↗</em></button>
         <button data-legal-open="extra"><b>Extended source registry</b><small>Open-ended international AI source matrix</small><em>↗</em></button>
       </div>
-      <div class="local-data-actions"><button data-clear-ai-local>Clear personalization & Copilot session</button><button data-clear-saved-local>Clear saved stories</button></div>
-      <p class="legal-note">Optional external Copilot endpoints receive only the question and selected evidence when you configure and use them. Smart-watch rules remain local.</p>
+      <div class="local-data-actions"><button data-clear-ai-local>Clear personalization & recent searches</button><button data-clear-saved-local>Clear saved stories</button></div>
+      <p class="legal-note">Smart-watch rules and personalization stay on this device; no generative model runtime is bundled.</p>
       <div class="app-identity"><span>AI News ${VERSION} Beta</span><span>cloud.kosch.ainews</span></div>
     </section>`;
     if(reset)reset.insertAdjacentHTML('beforebegin',html);else page.insertAdjacentHTML('beforeend',html);
@@ -100,13 +100,10 @@
     card.insertAdjacentHTML('afterend',`<div id="briefVariants32" class="brief-variants"><span>SMART BRIEF</span><button data-brief-variant="morning">☀ Morning</button><button data-brief-variant="evening">☾ Evening</button><button data-brief-variant="delta">Δ Since last visit</button></div>`);
   }
   function runBrief(kind){
-    const since=previousVisit?new Date(previousVisit).toLocaleString():'the previous session';
-    const prompts={
-      morning:'Create a concise evidence-backed morning AI briefing: overnight developments, model/provider launches, research, safety, infrastructure and governance. Prioritize independent corroboration and primary sources.',
-      evening:'Create an evidence-backed evening AI briefing: what materially changed today, the most important provider/model moves, research, safety, infrastructure and governance, plus what to watch next.',
-      delta:`Summarize only meaningful AI developments since ${since}. Group duplicate coverage into story clusters, explain what changed versus earlier reporting, and cite the strongest evidence.`
-    };
-    window.AINewsCopilot?.open(null);setTimeout(()=>window.AINewsCopilot?.ask(prompts[kind]||prompts.morning),90);
+    localStorage.setItem('briefVariant32',kind);
+    window.AINewsIntelligence?.mode('brief');
+    goPage(1);
+    toast(`Smart brief: ${kind}`);
   }
 
   function addPersonalizationControls(){
@@ -136,7 +133,7 @@
     const providerCard=e.target.closest('#providerGrid [data-provider]');if(providerCard){e.stopPropagation();return}
     const disable=e.target.closest('#disableAllSources');if(disable){e.preventDefault();e.stopPropagation();if(!confirm('Disable every source? The feed will be empty until you re-enable sources.')){toast('No sources changed');return}S.sources.forEach(s=>S.disabledSources.add(s.name));syncSourcePrefs();render();toast('All sources disabled');return}
     const reset=e.target.closest('#resetSettingsBtn');if(reset&&!confirm('Reset interface and widget settings to defaults?')){e.preventDefault();e.stopPropagation();toast('Reset cancelled');return}
-    if(e.target.closest('[data-clear-ai-local]')){e.preventDefault();e.stopPropagation();if(!confirm('Clear local personalization and the Copilot session on this device?'))return;localStorage.removeItem('interestProfile3');localStorage.removeItem('recentSearches');sessionStorage.removeItem('copilotHistory3');toast('Local AI profile cleared');setTimeout(()=>location.reload(),450);return}
+    if(e.target.closest('[data-clear-ai-local]')){e.preventDefault();e.stopPropagation();if(!confirm('Clear local personalization and recent searches on this device?'))return;localStorage.removeItem('interestProfile3');localStorage.removeItem('recentSearches');toast('Local personalization cleared');setTimeout(()=>location.reload(),450);return}
     if(e.target.closest('[data-clear-saved-local]')){e.preventDefault();e.stopPropagation();if(!confirm('Remove all saved stories from this device?'))return;localStorage.removeItem('saved');try{S.bookmarks.clear();render()}catch{}toast('Saved stories cleared');return}
   },true);
 

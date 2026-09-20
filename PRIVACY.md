@@ -10,7 +10,7 @@ Diese Datenschutzerklärung beschreibt die tatsächlichen Datenflüsse der AI-Ne
 
 ## 1. Grundprinzipien
 
-AI News ist als quellengestützter AI-News-Reader konzipiert. Die App benötigt **kein Benutzerkonto**, enthält **keine eigene Werbe- oder Tracking-SDK** und verwendet **keine eigene Analytics-Plattform**. Bookmarks, Darstellungsoptionen, deaktivierte Quellen, Personalisierungsgewichte, Copilot-Einstellungen und Smart-Watch-Regeln werden grundsätzlich lokal auf dem Gerät gespeichert.
+AI News ist als quellengestützter AI-News-Reader konzipiert. Die App benötigt **kein Benutzerkonto**, enthält **keine eigene Werbe- oder Tracking-SDK** und verwendet **keine eigene Analytics-Plattform**. Bookmarks, Darstellungsoptionen, deaktivierte Quellen, Personalisierungsgewichte, UI- und Personalisierungseinstellungen und Smart-Watch-Regeln werden grundsätzlich lokal auf dem Gerät gespeichert.
 
 Die App betreibt keinen eigenen Server für Nutzerprofile. Für die Aktualisierung des Nachrichtenbestands lädt die App öffentliche JSON-Dateien aus diesem GitHub-Repository. Beim Abruf entstehen beim jeweiligen Netzdienst technisch übliche Verbindungsdaten wie IP-Adresse, Zeitpunkt, User-Agent und gegebenenfalls weitere Protokolldaten nach den Datenschutzbedingungen des jeweiligen Anbieters.
 
@@ -31,10 +31,9 @@ Je nach Nutzung können lokal auf dem Gerät gespeichert werden:
 - lokale Suchhistorie;
 - lokale Interessen-/Personalisierungsgewichte für **For You**;
 - Smart-Watch-Regeln und der lokale Zustand bereits geprüfter Feed-Einträge;
-- Copilot-Einstellungen;
-- Copilot-Verlauf nur innerhalb der Sitzung, sofern Session-Memory aktiviert ist.
+- UI- und Personalisierungseinstellungen;
 
-Diese Daten dienen ausschließlich der Funktion der App auf dem jeweiligen Gerät. In **Settings → Privacy & legal** können Personalisierungs-/Copilot-Sitzungsdaten und gespeicherte Artikel gezielt gelöscht werden.
+Diese Daten dienen ausschließlich der Funktion der App auf dem jeweiligen Gerät. In **Settings → Privacy & legal** können Personalisierungsdaten, lokale Suchdaten und gespeicherte Artikel gezielt gelöscht werden.
 
 ## 4. Product & service monitoring
 
@@ -57,21 +56,13 @@ Artikelinhalte externer Webseiten werden **nicht innerhalb der App gescrapt**. A
 
 Gleiches gilt für offizielle LinkedIn-, Instagram- und Facebook-Profile der Anbieter: AI News verlinkt diese Profile, kopiert aber keine Social-Posts, Medien oder Profiltracking-Technik in die App. Erst beim bewussten Öffnen eines externen Links wird eine Verbindung zum jeweiligen Anbieter hergestellt.
 
-## 7. AI News Copilot
+## 7. Keine generative KI-Laufzeit
 
-Der eingebaute Copilot kann ohne externes Modell lokal mit dem geladenen Nachrichtenbestand arbeiten. Er verwendet dabei Titel, kurze Zusammenfassungen, Tags, Provider, Kategorien, Provenienz und Zeitstempel und stellt verwendete Quellen als Evidence Cards dar.
+AI News bündelt, lädt und verwendet **keinen generativen Copilot, kein externes LLM, keinen konfigurierbaren Modell-Endpunkt und keine On-device-LLM-Laufzeit**. Es werden daher keine Prompts, Modellantworten, API-Schlüssel oder LLM-Downloads verarbeitet. Die App bleibt ein quellengestützter News-Reader: Sie lädt öffentliche Feed-Metadaten, filtert, sortiert und gruppiert diese lokal und öffnet beim Antippen die originale Quelle.
 
-Optional kann der Nutzer selbst einen **OpenAI-kompatiblen Endpoint**, ein Modell und gegebenenfalls ein Session-Token konfigurieren. In diesem Fall werden die jeweilige Nutzerfrage, der aktuelle Copilot-Kontext und die ausgewählten Evidence-Einträge an **den vom Nutzer gewählten Endpoint** übertragen. Der Betreiber von AI News erhält diese Daten nicht über einen eigenen Backend-Dienst. API-/Session-Tokens werden von der App nicht dauerhaft in das APK eingebettet; ein eingegebenes Token ist für die jeweilige Sitzung bestimmt. Für den gewählten externen AI-Anbieter gelten dessen eigene Datenschutzbedingungen.
+Die Begriffe AI, LLM oder Copilot können in Nachrichten, Provider-Namen und dem Produktkatalog als redaktioneller Inhalt vorkommen. Das ist News-Monitoring und keine in der App ausgeführte generative Funktion.
 
-### 7.1 On-device generative Copilot model
-
-Android 3.7 optionally downloads the public **Qwen3 0.6B · dynamic INT4** LiteRT-LM model (approximately 328 MB; Apache-2.0) from the linked Hugging Face/LiteRT Community model repository. This download is user-initiated and uses the device's internet connection; it is not an AI inference API and is not a project backend.
-
-After download, prompts, the selected news evidence and generated answers are processed locally by the LiteRT-LM runtime. The app does not send those prompts or evidence to AI News, Hugging Face or a cloud model endpoint for this mode. The model file is stored in app-private Android storage and can be removed from Settings. If the device cannot initialize the model, the app falls back to its local source-grounded research mode.
-
-The model is an independent third-party artifact. Its license, model card, hardware requirements and limitations are maintained by the upstream provider. See [config/on-device-models.json](config/on-device-models.json), the [Qwen3 model card](https://huggingface.co/litert-community/Qwen3-0.6B) and [LiteRT-LM Android documentation](https://developers.google.com/edge/litert-lm).
-
-## 7. Smart Watchlists und Benachrichtigungen
+## 8. Smart Watchlists und Benachrichtigungen
 
 Smart-Watch-Regeln werden lokal auf dem Android-Gerät gespeichert. Ein Android-Job lädt periodisch den öffentlichen AI-News-Datensatz von GitHub und prüft ihn **lokal** gegen die Watch-Regeln. Die Watch-Regeln selbst werden nicht an GitHub oder die Nachrichtenquellen übertragen.
 
@@ -96,7 +87,7 @@ Die App verwendet derzeit folgende Android-Berechtigungen:
 
 ## 11. Löschung und Kontrolle
 
-Die App bietet lokale Löschmöglichkeiten in den Settings. Zusätzlich können sämtliche App-Daten jederzeit über die Android-Systemeinstellungen gelöscht oder durch Deinstallation der App entfernt werden. Daten, die bei einem bewusst geöffneten externen Anbieter oder einem selbst konfigurierten AI-Endpoint verarbeitet wurden, unterliegen den Lösch- und Datenschutzregeln des jeweiligen externen Anbieters.
+Die App bietet lokale Löschmöglichkeiten in den Settings. Zusätzlich können sämtliche App-Daten jederzeit über die Android-Systemeinstellungen gelöscht oder durch Deinstallation der App entfernt werden. Daten, die bei einer bewusst geöffneten externen Quelle verarbeitet werden, unterliegen den Lösch- und Datenschutzregeln des jeweiligen externen Anbieters.
 
 ## 12. Quellenverzeichnis — Kernquellen (60) und vollständiges Register (160)
 

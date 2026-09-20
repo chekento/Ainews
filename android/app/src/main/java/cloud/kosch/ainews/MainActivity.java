@@ -21,6 +21,11 @@ import android.webkit.WebChromeClient;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.view.View;
+import android.view.WindowInsets;
+import android.view.WindowInsetsController;
+import android.view.WindowManager;
+import java.io.File;
 import cloud.kosch.ainews.widget.BaseNewsWidget;
 import java.util.Locale;
 import org.json.JSONObject;
@@ -29,11 +34,12 @@ public class MainActivity extends Activity {
     private static final int WATCH_JOB_ID = 44021;
     private WebView webView;
     private TextToSpeech tts;
-    private OnDeviceLlm onDeviceLlm;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        enterFullscreen();
+        cleanupLegacyLlmStorage();
         getWindow().setStatusBarColor(Color.rgb(5, 7, 17));
         getWindow().setNavigationBarColor(Color.rgb(5, 7, 17));
         webView = new WebView(this);
@@ -57,18 +63,60 @@ public class MainActivity extends Activity {
                 String bootstrap = "(function(){" +
                     "function css(id,href){if(document.getElementById(id))return;var found=Array.from(document.querySelectorAll('link[rel=\"stylesheet\"]')).find(function(x){return x.getAttribute('href')===href});if(found){found.id=id;return;}var l=document.createElement('link');l.id=id;l.rel='stylesheet';l.href=href;document.head.appendChild(l);}" +
                     "function seq(files,i){if(i>=files.length)return;var f=files[i],old=document.getElementById(f[0])||Array.from(document.scripts).find(function(x){return x.getAttribute('src')===f[1]||x.getAttribute('src')===('./'+f[1])});if(old){old.id=f[0];seq(files,i+1);return;}var s=document.createElement('script');s.id=f[0];s.src=f[1];s.onload=function(){seq(files,i+1)};s.onerror=function(){seq(files,i+1)};document.body.appendChild(s);}" +
-                    "css('copilot-v2-css','copilot-v2.css');css('intelligence-v3-css','intelligence-v3.css');css('ux-v31-css','ux-v31.css');css('ux-v32-css','ux-v32.css');" +
-                    "seq([['copilot-v2-js','copilot-v2.js'],['intelligence-v3-js','intelligence-v3.js'],['ux-v31-js','ux-v31.js'],['ux-v32-js','ux-v32.js']],0);" +
+                    "css('intelligence-v3-css','intelligence-v3.css');css('ux-v31-css','ux-v31.css');css('ux-v32-css','ux-v32.css');" +
+                    "seq([['intelligence-v3-js','intelligence-v3.js'],['ux-v31-js','ux-v31.js'],['ux-v32-js','ux-v32.js']],0);" +
                     "})();";
                 view.evaluateJavascript(bootstrap, null);
                 applyLaunchIntent(getIntent(), 550);
             }
         });
 
-        onDeviceLlm = new OnDeviceLlm(this, this::dispatchLocalLlmEvent);
         webView.addJavascriptInterface(new AndroidBridge(this), "AndroidBridge");
         webView.loadUrl("file:///android_asset/index.html");
         scheduleWatchJob();
+    }
+
+    private void enterFullscreen() {
+        getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
+            getWindow().setDecorFitsSystemWindows(false);
+            WindowInsetsController controller = getWindow().getInsetsController();
+            if (controller != null) {
+                controller.hide(WindowInsets.Type.statusBars() | WindowInsets.Type.navigationBars());
+                controller.setSystemBarsBehavior(WindowInsetsController.BEHAVIOR_SHOW_TRANSIENT_BARS_BY_SWIPE);
+            }
+        } else {
+            getWindow().getDecorView().setSystemUiVisibility(
+                View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY |
+                View.SYSTEM_UI_FLAG_FULLSCREEN |
+                View.SYSTEM_UI_FLAG_HIDE_NAVIGATION |
+                View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN |
+                View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION |
+                View.SYSTEM_UI_FLAG_LAYOUT_STABLE);
+        }
+    }
+
+    private void cleanupLegacyLlmStorage() {
+        try { deleteRecursively(new File(getFilesDir(), "ondevice-models")); } catch (Exception ignored) { }
+    }
+
+    private void deleteRecursively(File target) {
+        if (target == null || !target.exists()) return;
+        if (target.isDirectory()) {
+            File[] children = target.listFiles();
+            if (children != null) for (File child : children) deleteRecursively(child);
+        }
+        target.delete();
+    }
+
+    @Override protected void onResume() {
+        super.onResume();
+        enterFullscreen();
+    }
+
+    @Override public void onWindowFocusChanged(boolean hasFocus) {
+        super.onWindowFocusChanged(hasFocus);
+        if (hasFocus) enterFullscreen();
     }
 
     @Override protected void onNewIntent(Intent intent) {
@@ -79,23 +127,6 @@ public class MainActivity extends Activity {
 
     private void applyLaunchIntent(Intent intent, int delayMs) {
         if (webView == null || intent == null) return;
-
-        String copilotStoryId = intent.getStringExtra("copilotStoryId");
-        String copilotAction = intent.getStringExtra("copilotAction");
-        if (copilotStoryId != null && !copilotStoryId.trim().isEmpty()) {
-            String action = (copilotAction == null || copilotAction.trim().isEmpty()) ? "summary" : copilotAction.trim();
-            String prompt = "summary".equals(action)
-                ? "Summarize this story using the strongest available evidence. Separate source facts from inference and include related coverage where useful."
-                : "Explain this story using the strongest available evidence and clearly distinguish source facts from inference.";
-            String script = "setTimeout(function(){(function retry(n){try{" +
-                "if(window.AINewsCopilot&&typeof S!=='undefined'&&S.items){var story=S.items.find(function(x){return x.id===" + JSONObject.quote(copilotStoryId) + ";});" +
-                "if(story){window.AINewsCopilot.open(story);setTimeout(function(){window.AINewsCopilot.ask(" + JSONObject.quote(prompt) + ");},120);return;}}" +
-                "}catch(e){}if(n>0)setTimeout(function(){retry(n-1);},250);})(16);}," + Math.max(0, delayMs) + ");";
-            webView.evaluateJavascript(script, null);
-            intent.removeExtra("copilotStoryId");
-            intent.removeExtra("copilotAction");
-            return;
-        }
 
         String query = intent.getStringExtra("watchQuery");
         String storyId = intent.getStringExtra("storyId");
@@ -147,16 +178,7 @@ public class MainActivity extends Activity {
         });
     }
 
-    private void dispatchLocalLlmEvent(String json) {
-        runOnUiThread(() -> {
-            if (webView == null) return;
-            String script = "(function(){try{if(window.AINewsLocalLlmEvent)window.AINewsLocalLlmEvent(" + JSONObject.quote(json) + ");}catch(e){}})();";
-            webView.evaluateJavascript(script, null);
-        });
-    }
-
     @Override protected void onDestroy() {
-        if (onDeviceLlm != null) { onDeviceLlm.close(); onDeviceLlm = null; }
         if (tts != null) { tts.stop(); tts.shutdown(); tts = null; }
         if (webView != null) webView.destroy();
         super.onDestroy();
@@ -243,33 +265,6 @@ public class MainActivity extends Activity {
             return "native";
         }
 
-        @JavascriptInterface public String localLlmStatus() {
-            return activity.onDeviceLlm == null ? "{\"state\":\"unavailable\"}" : activity.onDeviceLlm.statusJson();
-        }
-
-        @JavascriptInterface public void localLlmDownloadModel() {
-            if (activity.onDeviceLlm != null) activity.onDeviceLlm.downloadModel();
-        }
-
-        @JavascriptInterface public void localLlmPrepareModel() {
-            if (activity.onDeviceLlm != null) activity.onDeviceLlm.prepareModel();
-        }
-
-        @JavascriptInterface public void localLlmCancelDownload() {
-            if (activity.onDeviceLlm != null) activity.onDeviceLlm.cancelDownload();
-        }
-
-        @JavascriptInterface public void localLlmRemoveModel() {
-            if (activity.onDeviceLlm != null) activity.onDeviceLlm.removeModel();
-        }
-
-        @JavascriptInterface public void localLlmAsk(String requestId, String prompt) {
-            if (activity.onDeviceLlm != null) activity.onDeviceLlm.ask(requestId, prompt);
-        }
-
-        @JavascriptInterface public void localLlmCancelGeneration() {
-            if (activity.onDeviceLlm != null) activity.onDeviceLlm.cancelGeneration();
-        }
 
         @JavascriptInterface public void stopSpeech() {
             activity.runOnUiThread(() -> { if (activity.tts != null) activity.tts.stop(); });

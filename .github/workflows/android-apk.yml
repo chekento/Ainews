@@ -52,7 +52,6 @@ jobs:
           node --check android/app/src/main/assets/app.js
           node --check android/app/src/main/assets/theme-radar.js
           node --check android/app/src/main/assets/media.js
-          node --check android/app/src/main/assets/copilot-v2.js
           node --check android/app/src/main/assets/intelligence-v3.js
           node --check android/app/src/main/assets/ux-v31.js
           node --check android/app/src/main/assets/ux-v32.js
@@ -73,14 +72,14 @@ jobs:
           const sources=[...coreS,...extraS],providers=[...coreP,...extraP];
           const socialIds=new Set(social.map(x=>x.id));
           const missingSocial=providers.filter(x=>!socialIds.has(x.id)).map(x=>x.name);
-          const requiredProducts=['Claude Code','OpenAI API','Claude API','Vertex AI','Amazon Bedrock','Microsoft Copilot Studio','Mistral API','Hugging Face Hub','NVIDIA NIM','GitHub Models','n8n AI','Websim.ai'];
+          const requiredProducts=['Claude Code','OpenAI API','Claude API','Vertex AI','Amazon Bedrock','Microsoft Copilot Studio','Mistral API','Hugging Face Hub','NVIDIA NIM','GitHub Models','n8n AI','Websim.ai','Sora','Gemma','NotebookLM','GitHub Copilot','Ollama','LangGraph','Midjourney Web','ElevenLabs Voice','Promptfoo'];
           const missingProducts=requiredProducts.filter(name=>!products.some(x=>x.name===name));
           if(missingSocial.length){console.error('Social directory missing providers:',missingSocial);process.exit(6)}
           if(missingProducts.length){console.error('Product registry missing required products:',missingProducts);process.exit(7)}
           const privacy=fs.readFileSync('PRIVACY.md','utf8')+'\n'+fs.readFileSync('PRIVACY-SOURCES.md','utf8');
           const missing=[...sources.map(x=>x.name),...providers.map(x=>x.name),...products.map(x=>x.name)].filter(name=>!privacy.includes(name));
           if(missing.length){console.error('Privacy catalog missing registered names:',missing);process.exit(3)}
-          if(sources.length<135||providers.length<50||products.length<90)process.exit(2);
+          if(sources.length<135||providers.length<50||products.length<200)process.exit(2);
           if(/searchInput['"]?\)?\.focus|searchInput.*focus/.test(fs.readFileSync('android/app/src/main/assets/app.js','utf8'))){console.error('Discover auto-focus still present');process.exit(5)}
           console.log('Mobile assets + expanded privacy + products + Discover UX OK:',sources.length,'sources,',providers.length,'providers,',products.length,'products');
           NODE
@@ -96,7 +95,6 @@ jobs:
           cp config/social-feeds.json android/app/src/main/assets/social-feeds.json
           cp config/social-directory.json android/app/src/main/assets/social-directory.json
           cp config/products.json android/app/src/main/assets/products.json
-          cp config/on-device-models.json android/app/src/main/assets/on-device-models.json
       - name: Build installable debug APK
         run: gradle -p android :app:assembleDebug --stacktrace
       - name: Prepare downloads
@@ -106,7 +104,7 @@ jobs:
           sha256sum dist/AI-News.apk > dist/AI-News.apk.sha256
       - uses: actions/upload-artifact@v4
         with:
-          name: AI-News-Android-3.7.3-Beta
+          name: AI-News-Android-3.8.0-Beta
           path: |
             dist/AI-News.apk
             dist/AI-News.apk.sha256
@@ -131,7 +129,7 @@ jobs:
           ARCHIVE_APK="AI-News-Android-${VERSION}.apk"
           cp dist/AI-News.apk "dist/${ARCHIVE_APK}"
           sha256sum "dist/${ARCHIVE_APK}" > "dist/${ARCHIVE_APK}.sha256"
-          NOTES="AI News Android ${VERSION} Beta · Product & Service Wire, separate Governance & Ethics desk, US AI czar / AI Force watch, settings persistence, kosch.cloud partner banner, downloadable Qwen3 on-device LLM, legal links and versioned APK archive. The APK is a debug-signed beta/development build; use at your own risk."
+          NOTES="AI News Android ${VERSION} Beta · Product & Service Wire, separate Governance & Ethics desk, US AI czar / AI Force watch, settings persistence, kosch.cloud partner banner, LLM-free source-first research UI with no generative runtime, legal links and versioned APK archive. The APK is a debug-signed beta/development build; use at your own risk."
           if gh release view "${TAG}" >/dev/null 2>&1; then
             gh release upload "${TAG}" "dist/${ARCHIVE_APK}" "dist/${ARCHIVE_APK}.sha256" --clobber
             gh release edit "${TAG}" --title "AI News Android ${VERSION} Beta · Product & Governance Wire" --notes "${NOTES}"

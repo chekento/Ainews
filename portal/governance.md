@@ -4,7 +4,7 @@
 
 ### Regulation · AI czar / AI Force · safety · standards · rights · ethics
 
-[← Portal](../README.md) · [News](news.md) · [LLM Wire](llm-wire.md) · [Social](social.md) · [Copilot](copilot.md)
+[← Portal](../README.md) · [News](news.md) · [LLM Wire](llm-wire.md) · [Social](social.md)
 
 </div>
 

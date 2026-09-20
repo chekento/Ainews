@@ -36,7 +36,6 @@
     <div class="top-actions">
       <button id="commandBtn" class="icon-btn" type="button" title="Focus search (Ctrl/⌘ K)">⌘K</button>
       <button id="themeBtn" class="icon-btn" type="button" aria-label="Toggle theme" title="Toggle theme">◐</button>
-      <button id="chatBtn" class="ai-btn" type="button"><span>✦</span> AI News Copilot</button>
       <button id="refreshBtn" class="refresh-btn" type="button"><span class="refresh-icon">↻</span><span>Refresh</span></button>
     </div>
   </header>
@@ -49,7 +48,6 @@
         <p>Frontier-model releases, LLM providers, agents, research, chips, open source and business — with a dedicated governance, ethics, EU AI Act, WAICO and US AI policy desk.</p>
         <div class="hero-cta">
           <a class="primary-cta" href="#stream">Explore live feed <span>↓</span></a>
-          <button class="ghost-cta" id="heroChatBtn" type="button">✦ Chat about the news</button>
         </div>
       </div>
       <div class="hero-orbit" aria-label="Live feed status">
@@ -171,31 +169,10 @@
         <h3></h3>
         <p class="summary"></p>
         <div class="provider-tags"></div>
-        <div class="card-bottom"><span class="provenance"></span><div><button class="ask-btn" type="button">✦ Ask AI</button><a target="_blank" rel="noopener noreferrer">Source ↗</a></div></div>
+        <div class="card-bottom"><span class="provenance"></span><div><a target="_blank" rel="noopener noreferrer">Source ↗</a></div></div>
       </div>
     </article>
   </template>
-
-  <aside id="chatDrawer" class="chat-drawer" aria-hidden="true" aria-labelledby="chatTitle">
-    <div class="chat-backdrop" data-close-chat></div>
-    <div class="chat-panel">
-      <header><div><span class="kicker">ARTICLE INTELLIGENCE</span><h2 id="chatTitle">AI News Copilot</h2></div><div class="chat-header-actions"><button id="chatMinimizeBtn" class="chat-tool-btn" type="button" title="Minimize Copilot">—</button><button id="chatDisableBtn" class="chat-tool-btn danger" type="button" title="Disable Copilot">Disable</button><button class="close-btn" type="button" data-close-chat>×</button></div></header>
-      <div id="chatContext" class="chat-context"><span>GLOBAL FEED</span><strong>Ask across the current AI news dataset</strong><p>The built-in research mode answers from loaded headlines and excerpts. Choose an article to focus the context.</p></div>
-      <div id="chatMessages" class="chat-messages" aria-live="polite"></div>
-      <div class="quick-prompts">
-        <button type="button" data-prompt="Summarize the key point and why it matters.">Why it matters</button>
-        <button type="button" data-prompt="What related stories are in the current feed?">Related coverage</button>
-        <button type="button" data-prompt="What are the compliance, safety or ethics implications?">Risk & compliance</button>
-        <button type="button" data-prompt="Compare this with news from competing LLM providers.">Compare providers</button>
-      </div>
-      <form id="chatForm" class="chat-form"><textarea id="chatInput" rows="2" placeholder="Ask about this article or the current AI news…" required></textarea><button type="submit">Send <span>↑</span></button></form>
-      <details class="llm-settings">
-        <summary>Local Research Mode · free and API-free (optional connected model)</summary><p class="local-mode-note">The built-in Copilot discusses the loaded AI news without an API key. A connected model is optional.</p>
-        <p>GitHub Pages cannot securely hold server secrets. Use a browser-accessible OpenAI-compatible endpoint only if you understand the exposure risk. The token is kept in session memory, never committed or stored permanently.</p>
-        <div class="settings-grid"><label>Endpoint<input id="llmEndpoint" type="url" placeholder="https://example.com/v1/chat/completions"></label><label>Model<input id="llmModel" type="text" placeholder="model-name"></label><label>Session token<input id="llmToken" type="password" autocomplete="off" placeholder="optional"></label><label class="toggle"><input id="copilotEnabledPref" type="checkbox" checked><span>✦</span> Local Copilot active</label><label class="toggle"><input id="llmEnabled" type="checkbox"><span>✦</span> Use connected LLM</label></div>
-      </details>
-    </div>
-  </aside>
 
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
   <script src="media-web.js" defer></script>

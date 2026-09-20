@@ -4,7 +4,7 @@
 
 ### Expanded AI-only intelligence index · GitHub-native · no Pages required
 
-[← Portal](../README.md) · [LLM Wire](llm-wire.md) · [Governance](governance.md) · [Social](social.md) · [Copilot](copilot.md)
+[← Portal](../README.md) · [LLM Wire](llm-wire.md) · [Governance](governance.md) · [Social](social.md)
 
 </div>
 
