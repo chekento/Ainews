@@ -88,22 +88,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-20 13:11 UTC**
+**147 registered sources · 60 provider monitors · AI-only filter v4 · snapshot 2026-09-20 13:14 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Dealroom · provider monitor** | Industry | ◈ | ● HIGH | [Class A Dig: Inflection AI Microsoft $650M was talent+licence — not company ACQ; company still independent](https://news.google.com/rss/articles/CBMi0AFBVV95cUxONzVqVENRQzlsaTBNaWdFWWdOdFFKeG5BR3VyWnRwMEQycHlNY3UwZG5uZGRzdHpHWHhmMjFyOFVSaHBoVWp6cTNUZGlhcHU3SGVQNFg2T2JHT2RQXy1qdS0xOUl2d3l1THRwS1dEby15ek5MSVoxVU1NcThVNFZwdEhubWV2NlRtODlJenF5QlZsdzVDc0xRRGpYdVZER014cEFhcmtDNXJEVkg5OUNyNlBNNjd6TlJfRm5wOE9yUmZtOEg4b0RKZWNLODFydTBN?oc=5) |
-| 02 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 05 | **The Decoder** | Robotics & Embodied AI | 🖼️ | ● HIGH | [Runway wants to turn AI video generation into a live stream you control in real time](https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/) |
-| 06 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Meta's Muse Is Better at Surveilling Than Helping Me](https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/) |
-| 07 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [It’s Donald Trump Versus MAGA on Data Centers](https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/) |
-| 08 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 09 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Daily AI usage in the U.S. has more than doubled in just six months](https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/) |
-| 10 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Simulated students that make realistic mistakes help AI tutors learn faster](https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/) |
-| 11 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Trump announces "AI Force" and plans for an "AI czar" as he pushes unchecked AI growth](https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/) |
-| 12 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Following OpenAI, Anthropic is also reportedly postponing its IPO](https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/) |
+| 01 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [21 AI models shifted their political answers to match the user. Is personalization quietly becoming persuasion?](https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/) |
+| 02 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [Plugin4Shell and NIST IR 8587, days apart: what actually authorizes an AI agent’s action?](https://www.reddit.com/r/artificial/comments/1wlgc6q/plugin4shell_and_nist_ir_8587_days_apart_what/) |
+| 03 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [AI Acitvity Preference](https://www.reddit.com/r/artificial/comments/1wlgbnn/ai_acitvity_preference/) |
+| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [I love having persistent memory. It makes everything so easy check it out.remote app on chat mode controls my host](https://www.reddit.com/r/artificial/comments/1wlga6r/i_love_having_persistent_memory_it_makes/) |
+| 05 | **Dealroom · provider monitor** | Industry | ◈ | ● HIGH | [Class A Dig: Inflection AI Microsoft $650M was talent+licence — not company ACQ; company still independent](https://news.google.com/rss/articles/CBMi0AFBVV95cUxONzVqVENRQzlsaTBNaWdFWWdOdFFKeG5BR3VyWnRwMEQycHlNY3UwZG5uZGRzdHpHWHhmMjFyOFVSaHBoVWp6cTNUZGlhcHU3SGVQNFg2T2JHT2RQXy1qdS0xOUl2d3l1THRwS1dEby15ek5MSVoxVU1NcThVNFZwdEhubWV2NlRtODlJenF5QlZsdzVDc0xRRGpYdVZER014cEFhcmtDNXJEVkg5OUNyNlBNNjd6TlJfRm5wOE9yUmZtOEg4b0RKZWNLODFydTBN?oc=5) |
+| 06 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 07 | **The Decoder** | Robotics & Embodied AI | 🖼️ | ● HIGH | [Runway wants to turn AI video generation into a live stream you control in real time](https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/) |
+| 08 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Meta's Muse Is Better at Surveilling Than Helping Me](https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/) |
+| 09 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [It’s Donald Trump Versus MAGA on Data Centers](https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/) |
+| 10 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Why Are AI Agents Sacrificing Themselves for Each Other?](https://www.reddit.com/r/artificial/comments/1wldbqs/why_are_ai_agents_sacrificing_themselves_for_each/) |
+| 11 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 12 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Daily AI usage in the U.S. has more than doubled in just six months](https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
@@ -133,7 +133,7 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 
 Copilot is a **contextual intelligence layer**, not a detached chatbot. It follows the selected story, Discover filters, provider context or the full enabled feed and retrieves a source-diverse evidence set across titles, excerpts, tags, providers, categories, provenance and recency.
 
-**Built in:** evidence cards · primary-source boost · Summary · Why it matters · Compare · Timeline · Risk & policy · Source check · Morning / Evening / Since-last-visit briefings · session-only follow-up context · inline Copilot actions · direct Widget → Copilot story summary.
+**Built in:** local API-free discussion mode · evidence cards · primary-source boost · Summary · Why it matters · Compare · Timeline · Risk & policy · Source check · session-only follow-up context · inline Copilot actions · direct Widget → Copilot story summary.
 
 > Copilot output is experimental. Source grounding reduces error risk but does not eliminate it; inspect the evidence and original publication for important claims.
 
@@ -171,7 +171,7 @@ All custom filters, sources and profile links remain local to the current device
 
 ---
 
-## 📱 Android 3.5 Beta — Social Wire, Local Copilot & Theme Studio
+## 📱 Android 3.2 Beta — Discover & Expanded Intelligence
 
 The APK uses a local mobile interface rather than depending on GitHub Pages. It downloads the current AI-only JSON feed directly from this repository and keeps a bundled offline fallback inside the package.
 
