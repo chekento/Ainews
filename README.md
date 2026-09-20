@@ -13,14 +13,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-BETA_%2F_IN_DEVELOPMENT-FFB347?style=for-the-badge" alt="Beta / in development">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.7_BETA-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download current Android Beta APK"></a>
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.7.3_BETA-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download current Android Beta APK"></a>
 </p>
 
 > [!WARNING]
 > **BETA / IN DEVELOPMENT.** AI News and the Android APK are active test builds and may contain bugs, incomplete functions, inaccurate classifications, notification issues or breaking changes. **Use at your own risk / Nutzung auf eigene Gefahr.** Do not rely on the app as the sole source for important, legal, safety-critical, financial or operational decisions. Verify important information with the linked original sources. The directly distributed APK is currently a **debug-signed beta build**, not a production Play Store release.
 
 <p align="center">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.7 BETA</strong></a><br>
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.7.3 BETA</strong></a><br>
   <a href="https://github.com/chekento/Ainews/releases/tag/android-latest">Release details</a> ·
   <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256">SHA-256 checksum</a> ·
   <a href="PRIVACY.md">Datenschutz / Privacy & all sources</a> ·
