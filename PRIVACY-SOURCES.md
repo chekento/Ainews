@@ -1,10 +1,10 @@
-# AI News — vollständiges Quellen-, Provider- & Produktverzeichnis
+# AI News — vollständiges Quellen- & Provider-Verzeichnis
 
 **Stand:** 20. September 2026  
 **Teil der Datenschutzerklärung:** [PRIVACY.md](PRIVACY.md)  
-**Maschinenlesbar:** [core sources](config/sources.json) · [extended sources](config/sources-extra.json) · [core providers](config/providers.json) · [extended providers](config/providers-extra.json) · [products](config/products.json)
+**Maschinenlesbar:** [core sources](config/sources.json) · [extended sources](config/sources-extra.json) · [core providers](config/providers.json) · [extended providers](config/providers-extra.json)
 
-Dieses Dokument ist der automatisch erzeugte Transparenz-Anhang zur Datenschutzerklärung. Es listet die registrierten Nachrichtenquellen, AI-/LLM-Provider-Radare und überwachten AI-Produkte/Services auf. Das Register ist bewusst erweiterbar und erhebt keinen Anspruch darauf, jedes weltweit existierende AI-Projekt dauerhaft vollständig abzudecken.
+Dieses Dokument ist der automatisch erzeugte Transparenz-Anhang zur Datenschutzerklärung. Es listet sämtliche aktuell registrierten Nachrichtenquellen und AI-/LLM-Provider-Radare auf. Das Register ist bewusst erweiterbar und erhebt keinen Anspruch darauf, jedes weltweit existierende AI-Projekt dauerhaft vollständig abzudecken.
 
 ## 160 registrierte AI-Newsquellen
 
@@ -164,7 +164,7 @@ Dieses Dokument ist der automatisch erzeugte Transparenz-Anhang zur Datenschutze
 | 152 | POLITICO AI Policy | Journalism | Global | https://www.politico.com/newsletters/technology |
 | 153 | U.S. Federal Trade Commission AI | Official | US | https://www.ftc.gov/business-guidance/artificial-intelligence |
 | 154 | U.S. Copyright Office AI | Official | US | https://www.copyright.gov/ai/ |
-| 155 | United Nations AI Governance | Official | US | https://www.un.org/en/ai-advisory-body |
+| 155 | United Nations AI Governance | Official | Global | https://www.un.org/en/ai-advisory-body |
 | 156 | Data & Society AI | Governance | Global | https://datasociety.net/research/ai/ |
 | 157 | Future of Privacy Forum AI | Governance | Global | https://fpf.org/issues/artificial-intelligence/ |
 | 158 | Algorithmic Justice League | Governance | Global | https://www.ajl.org/ |

@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="PRIVACY.md"><strong>🔐 Datenschutz / Privacy</strong></a> · <a href="PRIVACY-SOURCES.md"><strong>All sources & providers</strong></a> · <a href="https://kosch.cloud"><strong>Impressum / kosch.cloud</strong></a>
+  <a href="PRIVACY.md"><strong>🔐 Datenschutz / Privacy</strong></a> · <a href="PRIVACY-SOURCES.md"><strong>All sources & providers</strong></a> · <a href="https://kosch.cloud"><strong>Impressum / kosch.cloud</strong></a> · <a href="ANDROID-ARCHIVE.md"><strong>APK archive</strong></a>
 </p>
 
 <p align="center">
@@ -88,22 +88,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-20 14:07 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-20 14:28 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Shishir Mehrotra (Superhuman CEO) on the mid-career point where the promotion criterion reverses](https://www.reddit.com/r/artificial/comments/1wlgvm1/shishir_mehrotra_superhuman_ceo_on_the_midcareer/) |
-| 02 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [21 AI models shifted their political answers to match the user. Is personalization quietly becoming persuasion?](https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/) |
-| 03 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [AI Acitvity Preference](https://www.reddit.com/r/artificial/comments/1wlgbnn/ai_acitvity_preference/) |
-| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [I love having persistent memory. It makes everything so easy check it out.remote app on chat mode controls my host](https://www.reddit.com/r/artificial/comments/1wlga6r/i_love_having_persistent_memory_it_makes/) |
-| 05 | **Dealroom · provider monitor** | Industry | ◈ | ● HIGH | [Class A Dig: Inflection AI Microsoft $650M was talent+licence — not company ACQ; company still independent](https://news.google.com/rss/articles/CBMi0AFBVV95cUxONzVqVENRQzlsaTBNaWdFWWdOdFFKeG5BR3VyWnRwMEQycHlNY3UwZG5uZGRzdHpHWHhmMjFyOFVSaHBoVWp6cTNUZGlhcHU3SGVQNFg2T2JHT2RQXy1qdS0xOUl2d3l1THRwS1dEby15ek5MSVoxVU1NcThVNFZwdEhubWV2NlRtODlJenF5QlZsdzVDc0xRRGpYdVZER014cEFhcmtDNXJEVkg5OUNyNlBNNjd6TlJfRm5wOE9yUmZtOEg4b0RKZWNLODFydTBN?oc=5) |
-| 06 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 09 | **The Decoder** | Robotics & Embodied AI | 🖼️ | ● HIGH | [Runway wants to turn AI video generation into a live stream you control in real time](https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/) |
-| 10 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Meta's Muse Is Better at Surveilling Than Helping Me](https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/) |
-| 11 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [It’s Donald Trump Versus MAGA on Data Centers](https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/) |
-| 12 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Why Are AI Agents Sacrificing Themselves for Each Other?](https://www.reddit.com/r/artificial/comments/1wldbqs/why_are_ai_agents_sacrificing_themselves_for_each/) |
+| 01 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [6 days left to get ahead at TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) |
+| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Shishir Mehrotra (Superhuman CEO) on the mid-career point where the promotion criterion reverses](https://www.reddit.com/r/artificial/comments/1wlgvm1/shishir_mehrotra_superhuman_ceo_on_the_midcareer/) |
+| 04 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [21 AI models shifted their political answers to match the user. Is personalization quietly becoming persuasion?](https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/) |
+| 05 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [Plugin4Shell and NIST IR 8587, days apart: what actually authorizes an AI agent’s action?](https://www.reddit.com/r/artificial/comments/1wlgc6q/plugin4shell_and_nist_ir_8587_days_apart_what/) |
+| 06 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [AI Acitvity Preference](https://www.reddit.com/r/artificial/comments/1wlgbnn/ai_acitvity_preference/) |
+| 07 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [I love having persistent memory. It makes everything so easy check it out.remote app on chat mode controls my host](https://www.reddit.com/r/artificial/comments/1wlga6r/i_love_having_persistent_memory_it_makes/) |
+| 08 | **Dealroom · provider monitor** | Industry | ◈ | ● HIGH | [Class A Dig: Inflection AI Microsoft $650M was talent+licence — not company ACQ; company still independent](https://news.google.com/rss/articles/CBMi0AFBVV95cUxONzVqVENRQzlsaTBNaWdFWWdOdFFKeG5BR3VyWnRwMEQycHlNY3UwZG5uZGRzdHpHWHhmMjFyOFVSaHBoVWp6cTNUZGlhcHU3SGVQNFg2T2JHT2RQXy1qdS0xOUl2d3l1THRwS1dEby15ek5MSVoxVU1NcThVNFZwdEhubWV2NlRtODlJenF5QlZsdzVDc0xRRGpYdVZER014cEFhcmtDNXJEVkg5OUNyNlBNNjd6TlJfRm5wOE9yUmZtOEg4b0RKZWNLODFydTBN?oc=5) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 10 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
+| 11 | **The Decoder** | Robotics & Embodied AI | 🖼️ | ● HIGH | [Runway wants to turn AI video generation into a live stream you control in real time](https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/) |
+| 12 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Meta's Muse Is Better at Surveilling Than Helping Me](https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
@@ -129,10 +129,6 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 ---
 
 <!-- COPILOT_INTELLIGENCE:START -->
-## ◈ Product & Service Wire
-
-The product desk monitors usable AI services separately from general model news: Claude Code, Google Antigravity, Google Flow, Make, Zapier, KNIME, Suno, Udio, Websim.ai, ChatGPT, Codex, Gemini, Copilot, GitHub Copilot, Cursor, Windsurf, Replit, Runway, Midjourney, ElevenLabs, Firefly and more. See the [machine-readable product registry](config/products.json) and [APK archive](ANDROID-ARCHIVE.md).
-
 ## ✦ Copilot Intelligence 3.6 · BETA
 
 Copilot is a **contextual intelligence layer**, not a detached chatbot. It follows the selected story, Discover filters, provider context or the full enabled feed and retrieves a source-diverse evidence set across titles, excerpts, tags, providers, categories, provenance and recency.
@@ -151,7 +147,7 @@ Copilot is a **contextual intelligence layer**, not a detached chatbot. It follo
 
 Android 3.6 keeps **Latest · For You · High Signal · Story Clusters · Brief** and adds a more deliberate Discover experience: opening Discover no longer focuses the search field or opens the keyboard. Search starts only after an explicit tap.
 
-**New in 3.6:** Social Wire with 61 provider ecosystems and official multi-platform links · API-free local Copilot discussion · interactive radar with Matrix rain · 28 app/widget themes including Kawaii Plush and Kawaii Candy ·  Smart Brief presets for Morning / Evening / Since last visit · quick Smart-Watch templates · Widget Studio presets · direct Widget → Copilot story summary · local For-You reset/control · expanded core+extended source registry · 160 AI sources · 61 provider ecosystems.
+**New in 3.6:** Social Wire with 61 provider ecosystems and official multi-platform links · AI product/service wire for Claude Code, Google Antigravity, Flow, Make, Zapier, KNIME, Suno, Udio, Websim.ai and more · API-free local Copilot discussion · separate Governance desk for AI czar / AI Force, laws and ethics · interactive radar with Matrix rain · 28 app/widget themes including Kawaii Plush and Kawaii Candy ·  Smart Brief presets for Morning / Evening / Since last visit · quick Smart-Watch templates · Widget Studio presets · direct Widget → Copilot story summary · local For-You reset/control · expanded core+extended source registry · 160 AI sources · 61 provider ecosystems.
 
 > **Development status:** this is an active beta/test build. Bugs, incomplete functions and breaking changes are possible. **Use at your own risk / Nutzung auf eigene Gefahr.**
 
