@@ -71,9 +71,10 @@
   async function loadExtraRegistry(){
     var s=state();if(!s)return;
     try{
+      var readRegistry=function(remote,local,empty){return fetch(remote+"?v="+Date.now()).then(function(r){return r.ok?r.json():Promise.reject(new Error("remote registry"))}).catch(function(){return fetch(local).then(function(r){return r.ok?r.json():empty}).catch(function(){return empty})})};
       var pair=await Promise.all([
-        fetch("config/providers-extra.json?v="+Date.now()).then(function(r){return r.ok?r.json():{providers:[]}}).catch(function(){return{providers:[]}}),
-        fetch("config/sources-extra.json?v="+Date.now()).then(function(r){return r.ok?r.json():{sources:[]}}).catch(function(){return{sources:[]}})
+        readRegistry("config/providers-extra.json","providers-extra.json",{providers:[]}),
+        readRegistry("config/sources-extra.json","sources-extra.json",{sources:[]})
       ]);
       var beforeP=(s.providers||[]).length,beforeS=(s.sources||[]).length;
       s.providers=merge(s.providers,pair[0].providers||[],"id");
