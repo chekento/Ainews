@@ -2,9 +2,9 @@
 
 **Stand:** 20. September 2026  
 **Teil der Datenschutzerklärung:** [PRIVACY.md](PRIVACY.md)  
-**Maschinenlesbar:** [core sources](config/sources.json) · [extended sources](config/sources-extra.json) · [core providers](config/providers.json) · [extended providers](config/providers-extra.json) · [product registry](config/products.json)
+**Maschinenlesbar:** [core sources](config/sources.json) · [extended sources](config/sources-extra.json) · [core providers](config/providers.json) · [extended providers](config/providers-extra.json)
 
-Dieses Dokument ist der automatisch erzeugte Transparenz-Anhang zur Datenschutzerklärung. Es listet sämtliche aktuell registrierten Nachrichtenquellen, AI-/LLM-Provider-Radare und Produkt-/Service-Monitore auf. Das Register ist bewusst erweiterbar und erhebt keinen Anspruch darauf, jedes weltweit existierende AI-Projekt dauerhaft vollständig abzudecken.
+Dieses Dokument ist der automatisch erzeugte Transparenz-Anhang zur Datenschutzerklärung. Es listet sämtliche aktuell registrierten Nachrichtenquellen und AI-/LLM-Provider-Radare auf. Das Register ist bewusst erweiterbar und erhebt keinen Anspruch darauf, jedes weltweit existierende AI-Projekt dauerhaft vollständig abzudecken.
 
 ## 160 registrierte AI-Newsquellen
 
