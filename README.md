@@ -257,3 +257,12 @@ Java: 17
 </details>
 
 <p align="center"><strong>AI NEWS // HYPERINTELLIGENCE · BETA</strong><br><sub>Source first. AI only. Signal over noise. Use at your own risk.</sub></p>
+
+---
+
+<p align="center">
+  <a href="https://kosch.cloud">
+    <img src="assets/branding/kosch-cloud-banner.svg" alt="kosch.cloud by KoSch — Websim apps, AI creations, music, podcasts and games" width="920">
+  </a><br>
+  <strong>❣️ by KoSch · <a href="https://kosch.cloud">kosch.cloud</a></strong>
+</p>
