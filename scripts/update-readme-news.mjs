@@ -40,6 +40,13 @@ out=out.replace(/DOWNLOAD_ANDROID_[0-9.]+(?:_BETA)?/g,'DOWNLOAD_ANDROID_3.7_BETA
   .replace(/alt="\d+ AI sources"/g,`alt="${data.sourceCount||0} AI sources"`)
   .replace(/badge\/\d+_(?:LLM_ECOSYSTEMS|AI_PROVIDER_ECOSYSTEMS)-/g,`badge/${data.providerCount||0}_AI_PROVIDER_ECOSYSTEMS-`)
   .replace(/alt="\d+ (?:LLM|AI) providers"/g,`alt="${data.providerCount||0} AI providers"`);
+out=out
+  .replace(/- \*\*\[LLM Provider Wire\]\(portal\/llm-wire\.md\)\*\* — [0-9]+ (?:model ecosystems|provider ecosystems)/g, '- **[LLM Provider Wire](portal/llm-wire.md)** — '+(data.providerCount||0)+' provider ecosystems')
+  .replace(/\x60config\/sources\.json\x60(?: \+ \x60config\/sources-extra\.json\x60)? — [0-9]+-source matrix/g, '\x60config/sources.json\x60 + \x60config/sources-extra.json\x60 — '+(data.sourceCount||0)+'-source matrix')
+  .replace(/\x60config\/providers\.json\x60(?: \+ \x60config\/providers-extra\.json\x60)? — [0-9]+ LLM\/provider ecosystems/g, '\x60config/providers.json\x60 + \x60config/providers-extra.json\x60 — '+(data.providerCount||0)+' provider ecosystems')
+  .replace(/\.github\/workflows\/android-apk\.yml\x60? — Android [0-9.]+ beta build/g, '.github/workflows/android-apk.yml — Android 3.7 beta build')
+  .replace(/Java: [0-9]+/g, 'Java: 21')
+  .replace(/- SHA-256: \x60[^\x60]+\x60/g, '- SHA-256: [download checksum](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256)');
 const legal=`<p align="center">\n  <a href="PRIVACY.md"><strong>🔐 Datenschutz / Privacy</strong></a> · <a href="PRIVACY-SOURCES.md"><strong>All sources & providers</strong></a> · <a href="https://kosch.cloud"><strong>Impressum / kosch.cloud</strong></a> · <a href="ANDROID-ARCHIVE.md"><strong>APK archive</strong></a>\n</p>`;
 const legalRe=/<p align="center">\s*<a href="PRIVACY\.md"><strong>🔐 Datenschutz[\s\S]*?<\/p>/;
 if(legalRe.test(out))out=out.replace(legalRe,legal);else out=legal+'\n\n'+out;
