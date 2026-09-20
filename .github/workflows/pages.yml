@@ -2,23 +2,6 @@ name: Deploy AI News to Pages
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'index.html'
-      - 'app.js'
-      - 'styles.css'
-      - 'branding.css'
-      - 'page-v32.js'
-      - 'page-v32.css'
-      - 'assets/**'
-      - 'config/**'
-      - 'data/**'
-      - 'media-web.js'
-      - 'manifest.webmanifest'
-      - 'sw.js'
-      - '404.html'
-      - '.github/workflows/pages.yml'
 
 permissions:
   contents: read
@@ -38,8 +21,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: '.'
