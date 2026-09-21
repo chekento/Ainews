@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-20 23:10 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-21 01:32 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Product Wire · Copy.ai** | Products & Agents | ◈ | ● HIGH | [Outcome Data Could Become the Harder-to-Copy AI Moat for Korean Startups](https://news.google.com/rss/articles/CBMic0FVX3lxTE12bFhNS0ZGVlU0eXlJWVFrTTBqVlFMc25TYmhoT0pBSURGb2hxRURGVE9TNlN0cHdQa3Q5Sld3eGE1WU9KLVloVVZjTlN2MDQ1cEJ6YU5ZLWp1akU0NmVONWIwUFh5TVJ5T05KclJSbFBUT3c?oc=5) |
-| 02 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [6 days left to save up to $200 to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) |
-| 04 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 06 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - anthropic.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/) |
-| 09 | **Product Wire · Llama** | Products & Agents | ◈ | ● HIGH | [llama ai fact checking Android Software Installer](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rSFR5SXRvdTZNNnM3NGtQblVSU2l4NnRIOW9ta08yOE9QLVJ0Z0xmSlN0R1ZNSmRnXzQzcXBqXzhuMVFBem5rSXNURlRHaEVjSXp6dA?oc=5) |
-| 10 | **Product Wire · Microsoft Copilot Studio** | Products & Agents | ◈ | ● HIGH | [Computer use is now in public preview in Microsoft Copilot Studio](https://news.google.com/rss/articles/CBMixAFBVV95cUxOODk3eUFxQ1RBRXFjQWt2WTNObWJhcGtSc282VHBnZ0FvTjNCMDBKQlQ4YjJrb29mMjhWYlpHTGtBNWZSYm83QXVTTW5acFYtdlhlYVVSRUdGeTBjNnpoT1l6RE91SkFQUzE0eGo0TjBpRy1TNTJnRFJ6eTVtNzhCb1dILWYyZC0wMVlCUldqWEhMcXJPLTE0NlpSRnlJMGhIaFpHN0JNNUg1ZkttdWlXcDRxSkVTU2hFamhOczM3TUFLaFNE?oc=5) |
-| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Is the AI industry really ready to slow down?](https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/) |
-| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Vocci’s ring adds a new form factor to meeting note-taking](https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/) |
+| 01 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 02 | **Product Wire · Gemini app** | Products & Agents | ◈ | ● HIGH | [Hallelujah, there's finally a Gemini app for Windows](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LUkx6WUJ6d1Q3NzNPcFNwUkJwQ0VuQ0lkb015Q2xEUTJKYVVtQkIxc2t5b0JlNEJCbm1LZWxhWDRGdlFqVmRXR1VuY0xyR0NlUWtkU0RsR2ZDc3hnSnlnZzU1aw?oc=5) |
+| 03 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 04 | **IT Brief Australia · provider monitor** | Industry | ◈ | ● HIGH | [Databricks AI helping telcos prevent churn, predict fraud](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdFJlWHRWdEhaQVlBY1FadUxRUTF3TjY2NzY0dEdnUDJjWmRoV3hWSWQzZzFBZ2VMcHJzWXpnQXhUMlBBWktqRVE3UjNKRzZjZURQWXpPUmEtQjdCbXVGeDVkek9veWY1TXctb3ZVM2tpdHdYTW5lSjc4Yk16VnYtYnFJVmRMMld6anAwQjV3?oc=5) |
+| 05 | **Product Wire · Copy.ai** | Products & Agents | ◈ | ● HIGH | [Outcome Data Could Become the Harder-to-Copy AI Moat for Korean Startups](https://news.google.com/rss/articles/CBMic0FVX3lxTE12bFhNS0ZGVlU0eXlJWVFrTTBqVlFMc25TYmhoT0pBSURGb2hxRURGVE9TNlN0cHdQa3Q5Sld3eGE1WU9KLVloVVZjTlN2MDQ1cEJ6YU5ZLWp1akU0NmVONWIwUFh5TVJ5T05KclJSbFBUT3c?oc=5) |
+| 06 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [6 days left to save up to $200 to TechCrunch Disrupt 2026](https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/) |
+| 08 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [World model companies are keeping a lot of secrets](https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/) |
+| 12 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Hemmingway-1, an Apache-2.0 27B creative-writing fine-tune (Qwen3.8-27B base, EQ-Bench 4 1330)[R]](https://www.reddit.com/r/MachineLearning/comments/1wlr1w5/hemmingway1_an_apache20_27b_creativewriting/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
