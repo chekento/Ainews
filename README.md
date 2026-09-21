@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-21 07:00 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-21 13:56 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [An AI incident hotline between the US and China sounds sensible. I’m surprised we need one this soon.](https://www.reddit.com/r/artificial/comments/1wm4lz6/an_ai_incident_hotline_between_the_us_and_china/) |
-| 02 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Professor: A “messy” job is the defense against AI unemployment](https://www.reddit.com/r/artificial/comments/1wm3ok9/professor_a_messy_job_is_the_defense_against_ai/) |
-| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [FBI Director Kash Patel says that AI use at the FBI has "increased by 605%" since he became director — claims that every major tech player is "embedded" in the agency](https://www.reddit.com/r/artificial/comments/1wm2996/fbi_director_kash_patel_says_that_ai_use_at_the/) |
-| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models](https://arxiv.org/abs/2609.20971) |
-| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Attention-Aware Routing: Coupling Routing and Attention in MoEs](https://arxiv.org/abs/2609.20974) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [CaLR: Causal Latent Revision for Robust Diffusion Reasoning](https://arxiv.org/abs/2609.20981) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [LoRA Enhanced Contrastive Learning with SAS Vision Transformers](https://arxiv.org/abs/2609.21061) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing](https://arxiv.org/abs/2609.21096) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models](https://arxiv.org/abs/2609.21113) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers](https://arxiv.org/abs/2609.21139) |
+| 01 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an) |
+| 02 | **The Decoder** | Safety & Security | 🖼️ | ◐ MED | [US and China agree on AI dialogue with security mechanism ahead of Trump-Xi summit](https://the-decoder.com/us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit/) |
+| 03 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 04 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Amazon blocks Meta's AI agent Muse from online shopping](https://the-decoder.com/amazon-blocks-metas-ai-agent-muse-from-online-shopping/) |
+| 05 | **Product Wire · NVIDIA Isaac** | Products & Agents | ◈ | ● HIGH | [Synaptics (SYNA) Could Be 29% Undervalued After Nvidia Isaac Sim Integration](https://news.google.com/rss/articles/CBMizwFBVV95cUxPN051NU0yNUNzVF9KTGppM3BEUnNiSDhSeTNxOU05cGRPc3Q5cWc3dnFnQTRiSFkxWEhfTndvNFBMQXRTMUlTZUF0Y2RvcVI4S0VBXzlDalhaNVREQVZaUzVDak5nTjN4cU95VV9mNmlaWVd6UnVGeVlRTlM3RW1kaGZyb0JLVEZhbWZjRGEzZU93bU1zSGExblhHQzctQS1Nc3o3ZXFncTRhQWRpdHMxc0JZNVFYbGxZYWZBbHlHTGs1Tkg5bktkd1NabzVwbmvSAdQBQVVfeXFMTlVRdjVZZWdDc0FxWWRYZ29oc1FJNFZNbDk0YVdiWFYtS3VWemQ3bWFyS05ZWTltZUhMN3FOWElHTC1sS2J2dWVGdTNjREY5cWVIMU5Ea25rMmVLenJNbkVma1Vuc1hoVm9kUFlmeGV3SWZFcGZoM3dsMHVvekc5c1JTU1BRWktXbEdQXzkxNmxkN0hESHNPQ3VVbmhjQkZOMmlXN0UtejhFSGdVaXpIejNCNjFYSVZROE1yVXpab3psMDlEZzZLOS1WY205cWxXcDZCSUQ?oc=5) |
+| 06 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop](https://www.wired.com/story/google-launches-googlebook-laptops/) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 09 | **MIT Technology Review AI** | Industry | 🖼️ | ● HIGH | [How we made the first comprehensive map of deaths along the US border’s “virtual wall”](https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/) |
+| 10 | **MIT Technology Review AI** | Industry | 🖼️ | ● HIGH | [4 ways to address the failures we found along the US border’s “virtual wall”](https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/) |
+| 11 | **MIT Technology Review AI** | Industry | 🖼️ | ● HIGH | [The US spent billions on border surveillance. Why can’t it catch people before they die?](https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/) |
+| 12 | **MIT Technology Review AI** | Industry | 🖼️ | ● HIGH | [She died at the San Diego border. A surveillance camera was in plain sight](https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
