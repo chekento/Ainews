@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-22 06:45 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-22 12:32 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - anthropic.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 02 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models](https://arxiv.org/abs/2609.20971) |
-| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Attention-Aware Routing: Coupling Routing and Attention in MoEs](https://arxiv.org/abs/2609.20974) |
-| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [CaLR: Causal Latent Revision for Robust Diffusion Reasoning](https://arxiv.org/abs/2609.20981) |
-| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [LoRA Enhanced Contrastive Learning with SAS Vision Transformers](https://arxiv.org/abs/2609.21061) |
-| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing](https://arxiv.org/abs/2609.21096) |
-| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models](https://arxiv.org/abs/2609.21113) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers](https://arxiv.org/abs/2609.21139) |
-| 09 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake](https://arxiv.org/abs/2609.21149) |
-| 10 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [Can Agents Design Better Chips with a Higher Level Abstraction?](https://arxiv.org/abs/2609.21157) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity](https://arxiv.org/abs/2609.21165) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks](https://arxiv.org/abs/2609.21181) |
+| 01 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 02 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again](https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/) |
+| 03 | **IEEE Spectrum AI** | Industry | 🖼️ | ● HIGH | [The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers](https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit) |
+| 04 | **Product Wire · NVIDIA Isaac** | Products & Agents | ◈ | ● HIGH | [NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development](https://news.google.com/rss/articles/CBMifkFVX3lxTE9sdnlsRXplbmZmbUxGdjV0WWRPQmFNRlAzWk9pdjIzYXhzMkZUTmZfQWNtXzVkcFp4VHdZLWR3bWVhbFluMFRNWU5oS0l1cUJoOGswcjJ3Q2s5WndiYVZFSVZoWlZhemZXOVFud2JFRHkwYThkN1Q1T0dYZHFOdw?oc=5) |
+| 05 | **Product Wire · Microsoft Foundry** | Products & Agents | ◈ | ● HIGH | [GitLab Duo Expands Self-Hosted AI Options Through Microsoft Foundry](https://news.google.com/rss/articles/CBMibEFVX3lxTFBVcFJPYTZtb2VaT2cwME1qMVNaNW5INUJwd0JLSzNIRFhkb295N3g0SXppb0VBN3U4MGc2ZVA0UWxRbUhFRnhQZThlLXBoS3g1QXhzbmRkX21vcUV0YzF5cDNDLVd0NlI5NWhiYg?oc=5) |
+| 06 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there](https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/) |
+| 07 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [How deep are you really into AI? 🤖](https://www.reddit.com/r/artificial/comments/1wn72vq/how_deep_are_you_really_into_ai/) |
+| 08 | **AI News** | Industry | 🖼️ | ● HIGH | [AutoScheduler launches warehouse app builder for logistics teams](https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/) |
+| 09 | **The Decoder** | Research | 🖼️ | ● HIGH | [OpenAI says its internal model solved over 100 long-standing math problems after just a month of training](https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/) |
+| 10 | **konsulteer.com · provider monitor** | Infrastructure | ◈ | ● HIGH | [Core42 and TII Expand UAE Sovereign AI Infrastructure With Cybersecurity Collaboration](https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVhUTTFibVMzOUw2N29zWVdyUUw2RENoLW9GX0p3NHA1d0I0am54UjFURVJlTE11NzJQaFBORDR3OE1laG5CbUpkODdjUkZXYmlKdHZqM1dTX0JTQ2R1QTZ6aDcyS0RxbW5Ra0JJdng2a2NXOV9tRjhjYzl5N05DWWxtRFRpYWYtSWg5STg5b2JDOGtSVS01Y2F4ZE16Qm1NeFkya3pWaVdTT1YybmFRclRvbEtLV3FXQUplNHFR?oc=5) |
+| 11 | **MIT Technology Review AI** | Safety & Security | ◈ | ● HIGH | [Don’t be fooled by this summer of AI hype](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/) |
+| 12 | **ENISA AI Security** | Compliance & Ethics | ◈ | ● HIGH | [Exploring the evolution of the cyber threat landscape: How dependencies weaken our digital resilience - ENISA](https://news.google.com/rss/articles/CBMizgFBVV95cUxPT25rZ1h5WDhuaE1wajBHRUpTa0Q0SndVWkVsRDZ3UWpFOHBqY3FNbE01dlcwVHBCT2dMREQtTkczeURoalhqZE5iZk9pMk53VDVZNEVUVDZ6ZEMxZkdTZGIwXzdzQnpuQlRUOTgyRW9oLXBBeU9wX2llbGlBNGF6SHAzdnZHbHRKWmhMT0NXc1Ntc0stNGZNdTNkbTJwOVRVZDdyYUNQT1pXaGdleXQ2S3hWR0tnZlNIRnFCU3UxU1JUZXNXNHBkUUMzeG1fUQ?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
