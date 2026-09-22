@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-22 01:34 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-22 06:45 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 02 | **Baseten Blog** | Industry | ◈ | ● HIGH | [MiMo-V2.6-Pro-RL - Baseten](https://news.google.com/rss/articles/CBMiW0FVX3lxTE10RHh3dFoxMEs3aHdUUWdHX0J5MlNfSUdTa3VnQ3l3Z0F0LXZvNE1Kbk5VRlpPclpUSTUxME1MZGxDRWpudmNDUTBKQTFkRGlfTGNhNk9oTEtXVkE?oc=5) |
-| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping](https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/) |
-| 04 | **POLITICO AI Policy** | Compliance & Ethics | ◈ | ● HIGH | [Congress in the dark on Trump’s AI Force announcement - politico.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxOajlWZWV1b3hLN2dPLWQ0VEVjOWdZalkxUzh6Q3Z6SzBMQkFYOE82ZGtXbmNQSUVHbGJ5ZElhbHRqaGxvbXhMbFBwWXVWWVJBblBCNVZQYV9JbHlBbDNha1NBWmJnZ0NaMGZCXzdSYXFBRDI4NVNJY3pBaDJ3cVhIX0V3MEp0LXZFd043SUc1bw?oc=5) |
-| 05 | **Data & Society AI** | Compliance & Ethics | ◈ | ● HIGH | [The AI Factory: How Policymakers Can Support Local Decision-Making on AI Infrastructure - Data & Society](https://news.google.com/rss/articles/CBMixwFBVV95cUxQYzdjSWNMRmVzRlFmTUNWaGlSODFkQTRLUnZnQlVqV1M0aGJ4bHZRODhLR0RCRDVLU3JteGpwR3Q4QXpmZlJmaTEtMklubk1iMDAxMlZFVUNnNVFTSE1QeU9xMUdSX1NxRFVTUnJzUkhzemlWeUZPUkxwNDJBVjhmZ2h1dldFbWFPQUdUUzJIWktFTWp3cFdobXlBZW1JMU1HTFBRM0ZkcGt0YWJYSjBkZU1mY1VqX2dfdkhQbDFSX0pnbHJHVHQw?oc=5) |
-| 06 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [California tightens rules on AI data center energy and water use](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills) |
-| 07 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Amazon blocks Meta's Muse personal assistant](https://www.reddit.com/r/artificial/comments/1wmqzcz/amazon_blocks_metas_muse_personal_assistant/) |
-| 08 | **Databricks AI** | Industry | ◈ | ● HIGH | [Orchestrating Enterprise AI with Databricks Genie - Databricks User Groups](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbUpoZEt2TWNadXF0R09tdE9YcS1oU3JXdGtrZXpYNDlrc2EwUWp3cFE0YTZMbWxvNTljM3R1bW5yNVpaZjRHVDloVFY2dlljVldYUGgzb21BcTh6dWtfbkRyNi1BdDdaZWJSUXUtNU83eGQ1dUMxYmhhVzJkRmJxY0pYVzhsUWZCVDFDT1E1V1hJQWNSZUk5MVNtdlJsc3dha2dnRWNwSnl0elYtVUQzUzBjMk1VVnBIWUpIdDJMWlFub3pOaTFtM3gtQU5hNkpGaFJ1VEVNeUxjTnVIRXNidWtfZFBSY2RBLXF2aGRpMEQ2UG9SLVE?oc=5) |
-| 09 | **Product Wire · Evaluate** | Products & Agents | ◈ | ● HIGH | [How to Evaluate AI Agents From Tool Calls to Task Completion \| NVIDIA Technical Blog](https://news.google.com/rss/articles/CBMimwFBVV95cUxQTW5DMS1ackx0ai1qbUZCeFJod0xUc01Fb1NiYmVCQjUxT19ETEZkT05DSVpDVWhhRHdlV1pKblBhaV9xeEZUdjVCZGNYRWRKdmIzOFdHMlJJaHN6TTZSSVlqdW8tU0xablZwb0N5TG9VTnhRY2VlZ2VfeENNd1pBVm5MZXJfc3BUdjFwZmhXcTdrUmI5c3JjaEtYaw?oc=5) |
-| 10 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 01 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - anthropic.com](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 02 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models](https://arxiv.org/abs/2609.20971) |
+| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Attention-Aware Routing: Coupling Routing and Attention in MoEs](https://arxiv.org/abs/2609.20974) |
+| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [CaLR: Causal Latent Revision for Robust Diffusion Reasoning](https://arxiv.org/abs/2609.20981) |
+| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [LoRA Enhanced Contrastive Learning with SAS Vision Transformers](https://arxiv.org/abs/2609.21061) |
+| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing](https://arxiv.org/abs/2609.21096) |
+| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models](https://arxiv.org/abs/2609.21113) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [TinyCeNN-LM: Quality-Gated Conversion of Pretrained Attention with CeNN-Inspired Cellular-Recurrent Layers](https://arxiv.org/abs/2609.21139) |
+| 09 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Clinician-Grounded Quality Assurance for AI-Assisted Psychiatric Intake](https://arxiv.org/abs/2609.21149) |
+| 10 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [Can Agents Design Better Chips with a Higher Level Abstraction?](https://arxiv.org/abs/2609.21157) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity](https://arxiv.org/abs/2609.21165) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks](https://arxiv.org/abs/2609.21181) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
