@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-23 13:34 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-23 17:57 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**](https://huggingface.co/blog/nvidia/nemotron-diarization) |
-| 02 | **AI News** | Industry | 🖼️ | ● HIGH | [U.S. TRANSCOM deploys randomised AI to secure military logistics](https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/) |
-| 03 | **OpenAI News** | Safety & Security | ◈ | ● HIGH | [OpenAI extends cyber access to Ukraine for civilian defense](https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’](https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/) |
-| 05 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw](https://www.wired.com/story/metas-muse-ai-agent-zero-day/) |
-| 06 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 07 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent](https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/) |
-| 08 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Robots blocking traffic](https://www.reddit.com/r/artificial/comments/1wo4now/robots_blocking_traffic/) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 10 | **Intel AI** | Industry | ◈ | ● HIGH | [Googlebook Launches with Intel Core Ultra Series 3 Processors - Intel](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRC1Edk83QjdDemRmenpkRzcwdWxmU0VoM1lDbXNqXzFvbG9IaFpNZ3pqRERzaFVtM3pXaElGSzlhM3dJcnUxeHlzQ1FRbVZBWlFhTFJ3RXo5WnljUzJhN2ZqeHkzQ2JIOUVmQUh0aXNoOFNGZlozRTFlNm02OEV1T2VJYUNwa3lmeldGU2ZQSUFrczBvOXBMYXNNVmsyekc1VVpDRnVMRVF2Q0hMMXZ5WDVERGtkWWtxZU0tdWR1Z2dWRnNLNFBRVWNHQktsVTRKMWww?oc=5) |
-| 11 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [currently getting fatigue with AI model release cycle](https://www.reddit.com/r/artificial/comments/1wo4758/currently_getting_fatigue_with_ai_model_release/) |
-| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Ema raises $77M as AI starts eating into enterprise software and services](https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/) |
+| 01 | **OpenAI News** | Frontier Models | ◈ | ● HIGH | [Ringg’s AI agents resolve up to 65% of customer calls with OpenAI](https://openai.com/index/ringg) |
+| 02 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Google's new Flash TTS models let you design AI voices from scratch using text descriptions](https://the-decoder.com/googles-new-flash-tts-models-let-you-design-ai-voices-from-scratch-using-text-descriptions/) |
+| 03 | **Product Wire · Agent2Agent Protocol** | Products & Agents | ◈ | ● HIGH | [A2A Marketing Gains Traction, Albeit Conceptually 09/23/2026](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZWhVNUJsX0g0SFZ2OVhFZ1MxU216d1ZISjZXRTZ5Y0NxcEU5VHQtWGRMMlNLQkEzcHlURXc1Y0xnYWdtRHd5bW04eng2bGRhUXRUYkhGamF6LUlOcWRyMGJ6cUR4cnpLSzFieVVFM0JqNVE0RURiSUxCWUJOOG9WQkVvdy1SdDFGQ19SQ184WUx6V1RMeGFCMEduUnpsYkJhdU9Jd1JTQ01OZkE?oc=5) |
+| 04 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [ChatGPT mobile app gets voice-based agentic features](https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/) |
+| 05 | **VentureBeat · provider monitor** | Robotics & Embodied AI | ◈ | ● HIGH | [Black Forest Labs debuts FLUX 3 Action, an open-weights AI robotics model that tops the leaderboard at half the size of its competition](https://news.google.com/rss/articles/CBMigwJBVV95cUxNanNlRFkxQTIzdGxhUHJqc0JmMjc1MDljWDlnd19OVVA3LVdjWG9KaUttOEVaSHJUTzlqUU5yRkhhR1o3QzN0MnZRczZYYl93Ul83SDNOUFFwdVBVQkpmUlhrNklFTzdMSG5ieXlVYzhWX1RKQVFLQ3BqQUZYQllUVkFvRVhtdUFSbE1sQW9JUHlkUDRrZ3VoM2t3NlFZUkZTOTZ0bUZUcWlaQWpJWldXRUg3Ri1sWmVoNF9Sc3l5RWJoNFhfYW03TjBMY012anRCTW02VXdMWEVRQXRuMXAyMEhqSnlyR1NFT2ZqNGx3bGtqWHY1ZVBZc3NOMTU3aUlvQVhF?oc=5) |
+| 06 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Even Americans who use AI every day are worried about it](https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/) |
+| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison](https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act) |
+| 08 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [YouTube adds AI tools to Creator Studio with script coaching, smart thumbnails, and Gemini editing](https://the-decoder.com/youtube-adds-ai-tools-to-creator-studio-with-script-coaching-smart-thumbnails-and-gemini-editing/) |
+| 09 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 10 | **Google DeepMind** | Infrastructure | 🖼️ | ● HIGH | [Advancing Private AI Compute with secure, server-side memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) |
+| 11 | **OpenAI News** | Industry | ◈ | ● HIGH | [Two years of OpenAI Academy](https://openai.com/index/two-years-of-openai-academy) |
+| 12 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
