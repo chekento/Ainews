@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-24 04:44 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-24 09:28 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **MIT News AI** | Research | 🖼️ | ● HIGH | [The promise and peril of using visual AI to study cities](https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924) |
-| 02 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse](https://arxiv.org/abs/2609.26836) |
-| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity](https://arxiv.org/abs/2609.26891) |
-| 04 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents](https://arxiv.org/abs/2609.26911) |
-| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations](https://arxiv.org/abs/2609.26927) |
-| 06 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment](https://arxiv.org/abs/2609.26929) |
-| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution](https://arxiv.org/abs/2609.26952) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Same evidence, different judgments: Evidence noncommutative in vision/speech-text conflicts](https://arxiv.org/abs/2609.26986) |
-| 09 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Reinforcement Learning with Decomposed Subtasks](https://arxiv.org/abs/2609.27035) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations](https://arxiv.org/abs/2609.27037) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Are Stated Reasoning Steps Causally Load-Bearing?](https://arxiv.org/abs/2609.27038) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Math Reasoning in LLMs is Organized by Approach, Not Topic](https://arxiv.org/abs/2609.27041) |
+| 01 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [Gemini 4 is almost ready, says new Google DeepMind chief](https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu) |
+| 02 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 03 | **Học viện Nông nghiệp Việt Nam · provider monitor** | Research | ◈ | ● HIGH | [runway ai legal research Android Application Installer](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wUWZaODhDWDFVdnplSzZvd29UU2gzaV8ycGg2Rlo0MjBUbENtZEp5M1J3Q0dwMEd4Wm5QQUFieXBmeHp4cGNMYm9Va0tIWklWUUR6Tg?oc=5) |
+| 04 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - cursor.com](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 06 | **Product Wire · TRL** | Products & Agents | ◈ | ● HIGH | [₹285 Crore Push for India’s Indigenous ePlane as Ubifly Targets TRL-9](https://news.google.com/rss/articles/CBMigAFBVV95cUxOX0txOVZfc1oyR19ZLV8wTVJqQzA1aXBSUnZzTFk0ZXNhbThFUGEwb1BsbkZhWk1yWEZkaFRCblNlaDdkeFJScVZjY0JlNEhGMU5XWV93VF95RXJ3bTVoMmU1YTd6OWdLNjNDRnlmYXU1QW9udUxBTU54OFc1VzNTNQ?oc=5) |
+| 07 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [NeurIPS Decisions in Some Hourse to a Day [D]](https://www.reddit.com/r/MachineLearning/comments/1worn3k/neurips_decisions_in_some_hourse_to_a_day_d/) |
+| 08 | **MIT News AI** | Research | 🖼️ | ● HIGH | [The promise and peril of using visual AI to study cities](https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse](https://arxiv.org/abs/2609.26836) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity](https://arxiv.org/abs/2609.26891) |
+| 11 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents](https://arxiv.org/abs/2609.26911) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations](https://arxiv.org/abs/2609.26927) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
