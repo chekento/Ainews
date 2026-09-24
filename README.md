@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-23 23:55 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-24 04:44 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices](https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/) |
-| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Meta introduces camera-free AI glasses](https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/) |
-| 03 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Meta ditches the camera on its newest smart glasses](https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026) |
-| 04 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Meta is making Muse more powerful and will let you video chat with it, too](https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026) |
-| 05 | **Reddit · r/LocalLLaMA** | Frontier Models | ◈ | ● HIGH | [Using uncensored models makes working less of a headache](https://www.reddit.com/r/LocalLLaMA/comments/1wol7zc/using_uncensored_models_makes_working_less_of_a/) |
-| 06 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Meta Connect 2026: The biggest news and announcements](https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements) |
-| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch](https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote) |
-| 08 | **TechCrunch AI** | Frontier Models | ◈ | ● HIGH | [Anthropic says its biology lab has already found something big](https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/) |
-| 09 | **01net · provider monitor** | Industry | ◈ | ● HIGH | [Liquid AI, in Collaboration with Qualcomm Technologies, Brings Personal AI Context to Devices Powered by Snapdragon](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaXA2Vk1rMnhwS0dHTVcxR0k2S2Z1ejIwdFZjczZDZEdUWTVjeEFJb3RhbEdDU1JlTlMzU3JvcHZ4aGJoN2xLZjlRVWNVRXVtMDlSR2xRY2tXZzliZkZMTUlGR0REd2ZuU0xkT0dKQjB0S0QwdGhQYjVleEpMNUxFcHRyRkN4dldJM1pBYVZ5cFpiaXY0OUg3bi1yV2VzWEFDeGs1Yld2Z1V5cXlnNVpsYnh2anAxZWxhSU9GZlkwLUhJdjhtVHpoN0VqSmdpekdC?oc=5) |
-| 10 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 11 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 01 | **MIT News AI** | Research | 🖼️ | ● HIGH | [The promise and peril of using visual AI to study cities](https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924) |
+| 02 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse](https://arxiv.org/abs/2609.26836) |
+| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity](https://arxiv.org/abs/2609.26891) |
+| 04 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents](https://arxiv.org/abs/2609.26911) |
+| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations](https://arxiv.org/abs/2609.26927) |
+| 06 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment](https://arxiv.org/abs/2609.26929) |
+| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution](https://arxiv.org/abs/2609.26952) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Same evidence, different judgments: Evidence noncommutative in vision/speech-text conflicts](https://arxiv.org/abs/2609.26986) |
+| 09 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Reinforcement Learning with Decomposed Subtasks](https://arxiv.org/abs/2609.27035) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations](https://arxiv.org/abs/2609.27037) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Are Stated Reasoning Steps Causally Load-Bearing?](https://arxiv.org/abs/2609.27038) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Math Reasoning in LLMs is Organized by Approach, Not Topic](https://arxiv.org/abs/2609.27041) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
