@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-24 18:37 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-24 22:14 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **GitHub AI & ML** | Safety & Security | 🖼️ | ● HIGH | [AI-powered fuzzing with the GitHub Security Lab Taskflow Agent](https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/) |
-| 02 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [I have some questions for Mark Zuckerberg](https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers) |
-| 03 | **Ars Technica AI** | Infrastructure | 🖼️ | ● HIGH | [New Jersey fines data center $1.1M after drone pics expose 62 gas generators](https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/) |
-| 04 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Oracle sends force majeure notice on its New Mexico Stargate data center](https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/) |
-| 05 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Sakana AI hires Jürgen Schmidhuber, inventor of deep learning, world models, and your next ChatGPT update](https://the-decoder.com/sakana-ai-hires-jurgen-schmidhuber-inventor-of-deep-learning-world-models-and-your-next-chatgpt-update/) |
-| 06 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Jensen Huang talks about AI and climate change like a supervillain](https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain) |
-| 07 | **The Next Web · provider monitor** | Industry | ◈ | ● HIGH | [Liquid AI puts a personal context layer for AI agents on Snapdragon chips](https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUlGRUJrakY4dFBLSUkydHNOcGo2MGhnbkRuMk43U1FfY1pldFR0aE4tUkZvM2s3NGhhMVEyVlo5dFY5bXZGYkV4MEFOUmZzNzlCTmprQUhzVGJPaFllWjRIczBNQ2pxWS12Zlg4S1UxSk5OR3ZPSUxyLVE4MEtXXzc1YXl3c0xVbXhrRGNnZw?oc=5) |
-| 08 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Meta is going to let you build games with AI right on your phone](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games) |
-| 09 | **The Decoder** | Infrastructure | 🖼️ | ◐ MED | [Google's Suncatcher project aims to put AI data centers in orbit powered by solar energy](https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/) |
-| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend](https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/) |
-| 11 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Muse sure looks a lot like OpenClaw](https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike) |
-| 12 | **Apple Machine Learning Research** | Research | ◈ | ● HIGH | [Compressing Streaming Neural Audio Encoders via Latent-Space Distillation - Apple Machine Learning Research](https://news.google.com/rss/articles/CBMid0FVX3lxTE1UT1lFUFYwMkRBcnR2dU95SVZmdFpiR3V4bHBiVlpuZ2pzeV9HYzhoOGRIemQ0ZXF2eGk0SXJsbk0td09JNXFPZnRyeWRkbTNzUmVkZEl6a25YbVdQUmk4VjFRaWQ1akpUaUhtV3BxZDJSVDh1YTAw?oc=5) |
+| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Muse will apparently let you download its entire filesystem](https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem) |
+| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The vibes are bad for Flock in Washington](https://www.theverge.com/policy/1000005/flock-senate-hearing) |
+| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Upping my p(doom)](https://www.reddit.com/r/artificial/comments/1wpdpvc/upping_my_pdoom/) |
+| 04 | **MIT News AI** | Safety & Security | 🖼️ | ● HIGH | [Estimating suicide risk from text](https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924) |
+| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [I trained an AI on 25 years of my own writing and told it not to be helpful. Here's what happened.](https://www.reddit.com/r/artificial/comments/1wpcojb/i_trained_an_ai_on_25_years_of_my_own_writing_and/) |
+| 06 | **Học viện Nông nghiệp Việt Nam · provider monitor** | Industry | ◈ | ● HIGH | [pi ai graphic design APK for Android Devices](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkVkJKbzJqUXNvYmpmcXg0cUp2WjBHZmpvbFFCSE9GVHVkanhMeGZRWWlyaXlYd3Q0ODJ5aXFNUnBqVDdfWm41alhKem1IZnM?oc=5) |
+| 07 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [ChatGPT Helped Tumbler Ridge Shooter Focus on Guns, Tactics, and Terror](https://www.reddit.com/r/artificial/comments/1wpcixz/chatgpt_helped_tumbler_ridge_shooter_focus_on/) |
+| 08 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 09 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [Gemini 3.8 Live with Live Avatar gives Google’s AI a face](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face) |
+| 10 | **GitHub AI & ML** | Products & Agents | 🖼️ | ● HIGH | [When chat is the wrong UI](https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/) |
+| 11 | **Product Wire · LlamaIndex** | Products & Agents | ◈ | ● HIGH | [Lemma Joins LlamaIndex, TinyFish, Linq, and Obvious to Cohost SF Tech Week’s largest event: The Agent Economy Gala](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFNNQTlZbVNZc252Mi0xaFFrMFFxdEVoNDRPNUU1SVNoUHlWdHV5ZHdtUFBVcjZoMUVnMGdZLUt6NUhsVWtRV0lEVnVDbWJUd3F3T2tWbmpPMVVDM3ZMYzctdkRJU1pJckI5elRaLUVLb3pwVHVBVVlWVndkMFFmYWw0VXNJMTVOVXdFRjhn?oc=5) |
+| 12 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Why the Real Power of AI Isn't Better Thinking—It's Mass Collaboration](https://www.reddit.com/r/artificial/comments/1wpblny/why_the_real_power_of_ai_isnt_better_thinkingits/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
