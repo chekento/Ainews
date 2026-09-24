@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-24 09:28 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-24 14:23 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [Gemini 4 is almost ready, says new Google DeepMind chief](https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu) |
-| 02 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 03 | **Học viện Nông nghiệp Việt Nam · provider monitor** | Research | ◈ | ● HIGH | [runway ai legal research Android Application Installer](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wUWZaODhDWDFVdnplSzZvd29UU2gzaV8ycGg2Rlo0MjBUbENtZEp5M1J3Q0dwMEd4Wm5QQUFieXBmeHp4cGNMYm9Va0tIWklWUUR6Tg?oc=5) |
-| 04 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - cursor.com](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 06 | **Product Wire · TRL** | Products & Agents | ◈ | ● HIGH | [₹285 Crore Push for India’s Indigenous ePlane as Ubifly Targets TRL-9](https://news.google.com/rss/articles/CBMigAFBVV95cUxOX0txOVZfc1oyR19ZLV8wTVJqQzA1aXBSUnZzTFk0ZXNhbThFUGEwb1BsbkZhWk1yWEZkaFRCblNlaDdkeFJScVZjY0JlNEhGMU5XWV93VF95RXJ3bTVoMmU1YTd6OWdLNjNDRnlmYXU1QW9udUxBTU54OFc1VzNTNQ?oc=5) |
-| 07 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [NeurIPS Decisions in Some Hourse to a Day [D]](https://www.reddit.com/r/MachineLearning/comments/1worn3k/neurips_decisions_in_some_hourse_to_a_day_d/) |
-| 08 | **MIT News AI** | Research | 🖼️ | ● HIGH | [The promise and peril of using visual AI to study cities](https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse](https://arxiv.org/abs/2609.26836) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity](https://arxiv.org/abs/2609.26891) |
-| 11 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents](https://arxiv.org/abs/2609.26911) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations](https://arxiv.org/abs/2609.26927) |
+| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Meta’s Muse AI Charms can interact with each other](https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem) |
+| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Google is sending an AI satellite into space next week](https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher) |
+| 03 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The vibes are bad for Flock in Washington](https://www.theverge.com/policy/1000005/flock-senate-hearing) |
+| 04 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [I have some questions for Mark Zuckerberg](https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers) |
+| 05 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [Accelerating vision-language models with LFM2.5-VL-DSpark](https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark) |
+| 06 | **The Decoder** | Open Source | 🖼️ | ● HIGH | [OpenAI's agents went after government and university sites months before Hugging Face](https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face/) |
+| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend](https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/) |
+| 08 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door](https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door/) |
+| 09 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Everything is spying on you and there’s no opting out](https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance) |
+| 10 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Meta gives its Muse AI agent video avatars, email addresses, and Mac control](https://the-decoder.com/meta-gives-its-muse-ai-agent-video-avatars-email-addresses-and-mac-control/) |
+| 11 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 12 | **European AI Office** | Compliance & Ethics | ◈ | ● HIGH | [EU Icons for labelling AI-generated content - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFRsdWNZZkxvUEg1OTFPRFNWNkZ2LW1jelEzbU05cmI0NExpTE1KT3VpZnQxQU0xdVpEdTJvSGR1SEdqeUJnZlg0R1p0dC1RdzB6S2d6MUdjQUt4enhvVjZGQzZzRmxtMzY4YmQ1bmtaNWZIWEtvLUJrNEdZTHYtT3cxQXlOcERlSHFJOFA1bVZHZzA?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
