@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-25 17:04 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-25 20:24 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **OpenAI News** | Frontier Models | ◈ | ● HIGH | [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction) |
-| 02 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [Appeals Court Lets the Pentagon Designate Anthropic a Supply Chain Risk](https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/) |
-| 03 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [One company is at the center of a wave of rogue AI attacks](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google) |
-| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Meta makes the Muse filesystem even more accessible](https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem) |
-| 05 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing](https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/) |
-| 06 | **AWS Machine Learning** | Research | ◈ | ● HIGH | [Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput](https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/) |
-| 07 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 08 | **AWS Machine Learning** | Open Source | ◈ | ● HIGH | [Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Meta is putting its muscle behind Muse as the AI app takes off](https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/) |
-| 10 | **AWS Machine Learning** | Safety & Security | ◈ | ● HIGH | [NarrateAI: production-ready LLM quality assurance on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/) |
-| 11 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/) |
-| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Sony and UMG are suing Suno again](https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music) |
+| 01 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma](https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925) |
+| 02 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [[ Removed by Reddit ]](https://www.reddit.com/r/artificial/comments/1wq66q2/removed_by_reddit/) |
+| 03 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 04 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Anthropic to pay Akamai $11.6 billion over seven years in cloud deal](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/) |
+| 05 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Sony and UMG are suing Suno again](https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music) |
+| 06 | **OpenAI News** | Frontier Models | ◈ | ● HIGH | [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction) |
+| 07 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
+| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his](https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/) |
+| 09 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says](https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/) |
+| 10 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [AI alignment is the most important problem we will ever have to face.](https://www.reddit.com/r/artificial/comments/1wq479x/ai_alignment_is_the_most_important_problem_we/) |
+| 11 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Token ecomonics in Amsterdam: Inside the first Tokenomicon](https://www.reddit.com/r/artificial/comments/1wq43lr/token_ecomonics_in_amsterdam_inside_the_first/) |
+| 12 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
