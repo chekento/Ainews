@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-25 20:24 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-25 23:29 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma](https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925) |
-| 02 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [[ Removed by Reddit ]](https://www.reddit.com/r/artificial/comments/1wq66q2/removed_by_reddit/) |
-| 03 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 04 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Anthropic to pay Akamai $11.6 billion over seven years in cloud deal](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/) |
-| 05 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Sony and UMG are suing Suno again](https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music) |
-| 06 | **OpenAI News** | Frontier Models | ◈ | ● HIGH | [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction) |
-| 07 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his](https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/) |
-| 09 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says](https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/) |
-| 10 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [AI alignment is the most important problem we will ever have to face.](https://www.reddit.com/r/artificial/comments/1wq479x/ai_alignment_is_the_most_important_problem_we/) |
-| 11 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Token ecomonics in Amsterdam: Inside the first Tokenomicon](https://www.reddit.com/r/artificial/comments/1wq43lr/token_ecomonics_in_amsterdam_inside_the_first/) |
-| 12 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/) |
+| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Crusoe abandons $1.25B plan to use Boom turbines at AI data centers](https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/) |
+| 02 | **Reddit · r/LocalLLaMA** | Industry | ◈ | ● HIGH | [Mica v0.1 4B got an iron pickaxe in real Minecraft without generating a single token](https://www.reddit.com/r/LocalLLaMA/comments/1wqahbz/mica_v01_4b_got_an_iron_pickaxe_in_real_minecraft/) |
+| 03 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
+| 04 | **TechCrunch AI** | Research | ◈ | ● HIGH | [Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 06 | **Reddit · r/LocalLLaMA** | Frontier Models | ◈ | ● HIGH | [How long can I expect to wait until the local ~30B A3B frontier catches up to GLM 5.3 Flash quality?](https://www.reddit.com/r/LocalLLaMA/comments/1wq8e5u/how_long_can_i_expect_to_wait_until_the_local_30b/) |
+| 07 | **Stanford HAI** | Industry | ◈ | ● HIGH | [The Tests That Grade AI May Be Getting It Wrong - Stanford HAI](https://news.google.com/rss/articles/CBMigwFBVV95cUxPUjNrSHhuTVVvUkpOc1AyQ2M2c3ZCV1ZQTWV2UF90c2psUFJVTGtsdkFBZmZ4UHlZUkpiRm5iaTM0NGxfSldadXJtcTQ3V050cVdTODA1X1BLS3VoNUZTWVFBeWNyV1cyUUR0ZWRacGc3R1QtRUtaY1FqQmZVTkNfbU5CRQ?oc=5) |
+| 08 | **Product Wire · SGLang** | Products & Agents | ◈ | ● HIGH | [Scaling JEV-like Decision Models with SGLang](https://news.google.com/rss/articles/CBMibEFVX3lxTE9LaWc3bGtuYjltTVltZ081M3owRWdEMDhjaXZUY2t1V2dNUW56aGZ5UXplREJoaW1qY290WmtkWGNWRDN4Y0ZaU3RPcFpDVmJwdXluSzJ0VFU5dVZZNWRubFUxVWFQeGVGOF9TeA?oc=5) |
+| 09 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - replicate.com](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 10 | **Product Wire · Typeface** | Products & Agents | ◈ | ● HIGH | [Typeface carries enterprise brand rules into Claude and ChatGPT](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYm9PYzJjNUR2SkRESmYyR2Q5QUZzYUNBX0RfZGdMNHAxN2pMX2ZSQ2NlWGxhcW5xNGRTZm93UUY1MVVGbERldGI2bkZYSXN0Tkl0aWdiejVOZWk0REtqLWd5N1VxRUFkVEt4Z0w1aXZDbldWN3E5Q0VJRFZjdmMzZ2JXUGR5aVRa?oc=5) |
+| 11 | **Reddit · r/LocalLLaMA** | Research | ◈ | ● HIGH | [4-5 days replacing Claude w Qwen 3.8 Next](https://www.reddit.com/r/LocalLLaMA/comments/1wq7e74/45_days_replacing_claude_w_qwen_38_next/) |
+| 12 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test](https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
