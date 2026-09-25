@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-25 11:44 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-25 17:04 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [iclr 2027 de anonymization [D]](https://www.reddit.com/r/MachineLearning/comments/1wptsvx/iclr_2027_de_anonymization_d/) |
-| 02 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year](https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/) |
-| 03 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
-| 04 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 05 | **European AI Office** | Compliance & Ethics | ◈ | ● HIGH | [EU Icons for labelling AI-generated content - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFRsdWNZZkxvUEg1OTFPRFNWNkZ2LW1jelEzbU05cmI0NExpTE1KT3VpZnQxQU0xdVpEdTJvSGR1SEdqeUJnZlg0R1p0dC1RdzB6S2d6MUdjQUt4enhvVjZGQzZzRmxtMzY4YmQ1bmtaNWZIWEtvLUJrNEdZTHYtT3cxQXlOcERlSHFJOFA1bVZHZzA?oc=5) |
-| 06 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- elevenlabs.io](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 07 | **The Decoder** | Products & Agents | 🖼️ | ◐ MED | [Ruby on Rails creator DHH says he's done writing code by hand](https://the-decoder.com/ruby-on-rails-creator-dhh-says-hes-done-writing-code-by-hand/) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 09 | **MIT Technology Review AI** | Industry | 🖼️ | ● HIGH | [The Pentagon wants $30 million to build an AI-powered lie detector](https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/) |
-| 10 | **Product Wire · BioNeMo** | Products & Agents | ◈ | ● HIGH | [NVIDIA Boosts BioNeMo Models With Efficient MoE Training](https://news.google.com/rss/articles/CBMigAFBVV95cUxPd0JkU01pV2p5ejhINXlCc0NleTYzUU9aaXhGY2VMbFV1OTEzUjRvOVNaNE8yVVlXd3AxRzFEOXltcXNoLUstLXJoMWhLTGRQTnBaMlljd1hEYl9CSVhaWkthakNHYVJBX0pjQlNlNVJnbnFXbklpdF9KTlZrcmZ0aQ?oc=5) |
-| 11 | **Semafor AI** | Compliance & Ethics | ◈ | ◐ MED | [View / White House is isolated in brushing off AI safety - Semafor](https://news.google.com/rss/articles/CBMilwFBVV95cUxPenFxcllPSEZkRTl2Ul9WR3JnUmN1akIyNlRobzdLYUMwWDNjTDc1RXBEOFpHY2EtSWtTUmMwMWh4U0JkWVVxbWE5OXR6R0g3c2NJZVdwSXJXYjlGT2x0dG96ZFAyOVdiUzdnZGxVNUpJeG5XMFk2S01ZWDJ2Z3NzQUZUS1N2S3ZoQlR5WU1HcXZaSkdHQzBn?oc=5) |
-| 12 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers](https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/) |
+| 01 | **OpenAI News** | Frontier Models | ◈ | ● HIGH | [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction) |
+| 02 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [Appeals Court Lets the Pentagon Designate Anthropic a Supply Chain Risk](https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/) |
+| 03 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [One company is at the center of a wave of rogue AI attacks](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google) |
+| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Meta makes the Muse filesystem even more accessible](https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem) |
+| 05 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing](https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/) |
+| 06 | **AWS Machine Learning** | Research | ◈ | ● HIGH | [Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput](https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/) |
+| 07 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 08 | **AWS Machine Learning** | Open Source | ◈ | ● HIGH | [Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/accelerate-multimodal-rl-training-with-skyrl-on-amazon-sagemaker-hyperpod/) |
+| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Meta is putting its muscle behind Muse as the AI app takes off](https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/) |
+| 10 | **AWS Machine Learning** | Safety & Security | ◈ | ● HIGH | [NarrateAI: production-ready LLM quality assurance on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/narrateai-production-ready-llm-quality-assurance-on-amazon-bedrock/) |
+| 11 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Deploying real-time personalized speech with Qwen3-TTS on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/deploying-real-time-personalized-speech-with-qwen3-tts-on-amazon-sagemaker-ai/) |
+| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Sony and UMG are suing Suno again](https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
