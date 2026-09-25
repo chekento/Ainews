@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-24 22:14 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-25 00:44 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Muse will apparently let you download its entire filesystem](https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem) |
-| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The vibes are bad for Flock in Washington](https://www.theverge.com/policy/1000005/flock-senate-hearing) |
-| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Upping my p(doom)](https://www.reddit.com/r/artificial/comments/1wpdpvc/upping_my_pdoom/) |
-| 04 | **MIT News AI** | Safety & Security | 🖼️ | ● HIGH | [Estimating suicide risk from text](https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924) |
-| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [I trained an AI on 25 years of my own writing and told it not to be helpful. Here's what happened.](https://www.reddit.com/r/artificial/comments/1wpcojb/i_trained_an_ai_on_25_years_of_my_own_writing_and/) |
-| 06 | **Học viện Nông nghiệp Việt Nam · provider monitor** | Industry | ◈ | ● HIGH | [pi ai graphic design APK for Android Devices](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkVkJKbzJqUXNvYmpmcXg0cUp2WjBHZmpvbFFCSE9GVHVkanhMeGZRWWlyaXlYd3Q0ODJ5aXFNUnBqVDdfWm41alhKem1IZnM?oc=5) |
-| 07 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [ChatGPT Helped Tumbler Ridge Shooter Focus on Guns, Tactics, and Terror](https://www.reddit.com/r/artificial/comments/1wpcixz/chatgpt_helped_tumbler_ridge_shooter_focus_on/) |
-| 08 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
-| 09 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [Gemini 3.8 Live with Live Avatar gives Google’s AI a face](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face) |
-| 10 | **GitHub AI & ML** | Products & Agents | 🖼️ | ● HIGH | [When chat is the wrong UI](https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/) |
-| 11 | **Product Wire · LlamaIndex** | Products & Agents | ◈ | ● HIGH | [Lemma Joins LlamaIndex, TinyFish, Linq, and Obvious to Cohost SF Tech Week’s largest event: The Agent Economy Gala](https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFNNQTlZbVNZc252Mi0xaFFrMFFxdEVoNDRPNUU1SVNoUHlWdHV5ZHdtUFBVcjZoMUVnMGdZLUt6NUhsVWtRV0lEVnVDbWJUd3F3T2tWbmpPMVVDM3ZMYzctdkRJU1pJckI5elRaLUVLb3pwVHVBVVlWVndkMFFmYWw0VXNJMTVOVXdFRjhn?oc=5) |
-| 12 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Why the Real Power of AI Isn't Better Thinking—It's Mass Collaboration](https://www.reddit.com/r/artificial/comments/1wpblny/why_the_real_power_of_ai_isnt_better_thinkingits/) |
+| 01 | **audioXpress · provider monitor** | Industry | ◈ | ● HIGH | [Liquid AI Announces Personal AI Context to Devices Powered by Snapdragon Processors](https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ3hNN09kUlRSZ0FKSW9wSzQxZWV0NGdUbG1JNW1pRVlwRm5JSEE4RzBaYzhybHB2cmQ0WnFWOGJFRlhZVGJfUDNtWnZvYmxjSkIwTnJoRU41aVNtWU93MHczT29XUTF2UjRYM2J4c1o3ajdZME8wakhXQmNYN0VCRGIwN0JjdWJvTXdLV1FwREtyeHBnazR4NDdNZzZxWGVYMTRzNExnemc1d21HRHVma3B3?oc=5) |
+| 02 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [What's up with AAAI reviewers and organizers? [D]](https://www.reddit.com/r/MachineLearning/comments/1wphteu/whats_up_with_aaai_reviewers_and_organizers_d/) |
+| 03 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Registration for authors of accepted papers at NeurIPS [D]](https://www.reddit.com/r/MachineLearning/comments/1wpg672/registration_for_authors_of_accepted_papers_at/) |
+| 04 | **Anthropic News** | Industry | ◈ | ● HIGH | [Measurements for understanding the pace of AI development inside frontier labs - Anthropic](https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5) |
+| 05 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
+| 06 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Muse will apparently let you download its entire filesystem](https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem) |
+| 08 | **WABI · provider monitor** | Industry | ◈ | ● HIGH | [Palmyra pumpkin patch turns pink to support local breast cancer fight](https://news.google.com/rss/articles/CBMinwFBVV95cUxPSm9tQ0x2WU14aDFhZW1FTFJ1YkVpbWVvdDBSU2RGRlVfcU14X0JKNEdfSHRsR19zZWpKSjFkTFMxdWF4ZWt4UlB4N1lvQ3QwMmM4bUNhdU1ocnk0ZGNXaTRpeTViSkF2THh2Z1Y0Q3M2Yl94UGMwUUduNFR2SEJxdzMtTnlWYlFVN0hiQVdycGI5VkFRR0tqa3NzNk9CbWvSAbMBQVVfeXFMUFdnbThLNEVic0x5dzVUd1ZadElQYjE4b1BiZlU1Y1ItblJTRlFhNkhBQVlrWGNSekFjbW1hTE5PVUw0WHhRcE9HWkJhVWtpRlFOUlhYUjFDdVdKc0hNQ3BwN0xPeWJTMGxsT3R2UkhScTlVdzdNRS0wX2ZFNnJWWjZlLWpZUmZzSlRFd1NfeXBQempuODlSeUZpc3dUaUJwc1dmdUpPbmNFX0JadGhJSGRFcFk?oc=5) |
+| 09 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The vibes are bad for Flock in Washington](https://www.theverge.com/policy/1000005/flock-senate-hearing) |
+| 10 | **Snowflake AI & ML** | Industry | ◈ | ◐ MED | [Sep 24, 2026: Code Bundles (*Preview*) - Snowflake Documentation](https://news.google.com/rss/articles/CBMihAFBVV95cUxONTctYTE1VnNvUG9yVVF2cDFjZ2tSMWI5WkpuQ3UtMFJZVW9xNG9mZGJ0Tnh1T3NoNmFkVUt5U3FBbFBpTXBMYmJYYktKVUg3Y3p5MXhpNHZhUC1adndMYlZDdk1KT051cWh3ZGhBdHRuejlVUUttMmVjYnczVkVGMHpuZ1E?oc=5) |
+| 11 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- elevenlabs.io](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
+| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
