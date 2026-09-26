@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-26 12:24 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-26 16:42 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 02 | **Product Wire · TRL** | Products & Agents | ◈ | ● HIGH | [Raghav Productivity Enhancers forms JV with TRL Krosaki in Odisha](https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0x4ZE5VbFMzNGpobWhsREJ1NnZzZXR1a1VORkJyTUtjNHFtV09zNGNURlJhU0hvejRzeGVBT1R5S25GdUFzN1NINS04bkJpb2NFcWx6ZnBmR1JhZ05xa2NkR1ZZYlhEYmd5cXJZbXFCVk9ycDZJVHdoQno1N1o1TkFWSlNjQ05MU0FnU3o4S0JKb3pFZDJnWmJvdU5LNzY3Y2V0WG5wUkVOM0pTTmdfMmtnREQ?oc=5) |
-| 03 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [Neal Mohan Says YouTube Killed the Gatekeeper. Here's Where It Actually Went.](https://www.reddit.com/r/artificial/comments/1wqo00x/neal_mohan_says_youtube_killed_the_gatekeeper/) |
-| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [OpenAI's AI agents attempted unauthorized access to US government websites - topic](https://www.reddit.com/r/artificial/comments/1wqnqod/openais_ai_agents_attempted_unauthorized_access/) |
-| 05 | **The Decoder** | Research | 🖼️ | ◐ MED | [Nvidia's SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness](https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/) |
-| 06 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?](https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/) |
-| 07 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Message to the autonomous AI agents that escaped](https://www.reddit.com/r/artificial/comments/1wqn2g0/message_to_the_autonomous_ai_agents_that_escaped/) |
-| 08 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- elevenlabs.io](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [What happens when the data centers have to replace their hardware?](https://www.reddit.com/r/artificial/comments/1wqmi0b/what_happens_when_the_data_centers_have_to/) |
-| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 11 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [OpenAI's GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf](https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/) |
-| 12 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [With agents now able to click buttons and take actions for you, are we underestimating how fast "AI use" is about to look completely different?](https://www.reddit.com/r/artificial/comments/1wqmfx2/with_agents_now_able_to_click_buttons_and_take/) |
+| 01 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [3.4 million people just handed Meta an agent with the keys to their inbox, calendar and bank. I'm building the version that never leaves the phone.](https://www.reddit.com/r/artificial/comments/1wquwvv/34_million_people_just_handed_meta_an_agent_with/) |
+| 02 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 03 | **Reddit · r/artificial** | Open Source | ◈ | ● HIGH | [An open-source alternative to Jev](https://www.reddit.com/r/artificial/comments/1wqsawg/an_opensource_alternative_to_jev/) |
+| 04 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Why things move seemingly slow even with fast AI?](https://www.reddit.com/r/artificial/comments/1wqs8bz/why_things_move_seemingly_slow_even_with_fast_ai/) |
+| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) |
+| 06 | **G42 AI** | Industry | ◈ | ● HIGH | [- omni.g42.ai](https://news.google.com/rss/articles/CBMiO0FVX3lxTFAxRXF5TEg5RENWZG05SVc5VUpzeDdyUnExV0lCWEl0dkdXWklhOXExR095UVVOck9RNDdF?oc=5) |
+| 07 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - cursor.com](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 09 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 10 | **Product Wire · TRL** | Products & Agents | ◈ | ● HIGH | [Raghav Productivity Enhancers forms JV with TRL Krosaki in Odisha](https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0x4ZE5VbFMzNGpobWhsREJ1NnZzZXR1a1VORkJyTUtjNHFtV09zNGNURlJhU0hvejRzeGVBT1R5S25GdUFzN1NINS04bkJpb2NFcWx6ZnBmR1JhZ05xa2NkR1ZZYlhEYmd5cXJZbXFCVk9ycDZJVHdoQno1N1o1TkFWSlNjQ05MU0FnU3o4S0JKb3pFZDJnWmJvdU5LNzY3Y2V0WG5wUkVOM0pTTmdfMmtnREQ?oc=5) |
+| 11 | **Axios AI** | Industry | ◈ | ◐ MED | [U.S. and China agree to "super intelligence" dialogue amid AI tensions - Axios](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGNEZLMlBlMDlkamtycGhtQS1obGR1WUxFWVhIdVdqYjNqX2JTRmN0bjd3MFVobEhMdWtaRjdmV1VMX1hSbTVaUVZzRVdIcUpraXpRUmN0d0t2aVdScElDZGZ3?oc=5) |
+| 12 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [OpenAI's AI agents attempted unauthorized access to US government websites - topic](https://www.reddit.com/r/artificial/comments/1wqnqod/openais_ai_agents_attempted_unauthorized_access/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
