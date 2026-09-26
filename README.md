@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-26 16:42 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-26 19:42 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [3.4 million people just handed Meta an agent with the keys to their inbox, calendar and bank. I'm building the version that never leaves the phone.](https://www.reddit.com/r/artificial/comments/1wquwvv/34_million_people_just_handed_meta_an_agent_with/) |
-| 02 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 03 | **Reddit · r/artificial** | Open Source | ◈ | ● HIGH | [An open-source alternative to Jev](https://www.reddit.com/r/artificial/comments/1wqsawg/an_opensource_alternative_to_jev/) |
-| 04 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Why things move seemingly slow even with fast AI?](https://www.reddit.com/r/artificial/comments/1wqs8bz/why_things_move_seemingly_slow_even_with_fast_ai/) |
-| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) |
-| 06 | **G42 AI** | Industry | ◈ | ● HIGH | [- omni.g42.ai](https://news.google.com/rss/articles/CBMiO0FVX3lxTFAxRXF5TEg5RENWZG05SVc5VUpzeDdyUnExV0lCWEl0dkdXWklhOXExR095UVVOck9RNDdF?oc=5) |
-| 07 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - cursor.com](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 09 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 10 | **Product Wire · TRL** | Products & Agents | ◈ | ● HIGH | [Raghav Productivity Enhancers forms JV with TRL Krosaki in Odisha](https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0x4ZE5VbFMzNGpobWhsREJ1NnZzZXR1a1VORkJyTUtjNHFtV09zNGNURlJhU0hvejRzeGVBT1R5S25GdUFzN1NINS04bkJpb2NFcWx6ZnBmR1JhZ05xa2NkR1ZZYlhEYmd5cXJZbXFCVk9ycDZJVHdoQno1N1o1TkFWSlNjQ05MU0FnU3o4S0JKb3pFZDJnWmJvdU5LNzY3Y2V0WG5wUkVOM0pTTmdfMmtnREQ?oc=5) |
-| 11 | **Axios AI** | Industry | ◈ | ◐ MED | [U.S. and China agree to "super intelligence" dialogue amid AI tensions - Axios](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGNEZLMlBlMDlkamtycGhtQS1obGR1WUxFWVhIdVdqYjNqX2JTRmN0bjd3MFVobEhMdWtaRjdmV1VMX1hSbTVaUVZzRVdIcUpraXpRUmN0d0t2aVdScElDZGZ3?oc=5) |
-| 12 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [OpenAI's AI agents attempted unauthorized access to US government websites - topic](https://www.reddit.com/r/artificial/comments/1wqnqod/openais_ai_agents_attempted_unauthorized_access/) |
+| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [We need Universal Basic Income before losing your job to AI becomes your financial emergency](https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/) |
+| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 03 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Building AI Assistants with On-Device Memory - DeepLearning.AI](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnJESDV6ajVyM094RFlPOW55QUdVQVAyOEcydlFuX0Z6TjhIeFJsVXlzQW1oUlhtU0kxcTBhbmRLVllnNTNSSFJFSUtiRXBNWHBEVnNrdFdRSzVWYlo3UE1PUW9XcWtmY09TaEp1Qk81ZWh4U195OTNWRUc4OU9ucWlRQkhvcHc?oc=5) |
+| 04 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [A safe AI might not be aligned the way the labs want](https://www.reddit.com/r/artificial/comments/1wqwxsv/a_safe_ai_might_not_be_aligned_the_way_the_labs/) |
+| 05 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them](https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/) |
+| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [How can you create animation with AI that are text only?](https://www.reddit.com/r/artificial/comments/1wqw9s9/how_can_you_create_animation_with_ai_that_are/) |
+| 07 | **The Decoder** | Research | 🖼️ | ◐ MED | [AI access makes people almost entirely unwilling to say "I don't know," study finds](https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/) |
+| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause) |
+| 09 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- elevenlabs.io](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
+| 10 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) |
+| 12 | **G42 AI** | Industry | ◈ | ● HIGH | [- omni.g42.ai](https://news.google.com/rss/articles/CBMiO0FVX3lxTFAxRXF5TEg5RENWZG05SVc5VUpzeDdyUnExV0lCWEl0dkdXWklhOXExR095UVVOck9RNDdF?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
