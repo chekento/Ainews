@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-26 19:42 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-26 22:40 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [We need Universal Basic Income before losing your job to AI becomes your financial emergency](https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/) |
-| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Koboldcpp v1.122 released](https://www.reddit.com/r/artificial/comments/1wr3g35/koboldcpp_v1122_released/) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | ['Don't Admit Anything': ChatGPT Gave Vandal 'Damage Control' Tips After He Smashed 17 Cars](https://www.reddit.com/r/artificial/comments/1wr380z/dont_admit_anything_chatgpt_gave_vandal_damage/) |
 | 03 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Building AI Assistants with On-Device Memory - DeepLearning.AI](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnJESDV6ajVyM094RFlPOW55QUdVQVAyOEcydlFuX0Z6TjhIeFJsVXlzQW1oUlhtU0kxcTBhbmRLVllnNTNSSFJFSUtiRXBNWHBEVnNrdFdRSzVWYlo3UE1PUW9XcWtmY09TaEp1Qk81ZWh4U195OTNWRUc4OU9ucWlRQkhvcHc?oc=5) |
-| 04 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [A safe AI might not be aligned the way the labs want](https://www.reddit.com/r/artificial/comments/1wqwxsv/a_safe_ai_might_not_be_aligned_the_way_the_labs/) |
-| 05 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Two-thirds of IT leaders report AI results, but few would interrupt the CEO's vacation over them](https://the-decoder.com/two-thirds-of-it-leaders-report-ai-results-but-few-would-interrupt-the-ceos-vacation-over-them/) |
-| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [How can you create animation with AI that are text only?](https://www.reddit.com/r/artificial/comments/1wqw9s9/how_can_you_create_animation_with_ai_that_are/) |
-| 07 | **The Decoder** | Research | 🖼️ | ◐ MED | [AI access makes people almost entirely unwilling to say "I don't know," study finds](https://the-decoder.com/ai-access-makes-people-almost-entirely-unwilling-to-say-i-dont-know-study-finds/) |
-| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause) |
-| 09 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- elevenlabs.io](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 10 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [I created an interactive digital avatar of myself — and you can talk to it](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) |
-| 12 | **G42 AI** | Industry | ◈ | ● HIGH | [- omni.g42.ai](https://news.google.com/rss/articles/CBMiO0FVX3lxTFAxRXF5TEg5RENWZG05SVc5VUpzeDdyUnExV0lCWEl0dkdXWklhOXExR095UVVOck9RNDdF?oc=5) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/) |
+| 05 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [I made a political compass for the AI debate, but it had to be a cube](https://www.reddit.com/r/artificial/comments/1wr0tbl/i_made_a_political_compass_for_the_ai_debate_but/) |
+| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Most impressive thing you’ve seen accomplished using AI as a tool so far?](https://www.reddit.com/r/artificial/comments/1wr0oud/most_impressive_thing_youve_seen_accomplished/) |
+| 07 | **Sakana AI** | Industry | ◈ | ● HIGH | [- marlin.sakana.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
+| 08 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
+| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [We need Universal Basic Income before losing your job to AI becomes your financial emergency](https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/) |
+| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 12 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [A safe AI might not be aligned the way the labs want](https://www.reddit.com/r/artificial/comments/1wqwxsv/a_safe_ai_might_not_be_aligned_the_way_the_labs/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
