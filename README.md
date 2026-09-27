@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-26 22:40 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-27 01:19 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Koboldcpp v1.122 released](https://www.reddit.com/r/artificial/comments/1wr3g35/koboldcpp_v1122_released/) |
-| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | ['Don't Admit Anything': ChatGPT Gave Vandal 'Damage Control' Tips After He Smashed 17 Cars](https://www.reddit.com/r/artificial/comments/1wr380z/dont_admit_anything_chatgpt_gave_vandal_damage/) |
-| 03 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Building AI Assistants with On-Device Memory - DeepLearning.AI](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnJESDV6ajVyM094RFlPOW55QUdVQVAyOEcydlFuX0Z6TjhIeFJsVXlzQW1oUlhtU0kxcTBhbmRLVllnNTNSSFJFSUtiRXBNWHBEVnNrdFdRSzVWYlo3UE1PUW9XcWtmY09TaEp1Qk81ZWh4U195OTNWRUc4OU9ucWlRQkhvcHc?oc=5) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/) |
-| 05 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [I made a political compass for the AI debate, but it had to be a cube](https://www.reddit.com/r/artificial/comments/1wr0tbl/i_made_a_political_compass_for_the_ai_debate_but/) |
-| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Most impressive thing you’ve seen accomplished using AI as a tool so far?](https://www.reddit.com/r/artificial/comments/1wr0oud/most_impressive_thing_youve_seen_accomplished/) |
-| 07 | **Sakana AI** | Industry | ◈ | ● HIGH | [- marlin.sakana.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
-| 08 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [We need Universal Basic Income before losing your job to AI becomes your financial emergency](https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/) |
-| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 12 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [A safe AI might not be aligned the way the labs want](https://www.reddit.com/r/artificial/comments/1wqwxsv/a_safe_ai_might_not_be_aligned_the_way_the_labs/) |
+| 01 | **Product Wire · Claude API** | Products & Agents | ◈ | ● HIGH | [Anthropic now bills for refused Claude API requests, in three of five categories](https://news.google.com/rss/articles/CBMikAFBVV95cUxPOTBQdVhFMDNLc2dqZWVvdEpMTlNrYzhXc1BrVXNmQ0FZZm8wNkwwUFFuUlFlZnFhWG1pUjhCaXNpeFhBNk5EQlBhZlRYajl1SkFHd0lXaDFZTTA2a0ZNQlR6S0F5Y2FLMXAyZHBuUFFiUFh5c3pVdm40NjhucHhBZlRaTmxHcDl2SmlFMFNCM1M?oc=5) |
+| 02 | **Reddit · r/MachineLearning** | Compliance & Ethics | ◈ | ● HIGH | [I ran the same prompt against our agent every week for a quarter and watched the answers drift until they broke our policy [D]](https://www.reddit.com/r/MachineLearning/comments/1wr509z/i_ran_the_same_prompt_against_our_agent_every/) |
+| 03 | **Product Wire · Devin** | Products & Agents | ◈ | ● HIGH | [Cognition's Devin AI coding agent doubles revenue to $1 billion a year](https://news.google.com/rss/articles/CBMinAFBVV95cUxQQzg1cm9RVzJjbUNObmpBY0paRXVFTDAtMElhZTNmc0lFemdJeHVfLVMyTXFiMU9ZcmQyQjNBeVpSekZfQk9NWk5tbzRhb0tCYjJVMmt3SktlalRmZGlKaG9wU1ZhT1oxVVdvWmswMzRHN25ZUG1QVU1lY2kzSTkzRm5iYTZnN3F0NU5CWW5LWk92RUpJSGZGV09Xdm4?oc=5) |
+| 04 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 05 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 08 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Building AI Assistants with On-Device Memory - DeepLearning.AI](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnJESDV6ajVyM094RFlPOW55QUdVQVAyOEcydlFuX0Z6TjhIeFJsVXlzQW1oUlhtU0kxcTBhbmRLVllnNTNSSFJFSUtiRXBNWHBEVnNrdFdRSzVWYlo3UE1PUW9XcWtmY09TaEp1Qk81ZWh4U195OTNWRUc4OU9ucWlRQkhvcHc?oc=5) |
+| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Insurers claim AI is already increasing healthcare costs](https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/) |
+| 10 | **Sakana AI** | Industry | ◈ | ● HIGH | [- marlin.sakana.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
+| 11 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [[P] A small MLP from scratch in NumPy with a GUI to look inside it while it trains (weight distributions, t-SNE per layer, neuron ablation...) [P]](https://www.reddit.com/r/MachineLearning/comments/1wqy1qd/p_a_small_mlp_from_scratch_in_numpy_with_a_gui_to/) |
+| 12 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Publication potential [D]](https://www.reddit.com/r/MachineLearning/comments/1wqxo94/publication_potential_d/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
