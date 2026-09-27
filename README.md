@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-27 17:40 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-27 21:16 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website) |
-| 02 | **Product Wire · Ray-Ban Meta AI** | Products & Agents | ◈ | ● HIGH | [Ray-Ban Meta AI glasses distributed to people with sight loss across Kerry](https://news.google.com/rss/articles/CBMisgFBVV95cUxOLUcwcVZlUno5LUZVTlg3WmVjMldjWDBsS3ZPNEpGMVJPX0VwczBVLW91U3JGVzNRN0ZKRGxsUUp0RGYxdWo4R3BfaFhkUGwzamVydW9fcklsOU1KbEd0YlA5bU1hSXViSGVyZTBIUFFLQ21ZV2tFeHVUVmdlUG9HYnU1Zi1OdTNmbmc4eVIxbHBzTFlUUk9KSnJzMGsxcldDWG9ZTkZqcUNSV2NST3FveVFB?oc=5) |
-| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 06 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Building AI Assistants with On-Device Memory - DeepLearning.AI](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnJESDV6ajVyM094RFlPOW55QUdVQVAyOEcydlFuX0Z6TjhIeFJsVXlzQW1oUlhtU0kxcTBhbmRLVllnNTNSSFJFSUtiRXBNWHBEVnNrdFdRSzVWYlo3UE1PUW9XcWtmY09TaEp1Qk81ZWh4U195OTNWRUc4OU9ucWlRQkhvcHc?oc=5) |
-| 07 | **The Decoder** | Research | 🖼️ | ● HIGH | [AI agents do more of the work in model development, but humans still make the decisions](https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/) |
-| 08 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [A Stanford AI-med-ed study found doctors got measurably worse at their own job the moment the AI helping them was switched off — worse than they'd been before they ever touched it. Every credentialed profession should be paying attention.](https://www.reddit.com/r/artificial/comments/1wrmby2/a_stanford_aimeded_study_found_doctors_got/) |
-| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Do reference sketches improve character consistency across AI video clips?](https://www.reddit.com/r/artificial/comments/1wrm9cm/do_reference_sketches_improve_character/) |
-| 10 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [What are chinese labs doing differently?](https://www.reddit.com/r/artificial/comments/1wrm4kg/what_are_chinese_labs_doing_differently/) |
-| 11 | **Product Wire · Google Flow** | Products & Agents | ◈ | ● HIGH | [New Google Flow build now points to Nano Banana 2.1](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdjFNWlV0blc5M0dqMVRkOE81LUEzZWtKbGk4TXFhUDJWblg3c2doWXc0Yk5kZHVxcFo3bHpCclI4UFhvRmZnSGhYWlNORjdXQnhyZ200WFJGNWItSk5SM1laNHZMcXZTUVdOSDl0bFZsQXZ3MzhzWlRkN1FDejVQMm1CT2tLNS1fX2tF?oc=5) |
-| 12 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Question about the AI singularity](https://www.reddit.com/r/artificial/comments/1wrl4n9/question_about_the_ai_singularity/) |
+| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Anthropic’s CEO is about to have dinner with President Trump](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/) |
+| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Can Muse overcome Meta’s trust issues?](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/) |
+| 03 | **Product Wire · v0** | Products & Agents | ◈ | ● HIGH | [How Differential Testing Exposed Type and Performance Bugs in Chuks v0.1.2](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRDhDZVJQelNTNWlvMmFMVDZaMmJic29TRDZ5al9mcHBCRTd3eXVDN2pkZ1d5bUhpVTl3UlhHR3R6QUoyNTExaFIyemE2NDVqRTFuX19fQU81eEJic3NVSVFWbWQyVDJZVVR4WWR4TFpfT1Npa2U5U2k2aU5xXzlsdHBOalhRT2ttWkhGNGFmdHlPV1pOeUhMQk1MWQ?oc=5) |
+| 04 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 07 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Building AI Assistants with On-Device Memory - DeepLearning.AI](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnJESDV6ajVyM094RFlPOW55QUdVQVAyOEcydlFuX0Z6TjhIeFJsVXlzQW1oUlhtU0kxcTBhbmRLVllnNTNSSFJFSUtiRXBNWHBEVnNrdFdRSzVWYlo3UE1PUW9XcWtmY09TaEp1Qk81ZWh4U195OTNWRUc4OU9ucWlRQkhvcHc?oc=5) |
+| 08 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 09 | **Reddit · r/MachineLearning** | Infrastructure | ◈ | ● HIGH | [Are there machine learning subfields that are becoming irrelevant (or is irrelevant)? [D]](https://www.reddit.com/r/MachineLearning/comments/1wrqoxp/are_there_machine_learning_subfields_that_are/) |
+| 10 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website) |
+| 11 | **Product Wire · Ray-Ban Meta AI** | Products & Agents | ◈ | ● HIGH | [Ray-Ban Meta AI glasses distributed to people with sight loss across Kerry](https://news.google.com/rss/articles/CBMisgFBVV95cUxOLUcwcVZlUno5LUZVTlg3WmVjMldjWDBsS3ZPNEpGMVJPX0VwczBVLW91U3JGVzNRN0ZKRGxsUUp0RGYxdWo4R3BfaFhkUGwzamVydW9fcklsOU1KbEd0YlA5bU1hSXViSGVyZTBIUFFLQ21ZV2tFeHVUVmdlUG9HYnU1Zi1OdTNmbmc4eVIxbHBzTFlUUk9KSnJzMGsxcldDWG9ZTkZqcUNSV2NST3FveVFB?oc=5) |
+| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Anthropic’s Dario Amodei gets the SNL treatment](https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
