@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-28 19:36 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-28 23:54 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Shopify opens checkout to browser-based AI agents](https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/) |
-| 02 | **The Decoder** | Research | 🖼️ | ● HIGH | [More than 20 leading AI researchers warn that automated AI research poses extreme risks](https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/) |
-| 03 | **Reddit · r/artificial** | Infrastructure | ◈ | ● HIGH | [Meta launched an enterprise AI platform today and put the former MongoDB CEO in charge, reporting directly to Zuckerberg. Four companies now sell the same thing to the same buyers.](https://www.reddit.com/r/artificial/comments/1wsnsap/meta_launched_an_enterprise_ai_platform_today_and/) |
-| 04 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Building AI Assistants with On-Device Memory - DeepLearning.AI](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnJESDV6ajVyM094RFlPOW55QUdVQVAyOEcydlFuX0Z6TjhIeFJsVXlzQW1oUlhtU0kxcTBhbmRLVllnNTNSSFJFSUtiRXBNWHBEVnNrdFdRSzVWYlo3UE1PUW9XcWtmY09TaEp1Qk81ZWh4U195OTNWRUc4OU9ucWlRQkhvcHc?oc=5) |
-| 05 | **Google AI Blog** | Industry | 🖼️ | ● HIGH | [Watch the winning trailer from the Future Vision XPRIZE, The Gifted.](https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/) |
-| 06 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Introducing Claude Sonnet 5.5 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/) |
-| 07 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Florida seeks a ban on ChatGPT acting like a person](https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids) |
-| 08 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [OpenAI’s AI agents need to catch up](https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent) |
-| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Rest assured: AI companies say they're investigating tens of thousands of rogue bot incidents](https://www.reddit.com/r/artificial/comments/1wsmw1d/rest_assured_ai_companies_say_theyre/) |
-| 10 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Nvidia launches new platform for reining in rogue AI agents](https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/) |
-| 11 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [What If Automating AI R&D Triggers an Intelligence Explosion? \| The Foundation for American Innovation](https://www.reddit.com/r/artificial/comments/1wsmnv2/what_if_automating_ai_rd_triggers_an_intelligence/) |
-| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [AI is supercharging hacking, and your local hospitals and banks aren’t ready](https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready) |
+| 01 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [OpenAI reportedly ditches model over safety concerns](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/) |
+| 02 | **WSJ · provider monitor** | Safety & Security | ◈ | ● HIGH | [Exclusive \| OpenAI Scraps Release of New AI Model Over Safety Concerns](https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw?oc=5) |
+| 03 | **Product Wire · Optimum** | Products & Agents | ◈ | ● HIGH | [Lenders sue Optimum over debt maneuvering](https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3UzYlktRGZoalJ3Nkl3YmEyMV9BSGd0SWpYZ2ttMW5uYURDUUxldENsRlloT1h3c3FwYk0zOTQ1TG1JblpBUnJrOFpLMndaY0hhZGRIdjQ0c1YwMlJ5aTFPZUlrRHVQU0dMVHpUcVpnWURMeUcxWUszSjc1SWJLQ01veU81MzFLQVE?oc=5) |
+| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Not everyone thinks AI will kill us all](https://www.reddit.com/r/artificial/comments/1wst3g5/not_everyone_thinks_ai_will_kill_us_all/) |
+| 05 | **Product Wire · Zoom AI Companion** | Products & Agents | ◈ | ● HIGH | [Zoom AI Companion illegally creates users' 'voiceprints,' lawsuit claims](https://news.google.com/rss/articles/CBMisgFBVV95cUxQbENaTm4tMEdCVWU4MHc1SWt4ZGp4RnlWYnMzNDlxZDBydXhkeVZzTHMyRTBfblBxQklaTE9BNzJ3R2dLTTZWUzdCWjZJNHJCRVk2S0paM216SGItb09zcjM5M0pfTExORm9sUFVOU1BUQW1mVVRkUC1HSGk5V1lZdmdRRWdXUHBPX21PNW0ycFg2Z3hCOGhURDFRUDgwbXB5RkFPRXRUaGt2Q3haV0g2a0R3?oc=5) |
+| 06 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [What is the best AI for creating a study guide out of powerpoints?](https://www.reddit.com/r/artificial/comments/1wssusk/what_is_the_best_ai_for_creating_a_study_guide/) |
+| 07 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [WSJ reports OpenAI scrapped GPT-6.1 Astra over safety concerns](https://www.reddit.com/r/artificial/comments/1wsspta/wsj_reports_openai_scrapped_gpt61_astra_over/) |
+| 08 | **MIT Technology Review AI** | Industry | ◈ | ● HIGH | [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) |
+| 09 | **AP News · provider monitor** | Safety & Security | ◈ | ● HIGH | [Nvidia unveils security platform to stop AI agents from going rogue](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw?oc=5) |
+| 10 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Grok 4.7 is now available on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/) |
+| 11 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Building AI Assistants with On-Device Memory - DeepLearning.AI](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnJESDV6ajVyM094RFlPOW55QUdVQVAyOEcydlFuX0Z6TjhIeFJsVXlzQW1oUlhtU0kxcTBhbmRLVllnNTNSSFJFSUtiRXBNWHBEVnNrdFdRSzVWYlo3UE1PUW9XcWtmY09TaEp1Qk81ZWh4U195OTNWRUc4OU9ucWlRQkhvcHc?oc=5) |
+| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
