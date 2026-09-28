@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-27 23:55 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-28 05:12 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [From Identifiers to Inference Reconstructive Identity, Cross-Modal Linkage, and the Collapse of Practical Obscurity in AI Systems](https://www.reddit.com/r/artificial/comments/1wrz7ys/from_identifiers_to_inference_reconstructive/) |
-| 02 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [AI labs need business-style controls on testing and release, and the recent incidents show why](https://www.reddit.com/r/artificial/comments/1wrylwi/ai_labs_need_businessstyle_controls_on_testing/) |
-| 03 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [As A.I. Accelerates, Governments Are Increasingly Being Left Behind The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance. (Gift Article)](https://www.reddit.com/r/artificial/comments/1wrye2m/as_ai_accelerates_governments_are_increasingly/) |
-| 04 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 06 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Building AI Assistants with On-Device Memory - DeepLearning.AI](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnJESDV6ajVyM094RFlPOW55QUdVQVAyOEcydlFuX0Z6TjhIeFJsVXlzQW1oUlhtU0kxcTBhbmRLVllnNTNSSFJFSUtiRXBNWHBEVnNrdFdRSzVWYlo3UE1PUW9XcWtmY09TaEp1Qk81ZWh4U195OTNWRUc4OU9ucWlRQkhvcHc?oc=5) |
-| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music) |
-| 08 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [building a humor benchmark for LLMs: someone told me my benchmark's best result was just memory, so i ran his test](https://www.reddit.com/r/artificial/comments/1wruwja/building_a_humor_benchmark_for_llms_someone_told/) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Anthropic’s CEO is about to have dinner with President Trump](https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/) |
-| 10 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Can Muse overcome Meta’s trust issues?](https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/) |
-| 12 | **Product Wire · v0** | Products & Agents | ◈ | ● HIGH | [How Differential Testing Exposed Type and Performance Bugs in Chuks v0.1.2](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRDhDZVJQelNTNWlvMmFMVDZaMmJic29TRDZ5al9mcHBCRTd3eXVDN2pkZ1d5bUhpVTl3UlhHR3R6QUoyNTExaFIyemE2NDVqRTFuX19fQU81eEJic3NVSVFWbWQyVDJZVVR4WWR4TFpfT1Npa2U5U2k2aU5xXzlsdHBOalhRT2ttWkhGNGFmdHlPV1pOeUhMQk1MWQ?oc=5) |
+| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Ex-LinkedIn insider Jeremy Schifeling put a number on what a referral is worth against an AI-generated online application, then said how far it has moved since 2016](https://www.reddit.com/r/artificial/comments/1ws4yr2/exlinkedin_insider_jeremy_schifeling_put_a_number/) |
+| 02 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence](https://arxiv.org/abs/2609.30291) |
+| 03 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?](https://arxiv.org/abs/2609.30325) |
+| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess](https://arxiv.org/abs/2609.30328) |
+| 05 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol](https://arxiv.org/abs/2609.30341) |
+| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems](https://arxiv.org/abs/2609.30383) |
+| 07 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods](https://arxiv.org/abs/2609.30397) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Predicting Transmembrane Protein Topology from 3D Structure](https://arxiv.org/abs/2609.30446) |
+| 09 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Spectral Feedback for Test-Time Alignment of Protein Diffusion Models](https://arxiv.org/abs/2609.30456) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Pretrained ASR Pseudo-labeling for Noisy Police Audio](https://arxiv.org/abs/2609.30469) |
+| 11 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework](https://arxiv.org/abs/2609.30484) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering](https://arxiv.org/abs/2609.30489) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
