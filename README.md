@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-28 05:12 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-28 11:56 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Ex-LinkedIn insider Jeremy Schifeling put a number on what a referral is worth against an AI-generated online application, then said how far it has moved since 2016](https://www.reddit.com/r/artificial/comments/1ws4yr2/exlinkedin_insider_jeremy_schifeling_put_a_number/) |
-| 02 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence](https://arxiv.org/abs/2609.30291) |
-| 03 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?](https://arxiv.org/abs/2609.30325) |
-| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess](https://arxiv.org/abs/2609.30328) |
-| 05 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol](https://arxiv.org/abs/2609.30341) |
-| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems](https://arxiv.org/abs/2609.30383) |
-| 07 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods](https://arxiv.org/abs/2609.30397) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Predicting Transmembrane Protein Topology from 3D Structure](https://arxiv.org/abs/2609.30446) |
-| 09 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Spectral Feedback for Test-Time Alignment of Protein Diffusion Models](https://arxiv.org/abs/2609.30456) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Pretrained ASR Pseudo-labeling for Noisy Police Audio](https://arxiv.org/abs/2609.30469) |
-| 11 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Do LLMs Understand Context? A Knowledge Graph-Based Evaluation Framework](https://arxiv.org/abs/2609.30484) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering](https://arxiv.org/abs/2609.30489) |
+| 01 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government](https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/) |
+| 02 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - engadget.com](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 03 | **Reddit · r/MachineLearning** | Frontier Models | ◈ | ● HIGH | [Qwen3-VL 8B on a laptop vs Opus 5.5 / Sonnet 5 / GPT-5.6 on 137 messy documents: beat GPT-5.6 on tax forms, lost badly on Indian date formats[R]](https://www.reddit.com/r/MachineLearning/comments/1wsbqni/qwen3vl_8b_on_a_laptop_vs_opus_55_sonnet_5_gpt56/) |
+| 04 | **IEEE Spectrum AI** | Frontier Models | 🖼️ | ● HIGH | [Generative AI Gives Spacecraft the Autonomy Engineers Once Feared](https://spectrum.ieee.org/generative-ai-in-space-exploration) |
+| 05 | **The Decoder** | Industry | 🖼️ | ◐ MED | [A Wuhan court just made AI production costs a legal factor in copyright infringement cases](https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/) |
+| 06 | **Social Samosa · provider monitor** | Industry | ◈ | ● HIGH | [NFL uses Adobe AI tools to streamline content production](https://news.google.com/rss/articles/CBMimAFBVV95cUxQMlBZYjM0cl8tN0g3aHlOM0padE9pX0JhazBkQUZ1elJaeFBuTTI3azFEb2s0TnIxSnpnd2VDeGstTTNNWVRVNGVSaTZOdkg4MTZGcUlvUkV4X1A2UThBdW5GMkNBbGJyZjdGakN4YjhiUW9xR1JvbXdxaTdxS0hmWTJLMVBKQXY3b1htY1MxYVhSQlBGQ25EWdIBmAFBVV95cUxQMlBZYjM0cl8tN0g3aHlOM0padE9pX0JhazBkQUZ1elJaeFBuTTI3azFEb2s0TnIxSnpnd2VDeGstTTNNWVRVNGVSaTZOdkg4MTZGcUlvUkV4X1A2UThBdW5GMkNBbGJyZjdGakN4YjhiUW9xR1JvbXdxaTdxS0hmWTJLMVBKQXY3b1htY1MxYVhSQlBGQ25EWQ?oc=5) |
+| 07 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 09 | **WIRED AI** | Products & Agents | 🖼️ | ● HIGH | [AI Agents Are About to Flood the Workforce. No One’s Ready for It](https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/) |
+| 10 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Building AI Assistants with On-Device Memory - DeepLearning.AI](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnJESDV6ajVyM094RFlPOW55QUdVQVAyOEcydlFuX0Z6TjhIeFJsVXlzQW1oUlhtU0kxcTBhbmRLVllnNTNSSFJFSUtiRXBNWHBEVnNrdFdRSzVWYlo3UE1PUW9XcWtmY09TaEp1Qk81ZWh4U195OTNWRUc4OU9ucWlRQkhvcHc?oc=5) |
+| 11 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [Holo4: powering generalist computer-use agents](https://huggingface.co/blog/Hcompany/holo4) |
+| 12 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Solving Math’s Greatest Problems Was an Art Form. Then Came AI](https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
