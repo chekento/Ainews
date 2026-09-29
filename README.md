@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-28 23:54 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-29 05:44 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [OpenAI reportedly ditches model over safety concerns](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/) |
-| 02 | **WSJ · provider monitor** | Safety & Security | ◈ | ● HIGH | [Exclusive \| OpenAI Scraps Release of New AI Model Over Safety Concerns](https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw?oc=5) |
-| 03 | **Product Wire · Optimum** | Products & Agents | ◈ | ● HIGH | [Lenders sue Optimum over debt maneuvering](https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3UzYlktRGZoalJ3Nkl3YmEyMV9BSGd0SWpYZ2ttMW5uYURDUUxldENsRlloT1h3c3FwYk0zOTQ1TG1JblpBUnJrOFpLMndaY0hhZGRIdjQ0c1YwMlJ5aTFPZUlrRHVQU0dMVHpUcVpnWURMeUcxWUszSjc1SWJLQ01veU81MzFLQVE?oc=5) |
-| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Not everyone thinks AI will kill us all](https://www.reddit.com/r/artificial/comments/1wst3g5/not_everyone_thinks_ai_will_kill_us_all/) |
-| 05 | **Product Wire · Zoom AI Companion** | Products & Agents | ◈ | ● HIGH | [Zoom AI Companion illegally creates users' 'voiceprints,' lawsuit claims](https://news.google.com/rss/articles/CBMisgFBVV95cUxQbENaTm4tMEdCVWU4MHc1SWt4ZGp4RnlWYnMzNDlxZDBydXhkeVZzTHMyRTBfblBxQklaTE9BNzJ3R2dLTTZWUzdCWjZJNHJCRVk2S0paM216SGItb09zcjM5M0pfTExORm9sUFVOU1BUQW1mVVRkUC1HSGk5V1lZdmdRRWdXUHBPX21PNW0ycFg2Z3hCOGhURDFRUDgwbXB5RkFPRXRUaGt2Q3haV0g2a0R3?oc=5) |
-| 06 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [What is the best AI for creating a study guide out of powerpoints?](https://www.reddit.com/r/artificial/comments/1wssusk/what_is_the_best_ai_for_creating_a_study_guide/) |
-| 07 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [WSJ reports OpenAI scrapped GPT-6.1 Astra over safety concerns](https://www.reddit.com/r/artificial/comments/1wsspta/wsj_reports_openai_scrapped_gpt61_astra_over/) |
-| 08 | **MIT Technology Review AI** | Industry | ◈ | ● HIGH | [Roundtables: The Deadly Failures of The Virtual Border Wall](https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/) |
-| 09 | **AP News · provider monitor** | Safety & Security | ◈ | ● HIGH | [Nvidia unveils security platform to stop AI agents from going rogue](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw?oc=5) |
-| 10 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Grok 4.7 is now available on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/) |
-| 11 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Building AI Assistants with On-Device Memory - DeepLearning.AI](https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnJESDV6ajVyM094RFlPOW55QUdVQVAyOEcydlFuX0Z6TjhIeFJsVXlzQW1oUlhtU0kxcTBhbmRLVllnNTNSSFJFSUtiRXBNWHBEVnNrdFdRSzVWYlo3UE1PUW9XcWtmY09TaEp1Qk81ZWh4U195OTNWRUc4OU9ucWlRQkhvcHc?oc=5) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 01 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/) |
+| 02 | **MIT News AI** | Research | 🖼️ | ● HIGH | [The effects of an “algorithmic monoculture” depend on the details](https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929) |
+| 03 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Who we become when we talk to machines](https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929) |
+| 04 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence](https://arxiv.org/abs/2609.30291) |
+| 05 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?](https://arxiv.org/abs/2609.30325) |
+| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess](https://arxiv.org/abs/2609.30328) |
+| 07 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol](https://arxiv.org/abs/2609.30341) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems](https://arxiv.org/abs/2609.30383) |
+| 09 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods](https://arxiv.org/abs/2609.30397) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Predicting Transmembrane Protein Topology from 3D Structure](https://arxiv.org/abs/2609.30446) |
+| 11 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Spectral Feedback for Test-Time Alignment of Protein Diffusion Models](https://arxiv.org/abs/2609.30456) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Pretrained ASR Pseudo-labeling for Noisy Police Audio](https://arxiv.org/abs/2609.30469) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
