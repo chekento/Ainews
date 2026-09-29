@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-29 05:44 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-29 11:32 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/) |
-| 02 | **MIT News AI** | Research | 🖼️ | ● HIGH | [The effects of an “algorithmic monoculture” depend on the details](https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929) |
-| 03 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Who we become when we talk to machines](https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929) |
-| 04 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence](https://arxiv.org/abs/2609.30291) |
-| 05 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?](https://arxiv.org/abs/2609.30325) |
-| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess](https://arxiv.org/abs/2609.30328) |
-| 07 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol](https://arxiv.org/abs/2609.30341) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems](https://arxiv.org/abs/2609.30383) |
-| 09 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods](https://arxiv.org/abs/2609.30397) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Predicting Transmembrane Protein Topology from 3D Structure](https://arxiv.org/abs/2609.30446) |
-| 11 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Spectral Feedback for Test-Time Alignment of Protein Diffusion Models](https://arxiv.org/abs/2609.30456) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Pretrained ASR Pseudo-labeling for Noisy Police Audio](https://arxiv.org/abs/2609.30469) |
+| 01 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [The Australian data hack that reveals a growing risk to society](https://www.reddit.com/r/artificial/comments/1wt6xfz/the_australian_data_hack_that_reveals_a_growing/) |
+| 02 | **MIT Technology Review AI** | Industry | 🖼️ | ● HIGH | [Making AI an asset, not an expense](https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/) |
+| 03 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [OpenAI Delays Release of Latest Model Over Safety Concerns](https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/) |
+| 04 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [Timnit Gebru Believes There Is No ‘Existential Threat’ From AI](https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/) |
+| 05 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 06 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Anthropic's IPO filing shows soaring revenue, mounting costs, and "existential" risks](https://the-decoder.com/anthropics-ipo-filing-shows-soaring-revenue-mounting-costs-and-existential-risks/) |
+| 07 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [OpenAI reopens its $200 Pro plan but cuts API credits in half as it nudges users toward pay-per-use](https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/) |
+| 08 | **Product Wire · Text Embeddings Inference** | Products & Agents | ◈ | ● HIGH | [Let’s Talk Food: Tokkuri Tei Izakaya in Kapahulu](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlg0eW52MjdJMWJDdThVS3ZlekdwYWsxbDJmQXd3ZDRnenJ0YmpyUnp1ZzdRc2ZNVGVGZ1FQaEdxeG41UTFWRFV2Xzh6OU1EbUtqS1IwaEZITEtTcVRkX0JMTjRNVW1aVjJGU3RPM19vTEtOUE1EeGJPYXVaNk9MVlBZbFpYOWJmRHNmWlNsekt5aXZodk5tN2Z6U2xwU0JldUxpbHdzVQ?oc=5) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 10 | **IEEE Spectrum AI** | Infrastructure | 🖼️ | ● HIGH | [Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog](https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32) |
+| 11 | **Axios AI** | Compliance & Ethics | ◈ | ◐ MED | [The solution to the AI safety crisis is more AI - Axios](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OY20xQVJ0UU1TNDMtOWpuWUdPWnMtazdvdW9Gc243VFZVNXF2QUpxZE9OYloxSHpidjdndzRwbDlYZ0NIQTFadHBWZF9oeklqcEFuZ0pFQUczeS0yTDd3MmEzZXZ6UQ?oc=5) |
+| 12 | **Zawya · provider monitor** | Infrastructure | ◈ | ● HIGH | [Core42 and CSC sign MoU to advance Signature Sovereign AI Cloud in the UAE](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWEhydmFZWGI4UjZwOVJCTU1fREtoR3RscDVqS2RrejJzVkkwQndVZWl5X2NiUlozaWtkUUNZVUVPQlJuTW1SQ3dsdWY3LXROODFsS2tNRFprVHY4V2FmaTMxLS1fQUU2akY4UC1ORnBrc3A0UFJLLVh3RjRsdmNkekhsUmFkRC1hV3F5MFpicG5QUDRJRnRVQUU4VUpkRFBMOU5OLXM3TGVrTFFFVDUzdEFvUVFlN2dqZ2lNTnd6RFFHeHhXUUpnODRQZjV6cFdGd2c?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
