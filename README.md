@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-29 16:59 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-29 21:21 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Can a chatbot fix the government maze? The White House is about to find out](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/) |
-| 02 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Florida wants a court to stop ChatGPT from pretending to be human and talking to kids](https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids/) |
-| 03 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Prompt engineering fundamentals for Amazon Quick](https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/) |
-| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [OpenAI DevDay 2026: The biggest news and announcements](https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements) |
-| 05 | **AWS Machine Learning** | Research | ◈ | ● HIGH | [Prompt engineering by Quick component: Patterns and pitfalls](https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/) |
-| 06 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Building an AI-powered contract intelligence platform with Amazon Quick and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 08 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 09 | **Product Wire · Claude for Enterprise** | Products & Agents | ◈ | ● HIGH | [Salt Security Introduces Salt Claude Connect for Continuous Visibility Into MCP Servers Connected to Claude Enterprise](https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTnotSnpESXZFUlVHMV9LWDkxNDM3dW5QWE5KTkRLbDJ5YmZTdzlOQmJkMzAxRDNDc2VjTXFyZmxEUE5iMFc5WUZiOFAycmloTmNiTVBfYnhIYUdlUDFqdjBsd1hSRy1CQlhmN3U3bXNmMFQ1LXFjQ2ZueXdFYUdmUzMzZVlBLVpLU2RzRXBVXzVSak50UFo4bjF3MDgtN1N2MFJGR3RheENWRTN2SllUbll3VDhXQzZadEJyNENYQl9zaU0xTnpETkJaWVJHblZYczkwckI3VEFNU2dLclVwU0NkYVdlRUthb0FSSHFmZFlFWjRNY2VfVmNSTmJ1bkZ1b3RJRlIwM1l6MHc?oc=5) |
-| 10 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [How Condé Nast built multimodal video discovery with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/) |
-| 11 | **PPC Land · provider monitor** | Industry | ◈ | ● HIGH | [NHL's 32 clubs gain Adobe AI tools to personalise fan content](https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXJGOEZuakw2ZGYxcUJiakRZMTR5QUcwcXBKckx3MjhqVlJQTFV5RFdKSFFHMzJ6SUdIVjBtX0JhMjRQQlBlaTI2Z0RtVXpYU2U1dU91SXZ4TGcxLUFaN0FXNmNvaFdLaTFYT2FrZ1lqbFYwMWtQYzNSQy1ILUduaGdsbEo?oc=5) |
-| 12 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction](https://huggingface.co/blog/nvidia/kumo-tabular) |
+| 01 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [OpenAI launches Dots, its Muse competitor](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor) |
+| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI’s latest features take direct aim at the app store model](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/) |
+| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [In what ways have you seen AI positively impact your daily life?](https://www.reddit.com/r/artificial/comments/1wtkiq8/in_what_ways_have_you_seen_ai_positively_impact/) |
+| 04 | **Yahoo News UK · provider monitor** | Industry | ◈ | ● HIGH | [Stability AI CEO: In One Year, Our AI Tools Will Be Essential to Making All Music](https://news.google.com/rss/articles/CBMickFVX3lxTE0zeG96a1BnTDZpWXlnLVE3d3dJZTdQenlkTnJXZGQ1OHJBQktkMTl3bGZUejlfQzNGSnZXclNFVk1iSUl5TU42a0hyQk5GakJ2NnJNMTNWT3hPcERNUGwtd3Y2Q1dlTlhmMnJybVkybmVuZw?oc=5) |
+| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI repotedly in talks to raise $30B round at $1.4T valuation](https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/) |
+| 06 | **Product Wire · Claude API** | Products & Agents | ◈ | ● HIGH | [Claude reports elevated errors across claude.ai, Claude Code, Claude Cowork and the Claude API](https://news.google.com/rss/articles/CBMickFVX3lxTE1IakQ1VjdVUVd3NldTYXhLeXpRN2J3MmtJUDZ1Y21aak5aUzBUMU5BcUtCaExKTWlNTXpDWmgtLVF1bkFacUFaQ3dFeFpFcDV5LWNRQ3Vxakt6am1GNklKQ2pscWppT1VCamRmVmpqNWxZUQ?oc=5) |
+| 07 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/) |
+| 08 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor](https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/) |
+| 09 | **WIRED AI** | Open Source | 🖼️ | ● HIGH | [OpenAI Gets Sued Over the Hugging Face Hack](https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/) |
+| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 11 | **ZDNET AI** | Industry | ◈ | ● HIGH | [OpenAI’s Dots: Like OpenClaw declawed – for $100/mo ChatGPT Pro users - ZDNET](https://news.google.com/rss/articles/CBMidEFVX3lxTFBlSVpXWl9vbVRqSHdvazhBZG1QYmJzMklsenVVX2lpVGg5ZVZRQWlKZ2xOQ1JUTGpaRmxtZUtRbTE2MTVid1Z1OW9mZkgySWdCcWpKSlJFblJYU09WdEstYUZyRV8xemRoOTY3Q2VfLUZqNm5X?oc=5) |
+| 12 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents](https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
