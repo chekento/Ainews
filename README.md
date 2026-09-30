@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-29 21:21 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-30 00:44 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [OpenAI launches Dots, its Muse competitor](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor) |
-| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI’s latest features take direct aim at the app store model](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/) |
-| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [In what ways have you seen AI positively impact your daily life?](https://www.reddit.com/r/artificial/comments/1wtkiq8/in_what_ways_have_you_seen_ai_positively_impact/) |
-| 04 | **Yahoo News UK · provider monitor** | Industry | ◈ | ● HIGH | [Stability AI CEO: In One Year, Our AI Tools Will Be Essential to Making All Music](https://news.google.com/rss/articles/CBMickFVX3lxTE0zeG96a1BnTDZpWXlnLVE3d3dJZTdQenlkTnJXZGQ1OHJBQktkMTl3bGZUejlfQzNGSnZXclNFVk1iSUl5TU42a0hyQk5GakJ2NnJNMTNWT3hPcERNUGwtd3Y2Q1dlTlhmMnJybVkybmVuZw?oc=5) |
-| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI repotedly in talks to raise $30B round at $1.4T valuation](https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/) |
-| 06 | **Product Wire · Claude API** | Products & Agents | ◈ | ● HIGH | [Claude reports elevated errors across claude.ai, Claude Code, Claude Cowork and the Claude API](https://news.google.com/rss/articles/CBMickFVX3lxTE1IakQ1VjdVUVd3NldTYXhLeXpRN2J3MmtJUDZ1Y21aak5aUzBUMU5BcUtCaExKTWlNTXpDWmgtLVF1bkFacUFaQ3dFeFpFcDV5LWNRQ3Vxakt6am1GNklKQ2pscWppT1VCamRmVmpqNWxZUQ?oc=5) |
-| 07 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Bring near-Astra intelligence to everyday work with GPT-6.1 Sol on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/bring-near-astra-intelligence-to-everyday-work-with-gpt-6-1-sol-on-amazon-bedrock/) |
-| 08 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor](https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/) |
-| 09 | **WIRED AI** | Open Source | 🖼️ | ● HIGH | [OpenAI Gets Sued Over the Hugging Face Hack](https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/) |
-| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 11 | **ZDNET AI** | Industry | ◈ | ● HIGH | [OpenAI’s Dots: Like OpenClaw declawed – for $100/mo ChatGPT Pro users - ZDNET](https://news.google.com/rss/articles/CBMidEFVX3lxTFBlSVpXWl9vbVRqSHdvazhBZG1QYmJzMklsenVVX2lpVGg5ZVZRQWlKZ2xOQ1JUTGpaRmxtZUtRbTE2MTVid1Z1OW9mZkgySWdCcWpKSlJFblJYU09WdEstYUZyRV8xemRoOTY3Q2VfLUZqNm5X?oc=5) |
-| 12 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents](https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/) |
+| 01 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Sam Altman says OpenAI won’t go public until its models are safe](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety) |
+| 02 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [OpenAI DevDay 2026: The biggest news and announcements](https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements) |
+| 03 | **POLITICO AI Policy** | Compliance & Ethics | ◈ | ● HIGH | [Trump signs executive order renaming AI to ‘super intelligence’ - Politico](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFg3S3prLVYtei1ELWhSY0Z5SVlQdzJkV1YzVWRFM2lGMk96U0NHbjRNek9mMnZJY2hGdHlDdTN0ZHpLTnB4R0FtOHItOVc4V0RVMVNWam05MktkVWtHMVJpUWpPNklHeENxYTBRWGNsMjZ1Qk5WZHRtTkZEajNjUURXSWNscjRtWmpIUXZON2l2U3hmU1ZlNkpNNmI0OGpNZG9OQVRIeE1wcllrX21GRQ?oc=5) |
+| 04 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Trump orders US government to call AI ‘Super Intelligence’](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai) |
+| 05 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch](https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/) |
+| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Consumer AI spending tripled to $40B, but the user base only grew from 1.8B to 2B](https://www.reddit.com/r/artificial/comments/1wtp7fm/consumer_ai_spending_tripled_to_40b_but_the_user/) |
+| 07 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [What’s something humans are still much better at than AI that you think people overlook?](https://www.reddit.com/r/artificial/comments/1wtp4mq/whats_something_humans_are_still_much_better_at/) |
+| 08 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [AMD boosting AI/LLM performance for Radeon iGPUs as much as 18~23% with Linux 7.4](https://www.reddit.com/r/artificial/comments/1wtp3sn/amd_boosting_aillm_performance_for_radeon_igpus/) |
+| 09 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/) |
+| 10 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Why Does This 2022 Anime Feel Like an AI Prophecy?](https://www.reddit.com/r/artificial/comments/1wtnzt1/why_does_this_2022_anime_feel_like_an_ai_prophecy/) |
+| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
