@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-30 06:36 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-30 12:58 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **OpenAI · provider monitor** | Frontier Models | ◈ | ● HIGH | [Introducing GPT-6 Sol and Luna](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5) |
-| 02 | **Baseten Blog** | Industry | ◈ | ● HIGH | [Ming-Image-0.1-Design-Layer - Baseten](https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNXUxNXVDUUFuSmtGUWQwSjQ2OS1HWGxIWERPMEtaU2l4YWVHN2JZb3RzZnJGLV9LMTRTNkNISjVLN3Vwak5hZ3NzYjBXNDFsYzRib21nem9TU0JXeHFGWWxzd1oycmI5TFdj?oc=5) |
-| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 05 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](https://arxiv.org/abs/2609.35799) |
-| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices](https://arxiv.org/abs/2609.35833) |
-| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?](https://arxiv.org/abs/2609.35868) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [The Price of Token Boundaries: Compression Certificates and Prediction](https://arxiv.org/abs/2609.35869) |
-| 09 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses](https://arxiv.org/abs/2609.35873) |
-| 10 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees](https://arxiv.org/abs/2609.35874) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models](https://arxiv.org/abs/2609.35875) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training](https://arxiv.org/abs/2609.35890) |
+| 01 | **Product Wire · Whisper** | Products & Agents | ◈ | ● HIGH | [Salomon x Ray BEAMS XT-WHISPER Releases October 2](https://news.google.com/rss/articles/CBMikgFBVV95cUxQSGJrUS1lT2dLV002aFRrVEs3a2ljUHAyRVgyU3M4aFZoMTRtZ0ZJd1ZYVXFVWnhibkJYOC01RXk4WHJYeVgzWWxlV0swUlFaMThhaC1fMXdkMTNZV1gyVTF2MUFuZVZfSWZBTVEzTjl6a1pub2VjMk1rRThpSlN0bnZpN1pRSHVpRDBpTVZ0aUREUQ?oc=5) |
+| 02 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Here’s how tech leaders will self-police AI safety under Trump’s deal](https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs) |
+| 03 | **Product Wire · Adobe Firefly** | Products & Agents | ◈ | ● HIGH | [Firefly Aerospace Signs Starcloud as Commercial Customer, Demonstrating Data Center Capabilities Around the Moon](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVFlMcFhXV1B1Ym1vZl9Kc2ZxVUVoM2tYay16b0VfX3IzdzdObHZSdXpSMmt6eklBNHVveElCSUxsYzQ1dnRHWkFYSXRBazdtYmR3dDI3aVp3SU94VXpuRVZwbjFBT01vQUlhNEUwbExadEVTcE50ai1VN0swaHhEaXdWaEFqSGh1elRsN0dlc0tZa2U1U1I0bWZ6RkxidDB1Y2ludmZ3MmlFQ2RBQWlGVjBsZEdvWVpSVlFKeGxUSWMwY3hpMS1RemNFMHZ6YVVtaU82ZGVxRHd0Zw?oc=5) |
+| 04 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [Why do companies hire AI consultants?](https://www.reddit.com/r/artificial/comments/1wu34m7/why_do_companies_hire_ai_consultants/) |
+| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Airbnb adds AI search, more social features](https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/) |
+| 06 | **Product Wire · Cohere Command** | Products & Agents | ◈ | ● HIGH | [Honda’s 2027 Passport TrailSport Upgrades Command a Four-Digit Price Hike](https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjJqcFpCTVJCSFVNZXJpQTRwNDdFaFBLNmlDdG01Z0tVU09BaEF3bnJPOExaMjJCMUJKbzhMVmY0bXBnZDUwVlhDSWRKaWdqTGxfb1h1WWhUY2M3dEdBZ3BqWnYwMHpZeERUQUQxejhtN2plbGV2alVZTXByVmRjcTl0UkpFaHdlZlkxU292aWE4MjdKT0otZk9wRFlfc2V1UkwzbA?oc=5) |
+| 07 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [Trump's meeting with tech leaders leaves AI safety more unsettled than ever](https://www.reddit.com/r/artificial/comments/1wu2d9d/trumps_meeting_with_tech_leaders_leaves_ai_safety/) |
+| 08 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits](https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/) |
+| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [How I Get Web Design Clients For My Agency](https://www.reddit.com/r/artificial/comments/1wu1vzf/how_i_get_web_design_clients_for_my_agency/) |
+| 10 | **MIT Technology Review AI** | Open Source | ◈ | ● HIGH | [“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer](https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/) |
+| 11 | **OpenAI · provider monitor** | Frontier Models | ◈ | ● HIGH | [Introducing GPT-6 Sol and Luna](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5) |
+| 12 | **Ollama Blog** | Industry | ◈ | ● HIGH | [Blog - Ollama](https://news.google.com/rss/articles/CBMiO0FVX3lxTFBpY0dra0N1d2hweEhhNGVmLVlxMG5ic1VERlJuYWh5UHhSZG8xYTJOSW9iS0JHZWFQcWJN?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
