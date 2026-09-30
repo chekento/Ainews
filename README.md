@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-30 00:44 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-09-30 06:36 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Sam Altman says OpenAI won’t go public until its models are safe](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety) |
-| 02 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [OpenAI DevDay 2026: The biggest news and announcements](https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements) |
-| 03 | **POLITICO AI Policy** | Compliance & Ethics | ◈ | ● HIGH | [Trump signs executive order renaming AI to ‘super intelligence’ - Politico](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFg3S3prLVYtei1ELWhSY0Z5SVlQdzJkV1YzVWRFM2lGMk96U0NHbjRNek9mMnZJY2hGdHlDdTN0ZHpLTnB4R0FtOHItOVc4V0RVMVNWam05MktkVWtHMVJpUWpPNklHeENxYTBRWGNsMjZ1Qk5WZHRtTkZEajNjUURXSWNscjRtWmpIUXZON2l2U3hmU1ZlNkpNNmI0OGpNZG9OQVRIeE1wcllrX21GRQ?oc=5) |
-| 04 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Trump orders US government to call AI ‘Super Intelligence’](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai) |
-| 05 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch](https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/) |
-| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Consumer AI spending tripled to $40B, but the user base only grew from 1.8B to 2B](https://www.reddit.com/r/artificial/comments/1wtp7fm/consumer_ai_spending_tripled_to_40b_but_the_user/) |
-| 07 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [What’s something humans are still much better at than AI that you think people overlook?](https://www.reddit.com/r/artificial/comments/1wtp4mq/whats_something_humans_are_still_much_better_at/) |
-| 08 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [AMD boosting AI/LLM performance for Radeon iGPUs as much as 18~23% with Linux 7.4](https://www.reddit.com/r/artificial/comments/1wtp3sn/amd_boosting_aillm_performance_for_radeon_igpus/) |
-| 09 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/) |
-| 10 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Why Does This 2022 Anime Feel Like an AI Prophecy?](https://www.reddit.com/r/artificial/comments/1wtnzt1/why_does_this_2022_anime_feel_like_an_ai_prophecy/) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 01 | **OpenAI · provider monitor** | Frontier Models | ◈ | ● HIGH | [Introducing GPT-6 Sol and Luna](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5) |
+| 02 | **Baseten Blog** | Industry | ◈ | ● HIGH | [Ming-Image-0.1-Design-Layer - Baseten](https://news.google.com/rss/articles/CBMia0FVX3lxTE1mNXUxNXVDUUFuSmtGUWQwSjQ2OS1HWGxIWERPMEtaU2l4YWVHN2JZb3RzZnJGLV9LMTRTNkNISjVLN3Vwak5hZ3NzYjBXNDFsYzRib21nem9TU0JXeHFGWWxzd1oycmI5TFdj?oc=5) |
+| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 05 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](https://arxiv.org/abs/2609.35799) |
+| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices](https://arxiv.org/abs/2609.35833) |
+| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?](https://arxiv.org/abs/2609.35868) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [The Price of Token Boundaries: Compression Certificates and Prediction](https://arxiv.org/abs/2609.35869) |
+| 09 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [More Programs or More Rolls? Separating Coverage from Specialization in LLM Harnesses](https://arxiv.org/abs/2609.35873) |
+| 10 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Risk-Averse Online POMDP Planning via CVaR of the Immediate Cost with Performance Guarantees](https://arxiv.org/abs/2609.35874) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models](https://arxiv.org/abs/2609.35875) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Representational Simplicity and Circuit Size Dissociate in a Threshold-Dependent Way: A Controlled Test via Adversarial Training](https://arxiv.org/abs/2609.35890) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
