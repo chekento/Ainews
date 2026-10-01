@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="PRIVACY.md"><strong>🔐 Datenschutz / Privacy</strong></a> · <a href="PRIVACY-SOURCES.md"><strong>All sources & providers</strong></a> · <a href="https://kosch.cloud"><strong>Impressum / kosch.cloud</strong></a> · <a href="ANDROID-ARCHIVE.md"><strong>APK archive</strong></a>
+  <a href="PRIVACY.md"><strong>🔐 Datenschutz · KI · Drittanbieter</strong></a> · <a href="PRIVACY-SOURCES.md"><strong>All sources & providers</strong></a> · <a href="https://kosch.cloud"><strong>Impressum / kosch.cloud</strong></a> · <a href="ANDROID-ARCHIVE.md"><strong>APK archive</strong></a>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
   <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.8 BETA</strong></a><br>
   <a href="https://github.com/chekento/Ainews/releases/tag/android-latest">Release details</a> ·
   <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256">SHA-256 checksum</a> ·
-  <a href="PRIVACY.md">Datenschutz / Privacy & all sources</a> ·
+  <a href="PRIVACY.md">Datenschutz · KI · Drittanbieter</a> ·
   <a href="https://kosch.cloud">Impressum / kosch.cloud</a>
 </p>
 
