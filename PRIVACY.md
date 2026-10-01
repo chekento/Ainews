@@ -1,6 +1,6 @@
 # Datenschutzerklärung / Privacy Policy — AI News
 
-**Updated:** 20 September 2026
+**Updated:** 1 October 2026
 **App:** AI News (`cloud.kosch.ainews`)  
 **Projekt / Anbieterinformationen:** [kosch.cloud](https://kosch.cloud)  
 **Repository:** `chekento/Ainews`  
@@ -191,3 +191,57 @@ Wenn Datenflüsse, Berechtigungen, Quellen oder Provider geändert werden, soll 
 
 **Maschinenlesbare Register:** [`config/sources.json`](config/sources.json) · [`config/providers.json`](config/providers.json)  
 **Impressum / Anbieter:** https://kosch.cloud
+
+
+## 16. KI-, Drittanbieter- und Signaturtransparenz
+
+### Welche KI läuft in AI News?
+
+Trotz des Namens **AI News** enthält die aktuelle Android-App **keine generative KI-Laufzeit**. Es gibt keinen eingebauten Chatbot, kein LLM, keinen OpenAI-/Anthropic-/Google-Modellaufruf, keine Prompt-Übertragung und keine On-device-LLM-Inferenz.
+
+„AI“ bezeichnet hier den **Themenbereich**, den die App beobachtet. Die App lädt kuratierte Nachrichten-/Providerdaten, filtert, gruppiert, sortiert und zeigt Quellen an. Die GitHub-Workflows erzeugen den öffentlichen News-Datensatz aus Feeds und Monitoringquellen. Diese Verarbeitung ist Quellensammlung/Regellogik und keine persönliche KI-Auswertung von Nutzerdaten.
+
+Insbesondere:
+
+- Smart-Watch-Regeln werden lokal gegen den öffentlichen Datensatz geprüft.
+- lokale Personalisierungsgewichte werden nicht an ein LLM gesendet;
+- Bookmarks, Suchhistorie und Einstellungen werden nicht zum Training eines KI-Modells verwendet;
+- Namen wie OpenAI API, Claude API, Vertex AI oder andere Produkte im Produktkatalog sind **beobachtete News-/Produktobjekte**, nicht automatisch von der App verwendete APIs.
+
+### Drittanbieter-Laufzeit und externe Dienste
+
+Die App bzw. die zugehörige Datenpipeline kann mit folgenden externen Systemen interagieren:
+
+- **GitHub / raw.githubusercontent.com** — Auslieferung des öffentlichen News-Datensatzes, Konfigurationen und Releases;
+- **öffentliche RSS-/Atom-/Newsquellen** — Eingangsquellen der GitHub-Aggregationsworkflows;
+- **Google-News-RSS-Suchfeeds** — Monitoring-Fallback für bestimmte Quellen/Produkte;
+- **externe Originalquellen** — werden erst nach Nutzer-Tap im Browser geöffnet;
+- **offizielle Social-/Provider-Profile** — nur als Links/öffentliche Monitoringziele;
+- **Android Text-to-Speech** — optionales Vorlesen; die konkrete TTS-Engine kann je nach Gerätekonfiguration lokal oder cloudbasiert arbeiten.
+
+Das vollständige Register der beobachteten Quellen und Provider steht in [PRIVACY-SOURCES.md](PRIVACY-SOURCES.md).
+
+### Entwicklungs- und Build-Werkzeuge
+
+Für Entwicklung, Datenaktualisierung und Distribution werden unter anderem verwendet:
+
+- GitHub Actions / GitHub Releases / GitHub CLI,
+- Node.js,
+- Gradle,
+- Android SDK,
+- JDK 21,
+- Android System WebView / native Android APIs.
+
+Diese Build- und CI-Werkzeuge sind nicht automatisch als Tracking-SDKs in der installierten App enthalten.
+
+### Zertifikate und APK-Signierung
+
+Die aktuell direkt veröffentlichte AI-News-APK ist ausdrücklich ein **debug-signed Beta-/Development-Build** und keine final Play-Store-signierte Produktionsversion.
+
+Die Android-Signatur dient der technischen Herkunft/Installierbarkeit des Builds. Sie ist **keine unabhängige Sicherheits-, Datenschutz- oder KI-Zertifizierung**. Veröffentlichte SHA-256-Dateien dienen ausschließlich der Integritätsprüfung.
+
+AI News installiert keine eigene Root-Zertifizierungsstelle und fordert keine Benutzerzertifikate an. HTTPS-Zertifikate externer Quellen und GitHub-Dienste werden über das normale Android-/Browser-Vertrauensmodell geprüft.
+
+### Keine unabhängige KI-Zertifizierung behauptet
+
+Sofern im Repository nicht ausdrücklich ein prüfbarer externer Auditbericht oder ein Zertifikat veröffentlicht ist, beansprucht AI News **keine externe Zertifizierung** seiner KI-, Datenschutz- oder Sicherheitsfunktionen.
