@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-01 07:42 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-01 15:23 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Modal Blog** | Industry | ◈ | ● HIGH | [The conference for engineers running AI in production - Modal](https://news.google.com/rss/articles/CBMiPkFVX3lxTE9EVjlhMTlDWHp1WjZLbGxIX0p5SXZMYzlhcUVSem1wd1ZCLUxwWjVvQ0QtWU1lYlhtMGdKRFlB?oc=5) |
-| 02 | **perfectcorp.com · provider monitor** | Industry | ◈ | ● HIGH | [I Tested 25 Midjourney AI Prompts for Halloween 2026 — Here Are the Results](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNk9neFU0RjFsdmFIck1OREt3VDVhbExfaUcwUmhoc00zWjhyNnFZQ1RhbFp0MHZQSUlVbldITGRNNjV6WDhzMl91V3g1R2piMDBvS0g4YlZ5bHp5dV9RRV9VcjhsVDBldkNlbTdiWU1jUUx3LUtBdktmcXNoYk5SRk90SXE3R0VGcERvZDVfcUMyb0ZGTFE4eG5R?oc=5) |
-| 03 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 06 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation](https://arxiv.org/abs/2609.38282) |
-| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks](https://arxiv.org/abs/2609.38288) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [MoFlow: Multi-Objective Agentic Workflow Generation](https://arxiv.org/abs/2609.38294) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [AI Agents are Vulnerable to Radicalization](https://arxiv.org/abs/2609.38296) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [CARAT: Do Materials LLMs Reason or Recite?](https://arxiv.org/abs/2609.38340) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Examining Variation in How Guided AI Tutors Resolve Student Impasses](https://arxiv.org/abs/2609.38346) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks](https://arxiv.org/abs/2609.38359) |
+| 01 | **Anthropic News** | Frontier Models | ◈ | ● HIGH | [Barclays scales Claude to upgrade operations and improve client experience - Anthropic](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWlNWRnpuZHlvMWUyZ3ZXanVqU1NjQ3FaaTlpVHlMaDhzdzdub25CMERKYThTYjN5RFFaSzBlZGJEbHNNMkpLN0M1Wkhfa2ltdFJZX0dpY3BJNndZLXhuRHN1Zw?oc=5) |
+| 02 | **Computer Weekly · provider monitor** | Safety & Security | ◈ | ● HIGH | [Microsoft, UAE Cyber Council and Core42 deploy AI cyber defence across government](https://news.google.com/rss/articles/CBMixAFBVV95cUxOM3AzZVVpN1lWSzVxRGk1UGc0WFQ0bU5MQlo1ZUpxT2Q4amtGbE5VS0lBNlNhSVE3RXhONEhXUGoxX1pZY2swNTVfRk5zYkVvRVMtVzZsYTNOMWJtb0toZFdJRmlackVQdDJ4Umk4dG1Ibkg5dEJtV3JGbE55TUVzcHJRWFpDTUVkX3oxc2I3cnVoampmc0tKSURhY0hmb3ZCbGdJQk5QLThXTWhCM3hRWnUwUXIya0otbF81SThaTEhUa2t5?oc=5) |
+| 03 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Brian Chesky interview: AI agents need their own operating system](https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/) |
+| 04 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs](https://huggingface.co/blog/allenai/olmocore3) |
+| 05 | **Product Wire · Claude Code** | Products & Agents | ◈ | ● HIGH | [Barclays Accelerates AI Rollout With Anthropic’s Claude Code](https://news.google.com/rss/articles/CBMitwFBVV95cUxOXzF4ZEFaN2JQZEhmd09Md2RpeWRLMjMwM1diaFBfVW9FZzFYX2ZCXzNodVRMeVRkak5mZjg0aXBrSEhodG5KaEhXdDFLSG9xTVZvVVpTVW9IejVfa0d4NFpoWWZzaW12TmlvQlI0MUxkS3dCbUc1VnRxYlM2ZDRGMDd1Yk9ZSHplNjRVYnNJblhuZ0kxN2dkSC1NY3VKZW5sWDRpVDdqZS04aVFfWmhaRnhmdUdQLWM?oc=5) |
+| 06 | **Product Wire · Make** | Products & Agents | ◈ | ● HIGH | [Make AI a communal discussion](https://news.google.com/rss/articles/CBMickFVX3lxTE9GSVV3elh6V3BObHNtUDJJVVBaRDRUdllBZ28tRmJBN00ybHpKOFdrdFhTMlpMZG1sdlNuQ0FrM3pPbHk2aFNSMU5YZGR5MmJxT1BoLWpGUFE3LUUtZndkbElkazQwWUVtalJYdlQ2dm0xZw?oc=5) |
+| 07 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle](https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash) |
+| 08 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [OpenAI’s new agent is a shot at Meta — but can it compete with free?](https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle) |
+| 09 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on](https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/) |
+| 10 | **Reddit · r/LocalLLaMA** | Products & Agents | ◈ | ● HIGH | [We benchmarked 18 RAG pipelines against an agent loop on Google's FRAMES. The best pipeline hit 78.9%. The agent loop hit 92.7%.](https://www.reddit.com/r/LocalLLaMA/comments/1wv0lww/we_benchmarked_18_rag_pipelines_against_an_agent/) |
+| 11 | **Modal Blog** | Industry | ◈ | ● HIGH | [The conference for engineers running AI in production - Modal](https://news.google.com/rss/articles/CBMiPkFVX3lxTE9EVjlhMTlDWHp1WjZLbGxIX0p5SXZMYzlhcUVSem1wd1ZCLUxwWjVvQ0QtWU1lYlhtMGdKRFlB?oc=5) |
+| 12 | **Product Wire · Optimum** | Products & Agents | ◈ | ● HIGH | [Optimum Appoints Adriana Rios Welton as General Counsel and Chief Corporate Responsibility Officer](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMHNjYzZrQ1E0R3FRNDdMaWZyMXlvbGhXUElUWVRiOTAzMXBrQnhtRFFnM0pxeXg1WWh6VVk4QmZjSDdMUmdsZDI0cGhreHdnQk5sdEVOYTZUYlhmTmpYQ0xEWjJmNVNBWndxdUNtbDAzcmFscUhVWXJINzQ2d0c5U2pwUkgwMzM0NFRuUWl3NmQ3Rm9aWFpQY2tSWWh0RHM0STlBT19ZY1FnNVE4eUJsQ3pYV244Sjd1SlNwXw?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
