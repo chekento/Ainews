@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-01 01:28 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-01 07:42 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [What’s an AI limitation that you only notice after using AI a lot?](https://www.reddit.com/r/artificial/comments/1wully6/whats_an_ai_limitation_that_you_only_notice_after/) |
-| 02 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [recomendaciones de IA?](https://www.reddit.com/r/artificial/comments/1wuljqz/recomendaciones_de_ia/) |
-| 03 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [porque gemini es tan malo?](https://www.reddit.com/r/artificial/comments/1wulicl/porque_gemini_es_tan_malo/) |
-| 04 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Google releases Gemini 4 Argon, called its most powerful model yet](https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/) |
-| 05 | **NJ.com · provider monitor** | Industry | ◈ | ● HIGH | [Burlington Township boys soccer comes alive in second half to down Palmyra](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZDUweVYwa1R3d2ZmSEZHT3prNFZrNktCRjVaNmViRmloaHdJSV9wcVdIWGplM290bF95ZTlMWmpUcVh3dmUxbW1wTzJxaExUUExmalhqc3luV3R1dnlxWnZYa0hNRXVEcDc4dm5qSlZYbnpZUkI2VHRsbk5OSFZCQWZPOTJCTXdFaE5ybkZveGdLYm1BNDVfLXR1ei1lb0k3UmViZ0w0ZUtacXNsZmJxWWt3aHd4SUV6N3pENlNKdFY?oc=5) |
-| 06 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 07 | **Reuters AI & Technology** | Industry | ◈ | ● HIGH | [NEWSLETTER: Inside Anthropic’s confidential S-1: a Q&A - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFhLTkZneU9Ya2hKLWthbzg3TmpESVlwR3JVN01jc0VGaE85T0FOUnp6Z09ManVqcDJVNVFwVzUzUk5FMFJ5dUw5UFA4ckpEeDhTcVJLSldfa3k1c3FHMHFjMUVlRURuX014b3BQMmhPSVhrWmQ3ZnhPT05TM2w5dVZYZFZ5ZVoyRjdtSzlUT1Ffck5RSWNGSW9tbUVvSndMMlNUeEFnMWVIalRl?oc=5) |
-| 08 | **Reuters · provider monitor** | Frontier Models | ◈ | ● HIGH | [Google announces Gemini 4 flagship AI model after months of delays](https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 10 | **Product Wire · v0** | Products & Agents | ◈ | ● HIGH | [Grokipedia v0.3 Is Out: What Changed and What It Means](https://news.google.com/rss/articles/CBMikgFBVV95cUxOLU5fS1lBMU5iUV9sanQwbEFkYWxJcm1TM0s1QnlJbGdQQ09wbTRESG1WU1haZFNobVM1TVdOYzk4ZExSM25EVTdNOXJFWk02TThURkJvVU10ZVNHck1aNXVUSjZBdTZtUUFBd0NnS3JaYUQ5ajYwWHFZYXNadFlDTVliSTRPd0E4cEtWaVVKZWhQdw?oc=5) |
-| 11 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead](https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 01 | **Modal Blog** | Industry | ◈ | ● HIGH | [The conference for engineers running AI in production - Modal](https://news.google.com/rss/articles/CBMiPkFVX3lxTE9EVjlhMTlDWHp1WjZLbGxIX0p5SXZMYzlhcUVSem1wd1ZCLUxwWjVvQ0QtWU1lYlhtMGdKRFlB?oc=5) |
+| 02 | **perfectcorp.com · provider monitor** | Industry | ◈ | ● HIGH | [I Tested 25 Midjourney AI Prompts for Halloween 2026 — Here Are the Results](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNk9neFU0RjFsdmFIck1OREt3VDVhbExfaUcwUmhoc00zWjhyNnFZQ1RhbFp0MHZQSUlVbldITGRNNjV6WDhzMl91V3g1R2piMDBvS0g4YlZ5bHp5dV9RRV9VcjhsVDBldkNlbTdiWU1jUUx3LUtBdktmcXNoYk5SRk90SXE3R0VGcERvZDVfcUMyb0ZGTFE4eG5R?oc=5) |
+| 03 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 06 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation](https://arxiv.org/abs/2609.38282) |
+| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks](https://arxiv.org/abs/2609.38288) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [MoFlow: Multi-Objective Agentic Workflow Generation](https://arxiv.org/abs/2609.38294) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [AI Agents are Vulnerable to Radicalization](https://arxiv.org/abs/2609.38296) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [CARAT: Do Materials LLMs Reason or Recite?](https://arxiv.org/abs/2609.38340) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Examining Variation in How Guided AI Tutors Resolve Student Impasses](https://arxiv.org/abs/2609.38346) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Beyond Mode Collapse: Generating Diverse Synthetic Expert Conversations via Generative Flow Networks](https://arxiv.org/abs/2609.38359) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
