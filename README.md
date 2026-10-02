@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-02 05:28 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-02 11:18 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 03 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [A video about Adversarial Objectives [P]](https://www.reddit.com/r/MachineLearning/comments/1wvk3cw/a_video_about_adversarial_objectives_p/) |
-| 04 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata) |
-| 05 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [3 Questions: A new resource to empower young entrepreneurs](https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002) |
-| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Heavy-Tailed Memory Traces in Long-Horizon Language Agents](https://arxiv.org/abs/2610.00010) |
-| 07 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [When Do Causal World Models Help Modular LLM Agents](https://arxiv.org/abs/2610.00012) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution](https://arxiv.org/abs/2610.00015) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA](https://arxiv.org/abs/2610.00018) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?](https://arxiv.org/abs/2610.00025) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs](https://arxiv.org/abs/2610.00047) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Gradient-Aligned Pair Selection for Personalized Preference Optimization](https://arxiv.org/abs/2610.00061) |
+| 01 | **The Decoder** | Research | 🖼️ | ● HIGH | [AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision](https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/) |
+| 02 | **Product Wire · Optimum** | Products & Agents | ◈ | ● HIGH | [Optimum Brings Fastest Fiber Internet to Abbeville, Investing in the Community’s Future](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVHE3LVp3ckZSSGh5V1NNLXhEQnd4YjduZ3lNdnVmdGpvNWhwNTVKZVpkazgyQzlCLTU1bml5YXhMMDQ1Vm9kWTZGTTROaU1EMVFVOGQ1WDh5OFlfNkREUEdscE1ONjRJdVc5am9BckF0Snl5YlNvYXZlTnAxMmNDUC1Xa0o2N2RBX2VTdGpfdw?oc=5) |
+| 03 | **WIRED AI** | Research | 🖼️ | ● HIGH | [A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data](https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/) |
+| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [AI music maker Suno now generates spoken words](https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability) |
+| 05 | **Product Wire · Tavus** | Products & Agents | ◈ | ● HIGH | [😺 48% thought Tavus’s AI was human](https://news.google.com/rss/articles/CBMickFVX3lxTE83MkhVMmhnX2gyTWJaUC1UdXhpcjVxR2NRM2ZaS2JjdjBKWUZ6Tm5oeTJtelhDMXVyZmlaaFhoaExYc2hPQURralFBTXJObHEwVks3SHBCOWVvTGp2OTA5MTJkSEgyMjBxM2tMVGRabUdWUQ?oc=5) |
+| 06 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Health Care Workers Are Tired of Cleaning Up Palantir’s Mess](https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/) |
+| 07 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Microsoft AI releases new transcription and text-to-speech models for voice agents](https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/) |
+| 08 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Businesses are using more AI and paying less for it, Ramp AI Index shows](https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 10 | **MIT Technology Review AI** | Industry | ◈ | ● HIGH | [Don’t be fooled—LLMs don’t reason](https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/) |
+| 11 | **Product Wire · Murf AI** | Products & Agents | ◈ | ● HIGH | [Murf AI Mobile App Download](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kWlpXdUFPeHpnYnpHWlhsLVBycENIUWJfMUd2TkVpUjlIM0g4Y2hXekdjd0lsS082N3B0VEpXWXRYeHd4QWphWlNsaVhjSDFKTS04?oc=5) |
+| 12 | **The Decoder** | Open Source | 🖼️ | ◐ MED | [Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone](https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
