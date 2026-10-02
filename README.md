@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-02 00:07 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-02 05:28 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **NVIDIA AI Blog** | Compliance & Ethics | 🖼️ | ● HIGH | [How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast](https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/) |
-| 02 | **Product Wire · Aider** | Products & Agents | ◈ | ● HIGH | [Impartner publie son guide « AI Ecosystem Playbook » pour aider les entreprises à passer de la phase d’expérimentation à celle de la mise en œuvre de l’intelligence artificielle](https://news.google.com/rss/articles/CBMijAJBVV95cUxPc1pReWRjX2txT0JZOFFlUmxnaDZYbzE5SFdBTFRNYjFqeFR2cWFrVUw2SWpYUmVIR2dBLS1xTnhtRW1NQWhLaG1RRmgtRndlR2JsZU8yeVN3MURDdkdhR01NdXdGYUZvNjNYdUg0U0ZuQU9EZk9rZWthWVFNVktsZ0NZc3Uzem90LXZNbjN0ZmRSX3l5VThpckpQd3VVeXBSU1E1WFdJdEROSU16OUFxLTBVZUpmQ1J0bzdXbFU5QlFoQzZUdGNUclBsMUVrcC1iVFdubklDc3Fuc3lfNzB2UjdaSVplTEhvSlBMX0FsS2IxRkZiaDl0ZVF3R1Y2MnFXQ1NPWndkN2RxTEtR?oc=5) |
-| 03 | **Modal Blog** | Industry | ◈ | ● HIGH | [Runtime - Modal](https://news.google.com/rss/articles/CBMiPkFVX3lxTE9EVjlhMTlDWHp1WjZLbGxIX0p5SXZMYzlhcUVSem1wd1ZCLUxwWjVvQ0QtWU1lYlhtMGdKRFlB?oc=5) |
-| 04 | **WIRED AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Whatever AI Safety Is, It’s Not This](https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/) |
-| 05 | **AWS Machine Learning** | Compliance & Ethics | ◈ | ● HIGH | [Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/) |
-| 06 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [New tool lets users repair AI-generated 3D models, then fabricate them just the way they want](https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001) |
-| 07 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [OpenAI’s new agent is a shot at Meta — but can it compete with free?](https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle) |
-| 08 | **TechCrunch AI** | Frontier Models | ◈ | ● HIGH | [Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president](https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/) |
-| 09 | **Product Wire · Notion AI** | Products & Agents | ◈ | ● HIGH | [Notion AI Project Management: Custom Agents and Productivity](https://news.google.com/rss/articles/CBMihgFBVV95cUxNblF4aGJkTFBmRWN6U0gxaUpJbEVZOU1tc25yX2tpUngyY2tETDRMTXh3cXdMNFFqdjV2cE1lQXl6TElGdjVQQmpsX1l6S0VaaTVsaHNWUW5tY203cEdWRG9GdHA0VTFOelQ2WW4xakFPVV9Od0xWQ0NrSkNBVFg4am9NalVNQQ?oc=5) |
-| 10 | **Product Wire · Tavus** | Products & Agents | ◈ | ● HIGH | [Tavus launches Griffin, a real-time video model that passed a video Turing test](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbFFBU3pCUUxHNzNHWmV5bFAyYVE2d1Z4NGVMdHRHUWQ0NTVhWklnTmdTTkp0SmJSbEhUWnowbG1DZEVUbUIzdkJsNDhlQ191RlY0dDNnelEydld5VmdaUUk4cGVwSE5rNC1hUWt4cERFcUZFVmluSDNFRS1iVzlhZDFJX3dwNmE1VTVmOF8zWlhBSzljSlczRkYzWWplZkVXbzNoNl9CZnFXektMb203eWhR?oc=5) |
-| 11 | **Product Wire · Tavus** | Products & Agents | ◈ | ● HIGH | [Tavus & Griffin: Specs, Benchmarks, Pricing and Availability](https://news.google.com/rss/articles/CBMibkFVX3lxTE8wZldMdldrQnFZS3MzS2hXZk9xMGhqT0V6UzhDQTRCSDFzaWxDYUlLTWpEU2xOV0xGbG0yM253Q0hNZHdBUUFId1dXZlZKbVN0c3lqbTlsOHR4UDhWLTQtVG5fR0lJRlpucllVT2t3?oc=5) |
-| 12 | **Ollama Blog** | Industry | ◈ | ● HIGH | [tev1 - ollama.com](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1waVBJSHc5VW5ObVNHMElmdVdpbkJ1OWNJYW5jbHAzbGUzbHRwWkJkcFpCRmhiUk9QdmhxNWlfa0lhQ2tSY2c?oc=5) |
+| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 03 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [A video about Adversarial Objectives [P]](https://www.reddit.com/r/MachineLearning/comments/1wvk3cw/a_video_about_adversarial_objectives_p/) |
+| 04 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata) |
+| 05 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [3 Questions: A new resource to empower young entrepreneurs](https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002) |
+| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Heavy-Tailed Memory Traces in Long-Horizon Language Agents](https://arxiv.org/abs/2610.00010) |
+| 07 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [When Do Causal World Models Help Modular LLM Agents](https://arxiv.org/abs/2610.00012) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution](https://arxiv.org/abs/2610.00015) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA](https://arxiv.org/abs/2610.00018) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?](https://arxiv.org/abs/2610.00025) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs](https://arxiv.org/abs/2610.00047) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Gradient-Aligned Pair Selection for Personalized Preference Optimization](https://arxiv.org/abs/2610.00061) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
