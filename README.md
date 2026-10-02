@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-02 11:18 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-02 16:48 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Decoder** | Research | 🖼️ | ● HIGH | [AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision](https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/) |
-| 02 | **Product Wire · Optimum** | Products & Agents | ◈ | ● HIGH | [Optimum Brings Fastest Fiber Internet to Abbeville, Investing in the Community’s Future](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVHE3LVp3ckZSSGh5V1NNLXhEQnd4YjduZ3lNdnVmdGpvNWhwNTVKZVpkazgyQzlCLTU1bml5YXhMMDQ1Vm9kWTZGTTROaU1EMVFVOGQ1WDh5OFlfNkREUEdscE1ONjRJdVc5am9BckF0Snl5YlNvYXZlTnAxMmNDUC1Xa0o2N2RBX2VTdGpfdw?oc=5) |
-| 03 | **WIRED AI** | Research | 🖼️ | ● HIGH | [A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data](https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/) |
-| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [AI music maker Suno now generates spoken words](https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability) |
-| 05 | **Product Wire · Tavus** | Products & Agents | ◈ | ● HIGH | [😺 48% thought Tavus’s AI was human](https://news.google.com/rss/articles/CBMickFVX3lxTE83MkhVMmhnX2gyTWJaUC1UdXhpcjVxR2NRM2ZaS2JjdjBKWUZ6Tm5oeTJtelhDMXVyZmlaaFhoaExYc2hPQURralFBTXJObHEwVks3SHBCOWVvTGp2OTA5MTJkSEgyMjBxM2tMVGRabUdWUQ?oc=5) |
-| 06 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Health Care Workers Are Tired of Cleaning Up Palantir’s Mess](https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/) |
-| 07 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Microsoft AI releases new transcription and text-to-speech models for voice agents](https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/) |
-| 08 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Businesses are using more AI and paying less for it, Ramp AI Index shows](https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 10 | **MIT Technology Review AI** | Industry | ◈ | ● HIGH | [Don’t be fooled—LLMs don’t reason](https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/) |
-| 11 | **Product Wire · Murf AI** | Products & Agents | ◈ | ● HIGH | [Murf AI Mobile App Download](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kWlpXdUFPeHpnYnpHWlhsLVBycENIUWJfMUd2TkVpUjlIM0g4Y2hXekdjd0lsS082N3B0VEpXWXRYeHd4QWphWlNsaVhjSDFKTS04?oc=5) |
-| 12 | **The Decoder** | Open Source | 🖼️ | ◐ MED | [Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone](https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/) |
+| 01 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [PixAl Releases Tsubaki.3 and Publishes Technical Report on Preserving Style Diversity in Al-Generated Anime](https://www.reddit.com/r/artificial/comments/1wvydq1/pixal_releases_tsubaki3_and_publishes_technical/) |
+| 02 | **OpenAI News** | Frontier Models | ◈ | ● HIGH | [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6) |
+| 03 | **WIRED AI** | Research | 🖼️ | ● HIGH | [These AI Experts Want to Do High-Stakes Research Out in the Open](https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/) |
+| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Facebook feed is now majority AI](https://www.reddit.com/r/artificial/comments/1wvxfey/facebook_feed_is_now_majority_ai/) |
+| 05 | **MIT Technology Review AI** | Research | 🖼️ | ● HIGH | [Redefining enterprise intelligence with autonomous AI](https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/) |
+| 06 | **AWS Machine Learning** | Compliance & Ethics | ◈ | ● HIGH | [Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern](https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/) |
+| 07 | **AWS Machine Learning** | Frontier Models | ◈ | ● HIGH | [Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/) |
+| 08 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/) |
+| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Pope Leo XIV is not a fan of AI-generated art](https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/) |
+| 10 | **European AI Office** | Compliance & Ethics | ◈ | ● HIGH | [The KIDS Act explained - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMickFVX3lxTFB4MkVOUVUyYjhQeVRYNkM4RWprSm43ZVIzMzRDU2ZTa1RCRkRHLVUycUd1SDJocWZUeHJ1VXpmUWwwY0lwVzN5UHozUGtUWHp0S180bjFlcy1WX3Y3NGxYUS16b1hGc1dSZ3QzMHBmQmpaQQ?oc=5) |
+| 11 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief) |
+| 12 | **Google AI Blog** | Industry | 🖼️ | ● HIGH | [The latest AI news we announced in September 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
