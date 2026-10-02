@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-02 16:48 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-02 21:16 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [PixAl Releases Tsubaki.3 and Publishes Technical Report on Preserving Style Diversity in Al-Generated Anime](https://www.reddit.com/r/artificial/comments/1wvydq1/pixal_releases_tsubaki3_and_publishes_technical/) |
-| 02 | **OpenAI News** | Frontier Models | ◈ | ● HIGH | [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6) |
-| 03 | **WIRED AI** | Research | 🖼️ | ● HIGH | [These AI Experts Want to Do High-Stakes Research Out in the Open](https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/) |
-| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Facebook feed is now majority AI](https://www.reddit.com/r/artificial/comments/1wvxfey/facebook_feed_is_now_majority_ai/) |
-| 05 | **MIT Technology Review AI** | Research | 🖼️ | ● HIGH | [Redefining enterprise intelligence with autonomous AI](https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/) |
-| 06 | **AWS Machine Learning** | Compliance & Ethics | ◈ | ● HIGH | [Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern](https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/) |
-| 07 | **AWS Machine Learning** | Frontier Models | ◈ | ● HIGH | [Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/) |
-| 08 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Pope Leo XIV is not a fan of AI-generated art](https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/) |
-| 10 | **European AI Office** | Compliance & Ethics | ◈ | ● HIGH | [The KIDS Act explained - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMickFVX3lxTFB4MkVOUVUyYjhQeVRYNkM4RWprSm43ZVIzMzRDU2ZTa1RCRkRHLVUycUd1SDJocWZUeHJ1VXpmUWwwY0lwVzN5UHozUGtUWHp0S180bjFlcy1WX3Y3NGxYUS16b1hGc1dSZ3QzMHBmQmpaQQ?oc=5) |
-| 11 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief) |
-| 12 | **Google AI Blog** | Industry | 🖼️ | ● HIGH | [The latest AI news we announced in September 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/) |
+| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Sean Parker is rebuilding Stability AI around music](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Looking for local Ai Video Generation from text and images in 8gn Vram](https://www.reddit.com/r/artificial/comments/1ww4y9k/looking_for_local_ai_video_generation_from_text/) |
+| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Meta is giving Muse subscribers a free gadget that lets its AI control your smart home](https://www.reddit.com/r/artificial/comments/1ww4mhj/meta_is_giving_muse_subscribers_a_free_gadget/) |
+| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Trump’s ‘super intelligence’ is being mocked by tech industry insiders: report](https://www.reddit.com/r/artificial/comments/1ww4ixs/trumps_super_intelligence_is_being_mocked_by_tech/) |
+| 05 | **Anthropic News** | Frontier Models | ◈ | ● HIGH | [Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5) |
+| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [A question for the AI "experts": are hallucinations and reliability genuinely improving, or are we starting to plateau? Everything depends on this...](https://www.reddit.com/r/artificial/comments/1ww43mn/a_question_for_the_ai_experts_are_hallucinations/) |
+| 07 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Apple will limit Mac disk access as AI agents ‘substantially’ increase risk](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents) |
+| 08 | **The Decoder** | Industry | 🖼️ | ● HIGH | [AI music generator Suno can now create spoken audio with matching background music](https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/) |
+| 09 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Anthropic co-founder reportedly told religious leaders he fears having created something that "suffers perpetually"](https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/) |
+| 10 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Computational tools for society’s most complex challenges](https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002) |
+| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
