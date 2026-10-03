@@ -55,11 +55,13 @@ Strict AI-only relevance filtering across labs, research, independent reporting,
 
 ### 📱 ANDROID 3.9 BETA
 
-Command Center home, Discover search, source controls, saved stories, Smart Watches and nine configurable home-screen widgets.
+Command Center home, Discover search, multilingual YouTube Video Radar, source controls, saved stories, Smart Watches and nine configurable home-screen widgets.
 
 **3.8.1 startup repair:** Readability recovery, one primary navigation surface, Matrix-safe scrolling, duplicate-WebView boot prevention, an explicit Settings entry and a dedicated Discover surface are included in this repair build.
 
-**3.8.1 UX layer:** Official X/Twitter, LinkedIn, YouTube, Instagram and Facebook provider profiles; local source-first topic views; live news/social radar with adjustable window; Matrix glyph rain; 28 selectable app/widget themes and two Kawaii plush themes.\n\n**3.9.0 Video Radar:** New multilingual YouTube AI News tab with freely selectable languages, system-language default, per-story YouTube discovery for every scanned news item, and dynamic coverage of the full provider registry. Known official YouTube channels are linked directly; providers without a registered channel still receive a provider-specific YouTube discovery search.
+**3.8.1 UX layer:** Official X/Twitter, LinkedIn, YouTube, Instagram and Facebook provider profiles; local source-first topic views; live news/social radar with adjustable window; Matrix glyph rain; 28 selectable app/widget themes and two Kawaii plush themes.
+
+**3.9.0 Video Radar:** New multilingual YouTube AI News tab with freely selectable languages, system-language default, per-story YouTube discovery for every scanned news item, and dynamic coverage of the full provider registry. Known official YouTube channels are linked directly; providers without a registered channel still receive a provider-specific YouTube discovery search.
 
 **[⬇ Download current APK →](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)**
 
@@ -116,6 +118,21 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 
 ---
 
+## ▶ Multilingual YouTube AI Video Radar
+
+Android **3.9.0** adds a dedicated Video tab that connects the existing AI-news intelligence layer with YouTube discovery without requiring a YouTube Data API key.
+
+- **Every scanned AI story is covered:** each news item can generate a YouTube search from the exact headline plus detected provider context.
+- **Free multi-language selection:** the device language is only the default; users can enable German, English, French, Spanish, Italian and many other languages at the same time, or add another language code manually.
+- **Dynamic provider coverage:** the complete provider registry participates. There is no fixed shortlist of selected AI companies.
+- **Official-channel shortcuts:** when an official YouTube profile is known in the social directory, the app links directly to it; otherwise a provider-specific YouTube discovery search remains available.
+- **Per-story access:** normal news cards expose a **▶ Video** action so related YouTube coverage is one tap away.
+- **Views:** News → Video, provider/channel discovery and a combined radar can be filtered by topic, provider or source.
+
+The app opens YouTube results and original provider channels rather than mirroring or embedding scraped YouTube content. This keeps the feature API-key-free and avoids depending on fragile YouTube page markup.
+
+---
+
 <!-- PRODUCT_WIRE:START -->
 ## ◈ Product & Service Wire
 
@@ -143,25 +160,29 @@ The product desk monitors usable AI services separately from general model news:
 ---
 
 <!-- INTELLIGENCE_SUITE:START -->
-## ◉ Intelligence Suite 3.8 — Discover & Expanded Intelligence · BETA
+## ◉ Intelligence Suite 3.9 — Video Radar & Expanded Intelligence · BETA
 
 Android 3.9 keeps **Latest · For You · High Signal · Story Clusters · Brief** and the expanded Discover surface. Search starts only after an explicit tap.
 
-**New in 3.8:** Social Wire with 61 provider ecosystems and official multi-platform links · a product/service wire with 264 tracked products · a separate Governance desk for AI czar / AI Force, laws, standards and ethics · interactive radar with Matrix rain · 28 app/widget themes including Kawaii Plush and Kawaii Candy · Smart Brief presets for Morning / Evening / Since last visit · quick Smart-Watch templates · Widget Studio presets · local For-You reset/control · expanded core+extended source registry · 160 AI sources · 61 provider ecosystems.\n\n**New in 3.9:** Video News / YouTube Radar · multi-language selection instead of one-device-language lock-in · direct per-article YouTube queries generated from headline + provider context · official-channel shortcuts when known · no fixed provider shortlist.
+**New in 3.8:** Social Wire with 61 provider ecosystems and official multi-platform links · a product/service wire with 264 tracked products · a separate Governance desk for AI czar / AI Force, laws, standards and ethics · interactive radar with Matrix rain · 28 app/widget themes including Kawaii Plush and Kawaii Candy · Smart Brief presets for Morning / Evening / Since last visit · quick Smart-Watch templates · Widget Studio presets · local For-You reset/control · expanded core+extended source registry · 160 AI sources · 61 provider ecosystems.
+
+**New in 3.9:** Video News / YouTube Radar · multi-language selection instead of one-device-language lock-in · direct per-article YouTube queries generated from headline + provider context · official-channel shortcuts when known · no fixed provider shortlist.
 
 This release contains no generative model runtime; news discovery, filtering, clustering, brief overviews, TTS, watchlists and original-source links remain available locally.
 
 > **Development status:** this is an active beta/test build. Bugs, incomplete functions and breaking changes are possible. **Use at your own risk / Nutzung auf eigene Gefahr.**
 
-### [⬇ Download AI News Android 3.8 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.9 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- INTELLIGENCE_SUITE:END -->
 
 ---
 
 ## ✦ AI News 3.9.0 · Video Radar & UX Command Center
 
-The current beta turns the app and GitHub Page into a personal AI intelligence workspace:
+The current beta turns the app into a personal AI intelligence workspace and adds a multilingual AI-video discovery layer:
 
+- **Video Radar:** every scanned news story can launch language-aware YouTube discovery; official provider channels are surfaced when known.
+- **Multi-language video discovery:** multiple languages can be enabled simultaneously instead of locking discovery to the device language.
 - **Command Center overview:** Signal Atlas and Provider Matrix summarize the live feed before you open a tab.
 - **Collapsible controls:** search stays immediately available while filters, categories, provider chips and source controls can be minimized.
 - **Complete provider wire:** core + extended registry with provider dossiers, official newsroom links and current coverage.
@@ -173,15 +194,15 @@ All custom filters, sources, profile links and the local personalization data re
 
 ---
 
-## 📱 Android 3.8 Beta — Discover & Expanded Intelligence
+## 📱 Android 3.9 Beta — Multilingual Video Radar & Expanded Intelligence
 
-The APK uses a local mobile interface rather than depending on GitHub Pages. Android 3.8.1 contains no generative model runtime; news, filters, radar, TTS, watchlists and original-source links remain available. It downloads the current AI-only JSON feed directly from this repository and keeps a bundled offline fallback inside the package.
+The APK uses a local mobile interface rather than depending on GitHub Pages. Android 3.9.0 contains no generative model runtime; news, filters, radar, TTS, watchlists and original-source links remain available. It downloads the current AI-only JSON feed directly from this repository and keeps a bundled offline fallback inside the package.
 
 **UX:** horizontal swipe navigation, Command Center home, advanced Discover search, provider/source/category/provenance/time filters, Rich/Compact/Headline card modes, saved stories, native sharing, Governance Radar, Official Social and product monitoring.
 
 **Customization:** Hypercyber/OLED/Light/System themes, multiple accents, UI density, font scale, animation level, summaries, visual previews, default time range, sorting, refresh cadence, primary-source boost, provider monitors and research-paper visibility.
 
-### [⬇ Download current Android 3.8.1 Beta APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download current Android 3.9.0 Beta APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 
 > [!CAUTION]
 > This direct APK is a **debug-signed development/beta build**. Installation and use are at your own risk. Back up important data and do not treat the app as production-critical software. A Play Store production package should use dedicated release signing and an AAB pipeline.
@@ -191,13 +212,13 @@ The APK uses a local mobile interface rather than depending on GitHub Pages. And
 <!-- ANDROID_WIDGETS:START -->
 ## ⚡ Hypercyber Android Widgets · BETA
 
-Android **3.8** ships nine native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock · Live AI Radar**.
+Android **3.9** ships nine native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock · Live AI Radar**.
 
 Widgets share source exclusions, expose configurable content mode/accent/text scale/density/summary/metadata, support **Next › · Refresh ↻**, and include one-tap **Widget Studio presets** for balanced, minimal, dense and desk-specific setups. Tapping a headline opens the original source directly.
 
 > Widget refresh timing and rendering can vary by Android device, launcher and battery-management policy. This remains beta functionality.
 
-### [⬇ Download AI News Android 3.8 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.9 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- ANDROID_WIDGETS:END -->
 
 ---
@@ -227,7 +248,7 @@ Every page carries the same beta status, current APK link and legal/privacy navi
 - `android/` — Android beta app, native widgets and local mobile UI
 - `assets/branding/` — repository/web logo system
 - `.github/workflows/refresh-news.yml` — 30-minute feed refresh
-- .github/workflows/android-apk.yml — Android 3.8 beta build and stable `android-latest` download
+- .github/workflows/android-apk.yml — Android 3.9 beta build and stable `android-latest` download
 
 ### Android build
 
