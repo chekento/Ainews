@@ -114,7 +114,7 @@ function radarMap(){
 function renderRelated(){
   const host=document.querySelector('#videoRelated');if(!host)return;
   const map=radarMap(),term=prefs.query.toLowerCase();
-  let list=state.news.filter(i=>!term||([i.title,i.source,i.category,...(i.providers||[])].join(' ').toLowerCase().includes(term))).slice(0,160);
+  let list=state.news.filter(i=>!term||([i.title,i.source,i.category,...(i.providers||[])].join(' ').toLowerCase().includes(term)));
   const rows=list.map(i=>{
     const match=map.get(i.id),q=articleQuery(i),providers=(i.providers||[]).map(id=>state.providers.find(p=>p.id===id)).filter(Boolean);
     const cached=(match?.results||[]).filter(r=>!r.language||prefs.languages.includes(r.language)||r.language==='und').slice(0,3);
