@@ -4,7 +4,7 @@ Versioned Android releases are immutable download points. The stable alias [andr
 
 | Version | Downloads | Release | Notes |
 |---|---|---|---|
-| 3.9.0 Beta | [APK](https://github.com/chekento/Ainews/releases/download/android-v3.9.0/AI-News-Android-3.9.0.apk) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-v3.9.0/AI-News-Android-3.9.0.apk.sha256) | [Release assets](https://github.com/chekento/Ainews/releases/tag/android-v3.9.0) | Multilingual YouTube AI Video Radar · every scanned story gets video discovery · dynamic full provider registry · official-channel shortcuts · per-story ▶ Video action |
+| 3.9.0 Beta | [APK](https://github.com/chekento/Ainews/releases/download/android-v3.9.0/AI-News-Android-3.9.0.apk) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-v3.9.0/AI-News-Android-3.9.0.apk.sha256) | [Release assets](https://github.com/chekento/Ainews/releases/tag/android-v3.9.0) | Versioned archive entry |
 | 3.8.1 Beta | [APK](https://github.com/chekento/Ainews/releases/download/android-v3.8.1/AI-News-Android-3.8.1.apk) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-v3.8.1/AI-News-Android-3.8.1.apk.sha256) | [Release assets](https://github.com/chekento/Ainews/releases/tag/android-v3.8.1) | Versioned archive entry |
 | 3.8.0 Beta | [APK](https://github.com/chekento/Ainews/releases/download/android-v3.8.0/AI-News-Android-3.8.0.apk) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-v3.8.0/AI-News-Android-3.8.0.apk.sha256) | [Release assets](https://github.com/chekento/Ainews/releases/tag/android-v3.8.0) | Versioned archive entry |
 | 3.7.3 Beta | [APK](https://github.com/chekento/Ainews/releases/download/android-v3.7.3/AI-News-Android-3.7.3.apk) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-v3.7.3/AI-News-Android-3.7.3.apk.sha256) | [Release assets](https://github.com/chekento/Ainews/releases/tag/android-v3.7.3) | Versioned archive entry |
@@ -13,7 +13,6 @@ Versioned Android releases are immutable download points. The stable alias [andr
 | 3.7.0 Beta | [APK](https://github.com/chekento/Ainews/releases/download/android-v3.7.0/AI-News-Android-3.7.0.apk) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-v3.7.0/AI-News-Android-3.7.0.apk.sha256) | [Release assets](https://github.com/chekento/Ainews/releases/tag/android-v3.7.0) | Versioned archive entry |
 | 3.6.0 Beta | [APK](https://github.com/chekento/Ainews/releases/download/android-v3.6.0/AI-News-Android-3.6.0.apk) · [SHA-256](https://github.com/chekento/Ainews/releases/download/android-v3.6.0/AI-News-Android-3.6.0.apk.sha256) | [Release assets](https://github.com/chekento/Ainews/releases/tag/android-v3.6.0) | Versioned archive entry |
 | 3.5.0 Beta | [Current stable alias before 3.6](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk) | [Release archive](https://github.com/chekento/Ainews/releases) | Preserved by the next Android build |
-
 
 ## Changelog
 
