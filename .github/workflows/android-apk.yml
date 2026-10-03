@@ -54,7 +54,7 @@ jobs:
           node --check android/app/src/main/assets/media.js
           node --check android/app/src/main/assets/intelligence-v3.js
           node --check android/app/src/main/assets/ux-v31.js
-          node --check android/app/src/main/assets/ux-v32.js
+          node --check android/app/src/main/assets/ux-v32.js\n          node --check android/app/src/main/assets/video-news.js
           node --check scripts/patch-mobile-discover.mjs
           node --check scripts/fetch-news.mjs
           node --check scripts/fetch-news-expanded.mjs
@@ -104,7 +104,7 @@ jobs:
           sha256sum dist/AI-News.apk > dist/AI-News.apk.sha256
       - uses: actions/upload-artifact@v4
         with:
-          name: AI-News-Android-3.8.1-Beta
+          name: AI-News-Android-3.9.0-Beta
           path: |
             dist/AI-News.apk
             dist/AI-News.apk.sha256
@@ -129,10 +129,10 @@ jobs:
           ARCHIVE_APK="AI-News-Android-${VERSION}.apk"
           cp dist/AI-News.apk "dist/${ARCHIVE_APK}"
           sha256sum "dist/${ARCHIVE_APK}" > "dist/${ARCHIVE_APK}.sha256"
-          NOTES="AI News Android ${VERSION} Beta · Product & Service Wire, separate Governance & Ethics desk, US AI czar / AI Force watch, settings persistence, kosch.cloud partner banner, LLM-free source-first research UI with no generative runtime, legal links and versioned APK archive. The APK is a debug-signed beta/development build; use at your own risk."
+          NOTES="AI News Android ${VERSION} Beta · Multilingual YouTube AI Video Radar, per-story video discovery, dynamic official-provider channel links, Product & Service Wire, separate Governance & Ethics desk, settings persistence, kosch.cloud partner banner, source-first research UI with no generative runtime, legal links and versioned APK archive. The APK is a debug-signed beta/development build; use at your own risk."
           if gh release view "${TAG}" >/dev/null 2>&1; then
             gh release upload "${TAG}" "dist/${ARCHIVE_APK}" "dist/${ARCHIVE_APK}.sha256" --clobber
-            gh release edit "${TAG}" --title "AI News Android ${VERSION} Beta · Product & Governance Wire" --notes "${NOTES}"
+            gh release edit "${TAG}" --title "AI News Android ${VERSION} Beta · Video Radar & Intelligence Wire" --notes "${NOTES}"
           else
             gh release create "${TAG}" "dist/${ARCHIVE_APK}" "dist/${ARCHIVE_APK}.sha256" --target "${GITHUB_SHA}" --title "AI News Android ${VERSION} Beta · Product & Governance Wire" --notes "${NOTES}"
           fi
