@@ -13,16 +13,17 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-BETA_%2F_IN_DEVELOPMENT-FFB347?style=for-the-badge" alt="Beta / in development">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.9_BETA-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download current Android Beta APK"></a>
+  <a href="https://github.com/chekento/Ainews/releases/download/android-v3.9.0/AI-News-Android-3.9.0.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.9_BETA-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download current Android Beta APK"></a>
 </p>
 
 > [!WARNING]
 > **BETA / IN DEVELOPMENT.** AI News and the Android APK are active test builds and may contain bugs, incomplete functions, inaccurate classifications, notification issues or breaking changes. **Use at your own risk / Nutzung auf eigene Gefahr.** Do not rely on the app as the sole source for important, legal, safety-critical, financial or operational decisions. Verify important information with the linked original sources. The directly distributed APK is currently a **debug-signed beta build**, not a production Play Store release.
 
 <p align="center">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.9.0 BETA</strong></a><br>
-  <a href="https://github.com/chekento/Ainews/releases/tag/android-latest">Release details</a> ·
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256">SHA-256 checksum</a> ·
+  <a href="https://github.com/chekento/Ainews/releases/download/android-v3.9.0/AI-News-Android-3.9.0.apk"><strong>⬇ CURRENT APK — ANDROID 3.9.0 BETA</strong></a><br>
+  <a href="https://github.com/chekento/Ainews/releases/tag/android-v3.9.0">Release details</a> ·
+  <a href="https://github.com/chekento/Ainews/releases/tag/android-latest">Stable alias: android-latest</a> ·
+  <a href="https://github.com/chekento/Ainews/releases/download/android-v3.9.0/AI-News-Android-3.9.0.apk.sha256">SHA-256 checksum</a> ·
   <a href="PRIVACY.md">Datenschutz · KI · Drittanbieter</a> ·
   <a href="https://kosch.cloud">Impressum / kosch.cloud</a>
 </p>
@@ -63,7 +64,7 @@ Command Center home, Discover search, multilingual YouTube Video Radar, source c
 
 **3.9.0 Video Radar:** New multilingual YouTube AI News tab with freely selectable languages, system-language default, per-story YouTube discovery for every scanned news item, and dynamic coverage of the full provider registry. Known official YouTube channels are linked directly; providers without a registered channel still receive a provider-specific YouTube discovery search.
 
-**[⬇ Download current APK →](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)**
+**[⬇ Download current APK →](https://github.com/chekento/Ainews/releases/download/android-v3.9.0/AI-News-Android-3.9.0.apk)**
 
 </td>
 </tr>
@@ -170,7 +171,7 @@ This release contains no generative model runtime; news discovery, filtering, cl
 
 > **Development status:** this is an active beta/test build. Bugs, incomplete functions and breaking changes are possible. **Use at your own risk / Nutzung auf eigene Gefahr.**
 
-### [⬇ Download AI News Android 3.9.0 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.9.0 Beta](https://github.com/chekento/Ainews/releases/download/android-v3.9.0/AI-News-Android-3.9.0.apk)
 <!-- INTELLIGENCE_SUITE:END -->
 
 ---
@@ -200,7 +201,7 @@ The APK uses a local mobile interface rather than depending on GitHub Pages. And
 
 **Customization:** Hypercyber/OLED/Light/System themes, multiple accents, UI density, font scale, animation level, summaries, visual previews, default time range, sorting, refresh cadence, primary-source boost, provider monitors and research-paper visibility.
 
-### [⬇ Download current Android 3.9.0 Beta APK](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download current Android 3.9.0 Beta APK](https://github.com/chekento/Ainews/releases/download/android-v3.9.0/AI-News-Android-3.9.0.apk)
 
 > [!CAUTION]
 > This direct APK is a **debug-signed development/beta build**. Installation and use are at your own risk. Back up important data and do not treat the app as production-critical software. A Play Store production package should use dedicated release signing and an AAB pipeline.
@@ -216,7 +217,7 @@ Widgets share source exclusions, expose configurable content mode/accent/text sc
 
 > Widget refresh timing and rendering can vary by Android device, launcher and battery-management policy. This remains beta functionality.
 
-### [⬇ Download AI News Android 3.9.0 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.9.0 Beta](https://github.com/chekento/Ainews/releases/download/android-v3.9.0/AI-News-Android-3.9.0.apk)
 <!-- ANDROID_WIDGETS:END -->
 
 ---
@@ -258,8 +259,8 @@ Java: 21
 
 ### Current direct-test release
 
-- APK: `https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk`
-- SHA-256: [download checksum](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256)
+- APK: `https://github.com/chekento/Ainews/releases/download/android-v3.9.0/AI-News-Android-3.9.0.apk`
+- SHA-256: [download checksum](https://github.com/chekento/Ainews/releases/download/android-v3.9.0/AI-News-Android-3.9.0.apk.sha256)
 - Release channel: `android-latest`
 
 </details>
