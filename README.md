@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-03 19:22 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-03 22:23 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Apparently, OpenAI isn't trying to build "magic intelligence in the sky" anymore](https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/) |
-| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Discussion with AI over ultimate dominance](https://www.reddit.com/r/artificial/comments/1wwuuh0/discussion_with_ai_over_ultimate_dominance/) |
-| 03 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Amazon responds to data center backlash, says it no longer uses NDAs](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/) |
-| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Someday all of reddit including this post, will fit in a single context window](https://www.reddit.com/r/artificial/comments/1wwtxus/someday_all_of_reddit_including_this_post_will/) |
-| 05 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/) |
-| 06 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Is AI actually saving you time, or are you spending that time managing AI?](https://www.reddit.com/r/artificial/comments/1wwsdk5/is_ai_actually_saving_you_time_or_are_you/) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [- Cursor](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jb1BZU1VCclNBdWVMYVBxcUs1WjF2YWl6MTVycVd1NzdyclAzdlU2VzBKcGdtS2d1R3FJR1FXTVhqNVR0YVNTUQ?oc=5) |
-| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development) |
-| 09 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/) |
-| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 12 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Introducing Oscilloscope Diffusion](https://www.reddit.com/r/artificial/comments/1wwqupm/introducing_oscilloscope_diffusion/) |
+| 01 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | ["Accepted papers must be imported" deadline NeurIPS 2026 [D]](https://www.reddit.com/r/MachineLearning/comments/1wwz403/accepted_papers_must_be_imported_deadline_neurips/) |
+| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [- Cursor](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jb1BZU1VCclNBdWVMYVBxcUs1WjF2YWl6MTVycVd1NzdyclAzdlU2VzBKcGdtS2d1R3FJR1FXTVhqNVR0YVNTUQ?oc=5) |
+| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 05 | **Luma AI** | Industry | ◈ | ● HIGH | [- platform.lumalabs.ai](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzeHBuaGs5ZlpXMjlKUVVUbDBoTlVXb3pFbVpOcEotRDBSU3g3cTUzRlp5RVhNSjhOV3p4RGNlMlN0NEE?oc=5) |
+| 06 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Apparently, OpenAI isn't trying to build "magic intelligence in the sky" anymore](https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/) |
+| 07 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Amazon responds to data center backlash, says it no longer uses NDAs](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/) |
+| 08 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]](https://www.reddit.com/r/MachineLearning/comments/1wwtpg6/the_principles_of_diffusion_models_by_lai_et_al/) |
+| 09 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/) |
+| 10 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development) |
+| 11 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/) |
+| 12 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [ICLR 2027 Reviewing Scores [D]](https://www.reddit.com/r/MachineLearning/comments/1wwqzxy/iclr_2027_reviewing_scores_d/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
