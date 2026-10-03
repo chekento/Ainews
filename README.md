@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://github.com/chekento/Ainews/releases/download/android-v3.9.0/AI-News-Android-3.9.0.apk"><strong>⬇ CURRENT APK — ANDROID 3.9.0 BETA</strong></a><br>
   <a href="https://github.com/chekento/Ainews/releases/tag/android-v3.9.0">Release details</a> ·
-  <a href="https://github.com/chekento/Ainews/releases/tag/android-latest">Stable alias: android-latest</a> ·
+  <a href="https://github.com/chekento/Ainews/releases/tag/android-v3.9.0">Stable alias: android-latest</a> ·
   <a href="https://github.com/chekento/Ainews/releases/download/android-v3.9.0/AI-News-Android-3.9.0.apk.sha256">SHA-256 checksum</a> ·
   <a href="PRIVACY.md">Datenschutz · KI · Drittanbieter</a> ·
   <a href="https://kosch.cloud">Impressum / kosch.cloud</a>
@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-03 18:10 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-03 18:15 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/) |
-| 02 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Is AI actually saving you time, or are you spending that time managing AI?](https://www.reddit.com/r/artificial/comments/1wwsdk5/is_ai_actually_saving_you_time_or_are_you/) |
-| 03 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development) |
-| 04 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 07 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Introducing Oscilloscope Diffusion](https://www.reddit.com/r/artificial/comments/1wwqupm/introducing_oscilloscope_diffusion/) |
-| 08 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [What happens to local accents when every message gets polished by AI?](https://www.reddit.com/r/artificial/comments/1wwplw1/what_happens_to_local_accents_when_every_message/) |
-| 09 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Ben Affleck says he built 8 months of footage into a private AI layer so filmmakers keep ownership — why most models still train on peers without consent](https://www.reddit.com/r/artificial/comments/1wwphsv/ben_affleck_says_he_built_8_months_of_footage/) |
-| 10 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm) |
-| 11 | **The Decoder** | Open Source | 🖼️ | ● HIGH | ["Muse Gadgets" turns AI hardware into an open-source DIY project](https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/) |
-| 12 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings](https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/) |
+| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Someday all of reddit including this post, will fit in a single context window](https://www.reddit.com/r/artificial/comments/1wwtxus/someday_all_of_reddit_including_this_post_will/) |
+| 02 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/) |
+| 03 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Is AI actually saving you time, or are you spending that time managing AI?](https://www.reddit.com/r/artificial/comments/1wwsdk5/is_ai_actually_saving_you_time_or_are_you/) |
+| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development) |
+| 05 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 08 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Introducing Oscilloscope Diffusion](https://www.reddit.com/r/artificial/comments/1wwqupm/introducing_oscilloscope_diffusion/) |
+| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [What happens to local accents when every message gets polished by AI?](https://www.reddit.com/r/artificial/comments/1wwplw1/what_happens_to_local_accents_when_every_message/) |
+| 10 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Ben Affleck says he built 8 months of footage into a private AI layer so filmmakers keep ownership — why most models still train on peers without consent](https://www.reddit.com/r/artificial/comments/1wwphsv/ben_affleck_says_he_built_8_months_of_footage/) |
+| 11 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm) |
+| 12 | **The Decoder** | Open Source | 🖼️ | ● HIGH | ["Muse Gadgets" turns AI hardware into an open-source DIY project](https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
@@ -121,7 +121,7 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 
 ## ▶ Multilingual YouTube AI Video Radar
 
-Android **3.9.0** adds a dedicated Video tab that connects the existing AI-news intelligence layer with YouTube discovery without requiring a YouTube Data API key.
+Android **3.9** adds a dedicated Video tab that connects the existing AI-news intelligence layer with YouTube discovery without requiring a YouTube Data API key.
 
 - **Every scanned AI story is covered:** each news item can generate a YouTube search from the exact headline plus detected provider context.
 - **Free multi-language selection:** the device language is only the default; users can enable German, English, French, Spanish, Italian and many other languages at the same time, or add another language code manually.
