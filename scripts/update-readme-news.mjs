@@ -50,12 +50,12 @@ out=upsert(out,'<!-- LATEST_AI_NEWS:START -->','<!-- LATEST_AI_NEWS:END -->',lat
 out=upsert(out,'<!-- INTELLIGENCE_SUITE:START -->','<!-- INTELLIGENCE_SUITE:END -->',intelligence,'## 📱 Android');
 out=upsert(out,'<!-- PRODUCT_WIRE:START -->','<!-- PRODUCT_WIRE:END -->',productWire,'## 🧭 Signal Deck');
 out=upsert(out,'<!-- ANDROID_WIDGETS:START -->','<!-- ANDROID_WIDGETS:END -->',widgets,'## 🧠 AI-only ingestion');
-out=out.replace(/DOWNLOAD_ANDROID_[0-9.]+(?:_BETA)?/g,'DOWNLOAD_ANDROID_3.8_BETA')
-  .replace(/CURRENT APK — ANDROID [0-9.]+ BETA/g,'CURRENT APK — ANDROID 3.8 BETA')
-  .replace(/### 📱 ANDROID [0-9.]+ BETA/g,'### 📱 ANDROID 3.8 BETA')
-  .replace(/## 📱 Android [0-9.]+[^\n]*/g,'## 📱 Android 3.8 Beta — Discover & Expanded Intelligence')
-  .replace(/AI News Android [0-9.]+(?: Beta)?/g,'AI News Android 3.8 Beta')
-  .replace(/Android \*\*[0-9.]+\*\*/g,'Android **3.8**')
+out=out.replace(/DOWNLOAD_ANDROID_[0-9.]+(?:_BETA)?/g,'DOWNLOAD_ANDROID_'+androidMinor+'_BETA')
+  .replace(/CURRENT APK — ANDROID [0-9.]+ BETA/g,'CURRENT APK — ANDROID '+androidVersion+' BETA')
+  .replace(/### 📱 ANDROID [0-9.]+ BETA/g,'### 📱 ANDROID '+androidVersion+' BETA')
+  .replace(/## 📱 Android [0-9.]+[^\n]*/g,'## 📱 Android '+androidVersion+' Beta — Multilingual Video Radar & Expanded Intelligence')
+  .replace(/AI News Android [0-9.]+(?: Beta)?/g,'AI News Android '+androidVersion+' Beta')
+  .replace(/Android \*\*[0-9.]+\*\*/g,'Android **'+androidMinor+'**')
   .replace(/Source-first · \d+ curated AI sources · \d+ provider monitors/g,`Source-first · ${data.sourceCount||0} registered AI sources · ${data.providerCount||0} provider monitors`)
   .replace(/badge\/\d+_AI_SOURCES-/g,`badge/${data.sourceCount||0}_AI_SOURCES-`)
   .replace(/alt="\d+ AI sources"/g,`alt="${data.sourceCount||0} AI sources"`)
