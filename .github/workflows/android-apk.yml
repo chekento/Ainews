@@ -135,15 +135,15 @@ jobs:
             gh release upload "${TAG}" "dist/${ARCHIVE_APK}" "dist/${ARCHIVE_APK}.sha256" --clobber
             gh release edit "${TAG}" --title "AI News Android ${VERSION} Beta · Video Radar & Intelligence Wire" --notes "${NOTES}"
           else
-            gh release create "${TAG}" "dist/${ARCHIVE_APK}" "dist/${ARCHIVE_APK}.sha256" --target "${GITHUB_SHA}" --title "AI News Android ${VERSION} Beta · Product & Governance Wire" --notes "${NOTES}"
+            gh release create "${TAG}" "dist/${ARCHIVE_APK}" "dist/${ARCHIVE_APK}.sha256" --target "${GITHUB_SHA}" --title "AI News Android ${VERSION} Beta · Video Radar & Intelligence Wire" --notes "${NOTES}"
           fi
           git tag -f android-latest "${GITHUB_SHA}"
           git push origin refs/tags/android-latest --force
           if gh release view android-latest >/dev/null 2>&1; then
             gh release upload android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --clobber
-            gh release edit android-latest --title "AI News Android ${VERSION} Beta · Product & Governance Wire" --notes "${NOTES}"
+            gh release edit android-latest --title "AI News Android ${VERSION} Beta · Video Radar & Intelligence Wire" --notes "${NOTES}"
           else
-            gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --target "${GITHUB_SHA}" --title "AI News Android ${VERSION} Beta · Product & Governance Wire" --notes "${NOTES}"
+            gh release create android-latest dist/AI-News.apk dist/AI-News.apk.sha256 --target "${GITHUB_SHA}" --title "AI News Android ${VERSION} Beta · Video Radar & Intelligence Wire" --notes "${NOTES}"
           fi
           node scripts/update-android-archive.mjs
           git config user.name "ai-news-bot"
