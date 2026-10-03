@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-02 21:16 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-03 00:41 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Sean Parker is rebuilding Stability AI around music](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/) |
-| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Looking for local Ai Video Generation from text and images in 8gn Vram](https://www.reddit.com/r/artificial/comments/1ww4y9k/looking_for_local_ai_video_generation_from_text/) |
-| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Meta is giving Muse subscribers a free gadget that lets its AI control your smart home](https://www.reddit.com/r/artificial/comments/1ww4mhj/meta_is_giving_muse_subscribers_a_free_gadget/) |
-| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Trump’s ‘super intelligence’ is being mocked by tech industry insiders: report](https://www.reddit.com/r/artificial/comments/1ww4ixs/trumps_super_intelligence_is_being_mocked_by_tech/) |
-| 05 | **Anthropic News** | Frontier Models | ◈ | ● HIGH | [Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5) |
-| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [A question for the AI "experts": are hallucinations and reliability genuinely improving, or are we starting to plateau? Everything depends on this...](https://www.reddit.com/r/artificial/comments/1ww43mn/a_question_for_the_ai_experts_are_hallucinations/) |
-| 07 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Apple will limit Mac disk access as AI agents ‘substantially’ increase risk](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents) |
-| 08 | **The Decoder** | Industry | 🖼️ | ● HIGH | [AI music generator Suno can now create spoken audio with matching background music](https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/) |
-| 09 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Anthropic co-founder reportedly told religious leaders he fears having created something that "suffers perpetually"](https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/) |
-| 10 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Computational tools for society’s most complex challenges](https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/) |
+| 01 | **Anthropic News** | Frontier Models | ◈ | ● HIGH | [Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5) |
+| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 03 | **WeRSM · provider monitor** | Industry | ◈ | ● HIGH | [Adobe Firefly Adds AI Music, Speech and Sound Effects](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTWhtaTlkS0FWUXQyQ0JzbmRtWDZYemVoUHZTY0lkNHF5WUlocWZIeHRkMHpYR05KOVh4RUozcUlhVC1CUTgwOTZhRV83RFRlVExwR1c5VlB4R3gxRWw3ZGhFRnlMSFZhTkw4TjV0ZjBURkpxa2RjVVhzb214eVBjQg?oc=5) |
+| 04 | **Meta AI** | Industry | ◈ | ● HIGH | [On Solvable Evolution Algebras and a Conjecture by García-Martínez and Pérez-Rodríguez - AI at Meta](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbUNxRTk0Rk5JdmcxeHBpOVZDQTJBU3dJS1hGOWNYZ09JOGdOd3d2YnY1YlZSekJiYnY0ZksxR0VKNGlxMmxPdXhhNUo4QzBpUXNTVVZLMmtHd19CTXZRZEhtdWU5alJzbGZHMzduZXRPYVlacjJjQ2RaZkV1akxzbjVfWkJPcktLOTRrdy0xMXUyNEFLTTN6Q0pJdzRBbkZwSFJfZGFJNXBPb0tUNmdVVVlOSDBuNlB3X1pxTDRhTS1tWXJoOWlxUg?oc=5) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 06 | **Semafor AI** | Industry | ◈ | ● HIGH | [Exclusive / How employees forced OpenAI’s president to back down - Semafor](https://news.google.com/rss/articles/CBMimgFBVV95cUxOQkNIaGItUndIa2RoYVZ4QVh1RE5XOUFkN2NrQUhqdjRfVS0yc2x4VzdaQWFraDVzeVFVcTF0amc4LTJfM2hyU0RwWkVKZERyS3lMLXo1V0pYSWVXUUFYc1RuX2h4aVp2UHZPMThNZkVzcG1ZbjROOXlxOHBDaDV6SGd1LVYyMm9JQkRuUmhnb0MwTVBSeV9mVWhR?oc=5) |
+| 07 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [How good are AI interviewers at knowing when to abandon the script?](https://www.reddit.com/r/artificial/comments/1ww61xz/how_good_are_ai_interviewers_at_knowing_when_to/) |
+| 08 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [This light-powered AI can spot deepfakes with nearly 98% accuracy](https://www.reddit.com/r/artificial/comments/1ww5zwo/this_lightpowered_ai_can_spot_deepfakes_with/) |
+| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Scientists build an AI that can propose experiments, run them and learn from the results](https://www.reddit.com/r/artificial/comments/1ww5ozf/scientists_build_an_ai_that_can_propose/) |
+| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Sean Parker is rebuilding Stability AI around music](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/) |
+| 11 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Meta open sources code to let you make Muse AI gadgets](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link) |
+| 12 | **Anyscale Blog** | Industry | ◈ | ● HIGH | [Production-ready Distributed Inference with Ray Serve - Anyscale](https://news.google.com/rss/articles/CBMinAFBVV95cUxNeEo4dDJfUXBCQ29IaEhiYjkydndQZTJfZEs0dDNTNDhRMnFQMDJZdy16andTSmFmWFlTbUdNT3JGOUlOdjhyVWdrblRmMmFlV0doVURhWVhER0hVdlc0Z2FTcEJIMlItYndDQzBDaEJlUHNkcVM0MUVEYXhXS3pBQWFpVVc4X092OHhhTGhqNDhFTVJKVEhkWDhhMVM?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
