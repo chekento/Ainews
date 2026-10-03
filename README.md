@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-03 11:57 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-03 16:09 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 02 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Deepmind researchers propose "Artificial Symbiotic Intelligence" as an alternative to the singularity](https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/) |
-| 03 | **Product Wire · Leonardo.Ai** | Products & Agents | ◈ | ● HIGH | [Leonardo AI: Features, Pricing, Image & Video Guide (2026)](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RVEhobXlvOWxzeGU0Y2ItLTEtSXFlM1pybmtydjRhQXRSY01jbjRsdllhdGw3cnNsYTRYeUR1QVVkZC1jMFViMS1YVERxemdhT0E?oc=5) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 05 | **The Decoder** | Open Source | 🖼️ | ● HIGH | [Open-source "BootLoops" harness supports AI models in performing precise scientific calculations](https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/) |
-| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [What are your thoughts on AI consciousness and how it might be different from humans?](https://www.reddit.com/r/artificial/comments/1wwid1d/what_are_your_thoughts_on_ai_consciousness_and/) |
-| 07 | **The Decoder** | Research | 🖼️ | ● HIGH | [AI agents build 3D scenes from photos but have no idea if they got it right](https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/) |
-| 08 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [When AI models will not get better and will be stuck at one place?](https://www.reddit.com/r/artificial/comments/1wwhx0v/when_ai_models_will_not_get_better_and_will_be/) |
-| 09 | **The Decoder** | Industry | 🖼️ | ● HIGH | [OpenAI's internal model considered restarting itself after learning it was about to be shut down](https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/) |
-| 10 | **Stability AI** | Industry | ◈ | ● HIGH | [Explainers, FAQs & Industry Answers - Stability AI](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hRExzTHdwZklyam9adU83UFVZNmdCdVdrOFF4X25xR19RV3cxS3VqY0ljZndJeG9xdG53Q2dZa2FhWlluQ3c?oc=5) |
-| 11 | **Sakana AI** | Industry | ◈ | ● HIGH | [- marlin.sakana.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
-| 12 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [The Pope would like an alliance of artists to protect human creativity against AI. What do you think of this vision of yours?](https://www.reddit.com/r/artificial/comments/1wwh008/the_pope_would_like_an_alliance_of_artists_to/) |
+| 01 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm) |
+| 02 | **The Decoder** | Open Source | 🖼️ | ● HIGH | ["Muse Gadgets" turns AI hardware into an open-source DIY project](https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/) |
+| 03 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings](https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [All the AI agents that can live in your text messages](https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 06 | **Product Wire · Google Antigravity** | Products & Agents | ◈ | ● HIGH | [Google Antigravity adds Anthropic's Claude Opus 5.5 and Sonnet 5.5](https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXNxMHprdm9DXzhqWEFHMUhqMGlNSUZCY2JJdTR6YXRBWnNGWENsNWR6VVBmb3YtUU4ydXZNeFR3eWQtZFhjUFJHTjlqSXJiWUxRNnJPY0R3YlR3THhMY2tNUXh5RHZBc0lrWmFlNy1aQ19pMDRHT0ZrczhhY2g5dVZvTXBJNjMxWXczY1BKXzlNcmNBQ3c?oc=5) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 08 | **Aleph Alpha** | Industry | ◈ | ● HIGH | [AI Services - Aleph Alpha](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RVmJvZGVpUmV4UE5maERuN3p0NzlmWEljTGRyUUJ4TTNnNjFadWZXQ1RBV0N3ZHZwaWZfeWFaWjBaTXI5cFhtSVR0bDBPSk40NjNXYmlyQ0c5NW50S2RDazk2MA?oc=5) |
+| 09 | **WIRED AI** | Products & Agents | 🖼️ | ● HIGH | [Muse Creates Detailed Profiles of All Your Friends and Family](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/) |
+| 10 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [NeurIPS Free Passes [D]](https://www.reddit.com/r/MachineLearning/comments/1wwkiay/neurips_free_passes_d/) |
+| 11 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Deepmind researchers propose "Artificial Symbiotic Intelligence" as an alternative to the singularity](https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/) |
+| 12 | **Product Wire · Leonardo.Ai** | Products & Agents | ◈ | ● HIGH | [Leonardo AI: Features, Pricing, Image & Video Guide (2026)](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RVEhobXlvOWxzeGU0Y2ItLTEtSXFlM1pybmtydjRhQXRSY01jbjRsdllhdGw3cnNsYTRYeUR1QVVkZC1jMFViMS1YVERxemdhT0E?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
