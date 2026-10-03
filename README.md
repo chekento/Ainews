@@ -90,22 +90,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-03 00:41 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-03 06:22 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Anthropic News** | Frontier Models | ◈ | ● HIGH | [Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5) |
-| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 03 | **WeRSM · provider monitor** | Industry | ◈ | ● HIGH | [Adobe Firefly Adds AI Music, Speech and Sound Effects](https://news.google.com/rss/articles/CBMigAFBVV95cUxNTWhtaTlkS0FWUXQyQ0JzbmRtWDZYemVoUHZTY0lkNHF5WUlocWZIeHRkMHpYR05KOVh4RUozcUlhVC1CUTgwOTZhRV83RFRlVExwR1c5VlB4R3gxRWw3ZGhFRnlMSFZhTkw4TjV0ZjBURkpxa2RjVVhzb214eVBjQg?oc=5) |
-| 04 | **Meta AI** | Industry | ◈ | ● HIGH | [On Solvable Evolution Algebras and a Conjecture by García-Martínez and Pérez-Rodríguez - AI at Meta](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbUNxRTk0Rk5JdmcxeHBpOVZDQTJBU3dJS1hGOWNYZ09JOGdOd3d2YnY1YlZSekJiYnY0ZksxR0VKNGlxMmxPdXhhNUo4QzBpUXNTVVZLMmtHd19CTXZRZEhtdWU5alJzbGZHMzduZXRPYVlacjJjQ2RaZkV1akxzbjVfWkJPcktLOTRrdy0xMXUyNEFLTTN6Q0pJdzRBbkZwSFJfZGFJNXBPb0tUNmdVVVlOSDBuNlB3X1pxTDRhTS1tWXJoOWlxUg?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 06 | **Semafor AI** | Industry | ◈ | ● HIGH | [Exclusive / How employees forced OpenAI’s president to back down - Semafor](https://news.google.com/rss/articles/CBMimgFBVV95cUxOQkNIaGItUndIa2RoYVZ4QVh1RE5XOUFkN2NrQUhqdjRfVS0yc2x4VzdaQWFraDVzeVFVcTF0amc4LTJfM2hyU0RwWkVKZERyS3lMLXo1V0pYSWVXUUFYc1RuX2h4aVp2UHZPMThNZkVzcG1ZbjROOXlxOHBDaDV6SGd1LVYyMm9JQkRuUmhnb0MwTVBSeV9mVWhR?oc=5) |
-| 07 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [How good are AI interviewers at knowing when to abandon the script?](https://www.reddit.com/r/artificial/comments/1ww61xz/how_good_are_ai_interviewers_at_knowing_when_to/) |
-| 08 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [This light-powered AI can spot deepfakes with nearly 98% accuracy](https://www.reddit.com/r/artificial/comments/1ww5zwo/this_lightpowered_ai_can_spot_deepfakes_with/) |
-| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Scientists build an AI that can propose experiments, run them and learn from the results](https://www.reddit.com/r/artificial/comments/1ww5ozf/scientists_build_an_ai_that_can_propose/) |
-| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Sean Parker is rebuilding Stability AI around music](https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/) |
-| 11 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Meta open sources code to let you make Muse AI gadgets](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link) |
-| 12 | **Anyscale Blog** | Industry | ◈ | ● HIGH | [Production-ready Distributed Inference with Ray Serve - Anyscale](https://news.google.com/rss/articles/CBMinAFBVV95cUxNeEo4dDJfUXBCQ29IaEhiYjkydndQZTJfZEs0dDNTNDhRMnFQMDJZdy16andTSmFmWFlTbUdNT3JGOUlOdjhyVWdrblRmMmFlV0doVURhWVhER0hVdlc0Z2FTcEJIMlItYndDQzBDaEJlUHNkcVM0MUVEYXhXS3pBQWFpVVc4X092OHhhTGhqNDhFTVJKVEhkWDhhMVM?oc=5) |
+| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 02 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices](https://arxiv.org/abs/2610.00002) |
+| 03 | **arXiv cs.LG** | Compliance & Ethics | ◈ | ● HIGH | [How Far is Adam from Natural Gradient Descent?](https://arxiv.org/abs/2610.00004) |
+| 04 | **arXiv cs.LG** | Compliance & Ethics | ◈ | ● HIGH | [FourierQK: Filter Shape, Admissibility and the Leakage-Coverage Law](https://arxiv.org/abs/2610.00009) |
+| 05 | **arXiv cs.LG** | Safety & Security | ◈ | ● HIGH | [Integrating Fairness and Explainability in a Multiple Instance Reinforcement Learning System](https://arxiv.org/abs/2610.00035) |
+| 06 | **arXiv cs.LG** | Infrastructure | ◈ | ● HIGH | [Fast Polynomial Transcendentals for LLMs](https://arxiv.org/abs/2610.00049) |
+| 07 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [SW-KAN: Kolmogorov-Arnold Networks with Stieltjes-Wigert q-Orthogonal Polynomials](https://arxiv.org/abs/2610.00050) |
+| 08 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [Format-Aware Fusion for Fast FP4 Pretraining](https://arxiv.org/abs/2610.00053) |
+| 09 | **arXiv cs.LG** | Research | ◈ | ● HIGH | ["very likely" Means "uncertain"? How LLMs Diverge from Humans in Linguistic Uncertainty Quantification](https://arxiv.org/abs/2610.00083) |
+| 10 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [Nous: Learning and Certifying Memory Decisions Before Source Calibration](https://arxiv.org/abs/2610.00094) |
+| 11 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [One Mastery Threshold Does Not Fit All Knowledge Tracing Models](https://arxiv.org/abs/2610.00095) |
+| 12 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [Uncertainty-Aware Learning from Multi-Expert Interval Targets](https://arxiv.org/abs/2610.00102) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
