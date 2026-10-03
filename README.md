@@ -13,14 +13,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-BETA_%2F_IN_DEVELOPMENT-FFB347?style=for-the-badge" alt="Beta / in development">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.9_BETA-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download current Android Beta APK"></a>
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><img src="https://img.shields.io/badge/DOWNLOAD_ANDROID_3.8_BETA-65F7C4?style=for-the-badge&logo=android&logoColor=07111f" alt="Download current Android Beta APK"></a>
 </p>
 
 > [!WARNING]
 > **BETA / IN DEVELOPMENT.** AI News and the Android APK are active test builds and may contain bugs, incomplete functions, inaccurate classifications, notification issues or breaking changes. **Use at your own risk / Nutzung auf eigene Gefahr.** Do not rely on the app as the sole source for important, legal, safety-critical, financial or operational decisions. Verify important information with the linked original sources. The directly distributed APK is currently a **debug-signed beta build**, not a production Play Store release.
 
 <p align="center">
-  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.9 BETA</strong></a><br>
+  <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk"><strong>⬇ CURRENT APK — ANDROID 3.8 BETA</strong></a><br>
   <a href="https://github.com/chekento/Ainews/releases/tag/android-latest">Release details</a> ·
   <a href="https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256">SHA-256 checksum</a> ·
   <a href="PRIVACY.md">Datenschutz · KI · Drittanbieter</a> ·
@@ -53,7 +53,7 @@ Strict AI-only relevance filtering across labs, research, independent reporting,
 </td>
 <td width="50%" valign="top">
 
-### 📱 ANDROID 3.9 BETA
+### 📱 ANDROID 3.8 BETA
 
 Command Center home, Discover search, multilingual YouTube Video Radar, source controls, saved stories, Smart Watches and nine configurable home-screen widgets.
 
@@ -92,22 +92,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-03 16:09 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-03 18:10 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm) |
-| 02 | **The Decoder** | Open Source | 🖼️ | ● HIGH | ["Muse Gadgets" turns AI hardware into an open-source DIY project](https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/) |
-| 03 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings](https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [All the AI agents that can live in your text messages](https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/) |
+| 01 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/) |
+| 02 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Is AI actually saving you time, or are you spending that time managing AI?](https://www.reddit.com/r/artificial/comments/1wwsdk5/is_ai_actually_saving_you_time_or_are_you/) |
+| 03 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development) |
+| 04 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [OpenAI safety employee resigns, claiming the company’s ‘culture is broken’](https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/) |
 | 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 06 | **Product Wire · Google Antigravity** | Products & Agents | ◈ | ● HIGH | [Google Antigravity adds Anthropic's Claude Opus 5.5 and Sonnet 5.5](https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXNxMHprdm9DXzhqWEFHMUhqMGlNSUZCY2JJdTR6YXRBWnNGWENsNWR6VVBmb3YtUU4ydXZNeFR3eWQtZFhjUFJHTjlqSXJiWUxRNnJPY0R3YlR3THhMY2tNUXh5RHZBc0lrWmFlNy1aQ19pMDRHT0ZrczhhY2g5dVZvTXBJNjMxWXczY1BKXzlNcmNBQ3c?oc=5) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 08 | **Aleph Alpha** | Industry | ◈ | ● HIGH | [AI Services - Aleph Alpha](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RVmJvZGVpUmV4UE5maERuN3p0NzlmWEljTGRyUUJ4TTNnNjFadWZXQ1RBV0N3ZHZwaWZfeWFaWjBaTXI5cFhtSVR0bDBPSk40NjNXYmlyQ0c5NW50S2RDazk2MA?oc=5) |
-| 09 | **WIRED AI** | Products & Agents | 🖼️ | ● HIGH | [Muse Creates Detailed Profiles of All Your Friends and Family](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/) |
-| 10 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [NeurIPS Free Passes [D]](https://www.reddit.com/r/MachineLearning/comments/1wwkiay/neurips_free_passes_d/) |
-| 11 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Deepmind researchers propose "Artificial Symbiotic Intelligence" as an alternative to the singularity](https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/) |
-| 12 | **Product Wire · Leonardo.Ai** | Products & Agents | ◈ | ● HIGH | [Leonardo AI: Features, Pricing, Image & Video Guide (2026)](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RVEhobXlvOWxzeGU0Y2ItLTEtSXFlM1pybmtydjRhQXRSY01jbjRsdllhdGw3cnNsYTRYeUR1QVVkZC1jMFViMS1YVERxemdhT0E?oc=5) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 07 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Introducing Oscilloscope Diffusion](https://www.reddit.com/r/artificial/comments/1wwqupm/introducing_oscilloscope_diffusion/) |
+| 08 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [What happens to local accents when every message gets polished by AI?](https://www.reddit.com/r/artificial/comments/1wwplw1/what_happens_to_local_accents_when_every_message/) |
+| 09 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Ben Affleck says he built 8 months of footage into a private AI layer so filmmakers keep ownership — why most models still train on peers without consent](https://www.reddit.com/r/artificial/comments/1wwphsv/ben_affleck_says_he_built_8_months_of_footage/) |
+| 10 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm) |
+| 11 | **The Decoder** | Open Source | 🖼️ | ● HIGH | ["Muse Gadgets" turns AI hardware into an open-source DIY project](https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/) |
+| 12 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings](https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
@@ -120,7 +120,7 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 
 ## ▶ Multilingual YouTube AI Video Radar
 
-Android **3.9.0** adds a dedicated Video tab that connects the existing AI-news intelligence layer with YouTube discovery without requiring a YouTube Data API key.
+Android **3.8** adds a dedicated Video tab that connects the existing AI-news intelligence layer with YouTube discovery without requiring a YouTube Data API key.
 
 - **Every scanned AI story is covered:** each news item can generate a YouTube search from the exact headline plus detected provider context.
 - **Free multi-language selection:** the device language is only the default; users can enable German, English, French, Spanish, Italian and many other languages at the same time, or add another language code manually.
@@ -160,19 +160,17 @@ The product desk monitors usable AI services separately from general model news:
 ---
 
 <!-- INTELLIGENCE_SUITE:START -->
-## ◉ Intelligence Suite 3.9 — Video Radar & Expanded Intelligence · BETA
+## ◉ Intelligence Suite 3.8 — Discover & Expanded Intelligence · BETA
 
-Android 3.9 keeps **Latest · For You · High Signal · Story Clusters · Brief** and the expanded Discover surface. Search starts only after an explicit tap.
+Android 3.8 keeps **Latest · For You · High Signal · Story Clusters · Brief** and the expanded Discover surface. Search starts only after an explicit tap.
 
 **New in 3.8:** Social Wire with 61 provider ecosystems and official multi-platform links · a product/service wire with 264 tracked products · a separate Governance desk for AI czar / AI Force, laws, standards and ethics · interactive radar with Matrix rain · 28 app/widget themes including Kawaii Plush and Kawaii Candy · Smart Brief presets for Morning / Evening / Since last visit · quick Smart-Watch templates · Widget Studio presets · local For-You reset/control · expanded core+extended source registry · 160 AI sources · 61 provider ecosystems.
-
-**New in 3.9:** Video News / YouTube Radar · multi-language selection instead of one-device-language lock-in · direct per-article YouTube queries generated from headline + provider context · official-channel shortcuts when known · no fixed provider shortlist.
 
 This release contains no generative model runtime; news discovery, filtering, clustering, brief overviews, TTS, watchlists and original-source links remain available locally.
 
 > **Development status:** this is an active beta/test build. Bugs, incomplete functions and breaking changes are possible. **Use at your own risk / Nutzung auf eigene Gefahr.**
 
-### [⬇ Download AI News Android 3.9 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.8 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- INTELLIGENCE_SUITE:END -->
 
 ---
@@ -194,7 +192,7 @@ All custom filters, sources, profile links and the local personalization data re
 
 ---
 
-## 📱 Android 3.9 Beta — Multilingual Video Radar & Expanded Intelligence
+## 📱 Android 3.8 Beta — Discover & Expanded Intelligence
 
 The APK uses a local mobile interface rather than depending on GitHub Pages. Android 3.9.0 contains no generative model runtime; news, filters, radar, TTS, watchlists and original-source links remain available. It downloads the current AI-only JSON feed directly from this repository and keeps a bundled offline fallback inside the package.
 
@@ -212,13 +210,13 @@ The APK uses a local mobile interface rather than depending on GitHub Pages. And
 <!-- ANDROID_WIDGETS:START -->
 ## ⚡ Hypercyber Android Widgets · BETA
 
-Android **3.9** ships nine native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock · Live AI Radar**.
+Android **3.8** ships nine native home-screen widgets: **Breaking · Primary Signal · LLM Wire · Governance Radar · R&D / Infra · Signal Stack · Neon Matrix · Signal Clock · Live AI Radar**.
 
 Widgets share source exclusions, expose configurable content mode/accent/text scale/density/summary/metadata, support **Next › · Refresh ↻**, and include one-tap **Widget Studio presets** for balanced, minimal, dense and desk-specific setups. Tapping a headline opens the original source directly.
 
 > Widget refresh timing and rendering can vary by Android device, launcher and battery-management policy. This remains beta functionality.
 
-### [⬇ Download AI News Android 3.9 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
+### [⬇ Download AI News Android 3.8 Beta](https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk)
 <!-- ANDROID_WIDGETS:END -->
 
 ---
@@ -248,7 +246,7 @@ Every page carries the same beta status, current APK link and legal/privacy navi
 - `android/` — Android beta app, native widgets and local mobile UI
 - `assets/branding/` — repository/web logo system
 - `.github/workflows/refresh-news.yml` — 30-minute feed refresh
-- .github/workflows/android-apk.yml — Android 3.9 beta build and stable `android-latest` download
+- .github/workflows/android-apk.yml — Android 3.8 beta build and stable `android-latest` download
 
 ### Android build
 
