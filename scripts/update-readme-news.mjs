@@ -4,6 +4,10 @@ const readmePath='README.md';
 const gradle=fs.readFileSync('android/app/build.gradle.kts','utf8');
 const androidVersion=(gradle.match(/versionName\\s*=\\s*\"([^\"]+)\"/)||[])[1]||'3.9.0';
 const androidMinor=androidVersion.split('.').slice(0,2).join('.');
+const versionedTag='android-v'+androidVersion;
+const versionedApk='https://github.com/chekento/Ainews/releases/download/'+versionedTag+'/AI-News-Android-'+androidVersion+'.apk';
+const versionedSha=versionedApk+'.sha256';
+const versionedRelease='https://github.com/chekento/Ainews/releases/tag/'+versionedTag;
 const data=JSON.parse(fs.readFileSync('data/news.json','utf8'));
 let out=fs.readFileSync(readmePath,'utf8');
 const items=(data.items||[]).slice(0,12);
@@ -50,7 +54,10 @@ out=upsert(out,'<!-- LATEST_AI_NEWS:START -->','<!-- LATEST_AI_NEWS:END -->',lat
 out=upsert(out,'<!-- INTELLIGENCE_SUITE:START -->','<!-- INTELLIGENCE_SUITE:END -->',intelligence,'## 📱 Android');
 out=upsert(out,'<!-- PRODUCT_WIRE:START -->','<!-- PRODUCT_WIRE:END -->',productWire,'## 🧭 Signal Deck');
 out=upsert(out,'<!-- ANDROID_WIDGETS:START -->','<!-- ANDROID_WIDGETS:END -->',widgets,'## 🧠 AI-only ingestion');
-out=out.replace(/DOWNLOAD_ANDROID_[0-9.]+(?:_BETA)?/g,'DOWNLOAD_ANDROID_'+androidMinor+'_BETA')
+out=out.replaceAll('https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk.sha256',versionedSha)
+  .replaceAll('https://github.com/chekento/Ainews/releases/download/android-latest/AI-News.apk',versionedApk)
+  .replaceAll('https://github.com/chekento/Ainews/releases/tag/android-latest',versionedRelease)
+  .replace(/DOWNLOAD_ANDROID_[0-9.]+(?:_BETA)?/g,'DOWNLOAD_ANDROID_'+androidMinor+'_BETA')
   .replace(/CURRENT APK — ANDROID [0-9.]+ BETA/g,'CURRENT APK — ANDROID '+androidVersion+' BETA')
   .replace(/### 📱 ANDROID [0-9.]+ BETA/g,'### 📱 ANDROID '+androidVersion+' BETA')
   .replace(/## 📱 Android [0-9.]+[^\n]*/g,'## 📱 Android '+androidVersion+' Beta — Multilingual Video Radar & Expanded Intelligence')
