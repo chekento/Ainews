@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-04 14:20 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-04 18:20 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Product Wire · Diffusers** | Products & Agents | ◈ | ● HIGH | [Essential Oil Diffusers Market To 2035: Wellness and Smart-Home Trends Fuel Growth - News and Statistics](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTGVaYzdZQ2xyaTNlWTZzMjh4SXpxWjUwdE15QTd2WVppeGtSdjBLNTZueFN0UjBTSkROTVI1U2xjeFpJTzJaSzNQT3NuVXk3djhrLVdMbXlyeVp5ajVyU3JEMG9jbk9DTmhqeEdLcE9Hc3ZNdG9id2hsVVdKakhHVWdUejRVaTllTzROZHRweEZSUHViZ3JocEsyckIwQmp3U29CdTBPQ0U0eVhkSVlDcnJhVzZobjhUd09udExXY1pFdlY5YU9DZ0JYYl9OZkRYemc?oc=5) |
-| 02 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 03 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems [R]](https://www.reddit.com/r/MachineLearning/comments/1wxex8n/a_minimal_interpretable_architecture_for_zeroshot/) |
-| 04 | **The Decoder** | Research | 🖼️ | ◐ MED | [Google researchers find a way to keep self-improving AI agents from memorizing their tests](https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/) |
-| 05 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [the official ICLR template .bib has had Bengio listed twice since 2019 [D]](https://www.reddit.com/r/MachineLearning/comments/1wxe9qx/the_official_iclr_template_bib_has_had_bengio/) |
+| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [I have a Nobel idea.](https://www.reddit.com/r/artificial/comments/1wxm27w/i_have_a_nobel_idea/) |
+| 03 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [The top 50 AI researchers by citations](https://www.reddit.com/r/artificial/comments/1wxm1vq/the_top_50_ai_researchers_by_citations/) |
+| 04 | **The Decoder** | Infrastructure | 🖼️ | ◐ MED | [Trump launches "Super Intelligence Force" that has nothing to do with actual superintelligence](https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/) |
+| 05 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [MoralityBench.ai: Morality Leaderboard for AI](https://www.reddit.com/r/artificial/comments/1wxkzyo/moralitybenchai_morality_leaderboard_for_ai/) |
 | 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [- Cursor](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jb1BZU1VCclNBdWVMYVBxcUs1WjF2YWl6MTVycVd1NzdyclAzdlU2VzBKcGdtS2d1R3FJR1FXTVhqNVR0YVNTUQ?oc=5) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 08 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56% [N]](https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 10 | **The Decoder** | Open Source | 🖼️ | ● HIGH | [NASA and IBM's open source lunar model turns 17 years of orbiter data into a foundation for lunar science](https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/) |
-| 11 | **WIRED AI** | Infrastructure | 🖼️ | ● HIGH | [Rural Data Centers Are in for a Big Federal Tax Break](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/) |
-| 12 | **Product Wire · Gemma** | Products & Agents | ◈ | ● HIGH | [Can You Run Gemma 4 12B or E4B Locally? RAM, VRAM and Mac Requirements](https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZbGpyZ1d1dW5INWJkMWlMYkpjVllJZmNadHBtXzZzWVYxczJlcjlNd0g5Ym9tUHVSUDdCZElJdUwyM2lsQU9iMU02T0dCNTdIc3dydk13WnY1RDhxSG9mZy1lQ3NoenlhTlBLMVpzT0xTQmg3?oc=5) |
+| 07 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [An AI couldn’t beat humans at StarCraft, so it decided to cheat](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [The "Sarcastic Parrot" Cartoons - Strong Evidence of Conceptual Understanding in Today's AI Models](https://www.reddit.com/r/artificial/comments/1wxjtgd/the_sarcastic_parrot_cartoons_strong_evidence_of/) |
+| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 11 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 12 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths — AI agent navigates by parsing raw server network packets and SQL filesa](https://www.reddit.com/r/artificial/comments/1wxirdb/chatgpt6_astra_plays_world_of_warcraft_blind_and/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
