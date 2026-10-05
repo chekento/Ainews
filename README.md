@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-05 15:53 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-05 22:32 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Downgrading user roles in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/) |
-| 02 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/) |
-| 03 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time](https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI launches visual ads that appear alongside image generation results](https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/) |
-| 05 | **OpenAI News** | Industry | ◈ | ● HIGH | [Our approach to EU text provenance rules](https://openai.com/index/eu-text-provenance) |
-| 06 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/) |
-| 07 | **Product Wire · Gemma** | Products & Agents | ◈ | ● HIGH | [Google's new 4B Gemma model cuts speaker-labelling errors on all four benchmarks, two barely](https://news.google.com/rss/articles/CBMinwFBVV95cUxNOEZpU1RLdVUwSy15c0V3bzZ2SmJxTVdxaWhXZ2xvWVNFQXU3LWpuTWJXb19DZHh1bUJrUUtuNThVQ0NuUXJDLThmZ2NHdGxmckdncFVHUWwtWVFDYWJ4VWx4bjEweWtFUTRkWWpCQUFLUk5QSl85OGJEWnBIak5kUXJzdEJSODU4WXc2TlJWMDJfWC1pTVl4ZVZlSFFPU0k?oc=5) |
-| 08 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Researchers are tracking a Chinese AI ‘agent fleet’](https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/) |
-| 10 | **The Decoder** | Open Source | 🖼️ | ● HIGH | [Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty](https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [- Cursor](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jb1BZU1VCclNBdWVMYVBxcUs1WjF2YWl6MTVycVd1NzdyclAzdlU2VzBKcGdtS2d1R3FJR1FXTVhqNVR0YVNTUQ?oc=5) |
-| 12 | **Together AI Blog** | Industry | ◈ | ● HIGH | [- Together AI](https://news.google.com/rss/articles/CBMidEFVX3lxTFBGSEdpVmhObHdjQmVqRGtMcWM0eEYxblM1TGpiQ2VObzY3bTRUREQxdktyVUptSURtbWZwUjNEZjExZ2JaallMRGoyUUdkOG02Y2lvdHFjMkZjcFYxcXRiVDZEdTRlMlhpSGdwUmVWNnU2R1px?oc=5) |
+| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage](https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [New York expands free SUNY and CUNY tuition to those with college degrees](https://www.reddit.com/r/artificial/comments/1wym49n/new_york_expands_free_suny_and_cuny_tuition_to/) |
+| 03 | **Liquid AI** | Industry | ◈ | ● HIGH | [Decision Models - Liquid AI](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hTGxsalVTeU5FRDNSdElaUEFUV1JtWThNTGdVX0JUMEJNRkF4blJrZVpwdFQ1bFJlMElCQjl0SlR5Ukt1MzJKd2V1YWxucUotNzJEOE5kaDVmbzlIR0E?oc=5) |
+| 04 | **Product Wire · Gemma** | Products & Agents | ◈ | ● HIGH | [Google's new 4B Gemma model cuts speaker-labelling errors on all four benchmarks, two barely](https://news.google.com/rss/articles/CBMinwFBVV95cUxNOEZpU1RLdVUwSy15c0V3bzZ2SmJxTVdxaWhXZ2xvWVNFQXU3LWpuTWJXb19DZHh1bUJrUUtuNThVQ0NuUXJDLThmZ2NHdGxmckdncFVHUWwtWVFDYWJ4VWx4bjEweWtFUTRkWWpCQUFLUk5QSl85OGJEWnBIak5kUXJzdEJSODU4WXc2TlJWMDJfWC1pTVl4ZVZlSFFPU0k?oc=5) |
+| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Best text model currently?](https://www.reddit.com/r/artificial/comments/1wyjudu/best_text_model_currently/) |
+| 06 | **TechCrunch AI** | Compliance & Ethics | ◈ | ● HIGH | [OpenAI will start watermarking ChatGPT’s text in the EU](https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/) |
+| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [This startup is issuing AI-generated acne prescriptions](https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions) |
+| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [All the drama around AI’s takeover of mathematics](https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution) |
+| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Context Language Models](https://www.reddit.com/r/artificial/comments/1wyi5nb/context_language_models/) |
+| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 11 | **Liquid AI** | Industry | ◈ | ● HIGH | [d1 Playground - Liquid AI](https://news.google.com/rss/articles/CBMiOEFVX3lxTFA5VDcwbE1uVm96QW5palM5RWhwbXh4YWRLb3VGb3ZERFI4bGtrU3JYXzZ3eldaZGxy?oc=5) |
+| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
