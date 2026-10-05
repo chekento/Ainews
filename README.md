@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-04 21:52 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-05 00:45 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Product Wire · Google Antigravity** | Products & Agents | ◈ | ● HIGH | [I used Claude Code, Codex, and Google Antigravity to build my dream note-taking app, and one is in a different league](https://news.google.com/rss/articles/CBMirAFBVV95cUxOSllOMVV4SzdGY2tYWDgwVTQ2N3dhS2FEOXBtQWlFTjVraWlXdVhCaXpGZkZmRF9CZ3VfTW1namxQRDRJNjVJVnhsME41RzFZdDBxdWdwVWZfdjA3VU9nc1dhUGp6cVlPVXlJT0FhTWF5OFc4T3RBTm1DUmZNRXFuRmFaRl9NdC1qbzlCYWdaOWNsS19zUC1YVFA5UFp1SDZqM3lkcHE1WExteXpL?oc=5) |
-| 02 | **TechCrunch AI** | Open Source | ◈ | ● HIGH | [Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/) |
-| 03 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [NeurIPS Workshops [D]](https://www.reddit.com/r/MachineLearning/comments/1wxp8ok/neurips_workshops_d/) |
-| 04 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [- Cursor](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jb1BZU1VCclNBdWVMYVBxcUs1WjF2YWl6MTVycVd1NzdyclAzdlU2VzBKcGdtS2d1R3FJR1FXTVhqNVR0YVNTUQ?oc=5) |
-| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 08 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Interactive Demonstration of Prefix Injection attacks on LLMs for jailbreaking [N]](https://www.reddit.com/r/MachineLearning/comments/1wxm5p3/interactive_demonstration_of_prefix_injection/) |
-| 09 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true) |
-| 10 | **The Decoder** | Infrastructure | 🖼️ | ◐ MED | [Trump launches "Super Intelligence Force" that has nothing to do with actual superintelligence](https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/) |
-| 11 | **Luma AI** | Industry | ◈ | ● HIGH | [- platform.lumalabs.ai](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzeHBuaGs5ZlpXMjlKUVVUbDBoTlVXb3pFbVpOcEotRDBSU3g3cTUzRlp5RVhNSjhOV3p4RGNlMlN0NEE?oc=5) |
-| 12 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [An AI couldn’t beat humans at StarCraft, so it decided to cheat](https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft) |
+| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 03 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [ASRN Adaptive Sparse Recurrence Network [N]](https://www.reddit.com/r/MachineLearning/comments/1wxs8qq/asrn_adaptive_sparse_recurrence_network_n/) |
+| 04 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 05 | **Product Wire · Google Antigravity** | Products & Agents | ◈ | ● HIGH | [I used Claude Code, Codex, and Google Antigravity to build my dream note-taking app, and one is in a different league](https://news.google.com/rss/articles/CBMirAFBVV95cUxOSllOMVV4SzdGY2tYWDgwVTQ2N3dhS2FEOXBtQWlFTjVraWlXdVhCaXpGZkZmRF9CZ3VfTW1namxQRDRJNjVJVnhsME41RzFZdDBxdWdwVWZfdjA3VU9nc1dhUGp6cVlPVXlJT0FhTWF5OFc4T3RBTm1DUmZNRXFuRmFaRl9NdC1qbzlCYWdaOWNsS19zUC1YVFA5UFp1SDZqM3lkcHE1WExteXpL?oc=5) |
+| 06 | **TechCrunch AI** | Open Source | ◈ | ● HIGH | [Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions](https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/) |
+| 07 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [NeurIPS Workshops [D]](https://www.reddit.com/r/MachineLearning/comments/1wxp8ok/neurips_workshops_d/) |
+| 08 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [- Cursor](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jb1BZU1VCclNBdWVMYVBxcUs1WjF2YWl6MTVycVd1NzdyclAzdlU2VzBKcGdtS2d1R3FJR1FXTVhqNVR0YVNTUQ?oc=5) |
+| 10 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Interactive Demonstration of Prefix Injection attacks on LLMs for jailbreaking [N]](https://www.reddit.com/r/MachineLearning/comments/1wxm5p3/interactive_demonstration_of_prefix_injection/) |
+| 11 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true) |
+| 12 | **The Decoder** | Infrastructure | 🖼️ | ◐ MED | [Trump launches "Super Intelligence Force" that has nothing to do with actual superintelligence](https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
