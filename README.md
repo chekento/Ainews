@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-05 06:52 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-05 15:53 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - cursor.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [How do AIs actually collect my sensitive information?](https://www.reddit.com/r/artificial/comments/1wxzgva/how_do_ais_actually_collect_my_sensitive/) |
-| 03 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [MintFlow: Minimal Trajectory Intervention for Constrained Flow Matching](https://arxiv.org/abs/2610.02260) |
-| 05 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses](https://arxiv.org/abs/2610.02267) |
-| 06 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [The AI Risk Observatory: What Can We Learn from AI Disclosures in Annual Reports About Societal Resilience?](https://arxiv.org/abs/2610.02281) |
-| 07 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation](https://arxiv.org/abs/2610.02300) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents](https://arxiv.org/abs/2610.02330) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [World Editing: Intervening on Executable Worlds at Increasing Depth](https://arxiv.org/abs/2610.02331) |
-| 10 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [A Multi Method Importance and Performance Efficiency Analysis of Topological Metrics for Natural Visibility Graph Based Cyber Attack Detection](https://arxiv.org/abs/2610.02342) |
-| 11 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents](https://arxiv.org/abs/2610.02351) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion](https://arxiv.org/abs/2610.02372) |
+| 01 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Downgrading user roles in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/) |
+| 02 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/) |
+| 03 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time](https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI launches visual ads that appear alongside image generation results](https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/) |
+| 05 | **OpenAI News** | Industry | ◈ | ● HIGH | [Our approach to EU text provenance rules](https://openai.com/index/eu-text-provenance) |
+| 06 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/) |
+| 07 | **Product Wire · Gemma** | Products & Agents | ◈ | ● HIGH | [Google's new 4B Gemma model cuts speaker-labelling errors on all four benchmarks, two barely](https://news.google.com/rss/articles/CBMinwFBVV95cUxNOEZpU1RLdVUwSy15c0V3bzZ2SmJxTVdxaWhXZ2xvWVNFQXU3LWpuTWJXb19DZHh1bUJrUUtuNThVQ0NuUXJDLThmZ2NHdGxmckdncFVHUWwtWVFDYWJ4VWx4bjEweWtFUTRkWWpCQUFLUk5QSl85OGJEWnBIak5kUXJzdEJSODU4WXc2TlJWMDJfWC1pTVl4ZVZlSFFPU0k?oc=5) |
+| 08 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Researchers are tracking a Chinese AI ‘agent fleet’](https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/) |
+| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/) |
+| 10 | **The Decoder** | Open Source | 🖼️ | ● HIGH | [Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty](https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/) |
+| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [- Cursor](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jb1BZU1VCclNBdWVMYVBxcUs1WjF2YWl6MTVycVd1NzdyclAzdlU2VzBKcGdtS2d1R3FJR1FXTVhqNVR0YVNTUQ?oc=5) |
+| 12 | **Together AI Blog** | Industry | ◈ | ● HIGH | [- Together AI](https://news.google.com/rss/articles/CBMidEFVX3lxTFBGSEdpVmhObHdjQmVqRGtMcWM0eEYxblM1TGpiQ2VObzY3bTRUREQxdktyVUptSURtbWZwUjNEZjExZ2JaallMRGoyUUdkOG02Y2lvdHFjMkZjcFYxcXRiVDZEdTRlMlhpSGdwUmVWNnU2R1px?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
