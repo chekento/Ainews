@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-06 16:13 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-06 21:11 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Insurers brace for millions in claims as AI agents spin out of control](https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/) |
-| 02 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Female AI agents ‘paid’ less than males, study finds](https://www.reddit.com/r/artificial/comments/1wz6frn/female_ai_agents_paid_less_than_males_study_finds/) |
-| 03 | **TechCrunch AI** | Frontier Models | ◈ | ● HIGH | [Anthropic is giving startups a free year of Claude Team and $1,000 in credits](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/) |
-| 04 | **AWS Machine Learning** | Compliance & Ethics | ◈ | ● HIGH | [Responsible AI governance: How AWS positions customers to align with ISO/IEC 42005:2025](https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/) |
-| 05 | **AWS Machine Learning** | Compliance & Ethics | ◈ | ● HIGH | [Best practices for Amazon SageMaker HyperPod administration and governance](https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/) |
-| 06 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Manage Amazon SageMaker HyperPod Spaces directly from SageMaker Studio](https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/) |
-| 07 | **AWS Machine Learning** | Compliance & Ethics | ◈ | ● HIGH | [Build a voice travel concierge with Amazon Bedrock AgentCore, Managed Knowledge Base and Nova Sonic](https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/) |
-| 08 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Where does sim-to-real transfer actually work reliably right now?](https://www.reddit.com/r/artificial/comments/1wz5yyq/where_does_simtoreal_transfer_actually_work/) |
-| 09 | **Reuters · provider monitor** | Frontier Models | ◈ | ● HIGH | [France's Mistral launches AI model it says outperforms some Chinese rivals](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVFRUV6ZzZmeXFiN3NIWmZwUTBGWTR3ZUx1UUhjLWRLMC0wZThtLW00a1FYNjloa3BiSTFveFdZZFkxWnd5d283Qi04MnU1UC1IUl9KdlBkX2o2X3JpQ0pUZVRZQzJ3Uk1fRzR5VnJIdGhwVGI3Q0JWc2RWOGtBZTZzek4tcWQxRTAxZnB3eWJyV2gzY2FlNjdYVk95b2lQX2UtLVNWandvMDA?oc=5) |
-| 10 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Chances of AI replacing radiologists?](https://www.reddit.com/r/artificial/comments/1wz5vw9/chances_of_ai_replacing_radiologists/) |
-| 11 | **TechCrunch AI** | Open Source | ◈ | ● HIGH | [LibreOffice says ‘no AI’ is now a software feature](https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/) |
-| 12 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [MIT announces the MIT for America initiative, to strengthen STEM education across the country](https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006) |
+| 01 | **Product Wire · NVIDIA NeMo** | Products & Agents | ◈ | ● HIGH | [NVIDIA NeMo Relay Traces How AI Agents Complete Tasks](https://news.google.com/rss/articles/CBMibkFVX3lxTE0yTUQwWXF4THVYUGpEYm0xZGIwMTZmaFYyOUY3QnV6b3JQQUVYa1ZGZlNLY3g5LVB1dTZGVE9zX0pQQmlNWXNfYUJtVEVMVElnY0hBR1JIT3ozbnpqWEhCQ21rT3RSY2JsUzcwSlV3?oc=5) |
+| 02 | **MIT News AI** | Infrastructure | 🖼️ | ● HIGH | [Supercomputing researchers document evolution of AI hardware](https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006) |
+| 03 | **TechCrunch AI** | Open Source | ◈ | ● HIGH | [How AI decision models could change content moderation](https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/) |
+| 04 | **Intel AI** | Open Source | ◈ | ● HIGH | [Software Connects the System to the Open Model: An Open Blueprint for Production AI - Intel](https://news.google.com/rss/articles/CBMizgFBVV95cUxNcF9nbDNFTVFWbHgyT0E3c3ZLUmJRZHFUcTlzQXJQdFc1MEF1ZWdDMG9HMWstMUdDT0NvbVJ2S0Y2RGZGRUQwTmkzeUVCTk1JQ3k5Wk5fRjFKT3o5Qjc2bjVpT2ViMlEyekJhZHRZYWFYOWZxdXlTV0RkLVlHQlZKQTdNb253eVlBWWZ6SXhVZzNsTmM5TklMbzdWakVORmNFN2Y1Y013SVZhdTUzRWhlNW1vUVRIc1VrczEzOElBSGM5UGoydE52aFFDTFlFZw?oc=5) |
+| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [AI computing startup Lambda to raise $4B ahead of planned IPO](https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/) |
+| 06 | **Google DeepMind** | Industry | ◈ | ● HIGH | [EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/) |
+| 07 | **TechCrunch AI** | Compliance & Ethics | ◈ | ● HIGH | [The next hurdle for AI agents: getting websites to let them in](https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/) |
+| 08 | **The Decoder** | Open Source | 🖼️ | ● HIGH | [Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size](https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 10 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 12 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Google's new image model Nano Banana 2.1 generates better images for less money](https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
