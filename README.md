@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-05 22:32 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-06 02:27 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage](https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage) |
-| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [New York expands free SUNY and CUNY tuition to those with college degrees](https://www.reddit.com/r/artificial/comments/1wym49n/new_york_expands_free_suny_and_cuny_tuition_to/) |
-| 03 | **Liquid AI** | Industry | ◈ | ● HIGH | [Decision Models - Liquid AI](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hTGxsalVTeU5FRDNSdElaUEFUV1JtWThNTGdVX0JUMEJNRkF4blJrZVpwdFQ1bFJlMElCQjl0SlR5Ukt1MzJKd2V1YWxucUotNzJEOE5kaDVmbzlIR0E?oc=5) |
-| 04 | **Product Wire · Gemma** | Products & Agents | ◈ | ● HIGH | [Google's new 4B Gemma model cuts speaker-labelling errors on all four benchmarks, two barely](https://news.google.com/rss/articles/CBMinwFBVV95cUxNOEZpU1RLdVUwSy15c0V3bzZ2SmJxTVdxaWhXZ2xvWVNFQXU3LWpuTWJXb19DZHh1bUJrUUtuNThVQ0NuUXJDLThmZ2NHdGxmckdncFVHUWwtWVFDYWJ4VWx4bjEweWtFUTRkWWpCQUFLUk5QSl85OGJEWnBIak5kUXJzdEJSODU4WXc2TlJWMDJfWC1pTVl4ZVZlSFFPU0k?oc=5) |
-| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Best text model currently?](https://www.reddit.com/r/artificial/comments/1wyjudu/best_text_model_currently/) |
-| 06 | **TechCrunch AI** | Compliance & Ethics | ◈ | ● HIGH | [OpenAI will start watermarking ChatGPT’s text in the EU](https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/) |
-| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [This startup is issuing AI-generated acne prescriptions](https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions) |
-| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [All the drama around AI’s takeover of mathematics](https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution) |
-| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Context Language Models](https://www.reddit.com/r/artificial/comments/1wyi5nb/context_language_models/) |
-| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 11 | **Liquid AI** | Industry | ◈ | ● HIGH | [d1 Playground - Liquid AI](https://news.google.com/rss/articles/CBMiOEFVX3lxTFA5VDcwbE1uVm96QW5palM5RWhwbXh4YWRLb3VGb3ZERFI4bGtrU3JYXzZ3eldaZGxy?oc=5) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 01 | **Product Wire · Cohere North** | Products & Agents | ◈ | ● HIGH | [Cohere North 2 puts enterprise agents behind access control lists](https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ1dmZmFKaTlpSGl6RTJJcWhRWnY2akMwV3d4eVhhbzJ0cWs3OThQcTJ5RWVMLW01WVdfVGdmaFJCbVZJUnJJVjVOYTNaUFp5Y1JzRmlFQ2EzTkVrWTE3QWRvVXhhcXcybnhqa3F6RDRaelQ2SjY1SzRfNUtucEZ4WWM0MW9jQ0ZZYy1PLWJuOUN6Q0h3Xzc2RVFB?oc=5) |
+| 02 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Embedding Every Font with Neural Networks makes some Nice Structures (including a flower) [P]](https://www.reddit.com/r/MachineLearning/comments/1wypbnf/embedding_every_font_with_neural_networks_makes/) |
+| 03 | **AWS Machine Learning** | Safety & Security | ◈ | ● HIGH | [Introducing GLM 5.3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/) |
+| 04 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [Gemini Call for Me might tell your mom you’re running late](https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors) |
+| 05 | **Sakana AI** | Industry | ◈ | ● HIGH | [- marlin.sakana.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage](https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage) |
+| 09 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 10 | **Together AI Blog** | Industry | ◈ | ● HIGH | [open models in the harness you already use. Start with one command today. - together.ai](https://news.google.com/rss/articles/CBMipAFBVV95cUxOMjZ5VEJNUG5VMmRqTjFCeEVjUWZaLXd6VFJwQTk1S3hzVVhqbnlQNWg5U3hYTkFSRUdzRmNpWDZDRWo5WUFUalB3M2xobjIwTWZpRk01aVRtR2pkbzlTdl9qRDRITGZURW5nZG4yTkwyYWQ3WF9TLVhhOGNRNXFkNXBta0FkcXVPNzNCVE4wamRCMDZCNkVWY2tZSWI0WlNLT2dLNA?oc=5) |
+| 11 | **Liquid AI** | Industry | ◈ | ● HIGH | [Decision Models - Liquid AI](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hTGxsalVTeU5FRDNSdElaUEFUV1JtWThNTGdVX0JUMEJNRkF4blJrZVpwdFQ1bFJlMElCQjl0SlR5Ukt1MzJKd2V1YWxucUotNzJEOE5kaDVmbzlIR0E?oc=5) |
+| 12 | **Google Research** | Safety & Security | ◈ | ◐ MED | [Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle - Google Research](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU0pHcTBKNmN4VE1LQThXcmpTMjRTa1NEMlpWYkZ1M2FqUXZpRGU4WFZ1cVhIZTFFTUhvLWVsODB4d1Y1YTNIOE0yVTVwbU9ORTVORjgxMExVeGlmUzlSaGJqUHcxSTdJbk5aM0lrcFAtMXoxQ3lid2E3NWtwdVN3Y1ktUnZ5cWYwckpVVkROMkMwdEhhZ0M5VGh0b1diUzdJNzZyWVVyc3ZLSlE?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
