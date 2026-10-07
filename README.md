@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-07 00:59 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-07 07:07 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Nous Research** | Research | ◈ | ● HIGH | [Hermes Index \| Agentic Model Leaderboard - Nous Portal](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QRDFELTB1NG1aSlpiS1FlQ25MWWJoT2VkMy02bzhrQnBoZ182M21WSGowR19NMDEzZWdYQXBTZHhycmRHZ3pjVkpIa29LZw?oc=5) |
-| 02 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product](https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 06 | **CNET AI** | Industry | ◈ | ◐ MED | [Oracle Health Hack Exposes Data of Nearly 20M People - CNET](https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmZZR0Eyc3JLMDA3azY3QVlqRXdPRUdfdjhKM2lVNXZZcV92bGtjY2FJd2JObXVwejlHM0ZHUmgxd1VGZUktc1NSNWlsc0NkT2pHMi1yMTBBQVBSR0NKdHZYbW9BdGswdXo1MmhJTUlRRDFIU0lIeEl5TG5SbHg3M2xEZ2JVQQ?oc=5) |
-| 07 | **Sakana AI** | Industry | ◈ | ● HIGH | [- Sakana AI](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
-| 08 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [I’m Looking For Web Designers](https://www.reddit.com/r/artificial/comments/1wzeein/im_looking_for_web_designers/) |
-| 09 | **Product Wire · NVIDIA NeMo** | Products & Agents | ◈ | ● HIGH | [NVIDIA NeMo Relay Traces How AI Agents Complete Tasks](https://news.google.com/rss/articles/CBMibkFVX3lxTE0yTUQwWXF4THVYUGpEYm0xZGIwMTZmaFYyOUY3QnV6b3JQQUVYa1ZGZlNLY3g5LVB1dTZGVE9zX0pQQmlNWXNfYUJtVEVMVElnY0hBR1JIT3ozbnpqWEhCQ21rT3RSY2JsUzcwSlV3?oc=5) |
-| 10 | **MIT News AI** | Infrastructure | 🖼️ | ● HIGH | [Supercomputing researchers document evolution of AI hardware](https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006) |
-| 11 | **TechCrunch AI** | Open Source | ◈ | ● HIGH | [How AI decision models could change content moderation](https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/) |
-| 12 | **Product Wire · Google Flow** | Products & Agents | ◈ | ● HIGH | [Google Flow Music Lets Producers Build Their Own AI Plugins](https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjN3WUluNnluY3doaE50WjM4eUdqcmNBS3JXa2lhdWR6cF85ZVpTNGFwUl9xQ19nc1VIY2FGUU0tazVNWTVUSXpzN1Z6dWN4VmpLMHFkbk9YUmRCMUFZSWY0N3lvcTdFZmNwWTVPZ3g5cUlpTWV5aVJxQ1dnNTNRSy1fNVU?oc=5) |
+| 01 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Three AI agents research a 4-day week and build the deck \| Row-Bot + GPT 6.1 Sol](https://www.reddit.com/r/artificial/comments/1wzppyj/three_ai_agents_research_a_4day_week_and_build/) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [What's a real world task where you think AI needs to improve before you'd trust it to handle the whole thing?](https://www.reddit.com/r/artificial/comments/1wzot5u/whats_a_real_world_task_where_you_think_ai_needs/) |
+| 03 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DOGV5X3BFUXVZVjN0NzBzX3ljS3lqLS1URVdocEVlUi1GdlhLLTZxS1A2NVZKWWZWRTByZGlyc1E0YW5JeGc?oc=5) |
+| 04 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 07 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets](https://arxiv.org/abs/2610.06910) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain](https://arxiv.org/abs/2610.06914) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving](https://arxiv.org/abs/2610.06917) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Anchor Divergence for Semantic Geometry in Contrastive Learning](https://arxiv.org/abs/2610.06919) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway](https://arxiv.org/abs/2610.06923) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Metonymic Circuits for Abstract Concept Grounding in Vision Transformers](https://arxiv.org/abs/2610.06928) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
