@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-07 14:27 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-07 20:07 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/) |
-| 02 | **Ars Technica AI** | Industry | 🖼️ | ● HIGH | [Google rolls out improved SynthID AI content detector, now available globally](https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/) |
-| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [6 days to TechCrunch Disrupt 2026: Save on your pass before doors open](https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Google’s new SynthID website can identify AI-generated media](https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/) |
-| 05 | **IEEE Spectrum AI** | Robotics & Embodied AI | 🖼️ | ● HIGH | [HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction](https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/) |
-| 06 | **Engadget AI** | Industry | ◈ | ● HIGH | [OpenAI Just Posted Hundreds More Results On Major Math Problems - Engadget](https://news.google.com/rss/articles/CBMingFBVV95cUxOSjhkWno5X2s2NDV6NGNveEFfbmQ3Z2diOVYtcGJDWk5pTEtzMXJoU29SVEZNeFJxd3dnN2NYWmJIcnZDUVV3X0ZCNnBHckxhcG9ocmp2TWZuenUxcVh6cTI0am4wZkxGOE5JQkJlX3EyY3RYS1ZrQ2pvYVVwb2pYZ0dtVXdoZjUyWk9vX1NYc1pxSEJtX2NpTWd2LUlPZw?oc=5) |
-| 07 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO](https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026) |
-| 08 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DOGV5X3BFUXVZVjN0NzBzX3ljS3lqLS1URVdocEVlUi1GdlhLLTZxS1A2NVZKWWZWRTByZGlyc1E0YW5JeGc?oc=5) |
-| 09 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [ChatGPT rated "unacceptable risk" for teens after parental alerts failed during suicide conversations](https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations/) |
-| 10 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Anthropic gives more security teams access to Claude with fewer safety restrictions](https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/) |
-| 11 | **Google AI Blog** | Industry | 🖼️ | ● HIGH | [Introducing Playground: Create and play custom games](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/) |
-| 12 | **Product Wire · GitHub Copilot CLI** | Products & Agents | ◈ | ● HIGH | [Encrypted instructions trick Copilot CLI into spilling developer secrets](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWlya1ZYQ0RJcGNLZXgyalNOTEdtR0M1Mmp5NEFIYTFvSHVVQy1MZjBZWFpDbzNsaWZKMlVfc2hQN0ZWNm1CQmN5cEtVd2ZlS1RTQy1rc1NKX084eHg1U0hpMlhVYzQ3eGpWXzMwXzBkblBUeUZQb05LQ29xdGZERXZLWW05TW0zejdHeFZranVYQm5TdmNfekptN0Frc3ZENXNvc2lNSlNGMF81?oc=5) |
+| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Surface RTX Spark Dev Box is available for preorder for $5,999](https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder) |
+| 02 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [NeurIPS payment Declined [D]](https://www.reddit.com/r/MachineLearning/comments/1x05oc8/neurips_payment_declined_d/) |
+| 03 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6) |
+| 04 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps](https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/) |
+| 05 | **AWS Machine Learning** | Frontier Models | ◈ | ● HIGH | [Introducing Claude Haiku 5.5 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/) |
+| 06 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over](https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/) |
+| 07 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [Everything announced at Microsoft’s Surface Laptop Ultra event](https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced) |
+| 08 | **WIRED AI** | Frontier Models | 🖼️ | ● HIGH | [These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out](https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/) |
+| 09 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Rethinking access control for RAG with Amazon Quick and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/) |
+| 10 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Neurips camera ready Submission option [D]](https://www.reddit.com/r/MachineLearning/comments/1x04ftc/neurips_camera_ready_submission_option_d/) |
+| 11 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Meta’s Muse launches on iPad just a month after its mobile debut](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/) |
+| 12 | **Liquid AI** | Industry | ◈ | ● HIGH | [Decision Models - Liquid AI](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hTGxsalVTeU5FRDNSdElaUEFUV1JtWThNTGdVX0JUMEJNRkF4blJrZVpwdFQ1bFJlMElCQjl0SlR5Ukt1MzJKd2V1YWxucUotNzJEOE5kaDVmbzlIR0E?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
