@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-07 07:07 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-07 14:27 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Three AI agents research a 4-day week and build the deck \| Row-Bot + GPT 6.1 Sol](https://www.reddit.com/r/artificial/comments/1wzppyj/three_ai_agents_research_a_4day_week_and_build/) |
-| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [What's a real world task where you think AI needs to improve before you'd trust it to handle the whole thing?](https://www.reddit.com/r/artificial/comments/1wzot5u/whats_a_real_world_task_where_you_think_ai_needs/) |
-| 03 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DOGV5X3BFUXVZVjN0NzBzX3ljS3lqLS1URVdocEVlUi1GdlhLLTZxS1A2NVZKWWZWRTByZGlyc1E0YW5JeGc?oc=5) |
-| 04 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 07 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets](https://arxiv.org/abs/2610.06910) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain](https://arxiv.org/abs/2610.06914) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving](https://arxiv.org/abs/2610.06917) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Anchor Divergence for Semantic Geometry in Contrastive Learning](https://arxiv.org/abs/2610.06919) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway](https://arxiv.org/abs/2610.06923) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Metonymic Circuits for Abstract Concept Grounding in Vision Transformers](https://arxiv.org/abs/2610.06928) |
+| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026](https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/) |
+| 02 | **Ars Technica AI** | Industry | 🖼️ | ● HIGH | [Google rolls out improved SynthID AI content detector, now available globally](https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/) |
+| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [6 days to TechCrunch Disrupt 2026: Save on your pass before doors open](https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Google’s new SynthID website can identify AI-generated media](https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/) |
+| 05 | **IEEE Spectrum AI** | Robotics & Embodied AI | 🖼️ | ● HIGH | [HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction](https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/) |
+| 06 | **Engadget AI** | Industry | ◈ | ● HIGH | [OpenAI Just Posted Hundreds More Results On Major Math Problems - Engadget](https://news.google.com/rss/articles/CBMingFBVV95cUxOSjhkWno5X2s2NDV6NGNveEFfbmQ3Z2diOVYtcGJDWk5pTEtzMXJoU29SVEZNeFJxd3dnN2NYWmJIcnZDUVV3X0ZCNnBHckxhcG9ocmp2TWZuenUxcVh6cTI0am4wZkxGOE5JQkJlX3EyY3RYS1ZrQ2pvYVVwb2pYZ0dtVXdoZjUyWk9vX1NYc1pxSEJtX2NpTWd2LUlPZw?oc=5) |
+| 07 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO](https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026) |
+| 08 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DOGV5X3BFUXVZVjN0NzBzX3ljS3lqLS1URVdocEVlUi1GdlhLLTZxS1A2NVZKWWZWRTByZGlyc1E0YW5JeGc?oc=5) |
+| 09 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [ChatGPT rated "unacceptable risk" for teens after parental alerts failed during suicide conversations](https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations/) |
+| 10 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Anthropic gives more security teams access to Claude with fewer safety restrictions](https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/) |
+| 11 | **Google AI Blog** | Industry | 🖼️ | ● HIGH | [Introducing Playground: Create and play custom games](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/) |
+| 12 | **Product Wire · GitHub Copilot CLI** | Products & Agents | ◈ | ● HIGH | [Encrypted instructions trick Copilot CLI into spilling developer secrets](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWlya1ZYQ0RJcGNLZXgyalNOTEdtR0M1Mmp5NEFIYTFvSHVVQy1MZjBZWFpDbzNsaWZKMlVfc2hQN0ZWNm1CQmN5cEtVd2ZlS1RTQy1rc1NKX084eHg1U0hpMlhVYzQ3eGpWXzMwXzBkblBUeUZQb05LQ29xdGZERXZLWW05TW0zejdHeFZranVYQm5TdmNfekptN0Frc3ZENXNvc2lNSlNGMF81?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
