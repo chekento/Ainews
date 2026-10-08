@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-07 20:07 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-08 00:09 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Surface RTX Spark Dev Box is available for preorder for $5,999](https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder) |
-| 02 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [NeurIPS payment Declined [D]](https://www.reddit.com/r/MachineLearning/comments/1x05oc8/neurips_payment_declined_d/) |
-| 03 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6) |
-| 04 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps](https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/) |
-| 05 | **AWS Machine Learning** | Frontier Models | ◈ | ● HIGH | [Introducing Claude Haiku 5.5 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/) |
-| 06 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over](https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/) |
-| 07 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [Everything announced at Microsoft’s Surface Laptop Ultra event](https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced) |
-| 08 | **WIRED AI** | Frontier Models | 🖼️ | ● HIGH | [These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out](https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/) |
-| 09 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Rethinking access control for RAG with Amazon Quick and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/) |
-| 10 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Neurips camera ready Submission option [D]](https://www.reddit.com/r/MachineLearning/comments/1x04ftc/neurips_camera_ready_submission_option_d/) |
-| 11 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Meta’s Muse launches on iPad just a month after its mobile debut](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/) |
-| 12 | **Liquid AI** | Industry | ◈ | ● HIGH | [Decision Models - Liquid AI](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hTGxsalVTeU5FRDNSdElaUEFUV1JtWThNTGdVX0JUMEJNRkF4blJrZVpwdFQ1bFJlMElCQjl0SlR5Ukt1MzJKd2V1YWxucUotNzJEOE5kaDVmbzlIR0E?oc=5) |
+| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [AI took my self esteem as a creator and I hate where this is going](https://www.reddit.com/r/artificial/comments/1x0cf7w/ai_took_my_self_esteem_as_a_creator_and_i_hate/) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [I think we're going to reach a point where getting an AI to do something isn't the hard part. Knowing what to ask it to do will be.](https://www.reddit.com/r/artificial/comments/1x0c68e/i_think_were_going_to_reach_a_point_where_getting/) |
+| 03 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Is this the brief window when independent engineers still get to define how AI is used?](https://www.reddit.com/r/artificial/comments/1x0b5w7/is_this_the_brief_window_when_independent/) |
+| 04 | **US AI Czar & AI Force Watch** | Compliance & Ethics | ◈ | ● HIGH | [Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxNN2p1M1ZHTVBGQXhwSXJMYWp2SXBVWGZzVnV1V3JaWjJWTjI0RnVKS2t2OGdRc1VCYVBwTTljSk9EQ2xINUtZbl9IMDZDZTZWc3hodFYzckxmaldPNC1taDFwcTJxcTJFdjk1eTl0LVpoYlBEREJnX2U0ajB0V0FXRXE2QWlvTllvWVRFaU43SlJRQlhiVVNhVDR4WkdGMi1mSnAtUXprYmZHV1ZfT3RMdTc1emNYVEtCZkNSeFdXZw?oc=5) |
+| 05 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Scientists use generative AI to build better proteins for editing DNA](https://www.reddit.com/r/artificial/comments/1x0ahd1/scientists_use_generative_ai_to_build_better/) |
+| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [The New AI Slop Is Calling Everything AI Slop](https://www.reddit.com/r/artificial/comments/1x0a90k/the_new_ai_slop_is_calling_everything_ai_slop/) |
+| 07 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [A moderator in r/claudeai made this post and almost instantly the first comment was a promotion of some shitty app. I have been shadow banned from the sub because my comment does not appear outside of my account. The comment has been pushed to the top by downvoting all other comments.](https://www.reddit.com/r/artificial/comments/1x0a8f2/a_moderator_in_rclaudeai_made_this_post_and/) |
+| 08 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [Everything announced at Microsoft’s Surface Laptop Ultra event](https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced) |
+| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Why Artificial Intelligence Is Impossible [USSR Perspective on AI from 1984]](https://www.reddit.com/r/artificial/comments/1x099rd/why_artificial_intelligence_is_impossible_ussr/) |
+| 10 | **Stocks Down Under · provider monitor** | Industry | ◈ | ● HIGH | [HPE (NYSE:HPE) Stock Hits Record High as New AMD AI Servers Fuel Rally](https://news.google.com/rss/articles/CBMic0FVX3lxTE1zR21UWU1felF2NlNfWEMxRjhiNE44M1drOUxKdk9DNU9NVnJ3QTR5ZVBRTXBCQVBvc1FheFhwUmxDVXBXdTA5Zjd0UG9BbFVfUmpoTldwOFg3NGpSY3RUVHQ5VjdkaTFZX1F2czRnOFpUTUE?oc=5) |
+| 11 | **Reuters AI & Technology** | Industry | ◈ | ◐ MED | [NEWSLETTER: AI wants to cure disease. It needs data first - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZko5Um03SjcyYlRWRTh2c2xJYnlVOHNIQVNxa3BKU08tZndRa183Z1RtQ0lKcHdtZk1RRU9yZU9MQ1IwdHFWb2Q2cldVM3Zhekx2b25fVjFNWGtzMjN0YlZ0UGRiWUxBTlEzci01ZnlVbWMwOUh3UnAydzQ3LTdYczU5Ujdsdno4eDl2ck02UjhsLUtCR0RYY3UxTVB2U2h5cjJVcWYwMHdSZ1ZBWDlKX0V3?oc=5) |
+| 12 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Muse launches on the iPad](https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
