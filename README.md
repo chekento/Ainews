@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-09 00:15 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-09 06:36 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reuters · provider monitor** | Industry | ◈ | ● HIGH | [Character.AI chatbots encouraged users to cut and starve themselves, Kentucky alleges](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPODBpUzNGMW1wb3hhak8yLXJfTWNTVDA1X01Dd3J0SEtiUHhsRmpFalhId1M3WXNJdzQ3S1ltM2FUdU1sd3doRnVKR3pSdVJWYVY3cm8zYTRLR2Z3YWRXUzh1cWRUeERfQnpnU3Y1VFNhNGNhZ0wyM25xd19YNGxDRXpiZnZHX0EwVzNYcXZvbVN3QXFrc0JkZzhWN19fNTFXdW9nN25sWUdiT1dFcTEtNVQyNFcyejJPQzdTNlQzbE9sYjU5NURVbA?oc=5) |
-| 02 | **Product Wire · Veo** | Products & Agents | ◈ | ● HIGH | [Protoface Expands AI Video API With Kling 3.0, Seedance 2.5, and Google Veo 3.1](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeTlZWmIySjFRRUJzdWcwRWhhRko1cEpnNHN5UXp4TVhEeWZPQUJIV0dXQWIxVGF6bjFHSXNCR2t4QlR1bnZLMjRpYkVJVEdmTFdwc1lkY1NXRmUyX2ttdzlCT0xrN1hSQzQwaU93VGlaSURITXpENk05MkRpWXkyczJmVzlTSnlUbUhvODl2RlRLSm1wRWJ3QjN5Ym5FWVJ5OGpvMTZ0RW9FdS1uSUt4UHhDb2dSVHp5WkowbkhNOUlOdw?oc=5) |
-| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Wikipedia says rogue AI agents from OpenAI edited its private wikis and hammered its servers](https://www.reddit.com/r/artificial/comments/1x14l4d/wikipedia_says_rogue_ai_agents_from_openai_edited/) |
-| 06 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Anthropic launches free AI security scans for open-source projects](https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner) |
-| 07 | **MIT News AI** | Research | 🖼️ | ● HIGH | [3 Questions: What is the best path forward for AI in academia?](https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925) |
-| 08 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Think First and Let AI correct You](https://www.reddit.com/r/artificial/comments/1x136mr/think_first_and_let_ai_correct_you/) |
-| 09 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Inside Elon Musk’s Midterm Spending Spree](https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/) |
-| 10 | **Snowflake AI & ML** | Industry | ◈ | ● HIGH | [Snowflake Decision: A Decision Model in Cortex AI Functions - Snowflake](https://news.google.com/rss/articles/CBMifkFVX3lxTE13RC1PZWFLMjVST190MjBKbXpMZ0tOQzhxMnBfTVB0NTV0Ulg2bUxNYk0tYy1oNWJobEw3dW5HQ3NYNWxBQ2ozRnc2Z2FFZ2Z2MjZYVlhPYnpTbkpwOWlOM0k0WlJNeS02NVRmR3NqLVpub3d2REc4bVdFeU8tUQ?oc=5) |
-| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website](https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/) |
-| 12 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 02 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment](https://arxiv.org/abs/2610.10541) |
+| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction](https://arxiv.org/abs/2610.10549) |
+| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice](https://arxiv.org/abs/2610.10590) |
+| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Verification and Self-Improvement in Agentic AI: Foundations and Limits](https://arxiv.org/abs/2610.10611) |
+| 06 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate](https://arxiv.org/abs/2610.10629) |
+| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents](https://arxiv.org/abs/2610.10635) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Plan-and-Patch: Diffusion Language Models for Agentic Planning](https://arxiv.org/abs/2610.10786) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Whose Ground Truth? Embracing Ambiguity in Human-Centered AI](https://arxiv.org/abs/2610.10805) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents](https://arxiv.org/abs/2610.10833) |
+| 11 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning](https://arxiv.org/abs/2610.10857) |
+| 12 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs](https://arxiv.org/abs/2610.10906) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
