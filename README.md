@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-09 13:42 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-09 19:27 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Alexa Plus is better at running my home, but it’s not ready to run my life](https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max) |
-| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [William Shatner gives take on AI](https://www.reddit.com/r/artificial/comments/1x1ku7k/william_shatner_gives_take_on_ai/) |
-| 03 | **Product Wire · Typeface** | Products & Agents | ◈ | ● HIGH | [Microsoft Unveils Typeface Inspired by Michelangelo's Handwriting](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRnRvNFo0SHVJaHdrVG9jZDFKaWRuc3ktZlplRVg3Z0xINjB3NFUweWcyR2FFRFNiRWhKdzVjY2JiZ1lpalc3blpVWXk0cjZ4aWxUTV9VZUo0SmNUR09FRjJjdnFnd19leW5KdEtRMTg3enNxUTA1LUJJTlFUVUpyNGJqWHRyWDQzNjA2UXhiZWY3bDRpVmxWbjVTVDdkWHhKWHc?oc=5) |
-| 04 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [OpenAI's safety crisis keeps getting worse and the company keeps making it worse](https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/) |
-| 05 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 06 | **Product Wire · OpenAI API** | Products & Agents | ◈ | ● HIGH | [openai api pricing Official Download for Android](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KTlBoVDRSN0s4UHgzNVBkQVlWeFhtd0RDcW5Mb1ZzYWtjNVZ3TkQ3SzhDYkZQaDlrTEN6RzVsT050Vk5IN0lOMWJITXBYelBKd21LVw?oc=5) |
-| 07 | **Product Wire · Cohere Command** | Products & Agents | ◈ | ● HIGH | [Can Thales (ENXTPA:HO) Still Command A Discount After Its AI Security Push?](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMi1JMXBrSUVxNThzV3NTakttX05FTlhGV2RUZDFKSWtzd2MxYkNNSUFidXVtc29INFNKSDRhbkh3X182SXZhZ0ktalduR2FDaGdiUk0yVnE5Z2NpWm5RLVEzV2hxVWNzNFM3UElkSmQ1VTdQWmFtSzdHYXhzcDN0MjB0N05Lc0w3NlBUT2wyTDRBOXZCZ1BmNEpNZw?oc=5) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 10 | **WIRED AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Even ‘Law & Order’ Is Terrified of AI](https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/) |
-| 11 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [OpenAI doubles down on decision to fire three AI safety researchers](https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers) |
-| 12 | **Product Wire · SGLang** | Products & Agents | ◈ | ● HIGH | [SGLang LLM Serving Framework Has CVSS 9.8 Pickle Deserialization RCE That Persists Even When Pickle Is Disabled](https://news.google.com/rss/articles/CBMizgFBVV95cUxNV0hYWUlnTUpJOUNSaFd0QXFfempQSWZjak9EblhEYl9ib3I2MGJnZHJZeDNPMWU0Rk4xSlRQWGpjamlJWWlvSDIzd3NvelhBN2R4UkxXT1RBY0NhRUlqek1PNkVqeFJzMWgxY255TjNIYmtPa0RZdWxJMU4yVU1vQVNPdUo5MUNaWEluV2xzeHF6cWowcHpEa2YxczRzZFZKdWw3VEZjSG5GOHBfaC1WWjNUeE5pc2FxcjBnVjV1WWlFR3NwQ1VYUGZGTno3QQ?oc=5) |
+| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop](https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos) |
+| 02 | **Reddit · r/MachineLearning** | Open Source | ◈ | ● HIGH | [Integrum - Reflection based MCP server from any Python Module/Library [P]](https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/) |
+| 03 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows](https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/) |
+| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Nikon microscopic video competition winner disqualified for using generative AI](https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai) |
+| 05 | **IEEE Spectrum AI** | Infrastructure | 🖼️ | ● HIGH | [Master AI Chip Principles With New IEEE Design Program](https://spectrum.ieee.org/master-ai-chip-principles-ieee) |
+| 06 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Anthropic launches a free AI scanner for open-source projects](https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/) |
+| 07 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Trump’s attempt to rename AI is looking awfully artificial](https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding) |
+| 09 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [OpenAI revenue keeps surging as company seeks $30 billion in fresh capital](https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/) |
+| 10 | **Product Wire · HeyGen** | Products & Agents | ◈ | ● HIGH | [HeyGen Launches HeyGen Voice, Debuting at #1 on Artificial Analysis' Leaderboard](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWHJUdjBXN2Zla2dIYlpvbWZORm1PNzJ5cXgyeDlPSEpvUmI0VmFxMnFDd1FJYXV4RzJDTWJseTljOTRoTmRjR2cwcWgzeEZvRHVaeXlLYktyU2xJN2M0WEZIMmlKR0dscXN0TUo2ZS1XMVN1aXZIZGxyR29rdnVxV1lqRWVkN2Q3TGxla1JKaTJocnl2bjk4ODlhdUQyZ0FIRXVFU1FtV19FYzVqaU5lUXBXY09sTFlEbXBSUFl5X3ZKQXZDbzFyeWZ3VlFXZw?oc=5) |
+| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 12 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Amazon and others are done keeping data center deals secret. Is it enough to build trust?](https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
