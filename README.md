@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-09 06:36 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-09 13:42 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 02 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment](https://arxiv.org/abs/2610.10541) |
-| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction](https://arxiv.org/abs/2610.10549) |
-| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice](https://arxiv.org/abs/2610.10590) |
-| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Verification and Self-Improvement in Agentic AI: Foundations and Limits](https://arxiv.org/abs/2610.10611) |
-| 06 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate](https://arxiv.org/abs/2610.10629) |
-| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents](https://arxiv.org/abs/2610.10635) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Plan-and-Patch: Diffusion Language Models for Agentic Planning](https://arxiv.org/abs/2610.10786) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Whose Ground Truth? Embracing Ambiguity in Human-Centered AI](https://arxiv.org/abs/2610.10805) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents](https://arxiv.org/abs/2610.10833) |
-| 11 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning](https://arxiv.org/abs/2610.10857) |
-| 12 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs](https://arxiv.org/abs/2610.10906) |
+| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Alexa Plus is better at running my home, but it’s not ready to run my life](https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [William Shatner gives take on AI](https://www.reddit.com/r/artificial/comments/1x1ku7k/william_shatner_gives_take_on_ai/) |
+| 03 | **Product Wire · Typeface** | Products & Agents | ◈ | ● HIGH | [Microsoft Unveils Typeface Inspired by Michelangelo's Handwriting](https://news.google.com/rss/articles/CBMiogFBVV95cUxNRnRvNFo0SHVJaHdrVG9jZDFKaWRuc3ktZlplRVg3Z0xINjB3NFUweWcyR2FFRFNiRWhKdzVjY2JiZ1lpalc3blpVWXk0cjZ4aWxUTV9VZUo0SmNUR09FRjJjdnFnd19leW5KdEtRMTg3enNxUTA1LUJJTlFUVUpyNGJqWHRyWDQzNjA2UXhiZWY3bDRpVmxWbjVTVDdkWHhKWHc?oc=5) |
+| 04 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [OpenAI's safety crisis keeps getting worse and the company keeps making it worse](https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/) |
+| 05 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 06 | **Product Wire · OpenAI API** | Products & Agents | ◈ | ● HIGH | [openai api pricing Official Download for Android](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KTlBoVDRSN0s4UHgzNVBkQVlWeFhtd0RDcW5Mb1ZzYWtjNVZ3TkQ3SzhDYkZQaDlrTEN6RzVsT050Vk5IN0lOMWJITXBYelBKd21LVw?oc=5) |
+| 07 | **Product Wire · Cohere Command** | Products & Agents | ◈ | ● HIGH | [Can Thales (ENXTPA:HO) Still Command A Discount After Its AI Security Push?](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMi1JMXBrSUVxNThzV3NTakttX05FTlhGV2RUZDFKSWtzd2MxYkNNSUFidXVtc29INFNKSDRhbkh3X182SXZhZ0ktalduR2FDaGdiUk0yVnE5Z2NpWm5RLVEzV2hxVWNzNFM3UElkSmQ1VTdQWmFtSzdHYXhzcDN0MjB0N05Lc0w3NlBUT2wyTDRBOXZCZ1BmNEpNZw?oc=5) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 10 | **WIRED AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Even ‘Law & Order’ Is Terrified of AI](https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/) |
+| 11 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [OpenAI doubles down on decision to fire three AI safety researchers](https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers) |
+| 12 | **Product Wire · SGLang** | Products & Agents | ◈ | ● HIGH | [SGLang LLM Serving Framework Has CVSS 9.8 Pickle Deserialization RCE That Persists Even When Pickle Is Disabled](https://news.google.com/rss/articles/CBMizgFBVV95cUxNV0hYWUlnTUpJOUNSaFd0QXFfempQSWZjak9EblhEYl9ib3I2MGJnZHJZeDNPMWU0Rk4xSlRQWGpjamlJWWlvSDIzd3NvelhBN2R4UkxXT1RBY0NhRUlqek1PNkVqeFJzMWgxY255TjNIYmtPa0RZdWxJMU4yVU1vQVNPdUo5MUNaWEluV2xzeHF6cWowcHpEa2YxczRzZFZKdWw3VEZjSG5GOHBfaC1WWjNUeE5pc2FxcjBnVjV1WWlFR3NwQ1VYUGZGTno3QQ?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
