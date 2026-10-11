@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-11 02:07 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-11 09:15 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [I just want to ask, How did the creator use ai to make this like it doesnt feel like ai and is this supposed to be easy to make?](https://www.reddit.com/r/artificial/comments/1x2ubb7/i_just_want_to_ask_how_did_the_creator_use_ai_to/) |
-| 02 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 03 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Claude Opus 5.5 decompiles a PS2-era game overnight, and hundreds of them now run in browser tabs](https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/) |
-| 04 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 06 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 07 | **Product Wire · OpenAI Evals** | Products & Agents | ◈ | ● HIGH | [Anthropic Is Banishing Its Model Evals From the Internet](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNW1PNnNxaUY1ZHEzS21SMk9HZDE5ajZnTEhSZUNyNUZtVnVzRk93ak1IUS1nQWRJYndEOV9FQUc1dENmSEFPSm40dDJFMGItdW4wQjhkSmpZd1Y3aWpHbkx6NTR2TlRMS0YzaF9SU0xWYms2VzhZajI0OUVhMl9QMi1ITnJ6ZlNWRldsc1lCeHk?oc=5) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [signup - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPkFVX3lxTE00YWU5RHFWYmtpSEVnRVljUFdldTAta2p6djFEbDVPbTUzd1VGQkgycmRkY3ZRcmR5VU9SWHhB?oc=5) |
-| 10 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised) |
-| 11 | **TechCrunch AI** | Research | ◈ | ● HIGH | [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) |
-| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit) |
+| 01 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Microsoft's Nadella bows to Trump's language diktat on "Super Intelligence" and uses it to attack OpenAI and Anthropic](https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/) |
+| 02 | **Product Wire · ChatGPT Edu** | Products & Agents | ◈ | ● HIGH | [UMS's new contract with OpenAI for ChatGPT Edu is intended to make AI usage safer and less expensive](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRVNHZ3czbF9wVm51SFU1QzU5M19MZ3doS3JIb0lhRzhvbUZ4N1ZQajhVUTVaUlozQ2x3QzN4cTVtbDVaT2hGWjR2VE4tYTUzblJaVFIwRnA1WE5QaWZGNEZKbVpZMHVfd3IwclpHaUVrcnBveGNDdzVDcm40bFdvZjlOdG11T1F3TW1Kemh1SWpLY2FmSzJMeXhsbzR5cEZ3aDQ1dWN4UGd5RTBSWFRiWDZrdE91SWJtOVEtcWcyUHRBVUY0Y2NKZENmdWI0VjBlMV92OTdCWGhrV0ZZNlh6bVE2aTdjbGFm?oc=5) |
+| 03 | **Ollama Blog** | Industry | ◈ | ● HIGH | [gemma4 - Ollama](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIUm9haldfemZJWXJtRHNNVXlUaHM2WlVPX2hhakFWelVaRlBYcHBJQnU1M0g2Ulg3YTBqdFM5T0J3cnduMEcyNA?oc=5) |
+| 04 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [AI to learn Premiere](https://www.reddit.com/r/artificial/comments/1x330cf/ai_to_learn_premiere/) |
+| 05 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
+| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [We're breaching the point where the "taste" of a model's decisions is becoming as or more important than its raw intelligence](https://www.reddit.com/r/artificial/comments/1x32fn9/were_breaching_the_point_where_the_taste_of_a/) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 08 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 09 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Task-structured modularity emerges in artificial networks and aligns with brain architecture](https://www.reddit.com/r/artificial/comments/1x30g90/taskstructured_modularity_emerges_in_artificial/) |
+| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 11 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Observations On Artificial Intelligence for Everyday People](https://www.reddit.com/r/artificial/comments/1x2ys9q/observations_on_artificial_intelligence_for/) |
+| 12 | **Product Wire · Whisper** | Products & Agents | ◈ | ● HIGH | [AI Spots the Earliest Whisper of Alzheimer’s Disease in Routine Brain Scans](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzBZWFhiSi1uUF9tUWJNdkM0cnlOdkJUZTdleW9QYlRiSTUxcXhuVm45emlTWExPSGFSZWU4X2tUVFlJcnJvTlhhTmtqVHk1NkZYSmVKMXJTR2ViYnpkdXlDcy1TVVNVeEVLdFpSS2NuSEpnVFg5SXVDenQ1T3liekV1ZWtuMVFndmhxX0lNY05TemdvekEyYW53U3ozd1JN?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
