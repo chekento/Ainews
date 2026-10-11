@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-11 15:55 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-11 20:10 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Decoder** | Research | 🖼️ | ● HIGH | [AI agent teams waste massive tokens for barely measurable quality gains, research finds](https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/) |
-| 02 | **Reddit · r/MachineLearning** | Infrastructure | ◈ | ● HIGH | [Is a second MSc worth it? [D]](https://www.reddit.com/r/MachineLearning/comments/1x3a37d/is_a_second_msc_worth_it_d/) |
-| 03 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]](https://www.reddit.com/r/MachineLearning/comments/1x39uu6/sliced_wasserstein_embeddings_hnsw_for/) |
-| 04 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [NeurIPS 2026 Paris complimentary registration already full. Did any Top Reviewers get a spot? [D]](https://www.reddit.com/r/MachineLearning/comments/1x39t3h/neurips_2026_paris_complimentary_registration/) |
-| 05 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [I trained a 414k-parameter transformer to fly a boids flock, then tested whether the rules a probe can read are the ones it uses [P]](https://www.reddit.com/r/MachineLearning/comments/1x39jlu/i_trained_a_414kparameter_transformer_to_fly_a/) |
-| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [These execs think voice AI hasn’t reached its ChatGPT moment yet](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/) |
-| 08 | **Reddit · r/MachineLearning** | Robotics & Embodied AI | ◈ | ● HIGH | [World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]](https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/) |
-| 09 | **The Decoder** | Research | 🖼️ | ● HIGH | [AI agents overstate their results and remain far from autonomous research, study finds](https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/) |
-| 10 | **Product Wire · Text Embeddings Inference** | Products & Agents | ◈ | ● HIGH | [Top Turkish defense firms ban foreign EVs from campuses: TEI CEO](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTB2anVCWVVSeTRITHRYbjZpNFA2UnVZYzlYTm95XzNPbTdpRmtucE9HMWNLWUJPN05TSnhZTGkwTVBLYlJ0c3B5bkVCVTRTaXFYYkRzVktIUGpnREZFV2lfZ1ZpSTFQQVdHTzMyWFBSaEljZ2RXMHNkd2FJZjgxQUlqQVc0LWZCci03eXY1MHNSY0hka3FvSzZDeWhScERNOUp4cUM5WGpZb1pEWEczOW9tb20?oc=5) |
-| 11 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 12 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [I Made Terrible Games With Google’s AI Playground](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/) |
+| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Nicolas Cage says he won't work with Amazon again over AI dispute](https://www.reddit.com/r/artificial/comments/1x3i1g8/nicolas_cage_says_he_wont_work_with_amazon_again/) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Anthropic says its AI agents found a CRISPR-like enzyme family in viral DNA; a researcher notes his team had been studying the same enzymes since 2022](https://www.reddit.com/r/artificial/comments/1x3i1e5/anthropic_says_its_ai_agents_found_a_crisprlike/) |
+| 03 | **Product Wire · OpenAI API** | Products & Agents | ◈ | ● HIGH | [How to Turn On textGrain in the OpenAI API (and Why Code Is Harder to Watermark)](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BNlJkSDVyaVNjaXB1VUNWaTZleEg2OXVBZXRIUFlFemNZX2NFeUR1VWpHWmpXZnllS0xQQkl5NkdrMnB5X19STlZrZTJ5b0hlcmwta3ZfYXNubzVRZV9WWDJpZVhCUXJuOXlWLW9ocXg0aXo5VmNwN1hseFI?oc=5) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/) |
+| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [There’s a reason billionaires keep bending the knee to Trump. After the president changed the term to “super intelligence,” the richest Americans rushed to use it.](https://www.reddit.com/r/artificial/comments/1x3g0ev/theres_a_reason_billionaires_keep_bending_the/) |
+| 06 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 09 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Can the AI industry persuade data center opponents by getting rid of NDAs?](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/) |
+| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 11 | **The Decoder** | Research | 🖼️ | ● HIGH | [AI agent teams waste massive tokens for barely measurable quality gains, research finds](https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/) |
+| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [These execs think voice AI hasn’t reached its ChatGPT moment yet](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
