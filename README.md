@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-11 09:15 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-11 15:55 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Microsoft's Nadella bows to Trump's language diktat on "Super Intelligence" and uses it to attack OpenAI and Anthropic](https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/) |
-| 02 | **Product Wire · ChatGPT Edu** | Products & Agents | ◈ | ● HIGH | [UMS's new contract with OpenAI for ChatGPT Edu is intended to make AI usage safer and less expensive](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRVNHZ3czbF9wVm51SFU1QzU5M19MZ3doS3JIb0lhRzhvbUZ4N1ZQajhVUTVaUlozQ2x3QzN4cTVtbDVaT2hGWjR2VE4tYTUzblJaVFIwRnA1WE5QaWZGNEZKbVpZMHVfd3IwclpHaUVrcnBveGNDdzVDcm40bFdvZjlOdG11T1F3TW1Kemh1SWpLY2FmSzJMeXhsbzR5cEZ3aDQ1dWN4UGd5RTBSWFRiWDZrdE91SWJtOVEtcWcyUHRBVUY0Y2NKZENmdWI0VjBlMV92OTdCWGhrV0ZZNlh6bVE2aTdjbGFm?oc=5) |
-| 03 | **Ollama Blog** | Industry | ◈ | ● HIGH | [gemma4 - Ollama](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIUm9haldfemZJWXJtRHNNVXlUaHM2WlVPX2hhakFWelVaRlBYcHBJQnU1M0g2Ulg3YTBqdFM5T0J3cnduMEcyNA?oc=5) |
-| 04 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [AI to learn Premiere](https://www.reddit.com/r/artificial/comments/1x330cf/ai_to_learn_premiere/) |
-| 05 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [We're breaching the point where the "taste" of a model's decisions is becoming as or more important than its raw intelligence](https://www.reddit.com/r/artificial/comments/1x32fn9/were_breaching_the_point_where_the_taste_of_a/) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 08 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 09 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Task-structured modularity emerges in artificial networks and aligns with brain architecture](https://www.reddit.com/r/artificial/comments/1x30g90/taskstructured_modularity_emerges_in_artificial/) |
-| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 11 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Observations On Artificial Intelligence for Everyday People](https://www.reddit.com/r/artificial/comments/1x2ys9q/observations_on_artificial_intelligence_for/) |
-| 12 | **Product Wire · Whisper** | Products & Agents | ◈ | ● HIGH | [AI Spots the Earliest Whisper of Alzheimer’s Disease in Routine Brain Scans](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzBZWFhiSi1uUF9tUWJNdkM0cnlOdkJUZTdleW9QYlRiSTUxcXhuVm45emlTWExPSGFSZWU4X2tUVFlJcnJvTlhhTmtqVHk1NkZYSmVKMXJTR2ViYnpkdXlDcy1TVVNVeEVLdFpSS2NuSEpnVFg5SXVDenQ1T3liekV1ZWtuMVFndmhxX0lNY05TemdvekEyYW53U3ozd1JN?oc=5) |
+| 01 | **The Decoder** | Research | 🖼️ | ● HIGH | [AI agent teams waste massive tokens for barely measurable quality gains, research finds](https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/) |
+| 02 | **Reddit · r/MachineLearning** | Infrastructure | ◈ | ● HIGH | [Is a second MSc worth it? [D]](https://www.reddit.com/r/MachineLearning/comments/1x3a37d/is_a_second_msc_worth_it_d/) |
+| 03 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]](https://www.reddit.com/r/MachineLearning/comments/1x39uu6/sliced_wasserstein_embeddings_hnsw_for/) |
+| 04 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [NeurIPS 2026 Paris complimentary registration already full. Did any Top Reviewers get a spot? [D]](https://www.reddit.com/r/MachineLearning/comments/1x39t3h/neurips_2026_paris_complimentary_registration/) |
+| 05 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [I trained a 414k-parameter transformer to fly a boids flock, then tested whether the rules a probe can read are the ones it uses [P]](https://www.reddit.com/r/MachineLearning/comments/1x39jlu/i_trained_a_414kparameter_transformer_to_fly_a/) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [These execs think voice AI hasn’t reached its ChatGPT moment yet](https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/) |
+| 08 | **Reddit · r/MachineLearning** | Robotics & Embodied AI | ◈ | ● HIGH | [World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]](https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/) |
+| 09 | **The Decoder** | Research | 🖼️ | ● HIGH | [AI agents overstate their results and remain far from autonomous research, study finds](https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/) |
+| 10 | **Product Wire · Text Embeddings Inference** | Products & Agents | ◈ | ● HIGH | [Top Turkish defense firms ban foreign EVs from campuses: TEI CEO](https://news.google.com/rss/articles/CBMitAFBVV95cUxPUTB2anVCWVVSeTRITHRYbjZpNFA2UnVZYzlYTm95XzNPbTdpRmtucE9HMWNLWUJPN05TSnhZTGkwTVBLYlJ0c3B5bkVCVTRTaXFYYkRzVktIUGpnREZFV2lfZ1ZpSTFQQVdHTzMyWFBSaEljZ2RXMHNkd2FJZjgxQUlqQVc0LWZCci03eXY1MHNSY0hka3FvSzZDeWhScERNOUp4cUM5WGpZb1pEWEczOW9tb20?oc=5) |
+| 11 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 12 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [I Made Terrible Games With Google’s AI Playground](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
