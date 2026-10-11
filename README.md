@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-10 23:26 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-11 02:07 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **WSJ · provider monitor** | Infrastructure | ◈ | ● HIGH | [Exclusive \| Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund](https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFZFeWo3bjhVMEkxNE9XSS1YZnVSbFJSVWlYZnFTV3NHZUdDS3hfS1VHcnhlaEw5QmVlV2VuNUxpdnk1OE5MVFYyVWc1OGE1azVsM19Wd29nMVNYc1JaSENOSXlSdmZSOG1jamxacWJJVHR3ZGNnbE9rQVl0a1ZDcGlFZVN2TGp4bWZIUmZBNnFocVRGTmVGa3dka2p3cW5tWXRyYw?oc=5) |
-| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised) |
-| 03 | **TechCrunch AI** | Research | ◈ | ● HIGH | [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) |
-| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit) |
-| 05 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 06 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [I just want to ask, How did the creator use ai to make this like it doesnt feel like ai and is this supposed to be easy to make?](https://www.reddit.com/r/artificial/comments/1x2ubb7/i_just_want_to_ask_how_did_the_creator_use_ai_to/) |
+| 02 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 03 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Claude Opus 5.5 decompiles a PS2-era game overnight, and hundreds of them now run in browser tabs](https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/) |
+| 04 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 06 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 07 | **Product Wire · OpenAI Evals** | Products & Agents | ◈ | ● HIGH | [Anthropic Is Banishing Its Model Evals From the Internet](https://news.google.com/rss/articles/CBMikAFBVV95cUxPNW1PNnNxaUY1ZHEzS21SMk9HZDE5ajZnTEhSZUNyNUZtVnVzRk93ak1IUS1nQWRJYndEOV9FQUc1dENmSEFPSm40dDJFMGItdW4wQjhkSmpZd1Y3aWpHbkx6NTR2TlRMS0YzaF9SU0xWYms2VzhZajI0OUVhMl9QMi1ITnJ6ZlNWRldsc1lCeHk?oc=5) |
 | 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Apple discloses deal to hire team and license tech from personalized podcast startup Huxe](https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/) |
-| 10 | **Perplexity** | Industry | ◈ | ● HIGH | [Free Perplexity Pro with Paypal - Perplexity](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xZlZpTURTUzBKSkw3NlpfcXAteHZMMWZjSjdHMmFDa1ZhRTVHLVZmLW95UUd6czV3cGhhQks0NEpKYTNGUmFKYld2dl9XNDFyRWExdjhzX3kyYThLUjk5MzJn?oc=5) |
-| 11 | **Product Wire · HeyGen** | Products & Agents | ◈ | ● HIGH | [HeyGen Voice Settings: Studio, API and Speaker Likeness](https://news.google.com/rss/articles/CBMibkFVX3lxTE9kSVpXN09YYk9TdTZnZjAycEQ1bE1WX1ZrbTM2aGNWcE1rekZfalVIVGFmM3FyQzRpbEx5QldWSFdEYkFscjlHTFRrV2JnQWdnY1k0SW9fd2ROa0QzQXhQUVNDY0dzX2NuM0ZOZVpn?oc=5) |
-| 12 | **Fireworks AI Blog** | Safety & Security | ◈ | ● HIGH | [Fireworks October 2026 security incident - Fireworks AI](https://news.google.com/rss/articles/CBMiekFVX3lxTE1OekpnZDY3cTJXa1Y3UDduSTZwc3dDR1dIVTRqUU4yaVg5UDBVOHB3SlZlajRlSHB4WEhvQWFMZE5SVmtuN0Eta1kyNmpUREtKbXVXeDhSWF9aV1JjSnlQZFhBU2VMRkxfZDBqTnk0bGl0bGJnQk40RzFn?oc=5) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [signup - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPkFVX3lxTE00YWU5RHFWYmtpSEVnRVljUFdldTAta2p6djFEbDVPbTUzd1VGQkgycmRkY3ZRcmR5VU9SWHhB?oc=5) |
+| 10 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Satya Nadella says we should assume all AI models are ‘compromised’](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised) |
+| 11 | **TechCrunch AI** | Research | ◈ | ● HIGH | [Microsoft’s Satya Nadella says AI models need an ‘emergency brake’](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) |
+| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [DistroKid has been quietly taking down songs in response to UMG lawsuit](https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
