@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-11 23:54 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-12 05:45 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 02 | **Reddit · r/MachineLearning** | Products & Agents | ◈ | ● HIGH | [I built a browser tool to visualize how a small LLM picks its next word and see what it's attending to [P]](https://www.reddit.com/r/MachineLearning/comments/1x3lgnz/i_built_a_browser_tool_to_visualize_how_a_small/) |
-| 03 | **Product Wire · vLLM** | Products & Agents | ◈ | ● HIGH | [What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models](https://news.google.com/rss/articles/CBMitAFBVV95cUxQaWdNQXhfT3p5MU1vMWVadVJPWkdKUDRHaWJsakJrSzFVa0U3UU92eF9kU2RJN1dVV1BkYjFFTlc1RVd6emNoVWdjSnQ1cmdiY1R6MHEtc1lMbktybDM4TGhiUXJVc1pLZmNIMXl6bnRWblhaZXkxdm5sQ240UktTRmg5TmtCdjhaYVFCYkJqR0dnU0NBZ2gzT01ZTm84ZzhXYXdCZWFOQTJCdVZVZUo0aW44SnnSAbQBQVVfeXFMUGlnTUF4X096eTFNbzFlWnVST1pHSlA0R2libGpCa0sxVWtFN1FPdnhfZFNkSTdXVVdQZGIxRU5XNUVXenpjaFVnY0p0NXJnYmNUejBxLXNZTG5LcmwzOExoYlFyVXNaS2ZjSDF5em50Vm5YWmV5MXZubENuNFJLU0ZoOU5rQnY4WmFRQmJCakdHZ1NDQWdoM09NWU5vOGc4V2F3QmVhTkEyQnVWVWVKNGluOEp5?oc=5) |
-| 04 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Will the HomeView be Apple’s first smart home success?](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/) |
-| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [signup - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPkFVX3lxTE00YWU5RHFWYmtpSEVnRVljUFdldTAta2p6djFEbDVPbTUzd1VGQkgycmRkY3ZRcmR5VU9SWHhB?oc=5) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 08 | **Product Wire · OpenAI API** | Products & Agents | ◈ | ● HIGH | [How to Turn On textGrain in the OpenAI API (and Why Code Is Harder to Watermark)](https://news.google.com/rss/articles/CBMifEFVX3lxTE9BNlJkSDVyaVNjaXB1VUNWaTZleEg2OXVBZXRIUFlFemNZX2NFeUR1VWpHWmpXZnllS0xQQkl5NkdrMnB5X19STlZrZTJ5b0hlcmwta3ZfYXNubzVRZV9WWDJpZVhCUXJuOXlWLW9ocXg0aXo5VmNwN1hseFI?oc=5) |
-| 09 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/) |
-| 11 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Silicon Valley is falling in line with Trump’s attempt to rename AI](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai) |
-| 12 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [What's up with google scholar citations ? [D]](https://www.reddit.com/r/MachineLearning/comments/1x3fbv4/whats_up_with_google_scholar_citations_d/) |
+| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 02 | **CNBC AI** | Industry | ◈ | ◐ MED | [TikTok CEO sees major scientific breakthroughs from AI within three years - CNBC](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTW12Y2w2X2Y4TjV2SVZENTdwXzhtVFctYkhvUU1WOWdjMzVnSUNsMnYzMDFQYkZEeG9PVVh6M3BwZjQwTkVLZXdIUDhMNnNhNlJWWG1uSGFvaHc4Nk5pa0RnMDVxMVd3MEtBSHNlNjZFT2lCdXpNMDlRTjJHVHZIVHJJNmlrd085VFZSUlZB0gGTAUFVX3lxTFBzSXAzMTA5TGVZdHNtMWsyZ3FfeE95UmRfaGYzTFFCQ1pRN3pZM1B1MUNDTlV1MXNpampFYUwzbG5KWkFyWk1heFlwU1FiQ3BlXzFobTZXS001ZDJUT05QVTBESWQza0ZlOGt3Ym42WWp4QzhqbVlwVGR6OFBlX1VTM1FpZ2tXMEVBVC1PdVI1N29JYw?oc=5) |
+| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance](https://arxiv.org/abs/2610.12493) |
+| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [EliteTable: Self-Improving Program Search for Executable Control Policies](https://arxiv.org/abs/2610.12536) |
+| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study](https://arxiv.org/abs/2610.12542) |
+| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning](https://arxiv.org/abs/2610.12593) |
+| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire](https://arxiv.org/abs/2610.12596) |
+| 08 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents](https://arxiv.org/abs/2610.12598) |
+| 09 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [CLEAT: Learning Value-Guided Clarification for Interactive Agents](https://arxiv.org/abs/2610.12655) |
+| 10 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis](https://arxiv.org/abs/2610.12659) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs](https://arxiv.org/abs/2610.12762) |
+| 12 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Representation Alignment from a Few Paired Data via Distilled Optimal Transport](https://arxiv.org/abs/2610.12781) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
