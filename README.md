@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-12 05:45 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-12 15:12 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 02 | **CNBC AI** | Industry | ◈ | ◐ MED | [TikTok CEO sees major scientific breakthroughs from AI within three years - CNBC](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTW12Y2w2X2Y4TjV2SVZENTdwXzhtVFctYkhvUU1WOWdjMzVnSUNsMnYzMDFQYkZEeG9PVVh6M3BwZjQwTkVLZXdIUDhMNnNhNlJWWG1uSGFvaHc4Nk5pa0RnMDVxMVd3MEtBSHNlNjZFT2lCdXpNMDlRTjJHVHZIVHJJNmlrd085VFZSUlZB0gGTAUFVX3lxTFBzSXAzMTA5TGVZdHNtMWsyZ3FfeE95UmRfaGYzTFFCQ1pRN3pZM1B1MUNDTlV1MXNpampFYUwzbG5KWkFyWk1heFlwU1FiQ3BlXzFobTZXS001ZDJUT05QVTBESWQza0ZlOGt3Ym42WWp4QzhqbVlwVGR6OFBlX1VTM1FpZ2tXMEVBVC1PdVI1N29JYw?oc=5) |
-| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance](https://arxiv.org/abs/2610.12493) |
-| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [EliteTable: Self-Improving Program Search for Executable Control Policies](https://arxiv.org/abs/2610.12536) |
-| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study](https://arxiv.org/abs/2610.12542) |
-| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning](https://arxiv.org/abs/2610.12593) |
-| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire](https://arxiv.org/abs/2610.12596) |
-| 08 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents](https://arxiv.org/abs/2610.12598) |
-| 09 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [CLEAT: Learning Value-Guided Clarification for Interactive Agents](https://arxiv.org/abs/2610.12655) |
-| 10 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis](https://arxiv.org/abs/2610.12659) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs](https://arxiv.org/abs/2610.12762) |
-| 12 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Representation Alignment from a Few Paired Data via Distilled Optimal Transport](https://arxiv.org/abs/2610.12781) |
+| 01 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]](https://www.reddit.com/r/MachineLearning/comments/1x44f9m/uspace_uncovering_when_and_why_uncertainty_arises/) |
+| 02 | **Netflix · provider monitor** | Open Source | ◈ | ● HIGH | [New Instadoc Depicts AI Agents’ Unprecedented Hugging Face Cyberattack](https://news.google.com/rss/articles/CBMihgFBVV95cUxPNFFaTnhQVlZLSTFXR3FkMTBIWm5sRzUzQzhCWFZDREF6cDJCSVNfSmdfeWNMWGxxQzllM0tvb2FXcXJDaDRvX0xTTWFtVE0xNk1GaUhjQ0djdTV2blhMaGZDckZESTZSRnlWSGRrX1AzSGo0b2lfWVZsOWpMLWtNU2VZZ19UUQ?oc=5) |
+| 03 | **Product Wire · Whisper** | Products & Agents | ◈ | ● HIGH | [FORTUNE: Why the media’s whisper campaign about a Goldman Sachs change at the top is misleading gossip, at best](https://news.google.com/rss/articles/CBMitwFBVV95cUxPalQ0bHFYeXVqQ1B1Uk0wVzkyLUNVNWU0SXBZTkFhV0RISUdfZGhaR2VzdmRJVlZQMDlRUTZtOEpHdXRGRGZ3SXU2OS00azVlQUVfTTNHZWlNWFZreVV1THg5aW1uWnRLNDBoZVZpYkY5QW5KeER4WHYxTmNKNy0zcllzdnRSZEFvTk04emdlb1UxUWszTnNWa2dPZW9WbzFXTUJoZk1FZmU3LUU2VHQzV2lSanctX00?oc=5) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings](https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/) |
+| 05 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout) |
+| 06 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [White House reverses course and restores UK AI Safety Institute's access to frontier models](https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/) |
+| 07 | **Microsoft AI** | Industry | ◈ | ● HIGH | [Microsoft to expand Azure Maia system to multi-gigawatt deployments - The Official Microsoft Blog](https://news.google.com/rss/articles/CBMisgFBVV95cUxNQWtCRTJBSThLQjBSa09qbEhKc2d2N0xyMDdJYXFXZWg4UGFRcUExcVBBd292eFl2WGwzVXBCVzg2WWtnOFM5eE1ma2gzTGNSMms5SFFpdTZOVjR4TEZEcmlpZmNYbEdUZmxya1FremFRNmVNTTdzYUlRdzZEYmFBV3VwVWNEUmFDMG9NMjNRX25BRW9Gbktyb0RGNWE2a0kxLTV0VEZ1YXozZDRuNm91YkpB?oc=5) |
+| 08 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Anthropic's Andrej Karpathy says "the external world has seen the preview" of what AI can actually do](https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/) |
+| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Former Plaud exec raises $26M for AI app that listens to you in the background](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/) |
+| 10 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 11 | **Product Wire · n8n** | Products & Agents | ◈ | ● HIGH | [ZoomInfo Launches Native Integration With n8n Through GTM.AI](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdjczMWdPeU85REJPT0NwQU1ZRTFsNW84eHVuYnR1dk1OT3k2cHNPUEh3eTJuZDlfSjhyTzkteTZEX3JOOXJ5UGlYYlFkcFFlSEZFaERBQ3hmMGlZdUgxUUpSbGpxVUVPV0FHcUlLbzZPQnRTVEppRXlpbGdlQzdBVmtzeEV0Nl9OemJXNXlwQV9RdXJwZ0xZZUdOLVJ4Vko3UDhyVVotTQ?oc=5) |
+| 12 | **Product Wire · Hugging Face Hub** | Products & Agents | ◈ | ● HIGH | [10 Hugging Face Models Worth Knowing in 2026](https://news.google.com/rss/articles/CBMiekFVX3lxTE5rb251RldsZlRMckpFWlJnSW00RFE4UGg1aG52bWgtVkZhZ2tkVElZWTQ5UFdHc0l3Ujh1UFJoZWNaU1V6LTRRQTlyVl9YQmZfdV9TZjc3WnBTQUxSM25WN3I1clR6dXQ3MWZiX1pwMlRGMkQ4RHNLUkp3?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
