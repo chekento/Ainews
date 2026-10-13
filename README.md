@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-13 18:07 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-13 22:39 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Facebook is giving users more control over their algorithm](https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/) |
-| 02 | **WSJ · provider monitor** | Infrastructure | ◈ | ● HIGH | [Exclusive \| Venture Firm Behind Chip Startup Groq Targets $10 Billion Megafund](https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFZFeWo3bjhVMEkxNE9XSS1YZnVSbFJSVWlYZnFTV3NHZUdDS3hfS1VHcnhlaEw5QmVlV2VuNUxpdnk1OE5MVFYyVWc1OGE1azVsM19Wd29nMVNYc1JaSENOSXlSdmZSOG1jamxacWJJVHR3ZGNnbE9rQVl0a1ZDcGlFZVN2TGp4bWZIUmZBNnFocVRGTmVGa3dka2p3cW5tWXRyYw?oc=5) |
-| 03 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Gemini 4 Argon is now available worldwide as Google's most capable frontier model](https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/) |
-| 04 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Inference - mistral.ai](https://news.google.com/rss/articles/CBMiS0FVX3lxTE11SURWTGp3c010QjVDSXRPYUpkMC1oZGhCLUVranpUZWtuUHNZVkRMZlZRSWUzRDBnbk5rMUNwUi0yclNEb3F2UGdfcw?oc=5) |
-| 05 | **GitHub AI & ML** | Industry | ◈ | ● HIGH | [GitHub’s model for secret detection: Finding more secrets with less noise](https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/) |
-| 06 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [Epic shifts to ‘AI-accelerated development’ for upcoming Disney game](https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art) |
-| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Apple launches HomeView, its first smart display for the home](https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look) |
-| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/) |
-| 09 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [NeurIPS attendance and travel funds [D]](https://www.reddit.com/r/MachineLearning/comments/1x52ose/neurips_attendance_and_travel_funds_d/) |
-| 10 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Pluto Security raises $42M as AI gives enterprise security teams a new headache](https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/) |
-| 11 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Manage private pricing offers for Amazon Bedrock with managed entitlements](https://aws.amazon.com/blogs/machine-learning/manage-private-pricing-offers-for-amazon-bedrock-with-managed-entitlements/) |
-| 12 | **The Decoder** | Research | 🖼️ | ◐ MED | [Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as "grand moralizing performance"](https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/) |
+| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Cerebras CEO pushes back on AI doomsday warnings](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/) |
+| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps](https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce) |
+| 03 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [OpenAI employee arrested for allegedly planting a bug in a conference room](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device) |
+| 04 | **Reddit · r/MachineLearning** | Safety & Security | ◈ | ● HIGH | [Introducing pytest-torch [P]](https://www.reddit.com/r/MachineLearning/comments/1x58zje/introducing_pytesttorch_p/) |
+| 05 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [How artificial neural networks build their own learning machinery](https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013) |
+| 06 | **Council of Europe AI** | Compliance & Ethics | ◈ | ● HIGH | [Taming the technology: AI, human rights, and the future of justice - www.coe.int](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2NLWUxBOGdxYnNlaTVFcWxDbmxiRnVKcU5jZWM0V2NCbXBNSnZXTlhYSzdPdmU0S3EwSGVJMEZJcG5HUzV2cDdEaGdzdGJ4MlZIZE1YaTF2RGhqZHNtTXpncy11QlBMUjcwMndqSUs5LWFFWWxVVmN1X3B0VExmYks3b2NyZVV0blRLLVdaWkNJUk42TW5mMzVZUWxOemRRX0JjVUxwTTU?oc=5) |
+| 07 | **MIT News AI** | Safety & Security | 🖼️ | ● HIGH | [MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology](https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013) |
+| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/) |
+| 09 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Shopify opens its catalog up to more AI agents](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents) |
+| 10 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Building agents that transact with Anchor Browser and AgentCore payments](https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/) |
+| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 12 | **Google DeepMind** | Frontier Models | ◈ | ● HIGH | [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
