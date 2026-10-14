@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-13 22:39 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-14 01:47 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Cerebras CEO pushes back on AI doomsday warnings](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/) |
-| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps](https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce) |
-| 03 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [OpenAI employee arrested for allegedly planting a bug in a conference room](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device) |
-| 04 | **Reddit · r/MachineLearning** | Safety & Security | ◈ | ● HIGH | [Introducing pytest-torch [P]](https://www.reddit.com/r/MachineLearning/comments/1x58zje/introducing_pytesttorch_p/) |
-| 05 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [How artificial neural networks build their own learning machinery](https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013) |
-| 06 | **Council of Europe AI** | Compliance & Ethics | ◈ | ● HIGH | [Taming the technology: AI, human rights, and the future of justice - www.coe.int](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2NLWUxBOGdxYnNlaTVFcWxDbmxiRnVKcU5jZWM0V2NCbXBNSnZXTlhYSzdPdmU0S3EwSGVJMEZJcG5HUzV2cDdEaGdzdGJ4MlZIZE1YaTF2RGhqZHNtTXpncy11QlBMUjcwMndqSUs5LWFFWWxVVmN1X3B0VExmYks3b2NyZVV0blRLLVdaWkNJUk42TW5mMzVZUWxOemRRX0JjVUxwTTU?oc=5) |
-| 07 | **MIT News AI** | Safety & Security | 🖼️ | ● HIGH | [MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology](https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013) |
-| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Judge orders OpenAI to turn over hiring records in Apple trade secrets case](https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/) |
-| 09 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Shopify opens its catalog up to more AI agents](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents) |
-| 10 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Building agents that transact with Anchor Browser and AgentCore payments](https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 12 | **Google DeepMind** | Frontier Models | ◈ | ● HIGH | [Developing Gemini 4 Argon responsibly and safely](https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/) |
+| 01 | **Reddit · r/MachineLearning** | Frontier Models | ◈ | ● HIGH | [Weird pattern in the ICLR papers I was assigned to review [D]](https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/) |
+| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 03 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office](https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/) |
+| 04 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/) |
+| 05 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Industrial Next wants factory robots to switch tasks in minutes, not weeks](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/) |
+| 08 | **LM Studio Blog** | Industry | ◈ | ● HIGH | [Changelog • LM Studio 0.4.26 - LM Studio](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DUnVlMldQNnk2Qzc5WW44YUxrdUJOQ1FGck5hWEpqZTNjb2dyZk9lM2dtb3ExNjZNWG5rTzlWclhEdDRLeWM5VzhabW1wZDdhaGhCVTZJNUZxNTU4X0NOeFJ0WFBCUQ?oc=5) |
+| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Cerebras CEO pushes back on AI doomsday warnings](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/) |
+| 10 | **Meta AI** | Research | ◈ | ● HIGH | [AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics - AI at Meta](https://news.google.com/rss/articles/CBMisgFBVV95cUxPR2FQZWhXa1k0WF94Q244bkVzeWY5X21EWG1Kd2FPYS1IekVTcU14Q1VCaF92WUQydEowNXhEanV1MUJZUV9JYTY2Z2FwRURIdzhnYWZsVGZ6TXphQmUwekx5aFVaV1Eta0RZLW9makpQZU1lU0xMWE5kLUJzTkptRDlHYWJ5dmduWG84Z1BIcGVJR1hqNS1qMXlyZlJwaFIteTc0d25DZkZBOVR1c1lzeDJn?oc=5) |
+| 11 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 12 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
