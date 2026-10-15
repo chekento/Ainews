@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-14 21:34 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-15 00:03 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Flock CEO says its microphones detect ‘just gunshots.’ Its website says different](https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/) |
-| 02 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Made a free Udemy. I call it Claudemy](https://www.reddit.com/r/artificial/comments/1x63nwi/made_a_free_udemy_i_call_it_claudemy/) |
-| 03 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 04 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Eight states sue OpenAI, saying ChatGPT isn’t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety) |
-| 05 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 07 | **Product Wire · v0** | Products & Agents | ◈ | ● HIGH | [Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel](https://news.google.com/rss/articles/CBMic0FVX3lxTE9lR2FkS3BlVjdzcGxvNkxCRmpxYm9aX2pSRVZMTlhBOUc3azVOM29HdjNKVkhka1NUVDZnakdITHdCMFI4Ym5taG5TQzZHOFE0dkxBT3UtOEk2ektzV0Ruc0g2MHlkQUxwbGgwMzc0NGhOWVE?oc=5) |
-| 08 | **Product Wire · Microsoft 365 Copilot** | Products & Agents | ◈ | ● HIGH | [Odense Kommune drives AI-powered modernization with Microsoft 365 Copilot](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNE5VN0NHOHQyalhEcmRvWnBYUFlOamFDWGcyOTZEMnF4U1htZXNDZXZzQnNObUxETmh0LU02ekx5RXJQSXlRVkdRTEE1Xzg0ZHFUVlRScnJKdGoxekVXeWh0cTU5eVZCZ2xPU0ptTFJCZGp5UmlsUnYtbkRHRGJGc2xicTM1MWxfUjlv?oc=5) |
-| 09 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 10 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 11 | **The Decoder** | Research | 🖼️ | ● HIGH | [Google says self-improving AI isn't anywhere close](https://the-decoder.com/google-says-self-improving-ai-isnt-anywhere-close/) |
-| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on) |
+| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [McKinsey is making job applicants spar with a fake AI client](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Hochul vs. Blakeman: Utility bills, data centers, and ICE](https://www.reddit.com/r/artificial/comments/1x658ly/hochul_vs_blakeman_utility_bills_data_centers_and/) |
+| 03 | **Artificial Analysis** | Robotics & Embodied AI | ◈ | ● HIGH | [Welcome to the era of embodied AI: Introducing AA-Robotics v0.1 - Artificial Analysis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE91VFNDREJKWjFxTGRwNG9JMVd4REFTM1d2M1BCM0lFVW9XN1hlbXJOYTZ3aFRvTG1kODlPZW9WRDlWaWpWVUVaSGpKYlpTSHlTQ2hnQUZ4QWNDQjdVUzY4?oc=5) |
+| 04 | **Anyscale Blog** | Industry | ◈ | ● HIGH | [Long Horizon 2026 x Anyscale - Anyscale](https://news.google.com/rss/articles/CBMidkFVX3lxTE81Y3pZT0cwMDhLTEIyV0pZb0VaNGR6QnV1M1FMeGNocmNJd29LZEVuT0RRa1pESjEwbVZfaHd2bWdiVFNRVS1DV0hkeUZjUTRiYlFveUhaOEFfTnFHOXNsSmt6T01ocWV6am1kMGZrdjB1Tm9YbFE?oc=5) |
+| 05 | **Anyscale Blog** | Industry | ◈ | ● HIGH | [Pytorch Conference 2026 x Anyscale - Anyscale](https://news.google.com/rss/articles/CBMifkFVX3lxTE8ydmpnT0daS0hmeVFvWEE0alZmUEhVdEcyNWpLbzE2SE1xaF83eUJCUEsyYjk5U0EtVVVHVTJ4Ty1uazhGZHBnQk5lVEV2QXVPZlZaTUhqLXdXLVBZdFpJZnB5ZXRjT3d5VWU4R0FoLXBTREZPSERBVDNzQWtmZw?oc=5) |
+| 06 | **Reuters AI & Technology** | Industry | ◈ | ◐ MED | [NEWSLETTER: The rise and fall of an AI chatbot darling - Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWRWTElzWnNXaXMtQ0tlWW5MSEYtZEFpbG5SbUl0dTdaWWEtby1yTnNHZFgyUjdoWkVQWENNMTJMZVNJcjYta1ltWFViYmRBMlFUcFlvaFVFbkpjOW1WcFhyY1E2Y1VRaFVHdUR5RHVITkdNWWZkWGR0blljZGJ2UnlqSkxzSWhfTmtfVTlHQzdZVmlObDRyMjZJZEZPTFJDaWNhSA?oc=5) |
+| 07 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Flock CEO says its microphones detect ‘just gunshots’ — its website says different](https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/) |
+| 08 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 09 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Eight states sue OpenAI, saying ChatGPT isn’t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety) |
+| 10 | **AP News AI Policy** | Compliance & Ethics | ◈ | ● HIGH | [Artificial intelligence - AP News](https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5) |
+| 11 | **9to5Mac · provider monitor** | Industry | ◈ | ● HIGH | [Apple Intelligence reportedly coming to China in December, but without Siri AI](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjNKOWl0aVFZRlp4UHdtMzFMMmdOSDc3TUNidllkSXZvYnM3MVVGMGxpdnlxd21qMG1YbGlLTFJBc19xcGNZekZUTWlZTFExZVVzeDVnc1hRU3EtNHpJcUFHc3RaS2Q0SFc3VzFtQTlYTmM0dzg5WkMtWWRxMlM5dnpyeFJ2QlFFbE54Zlg4SnktQTNDSWRkMHY5QV9JNUkzUnVYc2RLOUJNT000UkE?oc=5) |
+| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
