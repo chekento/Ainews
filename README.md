@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-15 00:03 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-15 04:25 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [McKinsey is making job applicants spar with a fake AI client](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview) |
-| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Hochul vs. Blakeman: Utility bills, data centers, and ICE](https://www.reddit.com/r/artificial/comments/1x658ly/hochul_vs_blakeman_utility_bills_data_centers_and/) |
-| 03 | **Artificial Analysis** | Robotics & Embodied AI | ◈ | ● HIGH | [Welcome to the era of embodied AI: Introducing AA-Robotics v0.1 - Artificial Analysis](https://news.google.com/rss/articles/CBMiX0FVX3lxTE91VFNDREJKWjFxTGRwNG9JMVd4REFTM1d2M1BCM0lFVW9XN1hlbXJOYTZ3aFRvTG1kODlPZW9WRDlWaWpWVUVaSGpKYlpTSHlTQ2hnQUZ4QWNDQjdVUzY4?oc=5) |
-| 04 | **Anyscale Blog** | Industry | ◈ | ● HIGH | [Long Horizon 2026 x Anyscale - Anyscale](https://news.google.com/rss/articles/CBMidkFVX3lxTE81Y3pZT0cwMDhLTEIyV0pZb0VaNGR6QnV1M1FMeGNocmNJd29LZEVuT0RRa1pESjEwbVZfaHd2bWdiVFNRVS1DV0hkeUZjUTRiYlFveUhaOEFfTnFHOXNsSmt6T01ocWV6am1kMGZrdjB1Tm9YbFE?oc=5) |
-| 05 | **Anyscale Blog** | Industry | ◈ | ● HIGH | [Pytorch Conference 2026 x Anyscale - Anyscale](https://news.google.com/rss/articles/CBMifkFVX3lxTE8ydmpnT0daS0hmeVFvWEE0alZmUEhVdEcyNWpLbzE2SE1xaF83eUJCUEsyYjk5U0EtVVVHVTJ4Ty1uazhGZHBnQk5lVEV2QXVPZlZaTUhqLXdXLVBZdFpJZnB5ZXRjT3d5VWU4R0FoLXBTREZPSERBVDNzQWtmZw?oc=5) |
-| 06 | **Reuters AI & Technology** | Industry | ◈ | ◐ MED | [NEWSLETTER: The rise and fall of an AI chatbot darling - Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWRWTElzWnNXaXMtQ0tlWW5MSEYtZEFpbG5SbUl0dTdaWWEtby1yTnNHZFgyUjdoWkVQWENNMTJMZVNJcjYta1ltWFViYmRBMlFUcFlvaFVFbkpjOW1WcFhyY1E2Y1VRaFVHdUR5RHVITkdNWWZkWGR0blljZGJ2UnlqSkxzSWhfTmtfVTlHQzdZVmlObDRyMjZJZEZPTFJDaWNhSA?oc=5) |
-| 07 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Flock CEO says its microphones detect ‘just gunshots’ — its website says different](https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/) |
-| 08 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 09 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Eight states sue OpenAI, saying ChatGPT isn’t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety) |
-| 10 | **AP News AI Policy** | Compliance & Ethics | ◈ | ● HIGH | [Artificial intelligence - AP News](https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5) |
-| 11 | **9to5Mac · provider monitor** | Industry | ◈ | ● HIGH | [Apple Intelligence reportedly coming to China in December, but without Siri AI](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNjNKOWl0aVFZRlp4UHdtMzFMMmdOSDc3TUNidllkSXZvYnM3MVVGMGxpdnlxd21qMG1YbGlLTFJBc19xcGNZekZUTWlZTFExZVVzeDVnc1hRU3EtNHpJcUFHc3RaS2Q0SFc3VzFtQTlYTmM0dzg5WkMtWWRxMlM5dnpyeFJ2QlFFbE54Zlg4SnktQTNDSWRkMHY5QV9JNUkzUnVYc2RLOUJNT000UkE?oc=5) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 01 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Q&A: The “collision” between AI, your brain, and society](https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015) |
+| 02 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence](https://arxiv.org/abs/2610.14005) |
+| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [The Silent Failures in Agentic Data Science](https://arxiv.org/abs/2610.14115) |
+| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [ClawLoop: Self-Improving Agents via Harness-Native Training Loop](https://arxiv.org/abs/2610.14118) |
+| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Correction Training for Diffusion Models](https://arxiv.org/abs/2610.14136) |
+| 06 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress](https://arxiv.org/abs/2610.14146) |
+| 07 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation](https://arxiv.org/abs/2610.14149) |
+| 08 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Unconstrained CTI-REALM with Open-Weights](https://arxiv.org/abs/2610.14180) |
+| 09 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Visualizing the World Model in an Agent's Value Function](https://arxiv.org/abs/2610.14186) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models](https://arxiv.org/abs/2610.14190) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs](https://arxiv.org/abs/2610.14209) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Harness^2: Recursive Agent Harnessing for an Open World](https://arxiv.org/abs/2610.14224) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
