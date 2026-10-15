@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-15 04:25 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-15 09:21 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Q&A: The “collision” between AI, your brain, and society](https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015) |
-| 02 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence](https://arxiv.org/abs/2610.14005) |
-| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [The Silent Failures in Agentic Data Science](https://arxiv.org/abs/2610.14115) |
-| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [ClawLoop: Self-Improving Agents via Harness-Native Training Loop](https://arxiv.org/abs/2610.14118) |
-| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Correction Training for Diffusion Models](https://arxiv.org/abs/2610.14136) |
-| 06 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress](https://arxiv.org/abs/2610.14146) |
-| 07 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [VETNET: Assembling Benchmark Datasets for AI-Driven Veterinary Innovation](https://arxiv.org/abs/2610.14149) |
-| 08 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Unconstrained CTI-REALM with Open-Weights](https://arxiv.org/abs/2610.14180) |
-| 09 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Visualizing the World Model in an Agent's Value Function](https://arxiv.org/abs/2610.14186) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Cross-Modal Latent Influence: Patch-Level Training Sample Attribution for Vision-Language Models](https://arxiv.org/abs/2610.14190) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Should SLMs be in the Driver's Seat? A Study of Local Models as Interpreters in Cloud-Written Agent Programs](https://arxiv.org/abs/2610.14209) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Harness^2: Recursive Agent Harnessing for an Open World](https://arxiv.org/abs/2610.14224) |
+| 01 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [My theory after a year of customer support: AI makes people more confident, not more correct](https://www.reddit.com/r/artificial/comments/1x6g2x1/my_theory_after_a_year_of_customer_support_ai/) |
+| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Why do people blame ai for ai slop](https://www.reddit.com/r/artificial/comments/1x6frrj/why_do_people_blame_ai_for_ai_slop/) |
+| 04 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 05 | **Product Wire · Langflow** | Products & Agents | ◈ | ● HIGH | [Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts](https://news.google.com/rss/articles/CBMigAFBVV95cUxQaEx6dkNzSHpTWmsyWDM3bUtES05UaFNNMEFVbUhkcVVpSlZzbTZ0bm81WG95MlR5X2h4b3BwWkVtb2x0cUhhZHRrTHBzMWtQQVYzZGl2Ulhma0dwcVRleG80T2c5MU1ydTB1YkNUTGFKTUJUaDdHOFNRSlRhNnlYeg?oc=5) |
+| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [AI companions may reduce loneliness and increase isolation at the same time](https://www.reddit.com/r/artificial/comments/1x6el0b/ai_companions_may_reduce_loneliness_and_increase/) |
+| 07 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [Photographed Text](https://www.reddit.com/r/artificial/comments/1x6edaf/photographed_text/) |
+| 08 | **Samsung Research AI** | Research | ◈ | ● HIGH | [CG-TTRL: Context-Guided Test-Time Reinforcement Learning for On-Device Large Language Models - samsung.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxORjhITTlPcWFIdExZd2hQdDVyXzg1bUF3M25IQndYVEg0ZTVULTI0RDE2dmd6dlpzc01OOU5sZWxObkJ3YmdOM3BVMnpUdGRmYXVaZGJxSlZCdE11RjhnQ2xBbUZXOC1UT1lzOGxCMTZRdHM2N0s2R29QMDV1dVVVUUN2UExXcjV2Yml2eE9odmlJRHhjSjgwZmIxNmkyenVLY05ZSkg5bnZqVGF3d2RSc1pPa0h5ZzFzUWdJVVFYQ01rQ3c?oc=5) |
+| 09 | **U.S. Federal Trade Commission AI** | Compliance & Ethics | ◈ | ● HIGH | [The Authority's Response to Appellant's Application for Review - Federal Trade Commission (.gov)](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdVFJZE1ka2hSUEgxdzkxTnl1NTNwcFBCNTBJZFE2Qk5qdkJINUtXRjdVQ2hRdjdzZUV3SW5iOXFHTmJ2V1AxeEdydU5GVzdyVzlaZHZvVkJkbm9yaFdZMEZDejR5SzhiLUdvSjMzTUVacHlQLWtRemZFek1wS29JdGk0U3hjVVVqRE5ZajZxbHkxTjJjN1pMWUd1cGRDSEVHcDFCLTJ0MkZSRkZ3Ymh5Z09IZHMyWVd3RjJfS1ZOeG1yU3ltZE9hRHNVY2NvbUxtdHAyM19R?oc=5) |
+| 10 | **U.S. Federal Trade Commission AI** | Compliance & Ethics | ◈ | ● HIGH | [The Authority's Response to Appellant's Application for Stay - Federal Trade Commission (.gov)](https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHVuS2twZTV3V0hyUGFZekk1NDdscmpuZnhFSlkxVWJ4TWkxWnFsYmhkUmxLeHR1TzNSUkEzdTRwR2N5aEhhZThudGh4RmVtRVFZY2hkeXNQVWNwNXU4R0djWE1RQ1hXM2t5WFZ2c1RTQmZCSlJ5Rm9xcUNTb2pYeFZ6OWFOQ0lPbXp5VE12bkFMUzdGVDZTWmN1eDhhNDZoZ1FxZVJNb0FENmRyVWZMbDNQaGZJOXJfWGpaRFpB?oc=5) |
+| 11 | **디지털투데이 · provider monitor** | Industry | ◈ | ● HIGH | [Naver AI Briefing sources 46.5 percent from Naver Blog; Google AI Overviews rely more on YouTube and social media](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN0ZndUNvaTVsUTgzMWxwamRLQlFDcmtRTmxYWHZNaWcwWTkyYlVwZGc4WmtKNjUxNjB6RlRjZWdyc2p4SDRKMExPRldTdTB3UHNZYi1qQlZZaVEwLUpDaVAxaWlKQ25kWHFGVlpYWkVHdGQtblRWbzFNc2dsYy1McHZoaGFpaGtkbXNLdHpYTjdDVmt2OS1sY2dOZFJXY1JGNlNxTnRteGk0NUd4NU5NcUJudkVWWWlxYVpBSVI1bGhHLWZCWFhvWnBaOU1GZ29VNzJuNjRzcFpjU01NZVc5MnpvdDVsZ0ph?oc=5) |
+| 12 | **NVIDIA AI Blog** | Industry | 🖼️ | ● HIGH | [The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing](https://blogs.nvidia.com/blog/nordics-technology-ecosystem/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
