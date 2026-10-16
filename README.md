@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-16 00:16 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-16 04:54 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **OpenRouter Blog** | Products & Agents | ◈ | ● HIGH | [Jev 1.14 - API Pricing & Providers - OpenRouter](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZQUpnbWZnVVVmcHdfb0x1c1kxZkJoZVhRSUd3aE5tNG9WLTNmQzBwNnhURE9iYTYwajdQTWhCUWNwQVJvc054UjROQl81c0Mw?oc=5) |
-| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [When it came to Cal AI’s viral success, a small army of influencers paid off](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/) |
-| 03 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [ChatGPT can peek at your Chrome tabs now](https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs) |
-| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch](https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled) |
-| 05 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Resources for learning to write production grade python code [N]](https://www.reddit.com/r/MachineLearning/comments/1x6yg7s/resources_for_learning_to_write_production_grade/) |
-| 06 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial) |
-| 07 | **Product Wire · Jasper AI** | Products & Agents | ◈ | ● HIGH | [Backcountry camping - Jasper National Park](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHp1bXlfLUIxOUVyLXdvaWxQMmZvLVVHZ01MX1NzS0FmR3QzR0E3cF9FbGltRmRHRDBvTTl6VFEwbmwxYzVrTEN1bkotUTYwLXh2UHk2ZGJjV0taRWI3Y2Y5TnM0UGZxenhkQlRnSXhYZl8xRjBjTHRqVXp5aTFlQkNJZWJhVFdp?oc=5) |
-| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Trump posts AI-edited photo to brag about White House restoration work](https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column) |
-| 09 | **LlamaIndex Blog** | Industry | ◈ | ● HIGH | [ExtractBench Pro: The Long Tail of Document Extraction - LlamaIndex](https://news.google.com/rss/articles/CBMia0FVX3lxTE1UcFd5VmRCcHpXTFdQV0NGNzk1WHhfMWQ0T3VzQjBwMHFCNFN0dHdrY2tzdV93NkhadFBuVnIxcjdRWl80UTE3TFJJbkVuQThTaEdBLWczc1ExanF0UGh4WS1ySFNVM3ZZZlZN?oc=5) |
-| 10 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView](https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/) |
-| 11 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [AI Hacks Leave a Mess That AI Companies Aren’t Paying For](https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/) |
-| 12 | **MIT News AI** | Compliance & Ethics | 🖼️ | ● HIGH | [State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind](https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015) |
+| 01 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock](https://arxiv.org/abs/2610.20665) |
+| 02 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Evaluating Model Capabilities After Benchmark Saturation](https://arxiv.org/abs/2610.20667) |
+| 03 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion](https://arxiv.org/abs/2610.20669) |
+| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks](https://arxiv.org/abs/2610.20675) |
+| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus](https://arxiv.org/abs/2610.20676) |
+| 06 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models](https://arxiv.org/abs/2610.20679) |
+| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation](https://arxiv.org/abs/2610.20681) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [L2G-SR: Learning to Guide LLM-based Symbolic Regression](https://arxiv.org/abs/2610.20685) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence](https://arxiv.org/abs/2610.20764) |
+| 10 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [ARIA: Runtime Inspection and Amendment for Multi-Agent Systems](https://arxiv.org/abs/2610.20780) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Open-world AI: a Tale of Three Requirements](https://arxiv.org/abs/2610.20782) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds](https://arxiv.org/abs/2610.20786) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
