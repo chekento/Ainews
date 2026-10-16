@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-16 14:44 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-16 18:55 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Meta releases Muse Spark Open: it runs on two Mac Studios, and its license bans passing off its output as human-written](https://www.reddit.com/r/artificial/comments/1x7hc0f/meta_releases_muse_spark_open_it_runs_on_two_mac/) |
-| 02 | **The Verge AI** | Research | 🖼️ | ● HIGH | [Meta’s new terms may allow it to train AI on news sites for free](https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers) |
-| 03 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles](https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/) |
-| 04 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Is AI interpretability close to a breakthrough? A new essay has researchers divided](https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/) |
-| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Why are people who are extremely Anti AI choose to selectively target AI harming the environment and just shut there mouths on the other things that present a more serious harm?](https://www.reddit.com/r/artificial/comments/1x7gp20/why_are_people_who_are_extremely_anti_ai_choose/) |
-| 06 | **The Decoder** | Research | 🖼️ | ● HIGH | [OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year](https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/) |
-| 07 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Anthropic gives METR inside access to audit its AI models and safety practices](https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/) |
-| 08 | **Product Wire · Zoom AI Companion** | Products & Agents | ◈ | ● HIGH | [AI in the Contact Centre: Beyond the Hype](https://news.google.com/rss/articles/CBMidkFVX3lxTE54N0w3UHQ4TjZLT0VWakdrUVpDNm03ZWp5c1h6X2g0cV9HbzZiak1TMndXczlwaktBMjl0V0pzeUdqRUdhTVVCN0pvZnd3NGxjS3ZtbzFTRVBjbVEtYU95a1F4QTdrOHNSSEpqa1hZU0RjUXNUTVE?oc=5) |
-| 09 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Replit’s CEO says the future of work is the ‘self-driving company’](https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 12 | **Daily Pioneer · provider monitor** | Industry | ◈ | ● HIGH | [What is Adobe Firefly? Key Insights into Adobe's AI-Native Platform](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUxVbGh3SmlfYTV0b2hqczd2SVZ3UWpfODZkV2ZEcUhWX3pQWEVlRkkycWx3MzFleXUyd01fV3lmS0tnUjJGTFA3REFaRVVubC15SUg0dU9rV2M4dWFDb2ZUY2NQZV9zcW9ISlRhX3VDNHFsWnZRSzNBWEtMUTFUNHR3MWZ1S0tPaW4xM3JFVWEtRTlGOWJ2SVpHT2hQX2fSAawBQVVfeXFMTkVBdm04RWsxSVFBUFp0UVJ5d0ppU2lmMTFZNjRqWFNlSTRhdURBWnRWcU8ybV9JZjAzdkt5N2JfejBzTzNsODhOYi04UjUzcHFOVGhQMXZhNUpER1VhVXNCcWhKOWtZbGo0NE5GRHdZOFMxNmFpaHlHNlBMMzdqU0gtTng2OUtYanVpcGFQSzJBaFI0emFVLTUzZ3Z4eWtTU2dwd2sydXU0RF9VeA?oc=5) |
+| 01 | **Reddit · r/MachineLearning** | Products & Agents | ◈ | ● HIGH | [[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]](https://www.reddit.com/r/MachineLearning/comments/1x7ojxo/p_my_rust_framework_trains_nanogpt_with_the_exact/) |
+| 02 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs](https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/) |
+| 03 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/) |
+| 04 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Crashing out after ICLR desk rejection: "content exceeds the 9-page limit." [D]](https://www.reddit.com/r/MachineLearning/comments/1x7n0i2/crashing_out_after_iclr_desk_rejection_content/) |
+| 05 | **The Decoder** | Open Source | 🖼️ | ● HIGH | [China plans to tighten export controls on open-weight models and 23 key AI technologies](https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/) |
+| 06 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/) |
+| 07 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Physical AI is more than robots, says the Nvidia veteran now investing in it](https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/) |
+| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial) |
+| 09 | **TechCrunch AI** | Frontier Models | ◈ | ● HIGH | [Elorian’s first AI model wants to reason with images, not just about them](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/) |
+| 10 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Fostering community amid Kendall Square’s innovation](https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016) |
+| 11 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Jev is Vercel’s fastest-adopted AI model ever](https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/) |
+| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops](https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
