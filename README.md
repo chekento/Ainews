@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-16 18:55 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-16 22:00 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/MachineLearning** | Products & Agents | ◈ | ● HIGH | [[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]](https://www.reddit.com/r/MachineLearning/comments/1x7ojxo/p_my_rust_framework_trains_nanogpt_with_the_exact/) |
-| 02 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs](https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/) |
-| 03 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/) |
-| 04 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Crashing out after ICLR desk rejection: "content exceeds the 9-page limit." [D]](https://www.reddit.com/r/MachineLearning/comments/1x7n0i2/crashing_out_after_iclr_desk_rejection_content/) |
-| 05 | **The Decoder** | Open Source | 🖼️ | ● HIGH | [China plans to tighten export controls on open-weight models and 23 key AI technologies](https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/) |
-| 06 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/) |
-| 07 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Physical AI is more than robots, says the Nvidia veteran now investing in it](https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/) |
-| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial) |
-| 09 | **TechCrunch AI** | Frontier Models | ◈ | ● HIGH | [Elorian’s first AI model wants to reason with images, not just about them](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/) |
-| 10 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Fostering community amid Kendall Square’s innovation](https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016) |
-| 11 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Jev is Vercel’s fastest-adopted AI model ever](https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/) |
-| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops](https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions) |
+| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/) |
+| 02 | **AWS Machine Learning** | Safety & Security | ◈ | ● HIGH | [Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/) |
+| 03 | **Microsoft Research AI** | Research | ◈ | ◐ MED | [New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5) |
+| 04 | **Ars Technica AI** | Industry | 🖼️ | ● HIGH | [“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops](https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 06 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds](https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/) |
+| 07 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 08 | **Scale AI Blog** | Industry | ◈ | ● HIGH | [Web Designer, Brand Web Experience - Scale AI](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpVEF2UFY3VHdmRG9jbnludlczeVFCTzVBdHdxeFlCdlFqY1lfbUtUMGNpNEF0STY5YldYSXlEUllqd0tFSUxBN3VObU4?oc=5) |
+| 09 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 10 | **Reddit · r/artificial** | Infrastructure | ◈ | ● HIGH | [Jailbroken PS5s can now run local AI models at over 100+ tokens per second — fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM](https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/) |
+| 11 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs](https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/) |
+| 12 | **VentureBeat AI** | Industry | ◈ | ◐ MED | [A new framework teaches AI models to audit and repair each other’s reasoning, improving accuracy - VentureBeat](https://news.google.com/rss/articles/CBMizAFBVV95cUxQYzA0V3dJNVVCbFoydEFmZEI2MUp4SlRKVV9BSUo5TTI4VEh0ejJDQ2x5MnB2cU1fY0VuVzZlZ0JFLXhSTjRISVhaQldjWk9BNGpBcFY3X2dNeGgzUW1rSU1mUkVwMmsyVnd4aHpDMTBRczBhQ2htMGVLRjBZbDdzRTVOU2lESDZXel9UaEd5bGpOeFVNNDYzU0ZYbm1Yc0FPYnB6V2o2WnhvUkxDbERnSHczLVg5amNUTTdxNVdyX3VOWExXWm9mbERvQlM?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
