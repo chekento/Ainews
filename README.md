@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-16 04:54 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-16 09:39 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock](https://arxiv.org/abs/2610.20665) |
-| 02 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Evaluating Model Capabilities After Benchmark Saturation](https://arxiv.org/abs/2610.20667) |
-| 03 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion](https://arxiv.org/abs/2610.20669) |
-| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks](https://arxiv.org/abs/2610.20675) |
-| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus](https://arxiv.org/abs/2610.20676) |
-| 06 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models](https://arxiv.org/abs/2610.20679) |
-| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation](https://arxiv.org/abs/2610.20681) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [L2G-SR: Learning to Guide LLM-based Symbolic Regression](https://arxiv.org/abs/2610.20685) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence](https://arxiv.org/abs/2610.20764) |
-| 10 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [ARIA: Runtime Inspection and Amendment for Multi-Agent Systems](https://arxiv.org/abs/2610.20780) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Open-world AI: a Tale of Three Requirements](https://arxiv.org/abs/2610.20782) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds](https://arxiv.org/abs/2610.20786) |
+| 01 | **OpenRouter Blog** | Products & Agents | ◈ | ● HIGH | [Jev 1.14 - API Pricing & Providers - OpenRouter](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZQUpnbWZnVVVmcHdfb0x1c1kxZkJoZVhRSUd3aE5tNG9WLTNmQzBwNnhURE9iYTYwajdQTWhCUWNwQVJvc054UjROQl81c0Mw?oc=5) |
+| 02 | **Reddit · r/LocalLLaMA** | Frontier Models | ◈ | ● HIGH | [Qwen Flash Next potential SOTA Q2 nobody talks about](https://www.reddit.com/r/LocalLLaMA/comments/1x7bboy/qwen_flash_next_potential_sota_q2_nobody_talks/) |
+| 03 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 04 | **Reddit · r/LocalLLaMA** | Research | ◈ | ● HIGH | [New paper from Stanford, Together AI, UIUC, and Meta introduces Hybrid Reasoning Agents. These AI models think mostly in a hidden internal way (faster and cheaper), and only use normal text when they need tools or give the final answer.](https://www.reddit.com/r/LocalLLaMA/comments/1x7a8i8/new_paper_from_stanford_together_ai_uiuc_and_meta/) |
+| 05 | **Product Wire · Krea AI** | Products & Agents | ◈ | ● HIGH | [Krea 3 vs Flux 3: Flat $0.06 Edits Against a Rate Card](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LMlU0cklMa0RmTGtYYVE0ZjMyMUdUb1FwTmw3c2JzNE9IQVVEWmotMGpGTzlxREpSV3BmdWNWbHEzNXBRaHd4VkFCYkhTSVYtaUhsbGNub080VVk?oc=5) |
+| 06 | **Reddit · r/LocalLLaMA** | Infrastructure | ◈ | ● HIGH | [cpu : reduce AVX2 tiled accumulators together by trivalik · Pull Request #30296 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1x7a59i/cpu_reduce_avx2_tiled_accumulators_together_by/) |
+| 07 | **Product Wire · garak** | Products & Agents | ◈ | ● HIGH | [Songpa-gu Approves Garak Uchang Apartment Reconstruction Association in Just 3 Days](https://news.google.com/rss/articles/CBMiZEFVX3lxTE15R3I3MzZ5a0FKeVp6UU90RzFnYS11WjVaQnppWDU3aUdlbGQxbG9GVFVLYndJLUJzRUNsNHpKZ2Q5cXhTaE02bldtNzFvWWsxd214aDR5enFUWkFRZHFJQVpCYWs?oc=5) |
+| 08 | **Reddit · r/LocalLLaMA** | Frontier Models | ◈ | ● HIGH | [DeepSeek V4.1 Flash on 4x DGX Spark: my numbers vs Patrick Moorhead's results via Wccftech.](https://www.reddit.com/r/LocalLLaMA/comments/1x79ijg/deepseek_v41_flash_on_4x_dgx_spark_my_numbers_vs/) |
+| 09 | **TradingView · provider monitor** | Industry | ◈ | ● HIGH | [Key facts: NVIDIA (NVDA) Q2 $59.69B; $6.3B CoreWeave buy; Adobe AI tie](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRzF6T3VYUzlPeG5MRmVtZ3ZfTWFLUGRiNHNqLV92STJCQTkxbjR3dnBPNl83U1N6a3ZKcUxreEtGRXQyUjNJamY2ZHBOa0UtbjNvb0dfME1Ibm9TVnRCMjdWTGk3dVh3eDM1UldvYjZFeU5kbGRBWlJwekwwcEIxY3RCVl91WEFZYUtxZ1ZoM3F3ODFCOVdXMlZSTGZUS0pEQlZvNm1qRHR2TXNLaWxLQV92S1YtTS0tT215T3dFY0xvOWM?oc=5) |
+| 10 | **Product Wire · ChatGPT Search** | Products & Agents | ◈ | ● HIGH | [ChatGPT Search Gained Hundreds of Millions of Pages Link Crawlers Never Found](https://news.google.com/rss/articles/CBMixAFBVV95cUxNUnV3eHRwaGl5RU5OQXFTOFhqUHB6UURWdjZLVFQwS2Fmb0JwZW5qQUlFOVYxMEZkSk44cUdBU1JoLXpQVDB6dzdZXzI2M1hxb1pIald5Q1NSMmszU3FVUXZUUXhENWx1elNTNGYzYkJZeWh2OFNpN25TSFpNdGZBSHJ4VmZmdlNOVWRyNXNFazB0VmwwNGhMRFdIdFBNMGlTOV9CcXl3Q3lBTDAtcy1vM0RpZENWaEFhY0p1Wi05UzE3dGNR?oc=5) |
+| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 12 | **Product Wire · garak** | Products & Agents | ◈ | ● HIGH | [Songpa-gu sets back-to-back record with 3-day reconstruction approval for Garak Uchang](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCUFNMMVlFWmx2bDlzdlRKSHg3OXhkUThKUE1hVFZMWTVBOUZsZ0Nra29abTBMcFlSa3NsUHZhQ3E4WU1SYnY5UXBIbjhpeXkxd29lNWM3WQ?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
