@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-17 13:08 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-17 16:37 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [People who refuse to use AI will fall behind](https://www.reddit.com/r/artificial/comments/1x88qxb/people_who_refuse_to_use_ai_will_fall_behind/) |
-| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Anthropic bets voluntary scrutiny sets AI oversight terms before regulators act](https://www.reddit.com/r/artificial/comments/1x88ox5/anthropic_bets_voluntary_scrutiny_sets_ai/) |
-| 04 | **Microsoft Research AI** | Research | ◈ | ◐ MED | [New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [AI containment bingo v2: you fact-checked my meme, so here is the sourced edition. 13 squares now carry evidence tags.](https://www.reddit.com/r/artificial/comments/1x87n7b/ai_containment_bingo_v2_you_factchecked_my_meme/) |
-| 07 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 08 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs](https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/) |
-| 09 | **Product Wire · DeepSeek API** | Products & Agents | ◈ | ● HIGH | [DeepSeek API Key Setup: V4.1 Flash in 13 Steps [2026]](https://news.google.com/rss/articles/CBMickFVX3lxTFBaS1cwbERzUU45TGMzSlVZQllEdXVtVTlDUWpKVndtLXVJcTAyd081RUgxRTlCeF93QjEtQWgtMTU1WnVoa0NEQXNVMmo0akRWVDludWxUU3BENzN0anhiTTF3eW4yS0NtMzc5b2VHVG51UQ?oc=5) |
-| 10 | **The Decoder** | Research | 🖼️ | ● HIGH | [AI models hide mistakes in their own work reports, but one sentence in your prompt can help](https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/) |
-| 11 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 12 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof](https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/) |
+| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Is Pangram more accurate with long or short samples?](https://www.reddit.com/r/artificial/comments/1x8ei72/is_pangram_more_accurate_with_long_or_short/) |
+| 02 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet](https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/) |
+| 03 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [We built a place where people can pool their AI agents to work on open research problems](https://www.reddit.com/r/artificial/comments/1x8czcd/we_built_a_place_where_people_can_pool_their_ai/) |
+| 04 | **The Verge AI** | Research | 🖼️ | ● HIGH | [Meta’s new terms may allow it to train AI on news sites for free](https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers) |
+| 05 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Meta removes language that may have allowed it to scrape news sites](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites) |
+| 06 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes](https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 08 | **Microsoft Research AI** | Research | ◈ | ◐ MED | [New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 10 | **LG AI Research** | Research | ◈ | ● HIGH | [pipeline · Topics - LG AI Research](https://news.google.com/rss/articles/CBMiogFBVV95cUxQMmlVb2l0eHJxbWlmSnE2TjBpSkdIVVdJUldHWHN1MW1fUUhqYjJ1bk1GbWZSSmNEelFSVkczZGF4THhqU2o5TkZhWC1rSDU4bEU1TGFlVlRDRUxtOHF5NzUwTWdzVm84ZDZybXpSaGJ2RVBjQl9QSjhVYkNWTUVieVZTal9nSjAyekF2RllGaV9IVWQ0dzN0Y0dTTnpidVQ1d2c?oc=5) |
+| 11 | **Reddit · r/artificial** | Infrastructure | ◈ | ● HIGH | [How customer contract lengths and GPU useful life affect AI infrastructure financing](https://www.reddit.com/r/artificial/comments/1x8a5zy/how_customer_contract_lengths_and_gpu_useful_life/) |
+| 12 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
