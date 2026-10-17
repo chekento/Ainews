@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-17 18:48 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-17 21:23 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
 | 01 | **Microsoft Research AI** | Research | ◈ | ◐ MED | [New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5) |
-| 02 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [EMNLP main presentation[D]](https://www.reddit.com/r/MachineLearning/comments/1x8ey1m/emnlp_main_presentationd/) |
-| 03 | **Product Wire · ChatGPT Search** | Products & Agents | ◈ | ● HIGH | [OpenAI’s ChatGPT Search is now free to use without a login](https://news.google.com/rss/articles/CBMinwFBVV95cUxPczBDVEkycjVBVWNEcUdHNm5GWjB0MW10ZVNwVXVES0xLUmc3MEF0c09sWjFudDZVV0xJQ0NralY4V1dQTkJ5c3VqZE1mN0tOaEd2QTZiWk9POGl1M3lkUWxkMUZtRjdKZDVYM2h1aDN0V2Y0c0ZHNHZGVlJXem1jNkt4ZzI2WXdfdS1vYXdpS1M3bUY2Zk9qa3cwU2xJeUE?oc=5) |
-| 04 | **LG AI Research** | Research | ◈ | ● HIGH | [pipeline · Topics - LG AI Research](https://news.google.com/rss/articles/CBMirgFBVV95cUxNSzF1QzZMWXJCMUtMeEQ2a1NPTVE5NlNnZktrZVVHZHUxclFEUEtBNThsZFF3VzdpY00tS0pTZ3I5emtQUUZjallLSWhJc0NYNzhRdnVIRVotUnowaXk0MXhIOXRoSGNacnp2MlN1RUxOX20xVVJiLWdyUnZtWTN4dm4zNTZscGJ1RGtYUHVucFNpR0tKajYxMXI5Sk50SVhRSExyWTlueHdFaEdGVEE?oc=5) |
-| 05 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet](https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/) |
-| 06 | **The Verge AI** | Research | 🖼️ | ● HIGH | [Meta’s new terms may allow it to train AI on news sites for free](https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers) |
-| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Meta removes language that may have allowed it to scrape news sites](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites) |
-| 08 | **Runway News** | Industry | ◈ | ● HIGH | [Welcome to Brand Kits - Runway](https://news.google.com/rss/articles/CBMicEFVX3lxTE0tVFFMNUZfNDREcXdZTmhkZlFyQU02cWs2a2d6NlVEd0ZIU3pQdmFjVzlyaE8wTDR5di1NdjE2ZVFHb2lMdlVnTVZUT3pSVHNaSGppRHc0RG5oQzctUS00N3NCTlBrdHd1YjB2cGsyNjA?oc=5) |
-| 09 | **Reddit · r/MachineLearning** | Compliance & Ethics | ◈ | ● HIGH | [EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]](https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/) |
-| 10 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes](https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 12 | **Reddit · r/MachineLearning** | Products & Agents | ◈ | ● HIGH | [Learn what's inside AI Agent Interactively in 3D [P]](https://www.reddit.com/r/MachineLearning/comments/1x8bhpm/learn_whats_inside_ai_agent_interactively_in_3d_p/) |
+| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/) |
+| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 04 | **Sakana AI** | Industry | ◈ | ● HIGH | [- Sakana AI](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
+| 05 | **Reddit · r/artificial** | Robotics & Embodied AI | ◈ | ● HIGH | [Retired Penn professor arrested for blocking Uber Eats robot Robotics/Automation](https://www.reddit.com/r/artificial/comments/1x8ijyg/retired_penn_professor_arrested_for_blocking_uber/) |
+| 06 | **Fireworks AI Blog** | Frontier Models | ◈ | ● HIGH | [DeepSeek V4.1 Flash - Fireworks AI - Fireworks AI](https://news.google.com/rss/articles/CBMibkFVX3lxTE9Rem55ZUxmZnlPVERCVnpZR3NURDMwZDVOTDlNRTBKMWgzWkowWUxxcDRvNkpCbEdnSGQwOEZhU3FuZDlacFQ2Mm1ITmJsSUJTNVBRdS0wZmJRNVd2QmgybEtkRGw0emk2WXdVbDd3?oc=5) |
+| 07 | **TechCrunch AI** | Frontier Models | ◈ | ● HIGH | [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/) |
+| 08 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Can anyone help me refine the data in this pdf](https://www.reddit.com/r/artificial/comments/1x8hpl6/can_anyone_help_me_refine_the_data_in_this_pdf/) |
+| 09 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 10 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [What do you test before switching AI inference providers?](https://www.reddit.com/r/artificial/comments/1x8fgm5/what_do_you_test_before_switching_ai_inference/) |
+| 11 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [AI lab offers free plumbing and HVAC repairs across three cities to train AI robots](https://www.reddit.com/r/artificial/comments/1x8f1kd/ai_lab_offers_free_plumbing_and_hvac_repairs/) |
+| 12 | **Product Wire · ChatGPT Search** | Products & Agents | ◈ | ● HIGH | [OpenAI’s ChatGPT Search is now free to use without a login](https://news.google.com/rss/articles/CBMinwFBVV95cUxPczBDVEkycjVBVWNEcUdHNm5GWjB0MW10ZVNwVXVES0xLUmc3MEF0c09sWjFudDZVV0xJQ0NralY4V1dQTkJ5c3VqZE1mN0tOaEd2QTZiWk9POGl1M3lkUWxkMUZtRjdKZDVYM2h1aDN0V2Y0c0ZHNHZGVlJXem1jNkt4ZzI2WXdfdS1vYXdpS1M3bUY2Zk9qa3cwU2xJeUE?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
