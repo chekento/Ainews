@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-18 06:31 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-18 11:37 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [AI lab offers free plumbing and HVAC repairs across three cities to train AI robots](https://www.reddit.com/r/artificial/comments/1x8ux7x/ai_lab_offers_free_plumbing_and_hvac_repairs/) |
-| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 03 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [an agent can figure out how an app works just by watching it, so why can't it figure out me](https://www.reddit.com/r/artificial/comments/1x8uns8/an_agent_can_figure_out_how_an_app_works_just_by/) |
-| 04 | **MIT News AI** | Research | 🖼️ | ● HIGH | [Giving AI a “crystal clear” view of the materials world](https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Why are streaming services replacing perfect human made subtitles with AI subtitles with tons of mistakes?](https://www.reddit.com/r/artificial/comments/1x8sjkb/why_are_streaming_services_replacing_perfect/) |
-| 07 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [I’m so excited for what AI will look like in 2035](https://www.reddit.com/r/artificial/comments/1x8s17y/im_so_excited_for_what_ai_will_look_like_in_2035/) |
-| 08 | **Microsoft Research AI** | Research | ◈ | ◐ MED | [New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5) |
-| 09 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 10 | **G42 AI** | Industry | ◈ | ● HIGH | [G42 Intelligence Grid - G42](https://news.google.com/rss/articles/CBMia0FVX3lxTE9HZ3V2WlVvMTlxSHVFX2NqVGNEdjUzYktYZWxxWEZhaV9PWVhvRmFDMlhNMXJfRkY5eVpBSVhoSFVfRS1HVTl3Q1pldEVuVFhpcWpwZ25PUGdUZTJtTTdXUWlDRnNGcHpnWlNJ?oc=5) |
-| 11 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [scared and upset](https://www.reddit.com/r/artificial/comments/1x8onnf/scared_and_upset/) |
-| 12 | **Reddit · r/artificial** | Infrastructure | ◈ | ● HIGH | [Who will win in AI race?](https://www.reddit.com/r/artificial/comments/1x8oizy/who_will_win_in_ai_race/) |
+| 01 | **Product Wire · Le Chat** | Products & Agents | ◈ | ● HIGH | [Pornographie IA en 2026 : guide pratique des vidéos basées sur le chat](https://news.google.com/rss/articles/CBMikAJBVV95cUxPbDJmQ0VMSFVIMXQxVUhvV0FlRHhfTGZFV181RnhNYnJVN2hTN0FXakN3S1d4RGJFQWM3VUxJaEtSbm1ILTR3MjJmbFUxWDZUdmRnblBBZDlhSl9hbEQ3RVNZNUdwOUlZcDNQRWFxUi1KVmI3WEc2NlRrTlR5T1N6QmU2X1UzOXVacl9YY094cDZCY0dJNjIza1NBREdtb0VJYUFmZWxKS2NZdFNkZnVSa0NPZ3RfZHpMaG1ESzRHbjdnRTVYTFZGYnFuTjJoc1BCQzJrUklpd194R3ZOV0hxRWwtUmF5TVNLN0RyT3M5dzVyYWExajBic2hCNmhrWFAzQzFRdmxuc2M3MFBjMWNRVQ?oc=5) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Even LinkedIn is getting tired of your AI-written posts](https://www.reddit.com/r/artificial/comments/1x90hey/even_linkedin_is_getting_tired_of_your_aiwritten/) |
+| 03 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Two German courts now hold Google liable for what its AI overviews say](https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/) |
+| 04 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [What is the status on AI protection like local agent sandbox, AI firewalls/proxy solutions?](https://www.reddit.com/r/artificial/comments/1x90ak1/what_is_the_status_on_ai_protection_like_local/) |
+| 05 | **WIRED AI** | Products & Agents | 🖼️ | ● HIGH | [OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty](https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/) |
+| 06 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Data Centers Have a New PR Plan: Your Kid’s Field Trip](https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/) |
+| 07 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals](https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/) |
+| 08 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 09 | **The Decoder** | Research | 🖼️ | ● HIGH | [AI agents have bad taste in long-term decisions and a new benchmark proves it](https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/) |
+| 10 | **Microsoft Research AI** | Research | ◈ | ◐ MED | [New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5) |
+| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 12 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office](https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
