@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-18 01:28 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-18 06:31 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [What is wrong with AI writing - ICLR edition [D]](https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/) |
-| 02 | **Microsoft Research AI** | Research | ◈ | ◐ MED | [New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5) |
-| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 04 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/) |
-| 06 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 07 | **LG AI Research** | Research | ◈ | ● HIGH | [agent · Topics - LG AI Research](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcGRvbi1nVnBXN1Y1RnMwUGd2WElZZ3d0UDVUSzdvTXhMODA0QnJQUXNaUHViTkNaQUVrNS0xekhtRFhnUno2SE9YejE0VWJDaGZMLWlVbnJ4bVhFVFpZTFdfQnJEWG8zekFpX2lpSC03ZUtKeDVSaVFzSklDTl83OERiWXBNb0xudlVMYWlyZnRWelhRVmZHSWZHaXVIU0JYdzRDdTNmamRmeUhCS2c?oc=5) |
-| 08 | **Baseten Blog** | Frontier Models | ◈ | ● HIGH | [DeepSeek V4.1 Flash 1017 - Baseten](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBcUljQzRGdS13R3NtUVNFZmlqRXQxY2dteEdES0t5M3V5RzRONDBOVVpObGhJRkhSeWp6S0U0NFdNaDh0NFJydU42S25RQVdiNzBZZGN1bEdleFdaaE14cHk0T0Vqdw?oc=5) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/) |
-| 10 | **Sakana AI** | Industry | ◈ | ● HIGH | [- Sakana AI](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
-| 11 | **LG AI Research** | Research | ◈ | ● HIGH | [Benzinga · Topics - LG AI Research](https://news.google.com/rss/articles/CBMinAFBVV95cUxObWROVW5PdUVfekdpWERqRjdDOFFfbXJkNHZKWFRVa1NxTXMtUWlUeUQySTFZTDJWZk0xbkhhTFRvM0RjZnlNbFlfTWpzMVl0OEd6V1d3Qzl2SlR0UUhVcnNOTVFlWk1mRkg0THJ6anpfbEI0Tl9KZHhUNDdTMFQ4dmNDcnJPLU9tbWJWUnBIUk9vbzRya28ycnRzZEE?oc=5) |
-| 12 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]](https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/) |
+| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [AI lab offers free plumbing and HVAC repairs across three cities to train AI robots](https://www.reddit.com/r/artificial/comments/1x8ux7x/ai_lab_offers_free_plumbing_and_hvac_repairs/) |
+| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 03 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [an agent can figure out how an app works just by watching it, so why can't it figure out me](https://www.reddit.com/r/artificial/comments/1x8uns8/an_agent_can_figure_out_how_an_app_works_just_by/) |
+| 04 | **MIT News AI** | Research | 🖼️ | ● HIGH | [Giving AI a “crystal clear” view of the materials world](https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Why are streaming services replacing perfect human made subtitles with AI subtitles with tons of mistakes?](https://www.reddit.com/r/artificial/comments/1x8sjkb/why_are_streaming_services_replacing_perfect/) |
+| 07 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [I’m so excited for what AI will look like in 2035](https://www.reddit.com/r/artificial/comments/1x8s17y/im_so_excited_for_what_ai_will_look_like_in_2035/) |
+| 08 | **Microsoft Research AI** | Research | ◈ | ◐ MED | [New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5) |
+| 09 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 10 | **G42 AI** | Industry | ◈ | ● HIGH | [G42 Intelligence Grid - G42](https://news.google.com/rss/articles/CBMia0FVX3lxTE9HZ3V2WlVvMTlxSHVFX2NqVGNEdjUzYktYZWxxWEZhaV9PWVhvRmFDMlhNMXJfRkY5eVpBSVhoSFVfRS1HVTl3Q1pldEVuVFhpcWpwZ25PUGdUZTJtTTdXUWlDRnNGcHpnWlNJ?oc=5) |
+| 11 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [scared and upset](https://www.reddit.com/r/artificial/comments/1x8onnf/scared_and_upset/) |
+| 12 | **Reddit · r/artificial** | Infrastructure | ◈ | ● HIGH | [Who will win in AI race?](https://www.reddit.com/r/artificial/comments/1x8oizy/who_will_win_in_ai_race/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
