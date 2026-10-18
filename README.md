@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-18 18:35 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-18 21:00 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [The AI bubble is about to burst — and a big market correction is coming](https://www.reddit.com/r/artificial/comments/1x9a4ag/the_ai_bubble_is_about_to_burst_and_a_big_market/) |
-| 02 | **Product Wire · JetBrains AI** | Products & Agents | ◈ | ● HIGH | [JetBrains Air EAP Hits 5 IDEs, Orchestrates AI Agents](https://news.google.com/rss/articles/CBMic0FVX3lxTFAtZGhFWlVzOERnSGNMWURBUTJrOUFrc1lqNzlQbzkxSTN2T1cyVjU1bTBYNWJUUkl4b3U5alp5OWFuSlVWZ3hhbEFwYnRLZGl1dWNTQV9uVk85aWdWM0NVUUNpTXFRVzF0TTlGTTlwV2NnUEU?oc=5) |
-| 03 | **https://tech-insider.org/ · provider monitor** | Products & Agents | ◈ | ● HIGH | [Cursor AI Agent Hits 56% of Merged PRs [2026]](https://news.google.com/rss/articles/CBMieEFVX3lxTE90OUI3ZmVaTHE1NUR0d0hPb0J1dksyUTdrWEFIZUFRN1U1ZEdXZXBKNTJnU3k3bTdfY2JDaklXUmZDSFd2NjdGOUFVTlNEVVhpQk1wWHF2RjZENGZVT2MzVkE3c0JDTHFoZktiSjdxd2ZFakdGU1NadA?oc=5) |
-| 04 | **https://tech-insider.org/ · provider monitor** | Products & Agents | ◈ | ● HIGH | [Runway Gen-4.5 API Setup: Generate AI Video in 13 Steps [2026]](https://news.google.com/rss/articles/CBMickFVX3lxTE11S3Vyc1p4d0xYelRoZFNEZkxFQmpTUTJOejBGS3hndTM0UXVWNlg2d21PMmxQUjhzbzR6X2pjVk9CVExGWUgwNDRSMGJMWWhrWlJPSkJ2RTRCZ0VqVm8tai0weEZQQ2dXekpURlprMFZiQQ?oc=5) |
-| 05 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Is anyone else feeling severe burnout from the current pace of AI releases?](https://www.reddit.com/r/artificial/comments/1x98bit/is_anyone_else_feeling_severe_burnout_from_the/) |
-| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Which AI limitations have you stopped waiting on and just learned to work around?](https://www.reddit.com/r/artificial/comments/1x97l6n/which_ai_limitations_have_you_stopped_waiting_on/) |
-| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/) |
-| 08 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [How to save potentially hundreds of $$$ by setting up an AI agent for your trips](https://www.reddit.com/r/artificial/comments/1x95nlx/how_to_save_potentially_hundreds_of_by_setting_up/) |
-| 09 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Is AI helping speeding up the medical research?](https://www.reddit.com/r/artificial/comments/1x955ia/is_ai_helping_speeding_up_the_medical_research/) |
-| 10 | **The New Stack · provider monitor** | Products & Agents | ◈ | ● HIGH | [Liquid AI caught its model cheating on coding tests — then it recognized the sandbox](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0NmJMUXppZ05sUnJub2JHUlVVdjRKcFBRUE5CYzhYcWNzUzdYQ2JMYzktUjNWRGlvU3BVanN3a1dON0laZ0I0a0xCNHZWcUVkVFlkdkZyNEMxOHNF?oc=5) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 12 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [AI or Wikipedia?](https://www.reddit.com/r/artificial/comments/1x94b4y/ai_or_wikipedia/) |
+| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/) |
+| 02 | **The Verge AI** | Robotics & Embodied AI | 🖼️ | ● HIGH | [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot) |
+| 03 | **Product Wire · JetBrains AI** | Products & Agents | ◈ | ● HIGH | [JetBrains Air EAP Hits 5 IDEs, Runs 5 AI Agents [2026]](https://news.google.com/rss/articles/CBMic0FVX3lxTFAtZGhFWlVzOERnSGNMWURBUTJrOUFrc1lqNzlQbzkxSTN2T1cyVjU1bTBYNWJUUkl4b3U5alp5OWFuSlVWZ3hhbEFwYnRLZGl1dWNTQV9uVk85aWdWM0NVUUNpTXFRVzF0TTlGTTlwV2NnUEU?oc=5) |
+| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 05 | **https://tech-insider.org/ · provider monitor** | Products & Agents | ◈ | ● HIGH | [Cursor AI Agent Hits 56% of Merged PRs [2026]](https://news.google.com/rss/articles/CBMieEFVX3lxTE90OUI3ZmVaTHE1NUR0d0hPb0J1dksyUTdrWEFIZUFRN1U1ZEdXZXBKNTJnU3k3bTdfY2JDaklXUmZDSFd2NjdGOUFVTlNEVVhpQk1wWHF2RjZENGZVT2MzVkE3c0JDTHFoZktiSjdxd2ZFakdGU1NadA?oc=5) |
+| 06 | **https://tech-insider.org/ · provider monitor** | Products & Agents | ◈ | ● HIGH | [Runway Gen-4.5 API Setup: Generate AI Video in 13 Steps [2026]](https://news.google.com/rss/articles/CBMickFVX3lxTE11S3Vyc1p4d0xYelRoZFNEZkxFQmpTUTJOejBGS3hndTM0UXVWNlg2d21PMmxQUjhzbzR6X2pjVk9CVExGWUgwNDRSMGJMWWhrWlJPSkJ2RTRCZ0VqVm8tai0weEZQQ2dXekpURlprMFZiQQ?oc=5) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 08 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Is anyone else feeling severe burnout from the current pace of AI releases?](https://www.reddit.com/r/artificial/comments/1x98bit/is_anyone_else_feeling_severe_burnout_from_the/) |
+| 09 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 10 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Which AI limitations have you stopped waiting on and just learned to work around?](https://www.reddit.com/r/artificial/comments/1x97l6n/which_ai_limitations_have_you_stopped_waiting_on/) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Disney agrees to hire the majority of Character.AI’s workforce](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/) |
+| 12 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [How to save potentially hundreds of $$$ by setting up an AI agent for your trips](https://www.reddit.com/r/artificial/comments/1x95nlx/how_to_save_potentially_hundreds_of_by_setting_up/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
