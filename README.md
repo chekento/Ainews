@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-19 01:04 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-19 06:03 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Looking to collaborate [R]](https://www.reddit.com/r/MachineLearning/comments/1x9j7qp/looking_to_collaborate_r/) |
-| 02 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Do ICLR guidelines allow to upload papers under review to LLM chats? [D]](https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/) |
-| 03 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 05 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 06 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Conference papers are cooked! [D]](https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 08 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Anyone else get brain lag from overly-condensed AI-speak? [D]](https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/) |
-| 11 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]](https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/) |
-| 12 | **Startup Fortune · provider monitor** | Industry | ◈ | ● HIGH | [Stripe Agrees to Buy AI Model Router OpenRouter for $7.5 Billion](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ2pLTnFiejF0dmQzRzdaVm1nUkRXejF5akI0cV9FNzFJNW9UaEV6SGxqVWg2bm9yWWdoUGh1Zy1Pdmk0b1ZoTGoyai1iVVR1aXRLUXctQTJ5WDFuWVlXMlFMbEZUNXlSd05OWTJOd1ljT1FQTlBiakNoWUt6RWh4R3pLLXFucUZmNkduTnRSdzgtUkZz?oc=5) |
+| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Written with AI" tells you nothing. The disclosure that matters is how.](https://www.reddit.com/r/artificial/comments/1x9oxkd/written_with_ai_tells_you_nothing_the_disclosure/) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Gen Alpha's struggling with telling the difference between AI slop and real videos. Even If AI stagnates, they got Gen Alpha to milk.](https://www.reddit.com/r/artificial/comments/1x9obdy/gen_alphas_struggling_with_telling_the_difference/) |
+| 03 | **Product Wire · Le Chat** | Products & Agents | ◈ | ● HIGH | [Copilot vs Meta AI vs Le Chat: $25 Price Gap [2026]](https://news.google.com/rss/articles/CBMihAFBVV95cUxNUTFXT21MMkFJdUY0NklGTktjcVltYTlmSzF5T2JTcWt3ZXlLX2JENXU1ZDJIOEQ4NXlfSGFXMWI4SHE5RThaLWY5T3NEN2UwaG41NFFkbHN4RFNFTTczeEJwQzlGcjJnb3oyeWs1RDJsTDhOekRWR0I1M0NFc3QzcVFod2g?oc=5) |
+| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [a year of running a multi-model router for real work: seven things that survived, three that died](https://www.reddit.com/r/artificial/comments/1x9nei2/a_year_of_running_a_multimodel_router_for_real/) |
+| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Ai rant](https://www.reddit.com/r/artificial/comments/1x9n5rs/ai_rant/) |
+| 06 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [No scripts: a virtual fly driven by its real brain wiring diagram (70k simulated neurons), live 24/7](https://www.reddit.com/r/artificial/comments/1x9mxzl/no_scripts_a_virtual_fly_driven_by_its_real_brain/) |
+| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides](https://arxiv.org/abs/2610.22373) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation](https://arxiv.org/abs/2610.22400) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [From Events to Reasoning: Hierarchical Rule Composition over Explicit States](https://arxiv.org/abs/2610.22403) |
+| 10 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](https://arxiv.org/abs/2610.22408) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model](https://arxiv.org/abs/2610.22420) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents](https://arxiv.org/abs/2610.22426) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
