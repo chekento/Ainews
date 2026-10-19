@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-18 22:59 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-19 01:04 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Conference papers are cooked! [D]](https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/) |
-| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 03 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Anyone else get brain lag from overly-condensed AI-speak? [D]](https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/) |
-| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 07 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]](https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/) |
-| 08 | **Startup Fortune · provider monitor** | Industry | ◈ | ● HIGH | [Stripe Agrees to Buy AI Model Router OpenRouter for $7.5 Billion](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ2pLTnFiejF0dmQzRzdaVm1nUkRXejF5akI0cV9FNzFJNW9UaEV6SGxqVWg2bm9yWWdoUGh1Zy1Pdmk0b1ZoTGoyai1iVVR1aXRLUXctQTJ5WDFuWVlXMlFMbEZUNXlSd05OWTJOd1ljT1FQTlBiakNoWUt6RWh4R3pLLXFucUZmNkduTnRSdzgtUkZz?oc=5) |
-| 09 | **The Verge AI** | Robotics & Embodied AI | 🖼️ | ● HIGH | [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot) |
-| 10 | **Product Wire · JetBrains AI** | Products & Agents | ◈ | ● HIGH | [JetBrains Air EAP Hits 5 IDEs, Runs 5 AI Agents [2026]](https://news.google.com/rss/articles/CBMic0FVX3lxTFAtZGhFWlVzOERnSGNMWURBUTJrOUFrc1lqNzlQbzkxSTN2T1cyVjU1bTBYNWJUUkl4b3U5alp5OWFuSlVWZ3hhbEFwYnRLZGl1dWNTQV9uVk85aWdWM0NVUUNpTXFRVzF0TTlGTTlwV2NnUEU?oc=5) |
-| 11 | **https://tech-insider.org/ · provider monitor** | Products & Agents | ◈ | ● HIGH | [Cursor AI Agents Now Merge 56% of All PRs [2026]](https://news.google.com/rss/articles/CBMieEFVX3lxTE90OUI3ZmVaTHE1NUR0d0hPb0J1dksyUTdrWEFIZUFRN1U1ZEdXZXBKNTJnU3k3bTdfY2JDaklXUmZDSFd2NjdGOUFVTlNEVVhpQk1wWHF2RjZENGZVT2MzVkE3c0JDTHFoZktiSjdxd2ZFakdGU1NadA?oc=5) |
-| 12 | **LG AI Research** | Research | ◈ | ● HIGH | [Data Management · Topics - LG AI Research](https://news.google.com/rss/articles/CBMivwFBVV95cUxPc2NxSFd0WE5YTExlbmdBaDNTZWJLZjAwM3NLQk9CV0N4RFU0VUhpV3J1UG1lNUtjTFg3RklxUllLTkFhemxacFFvVnJqYVVJYTlPUkZWa0VNQWZubGs3eno3UUFKbi04bzh1aGlDNFA2azdBMFI2N1MtOGh1QTdBTlFfNUN0aDRIQjBfakFDb3dGUzByWko5R25QeWdBeDBneUVqYVF4aU1STXVCamlURXJxRmFrUXh0Q2pnbUtPVQ?oc=5) |
+| 01 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Looking to collaborate [R]](https://www.reddit.com/r/MachineLearning/comments/1x9j7qp/looking_to_collaborate_r/) |
+| 02 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Do ICLR guidelines allow to upload papers under review to LLM chats? [D]](https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/) |
+| 03 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 05 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 06 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Conference papers are cooked! [D]](https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 08 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Anyone else get brain lag from overly-condensed AI-speak? [D]](https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/) |
+| 11 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]](https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/) |
+| 12 | **Startup Fortune · provider monitor** | Industry | ◈ | ● HIGH | [Stripe Agrees to Buy AI Model Router OpenRouter for $7.5 Billion](https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ2pLTnFiejF0dmQzRzdaVm1nUkRXejF5akI0cV9FNzFJNW9UaEV6SGxqVWg2bm9yWWdoUGh1Zy1Pdmk0b1ZoTGoyai1iVVR1aXRLUXctQTJ5WDFuWVlXMlFMbEZUNXlSd05OWTJOd1ljT1FQTlBiakNoWUt6RWh4R3pLLXFucUZmNkduTnRSdzgtUkZz?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
