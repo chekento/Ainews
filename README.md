@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-19 06:03 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-19 12:56 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Written with AI" tells you nothing. The disclosure that matters is how.](https://www.reddit.com/r/artificial/comments/1x9oxkd/written_with_ai_tells_you_nothing_the_disclosure/) |
-| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Gen Alpha's struggling with telling the difference between AI slop and real videos. Even If AI stagnates, they got Gen Alpha to milk.](https://www.reddit.com/r/artificial/comments/1x9obdy/gen_alphas_struggling_with_telling_the_difference/) |
-| 03 | **Product Wire · Le Chat** | Products & Agents | ◈ | ● HIGH | [Copilot vs Meta AI vs Le Chat: $25 Price Gap [2026]](https://news.google.com/rss/articles/CBMihAFBVV95cUxNUTFXT21MMkFJdUY0NklGTktjcVltYTlmSzF5T2JTcWt3ZXlLX2JENXU1ZDJIOEQ4NXlfSGFXMWI4SHE5RThaLWY5T3NEN2UwaG41NFFkbHN4RFNFTTczeEJwQzlGcjJnb3oyeWs1RDJsTDhOekRWR0I1M0NFc3QzcVFod2g?oc=5) |
-| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [a year of running a multi-model router for real work: seven things that survived, three that died](https://www.reddit.com/r/artificial/comments/1x9nei2/a_year_of_running_a_multimodel_router_for_real/) |
-| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Ai rant](https://www.reddit.com/r/artificial/comments/1x9n5rs/ai_rant/) |
-| 06 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [No scripts: a virtual fly driven by its real brain wiring diagram (70k simulated neurons), live 24/7](https://www.reddit.com/r/artificial/comments/1x9mxzl/no_scripts_a_virtual_fly_driven_by_its_real_brain/) |
-| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides](https://arxiv.org/abs/2610.22373) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation](https://arxiv.org/abs/2610.22400) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [From Events to Reasoning: Hierarchical Rule Composition over Explicit States](https://arxiv.org/abs/2610.22403) |
-| 10 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation](https://arxiv.org/abs/2610.22408) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model](https://arxiv.org/abs/2610.22420) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents](https://arxiv.org/abs/2610.22426) |
+| 01 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Stripe says AI agent purchases are adding up, but it won't share the numbers](https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/) |
+| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Democrats think cracking down on AI could give them an edge](https://www.theverge.com/policy/1013113/democrats-ai-midterms) |
+| 03 | **Reuters · provider monitor** | Frontier Models | ◈ | ● HIGH | [China's MiniMax launches updated AI model M3.1 Flash, claims major improvements](https://news.google.com/rss/articles/CBMiywFBVV95cUxQU21KdExTcjNUellVV1E5dWlpbXZMR0dxb0NUdXNrN2pma29TRm5PcFBOMEZhS0hSOUVMNmdMZlNsUE9uTGxOYjFnTjIzVzZESmcxbnBYMHVMZjdNS1RvVkU3eHhZYUdlMmNORXdlR2l4ejVwQVVvdjVjTzZGQThwUmhZZ1JHSGNyUGlITjVabGdsTE9heHlnbjdvODlXSHk0Rk0yOEpxbW01dEg1THR3eFY2Sl8xRkUyVEFReC00SWFvVmx4NE5sejRSRQ?oc=5) |
+| 04 | **Product Wire · Pika** | Products & Agents | ◈ | ● HIGH | [Creality Pika 3D scanner review: Good things come in small packages](https://news.google.com/rss/articles/CBMijAFBVV95cUxQOTg3emtCdGREc1c3SEVabmNHNUgwVkx3OFdZajFuSjhnRExqQjUtN2FMVF95Yl84NWZ3c21MMXRyNlpmQlMzQ1NyNmJwYTltT01MQi1vRjVGbjlKYW4xV2pJR196eG4wVVE1SkZ3dllwU291ZHBvTVAzZ2tGdUNpa2dBNXMzcFl4Uy1uXw?oc=5) |
+| 05 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [The neocloud shakeout is coming, and Nvidia has the most to lose](https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 08 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children](https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/) |
+| 09 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 10 | **IEEE Spectrum AI** | Safety & Security | 🖼️ | ● HIGH | [Edge AI for Smart Cities: From Insight to Cognitive Action](https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE) |
+| 11 | **Axios AI** | Industry | ◈ | ◐ MED | [The AI attack-ad nightmare is coming true - Axios](https://news.google.com/rss/articles/CBMiggFBVV95cUxON2doak5DbmFtb01HbkJUWGNoUll4N1VrbmJBVkpvdXQ4MG4xQ2Vpa1lOSlZTMWdGRzVRUldGa0JaMF9vMjltbklMcFJuM2NhNGRXMW1BdkZWNHNFSDRuQTY4TmVWcHlTcERYTURVSWhYTXFJMUNFbTdtWHBKcWZHUlBR?oc=5) |
+| 12 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
