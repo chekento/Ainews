@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-20 17:55 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-20 21:31 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [From data to decisions: Conversational supply chain intelligence with Amazon Quick and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/from-data-to-decisions-conversational-supply-chain-intelligence-with-amazon-quick-and-amazon-bedrock-agentcore/) |
-| 02 | **AWS Machine Learning** | Frontier Models | ◈ | ● HIGH | [Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/) |
-| 03 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [French Government Calls Emergency Meetings With Platforms Over Protests](https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/) |
-| 04 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [How Octave built a secure multi-tenant AI foundation on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-octave-built-a-secure-multi-tenant-ai-foundation-on-amazon-bedrock/) |
-| 05 | **Ai2 Blog** | Safety & Security | ◈ | ● HIGH | [FairStress: A deeper evaluation of fairness in LLM decision-making - Allen Institute for Artificial Intelligence](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ub0R2MmM4OWV3UEtzY2pfZS03N1dFYmZrLVJCT1RGbG5KekhuWGgwQW4zZWNvamtscjl1ZXhDcHNDTkVrRWFISEc2QQ?oc=5) |
-| 06 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time](https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/) |
-| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps](https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/) |
-| 08 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs](https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/) |
-| 09 | **Product Wire · Zoom AI Companion** | Products & Agents | ◈ | ● HIGH | [Zoom Clinical Notes, powered by Zoom AI, helps to simplify documentation across in-person, video, and phone visits](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YbHRpSVRVYWtnZldEbFNESURMejdmNjl1blNYcWFIREdZTmdmNXRHaXBveVdQdUN3aFhDZHQtYThDckhWajA1M0dMQUxvc0h6eXQ1VGFjOUtkV29lc05Ic0tR?oc=5) |
-| 10 | **AWS Machine Learning** | Frontier Models | ◈ | ● HIGH | [Access OpenAI GPT models on Amazon Bedrock from Canada with cross-Region inference](https://aws.amazon.com/blogs/machine-learning/access-openai-gpt-models-on-amazon-bedrock-from-canada-with-cross-region-inference/) |
-| 11 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran](https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/) |
-| 12 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Discover tools at runtime with AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/discover-tools-at-runtime-with-aws-agent-registry/) |
+| 01 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Anthropic’s cloud partnerships are getting messy](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/) |
+| 02 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch](https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/) |
+| 03 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [SpaceX’s AI business is beating expectations](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/) |
+| 05 | **TechCrunch AI** | Research | ◈ | ● HIGH | [OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business](https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/) |
+| 06 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 07 | **The Decoder** | Research | 🖼️ | ● HIGH | [Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations](https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/) |
+| 08 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [Deepseek open-sources the inference engine that powers its fastest and cheapest AI model](https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/) |
+| 09 | **Product Wire · Make** | Products & Agents | ◈ | ● HIGH | [Secret trigger words could make AI-powered robots dangerous—and these researchers developed a defense](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRUgwYkZEVGpuN2FKMUJsQ2V6OHBHYnc3WkxVN1RhdmE5NFlUaDNab0VDSUFfaW9FTmJBam9Dc3IwWDZZTWxkQTE5c29oUHJ2SUZwV0l2VUZHRU56bWtEVVVRVUlxMUpxbUN5b3YxUmdkZVYwZnNkYXdQMWlJdDRVQllQMklYVzNiNDVfQTVmY0lMc1psVnJuVDJEcnhXWjhvVjFqVENtZGxBNVRnaDVpQ3pjTWN0OE9ZbDdmNDBQWjdrSy1GSmtRNnBVU1BQUWpNaWd2UlVhNGdYREpY?oc=5) |
+| 10 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [ChatGPT now lets you lock your chats](https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/) |
+| 12 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation](https://huggingface.co/blog/nvidia/cosmos3-h-dreams) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
