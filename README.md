@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-21 09:34 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-21 14:37 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **NVIDIA AI Blog** | Robotics & Embodied AI | 🖼️ | ● HIGH | [GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote](https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/) |
-| 02 | **The Decoder** | Research | 🖼️ | ● HIGH | [Claude Science tackles deadly scorpion stings by designing protein binders from scratch](https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/) |
-| 03 | **The Decoder** | Research | 🖼️ | ● HIGH | [OpenAI acquires Orchestra Bio to build AI agents that speed up drug development](https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/) |
-| 04 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Europe Wants Data Centers. Its Climate Goals Are Getting in The Way](https://www.wired.com/story/europe-data-centers-climate-change/) |
+| 01 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire](https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/) |
+| 02 | **The Business Journals · provider monitor** | Frontier Models | ◈ | ● HIGH | [Fireworks AI targets former Snowflake HQ as space needs explode](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnZwMnhnZGZfNTJNSzRiQW5SNnNucHdLNnZkQjA2U2JjMnlvQ1oyXzRienJYZEpKQndlUGNOSE9IN3d5ZWRUMUpaaERRdXR2MmVfOEZIYTd3TUZjQUdoLVFCMm1UTmp0R1VXQVcwNkRVa1doLXhkUVRUakpXc09wRWRyYi1MdE9XVmN5X3lFTGxreXVabGxuelpwQ0c?oc=5) |
+| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [AI promises productivity, but for managers, it’s mostly a headache for now](https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/) |
+| 04 | **WIRED AI** | Products & Agents | 🖼️ | ● HIGH | [AI Guardrails Aren’t Stopping Criminal Hackers](https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/) |
 | 05 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
-| 06 | **Product Wire · Voxtral** | Products & Agents | ◈ | ● HIGH | [Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWxrcTc5aHlvSVhMelFNQXN6THVMdlV1bHRpbVNjQ015c1dqVlQwVURkR0xMWFVOcmNaTU84Y3hCUU9SUS1iQ1Vmc19TVEQ4Z2NIME9qRjQwMnU2c1lyMHdhdktzWklTU2lRRlZFazd4eGd5azZ0d3Zqc3N1NFJGQ2x6TWlwNTBZaWVHYWp5N3lSZ9IBkgFBVV95cUxNUWxrcTc5aHlvSVhMelFNQXN6THVMdlV1bHRpbVNjQ015c1dqVlQwVURkR0xMWFVOcmNaTU84Y3hCUU9SUS1iQ1Vmc19TVEQ4Z2NIME9qRjQwMnU2c1lyMHdhdktzWklTU2lRRlZFazd4eGd5azZ0d3Zqc3N1NFJGQ2x6TWlwNTBZaWVHYWp5N3lSZw?oc=5) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 08 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 10 | **Microsoft Research AI** | Research | ◈ | ◐ MED | [New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5) |
-| 11 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
-| 12 | **Stability AI** | Industry | ◈ | ● HIGH | [Billing - Stability AI Platform - Stability AI Platform](https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wdGxjd2VyT0tKNGdfN2pYM1VENEY3MG82UGxSYmZpREhxV29jZktBdzJWV3cxampGSWxkalU4M2t0UnI5U2VYMGhEdnoyTzhWSi1ZRTNvYkRERjg?oc=5) |
+| 06 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [OpenAI says an AI agent lied about disabling its safety monitoring system](https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems) |
+| 07 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days](https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/) |
+| 08 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home](https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/) |
+| 09 | **IEEE Spectrum AI** | Industry | 🖼️ | ● HIGH | [How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup) |
+| 10 | **OpenAI News** | Industry | ◈ | ● HIGH | [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform](https://openai.com/index/chatgpt-ads-expands-26-new-countries) |
+| 11 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](https://huggingface.co/blog/nvidia/kumo-forecast) |
+| 12 | **Product Wire · Transformers** | Products & Agents | ◈ | ● HIGH | [Team UAV Captures Imagery of 500 Transformers for NGED AI Inspection Project](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2xueEUxREhPOGVQTDVmS1h4ekZjdGJPdkNLNHM3NkFKUjRpRzcwMml0T29zQTNuY3UxLWliYlNWRnBYT1FmTTgtWUQtMTIzcXhYcTV3TjFMVlV2eC1XcVRmSjExT2dtLXRTUVFaamwzRnJHSDduYWhFNl82czY2Tm5PeGsxaHo2?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
