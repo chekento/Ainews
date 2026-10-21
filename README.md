@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-21 00:05 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-21 04:33 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [New York City wants to fine companies that trap you in AI chatbot ‘doom loops’](https://www.reddit.com/r/artificial/comments/1xb7a1x/new_york_city_wants_to_fine_companies_that_trap/) |
-| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit](https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed) |
-| 03 | **TechCrunch AI** | Compliance & Ethics | ◈ | ● HIGH | [Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/) |
-| 04 | **Startup Fortune · provider monitor** | Frontier Models | ◈ | ● HIGH | [Fireworks AI is in talks to double its valuation to 40 billion dollars](https://news.google.com/rss/articles/CBMinwFBVV95cUxNbEM0SUxTN2JOc1JBWV9uNlcyQVFoQ1QzOVI5dzJldGNaUzdQcjk3X1dzQi1Xem5EbUROaXNTVzhMUTN6RTFnMkZLSkFhLU52eGhFWmRRYVFNQ0w2eFV5NlB1M0FvamxoYnUzSFAxb3pFbTRxenRNSkdBT1VlOXpSU09kNzdnZ3dMTXNHczRROENUSlRZY29QUGV3YWZnMGc?oc=5) |
-| 05 | **Product Wire · Jasper AI** | Products & Agents | ◈ | ● HIGH | [Breaking: Jasper Fire reported in Los Angeles County on Oct. 20](https://news.google.com/rss/articles/CBMidEFVX3lxTE0wd0JpWFdaT3hPUndMdERjSUQweFotUUpRemdMR1lUX0RIbzBXYVNKQ280Q3FmemNuNnpuZnl0dXJPT3ZldTFaQlFQaS0zV0tZWGZKR1hZbmszcmRlY1VnaGZUSllzaFFKbUVVajFLMDNVVFpY?oc=5) |
-| 06 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [Google’s more personalized Gemini AI is heading to your car](https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto) |
-| 07 | **Product Wire · Voxtral** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Mistral Puts Four Speech Models and a Voice-Agent API on the Same Meter](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oNTNVcS1lRzgwX0lsWTAyZVhRVUdJUS1hQjFFNTdpZ3Z1dEdjOFBKMVpJN1gwamxudzZTSC1jUjZFWDJRVjhKUExJY3lOVzlxVDFzQ0JMNXVvWHNURGNiM1lHb2tFTmRT?oc=5) |
-| 08 | **TechCrunch AI** | Open Source | ◈ | ● HIGH | [Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/) |
-| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Spotify is cracking down on Family plans again, and the penalty can lock you out for a year](https://www.reddit.com/r/artificial/comments/1xb5ts6/spotify_is_cracking_down_on_family_plans_again/) |
-| 10 | **Business Insider · provider monitor** | Infrastructure | ◈ | ● HIGH | [Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdW56SlZzdHVGUDIyYlFpU3RLRVVjTmZ5a0ZLcGUwYUFvcWIzYzNjdng2cjJFQXg2Z0ZqeDFabFlCa3FCZ19kMXMzWlUyTkUtZUdvWl83aXllekVKWWhKN21icjU2c0I2Vl85bGlTS1gyWXpfMnlPd1c0UzNSaXpOQ3UzOVEtSjBKNi1tZl9ybGpKYzFmd1FBYXhLUQ?oc=5) |
-| 11 | **Product Wire · Voxtral** | Products & Agents | ◈ | ● HIGH | [Mistral's Voxtral 3 Lands a #3 Transcribe Model and a $13 Voice](https://news.google.com/rss/articles/CBMib0FVX3lxTE9yMVJ1SlphMjVPZ0llLWFPNGJUejgtR2R6NG44ZThVTFJ3MmRDRTlLZ0xnN1ZNQUlpX0ZiZEhKN2pVOHdSYkc4MENuOHd4UFJTRFF3OW9LTC1KcDZHd3d3WGpROXBEd2o3ekZLT2oyYw?oc=5) |
-| 12 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Anthropic’s cloud partnerships are getting messy](https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/) |
+| 01 | **Google AI Blog** | Industry | 🖼️ | ● HIGH | [Southeast Asia’s digital economy to hit $368 billion](https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/) |
+| 02 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training](https://arxiv.org/abs/2610.26887) |
+| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Large language model and reinforcement learning based autonomous construction and progress updates](https://arxiv.org/abs/2610.26899) |
+| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models](https://arxiv.org/abs/2610.26904) |
+| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring](https://arxiv.org/abs/2610.26913) |
+| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution](https://arxiv.org/abs/2610.26924) |
+| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing](https://arxiv.org/abs/2610.26941) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4](https://arxiv.org/abs/2610.26942) |
+| 09 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning](https://arxiv.org/abs/2610.26943) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [LightCRS: Lightweight Multi-Domain Conversational Recommendation System](https://arxiv.org/abs/2610.26948) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability](https://arxiv.org/abs/2610.26964) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents](https://arxiv.org/abs/2610.26995) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
