@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-21 14:37 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-21 18:54 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire](https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/) |
-| 02 | **The Business Journals · provider monitor** | Frontier Models | ◈ | ● HIGH | [Fireworks AI targets former Snowflake HQ as space needs explode](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnZwMnhnZGZfNTJNSzRiQW5SNnNucHdLNnZkQjA2U2JjMnlvQ1oyXzRienJYZEpKQndlUGNOSE9IN3d5ZWRUMUpaaERRdXR2MmVfOEZIYTd3TUZjQUdoLVFCMm1UTmp0R1VXQVcwNkRVa1doLXhkUVRUakpXc09wRWRyYi1MdE9XVmN5X3lFTGxreXVabGxuelpwQ0c?oc=5) |
-| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [AI promises productivity, but for managers, it’s mostly a headache for now](https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/) |
-| 04 | **WIRED AI** | Products & Agents | 🖼️ | ● HIGH | [AI Guardrails Aren’t Stopping Criminal Hackers](https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/) |
-| 05 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
-| 06 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [OpenAI says an AI agent lied about disabling its safety monitoring system](https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems) |
-| 07 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days](https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/) |
-| 08 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home](https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/) |
-| 09 | **IEEE Spectrum AI** | Industry | 🖼️ | ● HIGH | [How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup) |
-| 10 | **OpenAI News** | Industry | ◈ | ● HIGH | [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform](https://openai.com/index/chatgpt-ads-expands-26-new-countries) |
-| 11 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability](https://huggingface.co/blog/nvidia/kumo-forecast) |
-| 12 | **Product Wire · Transformers** | Products & Agents | ◈ | ● HIGH | [Team UAV Captures Imagery of 500 Transformers for NGED AI Inspection Project](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2xueEUxREhPOGVQTDVmS1h4ekZjdGJPdkNLNHM3NkFKUjRpRzcwMml0T29zQTNuY3UxLWliYlNWRnBYT1FmTTgtWUQtMTIzcXhYcTV3TjFMVlV2eC1XcVRmSjExT2dtLXRTUVFaamwzRnJHSDduYWhFNl82czY2Tm5PeGsxaHo2?oc=5) |
+| 01 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](https://huggingface.co/blog/nvidia/kumo-relational) |
+| 02 | **Anthropic News** | Industry | ◈ | ● HIGH | [Charter - Anthropic](https://news.google.com/rss/articles/CBMiXEFVX3lxTE10ek1OZEZzU1A2WUZHcmd2SzVYbS1PajBiVjhBMHloYXFSOXpKUmw5a2laYk01eUNDcnBpM0p6SDhuV2lIdGlJQjhJUy15Q01zSkVRUDdvalVnWkNN?oc=5) |
+| 03 | **ENISA AI Security** | Compliance & Ethics | ◈ | ● HIGH | [Joint statement on critical PHP vulnerabilities - ENISA](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnN0WWd2MHViY29IbDVfSzlWNTJtZC1GLTQwVjJrNHFUVWQyc1JKTjJVMFpYbHBGM2dyUkVCSG5ETjVfMXU0MDlsLVhabXREcEpuMU9QTVlrRmF4Tlh5QWNOblBqcUl3M0xmSGxiZ0RfT0Nqc2Z5LVpJX2Q2VWVMWGdBNU9POGs?oc=5) |
+| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [3 things you should do with your AI to save $$$ before booking a hotel](https://www.reddit.com/r/artificial/comments/1xbu3ox/3_things_you_should_do_with_your_ai_to_save/) |
+| 05 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three](https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/) |
+| 06 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 07 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications](https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 09 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Deepmind founder Hassabis shortens AGI timeline from five to two to three years](https://the-decoder.com/deepmind-founder-hassabis-shortens-agi-timeline-from-five-to-two-to-three-years/) |
+| 10 | **OpenAI News** | Industry | ◈ | ● HIGH | [How AT&T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal) |
+| 11 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
+| 12 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
