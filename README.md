@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-22 17:03 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-22 20:30 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise](https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/) |
-| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [PHP: The three little letters wreaking havoc across the web](https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down) |
-| 03 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
-| 04 | **AWS Machine Learning** | Compliance & Ethics | ◈ | ● HIGH | [Stop guessing auto scaling targets for TTS on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai/) |
-| 05 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [How Rescale built an AI triage agent with Strands Agents and AI-DLC](https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/) |
-| 06 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Only 13 percent of companies see real returns from AI, Gartner survey finds](https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/) |
-| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’](https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion) |
-| 08 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [OlmoEarth v1.3: State-of-the-art embeddings for the whole planet](https://huggingface.co/blog/allenai/olmoearth-v1-3) |
-| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Scientists stunned as new AI unlocks game-changing cancer treatment](https://www.reddit.com/r/artificial/comments/1xcmrat/scientists_stunned_as_new_ai_unlocks_gamechanging/) |
-| 10 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Uber puts all 30,000 employees on ChatGPT Work](https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/) |
-| 11 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [OpenAI, Anthropic, and Nvidia had record lobbying quarters](https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records) |
-| 12 | **Product Wire · NotebookLM** | Products & Agents | ◈ | ● HIGH | [NotebookLM Pricing 2026: Free, Plus $4.99, Pro $19.99, Ultra](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mU1I4b0g1QlpldGJDb0YyWS1ETmlXR2tuVlU5Ync4ZkwzazNWcnFDSU1zZlR1Y1I4RFIwYU5EX0xrZnRJYWk2YzlFMHRtMGtk?oc=5) |
+| 01 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts) |
+| 02 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [The Social Society Helping Women Join the AI Boom](https://www.wired.com/story/aged-intelligence-society-interview/) |
+| 03 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Microsoft says its AI tool is better than doctors at diagnosing conditions](https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence) |
+| 04 | **Product Wire · OpenAI Codex** | Products & Agents | ◈ | ● HIGH | [Oracle University Launches Two New OpenAI Codex Courses](https://news.google.com/rss/articles/CBMingFBVV95cUxOTzlXV3BLRnVKbHZ4blp3SlJzQnZUS2doZWg5cHdXbmlFNm1HNzY1YU5GRWRZV2EwOWQyWmlPVGRVTFNSMFNuNDk2R0FQYWx6ODI3U0xpZ01RaWVrVElic0ZVVzA4NDlqRmlGaHBfeWNBZFYtWEhCOFhpXzlyQnBjcDNHQzEybkJfaTVjbkpOQkMtMkVmNVZkTlgtNHhjdw?oc=5) |
+| 05 | **Ollama Blog** | Industry | ◈ | ● HIGH | [flint - Ollama](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5jdlRXRmlvbm9Genc0aWFETTY3T0d5MTljY3RFekszRFdYRzgyOEp3YU1zMFZkWGs5SVkwWEQ3bEw4VVV1eWVF?oc=5) |
+| 06 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
+| 07 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Sure, let’s smoosh SpaceX and Tesla together, who cares](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari) |
+| 08 | **Product Wire · Microsoft Foundry** | Products & Agents | ◈ | ● HIGH | [From weeks to a day: Everstar on Microsoft Foundry with Claude](https://news.google.com/rss/articles/CBMif0FVX3lxTE9keWdtbFlrUG1QemVaRjBHbjJucnVnRk1FMm1va1NVV0NYam10RTh0SjVOV2RwQWZkRF9fb2o3UXc0dy1GRGw2X05Xbmk2TTAyX0NSMkphZ0h4U1lTRGNyeDF6UzRoS05odDg5LUphN1Y2V0RXdGs1QlpaZzZpZ3c?oc=5) |
+| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [1Password launches a way for AI agents to log in on your behalf without seeing your password](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/) |
+| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 11 | **OpenAI News** | Products & Agents | ◈ | ● HIGH | [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api) |
+| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Canva releases its first image generation model](https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
