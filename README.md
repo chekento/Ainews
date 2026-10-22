@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-22 05:59 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-22 11:39 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Product Wire · Voxtral** | Products & Agents | ◈ | ● HIGH | [Mistral Voxtral 3: Speech AI Hits $0.0035/Min [2026]](https://news.google.com/rss/articles/CBMib0FVX3lxTFBoa0N2UjF2R3NJNFYtTGJwOW9JeXlCVlR1TFlab29MUVp5M2ROcTE2Mm5qeDF4b3ZTaDJhblZ4Wjc4a3Joandad3l1S1JkeFZiRk9tOTBKUnVRZVI2aXlxcW13YTJvckRJZUU5V2xxTQ?oc=5) |
-| 02 | **Product Wire · NVIDIA Cosmos** | Products & Agents | ◈ | ● HIGH | [NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models](https://news.google.com/rss/articles/CBMigwFBVV95cUxOMWg0TFo2MFdIOWsyZnVmOTM0RVZfZXdETG14QXpVNnNlLXQzOFBtV2FzMUtSSWZidlgtVzRBdnlwbXRmMC1KcE11RFd2TEUyRTA1RUVkczAwcmJBNUV1dVhRS0I2TldvN2Zib1ZNTFJDU2VuNmtlUlQyc1hLeXpNNnhyRQ?oc=5) |
-| 03 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
-| 04 | **Product Wire · Whisper** | Products & Agents | ◈ | ● HIGH | [A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUxzd29FU1FaWEpoalB4Qlh1WWs0bE4zTWo4emcwWWhJNWhmeWEyNlhmOVZLeV9mb292LWJDTnlGNkVQckVnUzF2ODZ6Tk1FNW9ZME1rcEU1YUdsc09VOGRiVExDN1pIWjdlNFpjbl92Z2ZlcHFTaENTcVAxcDY2cTB2WnFQVDI3QUlxYXZBcFlHNHI0clVMRWFhVl8wQVlCLUFLZ0pyNG1DQdIBqgFBVV95cUxNcUxzd29FU1FaWEpoalB4Qlh1WWs0bE4zTWo4emcwWWhJNWhmeWEyNlhmOVZLeV9mb292LWJDTnlGNkVQckVnUzF2ODZ6Tk1FNW9ZME1rcEU1YUdsc09VOGRiVExDN1pIWjdlNFpjbl92Z2ZlcHFTaENTcVAxcDY2cTB2WnFQVDI3QUlxYXZBcFlHNHI0clVMRWFhVl8wQVlCLUFLZ0pyNG1DQQ?oc=5) |
-| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training](https://arxiv.org/abs/2610.26887) |
-| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Large language model and reinforcement learning based autonomous construction and progress updates](https://arxiv.org/abs/2610.26899) |
-| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models](https://arxiv.org/abs/2610.26904) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring](https://arxiv.org/abs/2610.26913) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution](https://arxiv.org/abs/2610.26924) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing](https://arxiv.org/abs/2610.26941) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4](https://arxiv.org/abs/2610.26942) |
-| 12 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning](https://arxiv.org/abs/2610.26943) |
+| 01 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [An AI agent in "Skynet mode" hijacks unprotected language models to launch self-sustaining cyberattacks](https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/) |
+| 02 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
+| 03 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
+| 04 | **Product Wire · DeepSeek API** | Products & Agents | ◈ | ● HIGH | [Where the DeepSeek API Stands on October 22, 2026](https://news.google.com/rss/articles/CBMiekFVX3lxTE1qSXNrQ3dOSXp5OWVnaEZfbDRRTHhqa0FQcW1CNm5VUThwSnNLVEhWUTFpeGRoaU9YOXhxY2I4eHFGTFZDa3JYN1RtMktnMXdDaDJGYmdaaXF1WlNFYS1LeEJITmtnaWVsTU9ITktpd1BXZld6N2xleDR3?oc=5) |
+| 05 | **The Decoder** | Research | 🖼️ | ● HIGH | [OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months](https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/) |
+| 06 | **MIT Technology Review AI** | Industry | ◈ | ● HIGH | [Making the case for context-aware AI](https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/) |
+| 07 | **WIRED AI** | Open Source | ◈ | ● HIGH | [Hugging Face’s New AI Biology Model Lets You Chat With DNA](https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 09 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 10 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 11 | **MIT Technology Review AI** | Industry | 🖼️ | ● HIGH | [AI’s hidden storage bill: What inference leaves behind](https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/) |
+| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
