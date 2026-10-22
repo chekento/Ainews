@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-22 11:39 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-22 17:03 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [An AI agent in "Skynet mode" hijacks unprotected language models to launch self-sustaining cyberattacks](https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/) |
-| 02 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
+| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise](https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/) |
+| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [PHP: The three little letters wreaking havoc across the web](https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down) |
 | 03 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
-| 04 | **Product Wire · DeepSeek API** | Products & Agents | ◈ | ● HIGH | [Where the DeepSeek API Stands on October 22, 2026](https://news.google.com/rss/articles/CBMiekFVX3lxTE1qSXNrQ3dOSXp5OWVnaEZfbDRRTHhqa0FQcW1CNm5VUThwSnNLVEhWUTFpeGRoaU9YOXhxY2I4eHFGTFZDa3JYN1RtMktnMXdDaDJGYmdaaXF1WlNFYS1LeEJITmtnaWVsTU9ITktpd1BXZld6N2xleDR3?oc=5) |
-| 05 | **The Decoder** | Research | 🖼️ | ● HIGH | [OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months](https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/) |
-| 06 | **MIT Technology Review AI** | Industry | ◈ | ● HIGH | [Making the case for context-aware AI](https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/) |
-| 07 | **WIRED AI** | Open Source | ◈ | ● HIGH | [Hugging Face’s New AI Biology Model Lets You Chat With DNA](https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 09 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 10 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 11 | **MIT Technology Review AI** | Industry | 🖼️ | ● HIGH | [AI’s hidden storage bill: What inference leaves behind](https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 04 | **AWS Machine Learning** | Compliance & Ethics | ◈ | ● HIGH | [Stop guessing auto scaling targets for TTS on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai/) |
+| 05 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [How Rescale built an AI triage agent with Strands Agents and AI-DLC](https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/) |
+| 06 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Only 13 percent of companies see real returns from AI, Gartner survey finds](https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/) |
+| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’](https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion) |
+| 08 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [OlmoEarth v1.3: State-of-the-art embeddings for the whole planet](https://huggingface.co/blog/allenai/olmoearth-v1-3) |
+| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Scientists stunned as new AI unlocks game-changing cancer treatment](https://www.reddit.com/r/artificial/comments/1xcmrat/scientists_stunned_as_new_ai_unlocks_gamechanging/) |
+| 10 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Uber puts all 30,000 employees on ChatGPT Work](https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/) |
+| 11 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [OpenAI, Anthropic, and Nvidia had record lobbying quarters](https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records) |
+| 12 | **Product Wire · NotebookLM** | Products & Agents | ◈ | ● HIGH | [NotebookLM Pricing 2026: Free, Plus $4.99, Pro $19.99, Ultra](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mU1I4b0g1QlpldGJDb0YyWS1ETmlXR2tuVlU5Ync4ZkwzazNWcnFDSU1zZlR1Y1I4RFIwYU5EX0xrZnRJYWk2YzlFMHRtMGtk?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
