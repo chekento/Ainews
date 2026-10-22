@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-22 00:51 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-22 05:59 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 02 | **AWS Machine Learning** | Compliance & Ethics | ◈ | ● HIGH | [Securing Quick access from corporate networks with AWS PrivateLink](https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/) |
-| 03 | **AWS Machine Learning** | Open Source | ◈ | ● HIGH | [5 production challenges in multi-agent systems and how Deep Insight solved them](https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 05 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
-| 06 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
-| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/) |
-| 08 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure](https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/) |
-| 09 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [Data centers could erase decades of air quality gains](https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report) |
-| 10 | **Product Wire · NVIDIA Omniverse** | Products & Agents | ◈ | ● HIGH | [​Hitachi Energy develops power system simulation with NVIDIA Omniverse libraries to help accelerate AI factory deployment](https://news.google.com/rss/articles/CBMioAJBVV95cUxPWFpBeEpBTXJhaHhmcGEtZ1FnbTBiNmlEcGZVbDBGaDV3ODhHSzB2Y3ZsUVhaVkhrZEFNOXJXeHJoNFFMb2NSSEpwcEZkUXhlTEN1SGRIVEJNRXhiVXFyZGx3N19CNExqOV8zTzR0TE1TMkxJeFN0UVdYY2pMYktLdHRiSTNIdTdMMF9HTWNheU4xRFZ5X21qajZTX2h4VFJUSGl6clpwUXBzRGY1LWVoeWM3M2lOQmhLcnFBUE1rbG4wRlIwcV95T2NKbUJoeG5weUVHQzBKeGE3SldmZHBSUUg4UzFTcWN3RW9RUzJQUVRRNTZrV0FzZjl1UFRnTkZEN1dNWm8tNVJXOHpLM1plWGFQWHFZVm1Bc1FqdklWV0U?oc=5) |
-| 11 | **Sakana AI** | Industry | ◈ | ● HIGH | [- Sakana AI](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
-| 12 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Walmart is inviting AI agents to shop for you](https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents) |
+| 01 | **Product Wire · Voxtral** | Products & Agents | ◈ | ● HIGH | [Mistral Voxtral 3: Speech AI Hits $0.0035/Min [2026]](https://news.google.com/rss/articles/CBMib0FVX3lxTFBoa0N2UjF2R3NJNFYtTGJwOW9JeXlCVlR1TFlab29MUVp5M2ROcTE2Mm5qeDF4b3ZTaDJhblZ4Wjc4a3Joandad3l1S1JkeFZiRk9tOTBKUnVRZVI2aXlxcW13YTJvckRJZUU5V2xxTQ?oc=5) |
+| 02 | **Product Wire · NVIDIA Cosmos** | Products & Agents | ◈ | ● HIGH | [NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models](https://news.google.com/rss/articles/CBMigwFBVV95cUxOMWg0TFo2MFdIOWsyZnVmOTM0RVZfZXdETG14QXpVNnNlLXQzOFBtV2FzMUtSSWZidlgtVzRBdnlwbXRmMC1KcE11RFd2TEUyRTA1RUVkczAwcmJBNUV1dVhRS0I2TldvN2Zib1ZNTFJDU2VuNmtlUlQyc1hLeXpNNnhyRQ?oc=5) |
+| 03 | **Luma AI** | Industry | ◈ | ● HIGH | [- app.lumalabs.ai](https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RemJaNHljYXZ1ZC04dC1PUVVqVkhLSDZsMUQ0TjB2WG8xWkdwZTFUcE5jX0JTLWNhTDlXSVlzZDY1UHNQTHc?oc=5) |
+| 04 | **Product Wire · Whisper** | Products & Agents | ◈ | ● HIGH | [A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUxzd29FU1FaWEpoalB4Qlh1WWs0bE4zTWo4emcwWWhJNWhmeWEyNlhmOVZLeV9mb292LWJDTnlGNkVQckVnUzF2ODZ6Tk1FNW9ZME1rcEU1YUdsc09VOGRiVExDN1pIWjdlNFpjbl92Z2ZlcHFTaENTcVAxcDY2cTB2WnFQVDI3QUlxYXZBcFlHNHI0clVMRWFhVl8wQVlCLUFLZ0pyNG1DQdIBqgFBVV95cUxNcUxzd29FU1FaWEpoalB4Qlh1WWs0bE4zTWo4emcwWWhJNWhmeWEyNlhmOVZLeV9mb292LWJDTnlGNkVQckVnUzF2ODZ6Tk1FNW9ZME1rcEU1YUdsc09VOGRiVExDN1pIWjdlNFpjbl92Z2ZlcHFTaENTcVAxcDY2cTB2WnFQVDI3QUlxYXZBcFlHNHI0clVMRWFhVl8wQVlCLUFLZ0pyNG1DQQ?oc=5) |
+| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training](https://arxiv.org/abs/2610.26887) |
+| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Large language model and reinforcement learning based autonomous construction and progress updates](https://arxiv.org/abs/2610.26899) |
+| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models](https://arxiv.org/abs/2610.26904) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring](https://arxiv.org/abs/2610.26913) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution](https://arxiv.org/abs/2610.26924) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing](https://arxiv.org/abs/2610.26941) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4](https://arxiv.org/abs/2610.26942) |
+| 12 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning](https://arxiv.org/abs/2610.26943) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
