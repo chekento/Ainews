@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-22 20:30 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-22 23:32 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts) |
-| 02 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [The Social Society Helping Women Join the AI Boom](https://www.wired.com/story/aged-intelligence-society-interview/) |
-| 03 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Microsoft says its AI tool is better than doctors at diagnosing conditions](https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence) |
-| 04 | **Product Wire · OpenAI Codex** | Products & Agents | ◈ | ● HIGH | [Oracle University Launches Two New OpenAI Codex Courses](https://news.google.com/rss/articles/CBMingFBVV95cUxOTzlXV3BLRnVKbHZ4blp3SlJzQnZUS2doZWg5cHdXbmlFNm1HNzY1YU5GRWRZV2EwOWQyWmlPVGRVTFNSMFNuNDk2R0FQYWx6ODI3U0xpZ01RaWVrVElic0ZVVzA4NDlqRmlGaHBfeWNBZFYtWEhCOFhpXzlyQnBjcDNHQzEybkJfaTVjbkpOQkMtMkVmNVZkTlgtNHhjdw?oc=5) |
-| 05 | **Ollama Blog** | Industry | ◈ | ● HIGH | [flint - Ollama](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5jdlRXRmlvbm9Genc0aWFETTY3T0d5MTljY3RFekszRFdYRzgyOEp3YU1zMFZkWGs5SVkwWEQ3bEw4VVV1eWVF?oc=5) |
-| 06 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
-| 07 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Sure, let’s smoosh SpaceX and Tesla together, who cares](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari) |
-| 08 | **Product Wire · Microsoft Foundry** | Products & Agents | ◈ | ● HIGH | [From weeks to a day: Everstar on Microsoft Foundry with Claude](https://news.google.com/rss/articles/CBMif0FVX3lxTE9keWdtbFlrUG1QemVaRjBHbjJucnVnRk1FMm1va1NVV0NYam10RTh0SjVOV2RwQWZkRF9fb2o3UXc0dy1GRGw2X05Xbmk2TTAyX0NSMkphZ0h4U1lTRGNyeDF6UzRoS05odDg5LUphN1Y2V0RXdGs1QlpaZzZpZ3c?oc=5) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [1Password launches a way for AI agents to log in on your behalf without seeing your password](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/) |
-| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 11 | **OpenAI News** | Products & Agents | ◈ | ● HIGH | [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api) |
-| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Canva releases its first image generation model](https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/) |
+| 01 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
+| 02 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
+| 03 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/) |
+| 05 | **MIT Technology Review AI** | Research | 🖼️ | ● HIGH | [Designing an AI serving harness built to last](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/) |
+| 06 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Sure, let’s smoosh SpaceX and Tesla together, who cares](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari) |
+| 07 | **Reddit · r/LocalLLaMA** | Industry | ◈ | ● HIGH | [Making Kokoro TTS 50-100x faster without knowing how](https://www.reddit.com/r/LocalLLaMA/comments/1xcuqor/making_kokoro_tts_50100x_faster_without_knowing/) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 09 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 10 | **MIT News AI** | Industry | ◈ | ● HIGH | [This design software reimagines everyday objects as self-aware devices](https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022) |
+| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 12 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
