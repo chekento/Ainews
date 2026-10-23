@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-23 12:49 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-23 17:50 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **ZDNET AI** | Frontier Models | ◈ | ● HIGH | [How I fixed a small business's email overwhelm for $120 - thanks to ChatGPT Plus and Claude - ZDNET](https://news.google.com/rss/articles/CBMikgFBVV95cUxNM1Zld0p6WWNuMnJmZHVfU3FPN1BqM05IS08yajg0aV9QWWVLRkNFQXdldUtvcEZkNm11TlNCM1ZrbDloOGVoUDB2dmE1OEhLcnVuYmhWSnhMbnhxNVkydkpsZ1dQYmxNUEhvRWlQc28wNGZRN0twVWxsZ3lVcGx3bUVpVGNaaVI1bDdUT2VWcm9jZw?oc=5) |
-| 02 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [How does arXiv prepublishing work with ICLR's double-blind review? [R]](https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/) |
-| 03 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Anthropic's Claude now writes code and proves it safe automatically](https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/) |
-| 04 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
-| 05 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Sure, let’s smoosh SpaceX and Tesla together, who cares](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari) |
-| 06 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
-| 07 | **The Decoder** | Industry | 🖼️ | ● HIGH | [OpenAI lowers valuation target, raises up to $30 billion](https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/) |
-| 08 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 11 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [I just came across Next-Concept Modeling and the idea is fascinating[R]](https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/) |
-| 12 | **Product Wire · Pika** | Products & Agents | ◈ | ● HIGH | [The Pokémon Lucky Bag “Pika Pika Box 2027” is now available at the Pokémon Center Online! It will be sold via a lottery for a limited time starting October 27.](https://news.google.com/rss/articles/CBMidEFVX3lxTE15UUxPU0lIMU9zZ1VJOXF2MER4cjdxRGlXRzRxbWxYMVVOS2E4Zkc2d19OMFdmMmJoc0VfVmdBMFJDSFdCXy0zX25zREVGbF9FbUZIZUxPMWFKZXNtQUFzQWZ3Q3FtbnpEM1d5aHBqd3c1RThq0gF6QVVfeXFMTkZSN0ZmVGdjSDhjRHJGdDRjTXRKTElzeVpZTWE1VVFTY1VGRDVILXZqWXJHaG9seEVZOENwS1FiWUxDb0V4X1hCS3ZmTmNUeFZOeC1lWVhWSlhUWElPNnNfYkttZFNIUFhMaFNETDJibkhfai0tY3pfZEE?oc=5) |
+| 01 | **AWS Machine Learning** | Research | ◈ | ● HIGH | [Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide](https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/) |
+| 02 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
+| 03 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Need 3 mins of your time! Quick anonymous survey on AI coding tools for my college project](https://www.reddit.com/r/artificial/comments/1xdk7sz/need_3_mins_of_your_time_quick_anonymous_survey/) |
+| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Anyone tried Dreamina? Does the $0.29 plan actually give you full Seedance access?](https://www.reddit.com/r/artificial/comments/1xdk7s3/anyone_tried_dreamina_does_the_029_plan_actually/) |
+| 05 | **The Decoder** | Research | 🖼️ | ● HIGH | [Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1](https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/) |
+| 06 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The iPhone Duo should have been an iPad](https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast) |
+| 07 | **OpenAI News** | Industry | ◈ | ● HIGH | [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two) |
+| 08 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update) |
+| 09 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
+| 10 | **ZDNET AI** | Frontier Models | ◈ | ● HIGH | [How I fixed a small business's email overwhelm for $120 - thanks to ChatGPT Plus and Claude - ZDNET](https://news.google.com/rss/articles/CBMikgFBVV95cUxNM1Zld0p6WWNuMnJmZHVfU3FPN1BqM05IS08yajg0aV9QWWVLRkNFQXdldUtvcEZkNm11TlNCM1ZrbDloOGVoUDB2dmE1OEhLcnVuYmhWSnhMbnhxNVkydkpsZ1dQYmxNUEhvRWlQc28wNGZRN0twVWxsZ3lVcGx3bUVpVGNaaVI1bDdUT2VWcm9jZw?oc=5) |
+| 11 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [what are some everyday examples of AI gadgets](https://www.reddit.com/r/artificial/comments/1xdiz0d/what_are_some_everyday_examples_of_ai_gadgets/) |
+| 12 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Orchestrating SageMaker AI endpoint auto scaling with AWS CDK](https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
