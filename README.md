@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-23 07:21 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-23 12:49 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 02 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
-| 03 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
-| 04 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [By every measure, Opus 4.8 beats human experts as peer reviewers in a study of 124 Harvard social science papers covering a range from statistical analyses to formal models to qualitative work.](https://www.reddit.com/r/artificial/comments/1xd4f6k/by_every_measure_opus_48_beats_human_experts_as/) |
-| 05 | **Reddit · r/artificial** | Robotics & Embodied AI | ◈ | ● HIGH | [Agility Robotics locks Nvidia as sole Digit 5 compute supplier ahead of Nasdaq listing](https://www.reddit.com/r/artificial/comments/1xd4cuk/agility_robotics_locks_nvidia_as_sole_digit_5/) |
-| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [US banks detect rogue AI agents inside customer accounts, move to restrict access](https://www.reddit.com/r/artificial/comments/1xd4at6/us_banks_detect_rogue_ai_agents_inside_customer/) |
-| 07 | **MIT News AI** | Products & Agents | 🖼️ | ● HIGH | [Q&A: How AI came to model the “messy” human mind](https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation](https://arxiv.org/abs/2610.28686) |
-| 09 | **arXiv cs.AI** | Robotics & Embodied AI | ◈ | ● HIGH | [Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds](https://arxiv.org/abs/2610.28698) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery](https://arxiv.org/abs/2610.28706) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?](https://arxiv.org/abs/2610.28763) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing](https://arxiv.org/abs/2610.28815) |
+| 01 | **ZDNET AI** | Frontier Models | ◈ | ● HIGH | [How I fixed a small business's email overwhelm for $120 - thanks to ChatGPT Plus and Claude - ZDNET](https://news.google.com/rss/articles/CBMikgFBVV95cUxNM1Zld0p6WWNuMnJmZHVfU3FPN1BqM05IS08yajg0aV9QWWVLRkNFQXdldUtvcEZkNm11TlNCM1ZrbDloOGVoUDB2dmE1OEhLcnVuYmhWSnhMbnhxNVkydkpsZ1dQYmxNUEhvRWlQc28wNGZRN0twVWxsZ3lVcGx3bUVpVGNaaVI1bDdUT2VWcm9jZw?oc=5) |
+| 02 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [How does arXiv prepublishing work with ICLR's double-blind review? [R]](https://www.reddit.com/r/MachineLearning/comments/1xdbvrf/how_does_arxiv_prepublishing_work_with_iclrs/) |
+| 03 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Anthropic's Claude now writes code and proves it safe automatically](https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/) |
+| 04 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
+| 05 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Sure, let’s smoosh SpaceX and Tesla together, who cares](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari) |
+| 06 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
+| 07 | **The Decoder** | Industry | 🖼️ | ● HIGH | [OpenAI lowers valuation target, raises up to $30 billion](https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/) |
+| 08 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 11 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [I just came across Next-Concept Modeling and the idea is fascinating[R]](https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/) |
+| 12 | **Product Wire · Pika** | Products & Agents | ◈ | ● HIGH | [The Pokémon Lucky Bag “Pika Pika Box 2027” is now available at the Pokémon Center Online! It will be sold via a lottery for a limited time starting October 27.](https://news.google.com/rss/articles/CBMidEFVX3lxTE15UUxPU0lIMU9zZ1VJOXF2MER4cjdxRGlXRzRxbWxYMVVOS2E4Zkc2d19OMFdmMmJoc0VfVmdBMFJDSFdCXy0zX25zREVGbF9FbUZIZUxPMWFKZXNtQUFzQWZ3Q3FtbnpEM1d5aHBqd3c1RThq0gF6QVVfeXFMTkZSN0ZmVGdjSDhjRHJGdDRjTXRKTElzeVpZTWE1VVFTY1VGRDVILXZqWXJHaG9seEVZOENwS1FiWUxDb0V4X1hCS3ZmTmNUeFZOeC1lWVhWSlhUWElPNnNfYkttZFNIUFhMaFNETDJibkhfai0tY3pfZEE?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
