@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-22 23:32 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-23 01:51 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
-| 02 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
-| 03 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/) |
-| 05 | **MIT Technology Review AI** | Research | 🖼️ | ● HIGH | [Designing an AI serving harness built to last](https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/) |
-| 06 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Sure, let’s smoosh SpaceX and Tesla together, who cares](https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari) |
-| 07 | **Reddit · r/LocalLLaMA** | Industry | ◈ | ● HIGH | [Making Kokoro TTS 50-100x faster without knowing how](https://www.reddit.com/r/LocalLLaMA/comments/1xcuqor/making_kokoro_tts_50100x_faster_without_knowing/) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 09 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 10 | **MIT News AI** | Industry | ◈ | ● HIGH | [This design software reimagines everyday objects as self-aware devices](https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 12 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts) |
+| 01 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
+| 02 | **Microsoft Research AI** | Research | ◈ | ◐ MED | [New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft](https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5) |
+| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Left alone with nothing to do, AI agents started playing](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/) |
+| 04 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 06 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
+| 07 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training) |
+| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/) |
+| 09 | **Anthropic News** | Industry | ◈ | ● HIGH | [LLMs are making formal software verification feasible at a much larger scale - Anthropic](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ba1lXTGVFWUJQTVA5UUJMdDJfRVNyU0E1cmlUMXJLSkV2X3RaUnFtbmhpT1IzOUxsNlh1LTA3SGxXd2E5MEM0TnFxZ1B1T1drRUNvQXhodk9nVkFSbUlORXRNNXQ?oc=5) |
+| 10 | **The Verge AI** | Research | 🖼️ | ● HIGH | [Canva’s first AI image model plans designs before generating them](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model) |
+| 11 | **Reddit · r/MachineLearning** | Frontier Models | ◈ | ● HIGH | [Steered QWEN to be more "evil" and it started saying the n word, amongst other things [P]](https://www.reddit.com/r/MachineLearning/comments/1xcvil5/steered_qwen_to_be_more_evil_and_it_started/) |
+| 12 | **Sakana AI** | Industry | ◈ | ● HIGH | [- Sakana AI](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
