@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-23 21:19 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-23 23:57 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI](https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023) |
-| 02 | **Reddit · r/LocalLLaMA** | Open Source | ◈ | ● HIGH | [Kimi K3.1 Pro Tech Blog: Advancing Open Intelligence](https://www.reddit.com/r/LocalLLaMA/comments/1xdphiy/kimi_k31_pro_tech_blog_advancing_open_intelligence/) |
-| 03 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
-| 04 | **Ars Technica AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Updated Google privacy policy says your Gmail might be used for advertising](https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/) |
-| 05 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
-| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 07 | **AP News AI Policy** | Compliance & Ethics | ◈ | ● HIGH | [California cities pull the plug on data centers after state regulations don’t scale up fast enough - AP News](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNldDVVhOR0hNNWJ3TzBObE1VM2tlR09ZWkItOUFMakt6LU02V1g4RlBiT3NMVzlvdVQxRG1CNEZ6M3VEMVhHUTNUaTRnTUhrb3FWekVYb0cwVE1tYXFuWTRfdnFCbEczNDhqTFpfOFV4d2xOZWRUM2JfdEZvczlDclpKcDl0UXBPZ2lyWmxNWHU5eERnWVBVQkJjUk8zMDcyUnFKYUNoRWtPSTJPMVZIWHl3akM2dw?oc=5) |
-| 08 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Reinforcing the value of human understanding at MIT](https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/) |
-| 10 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Chinese AI model Kimi K3.1 Pro is closing in on Anthropic's Claude Opus 5.5](https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/) |
-| 11 | **Reddit · r/LocalLLaMA** | Research | ◈ | ● HIGH | [Mysterious Qwen4 Appearance by New GitHub Accounts](https://www.reddit.com/r/LocalLLaMA/comments/1xdmt2o/mysterious_qwen4_appearance_by_new_github_accounts/) |
-| 12 | **Reddit · r/LocalLLaMA** | Frontier Models | ◈ | ● HIGH | [qwen4exp : build the QSA selection without the kq_mask by sanmai · Pull Request #30965 · ggml-org/llama.cpp](https://www.reddit.com/r/LocalLLaMA/comments/1xdmek0/qwen4exp_build_the_qsa_selection_without_the_kq/) |
+| 01 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
+| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/) |
+| 03 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/) |
+| 05 | **Sakana AI** | Industry | ◈ | ● HIGH | [- Sakana AI](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
+| 06 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 08 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI](https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 10 | **Reddit · r/MachineLearning** | Products & Agents | ◈ | ● HIGH | [Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]](https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/) |
+| 11 | **Ars Technica AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Updated Google privacy policy says your Gmail might be used for advertising](https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/) |
+| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
