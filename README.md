@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-24 16:53 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-24 19:24 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [stack overflow's problem was old answers. would an AI agent version have the same problem?](https://www.reddit.com/r/artificial/comments/1xedhu8/stack_overflows_problem_was_old_answers_would_an/) |
+| 01 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
 | 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/) |
-| 03 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [We need a new era of benchmarks](https://www.reddit.com/r/artificial/comments/1xebob2/we_need_a_new_era_of_benchmarks/) |
-| 04 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [GPT and Claude Or GPT and Argon/Antigravity?](https://www.reddit.com/r/artificial/comments/1xebc1d/gpt_and_claude_or_gpt_and_argonantigravity/) |
-| 05 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Three fired OpenAI safety researchers say they were never told what they actually leaked](https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/) |
-| 06 | **Học viện Nông nghiệp Việt Nam · provider monitor** | Industry | ◈ | ● HIGH | [runway ai meetings Latest Version for Android](https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1TzNWOHB3UlVyWGdaTnU1V3ZDN3RfSmpzTVZyZmhfS3VwMk9HQTlRVG94d2FyOUpJWDNCbG5zYjlRM3dmWndLUF9KamdkNkQxajRR?oc=5) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 09 | **TechCrunch AI** | Research | ◈ | ● HIGH | [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/) |
-| 10 | **Sakana AI** | Industry | ◈ | ● HIGH | [- Sakana AI](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
-| 11 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [AI Has Too Many Logistical And Societal Roadblocks To Create Abundance In The Intermediate Future, If At All.](https://www.reddit.com/r/artificial/comments/1xeaccm/ai_has_too_many_logistical_and_societal/) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 03 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 04 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Three fired OpenAI safety researchers say they were never told what they actually leaked](https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 07 | **TechCrunch AI** | Research | ◈ | ● HIGH | [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/) |
+| 08 | **Sakana AI** | Industry | ◈ | ● HIGH | [- Sakana AI](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 10 | **The Decoder** | Industry | 🖼️ | ◐ MED | [AI makes junior patent attorneys instantly better but may quietly stunt their professional growth](https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/) |
+| 11 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Increasing number of UG authors in A* conferences with no supervisor [D]](https://www.reddit.com/r/MachineLearning/comments/1xe9uoh/increasing_number_of_ug_authors_in_a_conferences/) |
+| 12 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss](https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
