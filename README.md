@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-23 23:57 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-24 04:24 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
-| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/) |
+| 01 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 02 | **Huawei Pangu** | Industry | ◈ | ◐ MED | [Forging the Future: How Liuzhou Iron & Steel is Reinventing Heavy Industry with AI - Huawei](https://news.google.com/rss/articles/CBMixAFBVV95cUxNNmwtb0F4ZG9waDRpNEtHMmpYRkdtVTFsRnVlTTRiRzVuQ0J2U2RLY3JxT29rc0t1RWtZdlZTUk5fa3FNNE9QaTBxYVoxcW9GY2t4Z2xzVHFuaGE2V0pGSW9EcFJMM3k3Z3d4TWs4bVpvb1d1TW03eVhHOGxCSW1HR1RZSEZNMlNQaDVTUV9EYXJUM2RrTzN6UnRZS3RfdEVBaW1QWVI4R1lCTEpIMDJRa0JUZTBhQlFJb3BTOUFMRDBMbm9q?oc=5) |
 | 03 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/) |
-| 05 | **Sakana AI** | Industry | ◈ | ● HIGH | [- Sakana AI](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
-| 06 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet) |
+| 04 | **Scale AI Blog** | Industry | ◈ | ● HIGH | [Scale at MWC Doha 2026 - Scale AI](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9haGdPYmtmdC13VnpKcUxBbnNKSGpnaWtmWXZSMU5URlJqaFVXMnR5U2pfSE9iRDcxT0M0OHhBa2V6WTFMMGF4UUU1UVFEdHE4NWk2OGtBY1prUVk?oc=5) |
+| 05 | **Product Wire · DeepSeek API** | Products & Agents | ◈ | ● HIGH | [DeepSeek API Search Agent: 13 Steps, 90 Min [2026]](https://news.google.com/rss/articles/CBMif0FVX3lxTE9oaEtqSDI5NFJNR0ktZ0pwamtBWkhaclIxcjhiVmhKeTJuUHctU0lBWldWUk5IU2g4SmI0ZkxOSUItN2NleDlxQnA0enhqUWdNY0M0aUNORGpablVpMFFWal9SOEhBVVVxb1MwMmxzTG91MlFwS0dqdWdiSU5pZnc?oc=5) |
+| 06 | **Product Wire · LM Studio** | Products & Agents | ◈ | ● HIGH | [LM Studio vs Ollama vs llama.cpp: $0 to $500 [2026]](https://news.google.com/rss/articles/CBMidEFVX3lxTE5SRDdNaGcxWEtfVVFrQUVid1RKLVlhSUVfQ3Zwc19UZDJKUGZFNUtYUFFvOXU2aHFlNVBnQWtDdGRRRWF4ejdNaGp1R0o5TFI2ck5JQjFfOXRPZndjQ1FHcGxlLUNLRlBTLWhNMi1reFdWS2l4?oc=5) |
 | 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 08 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI](https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 10 | **Reddit · r/MachineLearning** | Products & Agents | ◈ | ● HIGH | [Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]](https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/) |
-| 11 | **Ars Technica AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Updated Google privacy policy says your Gmail might be used for advertising](https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 09 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
+| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/) |
+| 11 | **Product Wire · Pika** | Products & Agents | ◈ | ● HIGH | [eLife study clears Pikachu model plateau pika of harming Tibetan yaks](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PZVkzSzdlRHpKQTRJQzhQLWRpVGYwazRmeHNCaTFVSGxXN1hHQlBYR1JfYnlmWkNwTXVUMjlxU1p6Q0VleE1HN1J1N1p2U2w1WnZkSw?oc=5) |
+| 12 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
