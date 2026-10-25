@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-24 21:50 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-25 00:13 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
-| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) |
-| 03 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 06 | **Axios AI** | Industry | ◈ | ◐ MED | [Washington's message to AI execs: Please shut up - Axios](https://news.google.com/rss/articles/CBMie0FVX3lxTE8wek12YTUyUzgzdUdPSVM0dks4SVJuZklBdjBoR2h3aVRLNm5PaDBpZWhOWWhHdGtnOElrMWUxZzEzNy1vd2JwVmYwS2xmN0ZDVWlSN24yMWxzRzVLSXNIcXRWWEpiQUhhMFE4S1I4UEtycmR4QzB1Zks3SQ?oc=5) |
-| 07 | **AP News AI Policy** | Compliance & Ethics | ◈ | ● HIGH | [Republican billionaire Rick Jackson is walking a Trump tightrope in his quest to lead Georgia - AP News](https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1hETUlleWtGaDN1SlZjV1laZklpZGJaQXpodnFhWGhaSDhvMmZqelZOckc4UVdUb0RHYmZvS3RGcG5UQ0NwWk9Zdnp5aUNZTDJLeUxaeFhzM2NYS3VsdEdZVEU0SzQ4aXRNZFF6TzhlNjMzZzJEaVEybDRiT0pCMEI5TlV2a0JCUGJGVTNaYXh1T0J6UXF5TlNNRkhGTURYdTFzT3dPYndsTVdDN0o2cnFNcUpJOGM?oc=5) |
-| 08 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Block’s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/) |
-| 10 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Three fired OpenAI safety researchers say they were never told what they actually leaked](https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/) |
-| 11 | **TechCrunch AI** | Research | ◈ | ● HIGH | [Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/) |
-| 12 | **Sakana AI** | Industry | ◈ | ● HIGH | [- Sakana AI](https://news.google.com/rss/articles/CBMiRkFVX3lxTE51UmR5Si16ZlRISll0R2o4YVdxRzJLM29fUnRJbE5zTEI2SVp6RWFUWnBGV25jQWt0b2JsTUp6LV8wYXlzOWc?oc=5) |
+| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [People are starting to use AI for FB Marketplace listings and it’s making me mad](https://www.reddit.com/r/artificial/comments/1xenhio/people_are_starting_to_use_ai_for_fb_marketplace/) |
+| 02 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
+| 03 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [Short overview of models that i used](https://www.reddit.com/r/artificial/comments/1xelqv9/short_overview_of_models_that_i_used/) |
+| 04 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [I didn't want to pay for a subscription, so Claude made tools for my business instead.](https://www.reddit.com/r/artificial/comments/1xekp0q/i_didnt_want_to_pay_for_a_subscription_so_claude/) |
+| 05 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) |
+| 09 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act) |
+| 10 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [AI is humanities collective inheritance and should be legally treated as such](https://www.reddit.com/r/artificial/comments/1xefah4/ai_is_humanities_collective_inheritance_and/) |
+| 11 | **Axios AI** | Industry | ◈ | ◐ MED | [Washington's message to AI execs: Please shut up - Axios](https://news.google.com/rss/articles/CBMie0FVX3lxTE8wek12YTUyUzgzdUdPSVM0dks4SVJuZklBdjBoR2h3aVRLNm5PaDBpZWhOWWhHdGtnOElrMWUxZzEzNy1vd2JwVmYwS2xmN0ZDVWlSN24yMWxzRzVLSXNIcXRWWEpiQUhhMFE4S1I4UEtycmR4QzB1Zks3SQ?oc=5) |
+| 12 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Quiz: characters, words and tokens are different measures of text length, and LLM limits use tokens](https://www.reddit.com/r/artificial/comments/1xedvbq/quiz_characters_words_and_tokens_are_different/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
