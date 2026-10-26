@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-26 06:54 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-26 14:07 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [ChatGPT Lawsuit: OpenAI Accused of Using Kids’ Data](https://www.reddit.com/r/artificial/comments/1xfoac1/chatgpt_lawsuit_openai_accused_of_using_kids_data/) |
-| 02 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
-| 03 | **LlamaIndex Blog** | Industry | ◈ | ● HIGH | [Introducing OCRia-1 - LlamaIndex](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PYjkzSUpfVVZWQVFTdy1CM2R6WHB1Q1B1NlZENmVBWnZxR3NfMmR3SmZEc0huc0oyM1Z1YlRkcGlOTF9kQUNOVWdFZTdtTE5KWWpoUjRPUQ?oc=5) |
-| 04 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [Claude code to codex and back again, same conversation.](https://www.reddit.com/r/artificial/comments/1xfnnt8/claude_code_to_codex_and_back_again_same/) |
-| 05 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Any coding agent vendors actually using DeepInfer or deepseek-recipe yet?](https://www.reddit.com/r/artificial/comments/1xfn2ur/any_coding_agent_vendors_actually_using_deepinfer/) |
-| 06 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [Has anyone used an agent payment yet?](https://www.reddit.com/r/artificial/comments/1xfmr02/has_anyone_used_an_agent_payment_yet/) |
-| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation](https://arxiv.org/abs/2610.31701) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Phronix: The Capability-Centric Learning Paradigm for Agents](https://arxiv.org/abs/2610.31789) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Patronizing and Condescending Language Detection in English and Mandarin](https://arxiv.org/abs/2610.31808) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean](https://arxiv.org/abs/2610.31810) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons](https://arxiv.org/abs/2610.31846) |
-| 12 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules](https://arxiv.org/abs/2610.31882) |
+| 01 | **SEC.gov · provider monitor** | Frontier Models | ◈ | ● HIGH | [Anthropic, PBC](https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2ItSXJrUWdNaklDTWloN3RSd1VfTldGWDFMc2xySV8ta1ZTSUNNdUpmajBhMmVtTks0QnJIZnI1TWlHdnd1WF91Z2c1WEFHSVNxWTF4UXNMWnJ1RmFCM2hEb3NYd29uSVljWWhpVV81MGFfVENldDJxbFhUeWJ2RU93WmVPSnBJMmM0WDA3OGU?oc=5) |
+| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 03 | **The Guardian · provider monitor** | Frontier Models | ◈ | ● HIGH | [Anthropic’s Claude AI model accessed Georgia voter data in US](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWUJzcmZKYjhVN2dtZm5OZmNpUzVrdEUzMlRPV0wwYkRxZkp0ZkZDVEozLWtYOHZDeVdoZ2d2djFIaENOdmRaRlVGeGo5SDRZSzhXYzZuekh0d2dES0REZGc5ZXB6MnJfWXJGakxuWnRRRFc5SmlIbzFxQTFLTmttRXB4MEhablk3Wlp6OFg1bnRvTVNsNHV4NDJpUW5ZcTAxZVpObm4yQzJlb0tGR0U2MA?oc=5) |
+| 04 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 05 | **Product Wire · Claude Code** | Products & Agents | ◈ | ● HIGH | [Claude Code AI finds a cryptominer on a Mac; says it didn’t put it there](https://news.google.com/rss/articles/CBMipAFBVV95cUxNN2tqeWJKTk84UnBKU3FfaktGMmtqMGVhakMyRl9MZnlvTWRmWkxnZFk2S05kcHZHWjZMQXozUmplMExDcTUzeEtQdWlXc3dqcGZTd1dkUVhqWGpHXzJiQmVpd0xWWnd3alpmZTM5NjdRQkt4UmpJRWhhTTIwbnB2eENsZnRuWjNfUmVBS1otUGQxa1FSeV9qOVdPMXBKZUhZTHdFNA?oc=5) |
+| 06 | **IBM Research AI** | Research | ◈ | ● HIGH | [PyTorch opens the AI ecosystem to a new class of accelerators - IBM Research](https://news.google.com/rss/articles/CBMiigFBVV95cUxPNzhQcFhSeFBVRXY1X2dSYTRlTnEydEFaQ0YyTGIzT19Sb19Sb3A1QWhsTWdOMFFwYVhnWWYxRHRFSXFoNFdqSW1pVG0wWXVRNUxLbk1ha1cxdS0xOTZEV0R3SFpGWnNIZWZYQWFHSGZEd09VbmtNWnotaC1Mb2hQVmdnOWhpUENZYWc?oc=5) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 08 | **Product Wire · Descript AI** | Products & Agents | ◈ | ● HIGH | [Descript CEO Joins Podcast Movement Panel in New York](https://news.google.com/rss/articles/CBMizwFBVV95cUxPMnZpVWF2Y1dHR2g5OWZMUXRBOW5pbncwU3V5c0tlVUVBbTFhNEtvY2Y5LW90TTZUWUxLM3dZS20weDlCaVRzejlyTVQ2bUNSMjdrVUdXRzQ4bHF4YVQzZXBPVXBKdWVZSnFnb1pTLTJCaEo0bllQazEybGR5b2VDTkJ6RDUweGxwdVZnbnFjcUk1QnFvOWpwSTlKeEJ5Y1ZPblNkOGVieFQ0eVV6TkNyX29CTWpZQm5YMHIwMm02TmMyelRRMHpnenpIWHlTMWM?oc=5) |
+| 09 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 10 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
+| 11 | **Stability AI** | Industry | ◈ | ● HIGH | [Billing - Stability AI Platform - Stability AI Platform](https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wdGxjd2VyT0tKNGdfN2pYM1VENEY3MG82UGxSYmZpREhxV29jZktBdzJWV3cxampGSWxkalU4M2t0UnI5U2VYMGhEdnoyTzhWSi1ZRTNvYkRERjg?oc=5) |
+| 12 | **Data Centre Magazine · provider monitor** | Industry | ◈ | ● HIGH | [Vultr to Deploy a 20MW AMD AI Supercluster in Chennai, India](https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0RRZU1HMVZ0SjV4aU1IMkJYUE4yMWFVeU15ZDJ5bUNFQjNaNFAzZ09odG05c3hWTHBxX2VuazNoZUM2aFl5eFZVaXQtTzlTQ1YyYXBKeU9hZWZpTmV4Sy1KdWZnLTFXeDhSMkIzV2dkaFpwWHFUQUFHT2oyMVVSUnktX1R3dXVlMWpfS0N5ZHJOa0pzMmhFZFhnSQ?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
