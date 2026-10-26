@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-26 01:35 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-26 06:54 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Unitree H2-X loses a leg mid-flip at Hangzhou conference](https://www.reddit.com/r/artificial/comments/1xfjrm1/unitree_h2x_loses_a_leg_midflip_at_hangzhou/) |
-| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [The AI Access Problem Most European Businesses Have Not Checked For](https://www.reddit.com/r/artificial/comments/1xfjqk2/the_ai_access_problem_most_european_businesses/) |
-| 03 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Felt like we needed a no nonsense space…](https://www.reddit.com/r/artificial/comments/1xfj75y/felt_like_we_needed_a_no_nonsense_space/) |
-| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Best local model for translating Asian epub novels on 24gb mac?](https://www.reddit.com/r/artificial/comments/1xfii4b/best_local_model_for_translating_asian_epub/) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 06 | **Product Wire · Grok Imagine** | Products & Agents | ◈ | ● HIGH | [Elon Musk’s Grok Imagine Releases First Odyssey Episode With Wonder Studios: 8 outlets compared](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOTFVb2pIdnluLUVuQzFlenNkVjV1c05PUkdRaG4xUXJ5ZnVVclJGdnpLTGxDVzBLOGRWb3dNeHdNRW1fT18wWXZEZGZ3dGZuX0hIbm5fUV9NNHpjbXpQbWVqV2x1RFJRWTQzdDhuTlQtQXBLNzN3aWJsQ01ualFOSHR2Tmt0Vm9oUVZHemNWblNPTk8wbk1IWEQ2d0hobS1aMV9XODl0VzdLSWZUWFlJOGR1V3R1U3R4Wm5DblFxSnZFQ3dxV3NkRndocGFRbDdxZ1pSM1ZGRTJYUUJlUmlPc3BR?oc=5) |
-| 07 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 09 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 10 | **TechCrunch AI** | Frontier Models | ◈ | ● HIGH | [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 12 | **Microsoft Research AI** | Research | ◈ | ◐ MED | [Medical Superintelligence: Foundations and Aspirations - Microsoft](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVVTS1o1S1duUnc3dHVkTVlza1NDUHFsenVwTjlQcXJqUWJtMVFVZDdyWE5qM3h0QURodXNFRjlqVV9jMVhTRXpoWnE4RXdhQ0dBUGdrU0phd2RKOXZVeVhodXpaVVBxYVFzTkNoQ25adkhmbFRONHhyYUkxalVtSVpmVm93bGc0VVhwbTE2Y2dwRXEzYzdzb2UxTmhIdkswRm00RkVrVVMxQQ?oc=5) |
+| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [ChatGPT Lawsuit: OpenAI Accused of Using Kids’ Data](https://www.reddit.com/r/artificial/comments/1xfoac1/chatgpt_lawsuit_openai_accused_of_using_kids_data/) |
+| 02 | **Mistral AI** | Products & Agents | ◈ | ● HIGH | [Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
+| 03 | **LlamaIndex Blog** | Industry | ◈ | ● HIGH | [Introducing OCRia-1 - LlamaIndex](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PYjkzSUpfVVZWQVFTdy1CM2R6WHB1Q1B1NlZENmVBWnZxR3NfMmR3SmZEc0huc0oyM1Z1YlRkcGlOTF9kQUNOVWdFZTdtTE5KWWpoUjRPUQ?oc=5) |
+| 04 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [Claude code to codex and back again, same conversation.](https://www.reddit.com/r/artificial/comments/1xfnnt8/claude_code_to_codex_and_back_again_same/) |
+| 05 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Any coding agent vendors actually using DeepInfer or deepseek-recipe yet?](https://www.reddit.com/r/artificial/comments/1xfn2ur/any_coding_agent_vendors_actually_using_deepinfer/) |
+| 06 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [Has anyone used an agent payment yet?](https://www.reddit.com/r/artificial/comments/1xfmr02/has_anyone_used_an_agent_payment_yet/) |
+| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation](https://arxiv.org/abs/2610.31701) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Phronix: The Capability-Centric Learning Paradigm for Agents](https://arxiv.org/abs/2610.31789) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Patronizing and Condescending Language Detection in English and Mandarin](https://arxiv.org/abs/2610.31808) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean](https://arxiv.org/abs/2610.31810) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons](https://arxiv.org/abs/2610.31846) |
+| 12 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules](https://arxiv.org/abs/2610.31882) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
