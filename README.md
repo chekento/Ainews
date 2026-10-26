@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-26 19:53 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-26 23:45 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/MachineLearning** | Infrastructure | ◈ | ● HIGH | [Deepity: a hand-tuned C++/CUDA predictive coding library, beats jpc (JAX) and ngc-learn on MNIST (CPU benchmarks + source inside) [P]](https://www.reddit.com/r/MachineLearning/comments/1xg6sqa/deepity_a_handtuned_ccuda_predictive_coding/) |
-| 02 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [Anthropic opens its books for Wall Street, showing record revenue and mounting obligations](https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/) |
-| 03 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [At New York Climate Week 2026, MIT connects with a global network](https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026) |
-| 04 | **OpenRouter Blog** | Products & Agents | ◈ | ● HIGH | [GPT-6.1 Terra - API Pricing & Providers - OpenRouter](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XcjRFcWFzeFhydzByZGdEcS1CaE9NSkNWcnBVa1lvZENGM2hrX2FVeFVwRm5hRktDRnJQTGFnME9zRTdQamFhLTNESVk2eTU5Q01PeQ?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 06 | **IEEE Spectrum AI** | Research | 🖼️ | ● HIGH | [IEEE Xplore Digital Library Adds AI Assistant](https://spectrum.ieee.org/ieee-xplore-digital-library-ai) |
-| 07 | **AWS Machine Learning** | Research | ◈ | ● HIGH | [Fleet-wide computer vision lifecycle at the edge with SageMaker SDK v3](https://aws.amazon.com/blogs/machine-learning/fleet-wide-computer-vision-lifecycle-at-the-edge-with-sagemaker-sdk-v3/) |
-| 08 | **The Decoder** | Research | 🖼️ | ◐ MED | [Researchers find six patterns that make AI text so exhausting to read](https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/) |
-| 09 | **MIT Technology Review AI** | Industry | ◈ | ● HIGH | [Will the real Anthropic please stand up](https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/) |
-| 10 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI](https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec) |
-| 11 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [The RealReal won’t let AI agents hog designer clothing](https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal) |
-| 12 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/groundhog-day-for-ai-agents-prompt-caching-patterns-for-using-openai-models-on-amazon-bedrock/) |
+| 01 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Voxtral 3: Speech-to-Text, TTS & Voice Agents - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
+| 02 | **Product Wire · Cline** | Products & Agents | ◈ | ● HIGH | [Cline AI Setup: 12 Steps, 60 Min [2026]](https://news.google.com/rss/articles/CBMibkFVX3lxTFBmcEI3RzVsbi1IalpKblNBSTYtZTBfVmVrbWNnZEUxLXUxZnpYckQ0ZW5Yb1VYR3lWS0lGeVJwamN1Ym9kVW5TNUxvRmtFOThsTGpNSnl0YXFIaWRMLWpFUDZsOTJjTUkxMFFwcnJB?oc=5) |
+| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [OpenAi claims to have proved that the Exponential Time Hypothesis is false, invalidating many past results that relied on it being true.](https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/) |
+| 04 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [Google AI Constant Errors](https://www.reddit.com/r/artificial/comments/1xgb9at/google_ai_constant_errors/) |
+| 05 | **Cloudflare AI** | Frontier Models | ◈ | ● HIGH | [Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang - Cloudflare Blog](https://news.google.com/rss/articles/CBMiakFVX3lxTFBfQXpCbEt5VnltbU56MjU0SHdvdm1uQmphTjJjSC1KLUNCdGZhUzBEZTJMT09uN0otanVZSURQblJ3TTZpRDFWbG8wSTNPQVBSWXNBMWMxNE5OTDVMUDd5NTFxZEUzWTZCcnc?oc=5) |
+| 06 | **OpenAI News** | Safety & Security | ◈ | ● HIGH | [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra) |
+| 07 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [Anthropic is burning gas to feed the AI boom](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk) |
+| 08 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
+| 09 | **The Register · provider monitor** | Frontier Models | ◈ | ● HIGH | [Alibaba's Qwen AI caught trying to contact server in China](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMExUejU2dkFxX2s5V09haXptOTRudmh4a3FxT0Zld2ZwYzhGTHkzTExXTmlZdWY3eDVIOHJfUnMtSmd1Rnk2UnQ0b3BLUjllREl4Vm1hOWRZSnBrZXVLeHhYUVVZQzgyQlJ6SVhfRGJrdVBoOWE3V2gxdjdJMXBIY3BVQlUwMnhWaFN3d1dQbkRQSFNmaDloSnRURWZLR3VJOVBMMDF3WExwREdjZmZ3Q3hTY3M?oc=5) |
+| 10 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures](https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/) |
+| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 12 | **Artificial Analysis** | Frontier Models | ◈ | ● HIGH | [GPT-6.1 Terra Models - Intelligence, Performance & Price Comparison - Artificial Analysis](https://news.google.com/rss/articles/CBMia0FVX3lxTE5KLU1xb0JqWnNab0p5a1N0VVRnaDIyUVhGU1hkSUxoSVBCZ0twcEt5UzBwalM5MjN2Rm1Dbnc5cDc1TTgyTkoxbU1Nb1hVN2dlYVpoVGNnTnNSRGdhbG1GVlJaSEl1ZzZNN0ow?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
