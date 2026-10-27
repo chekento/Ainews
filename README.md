@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-26 23:45 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-27 04:50 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Voxtral 3: Speech-to-Text, TTS & Voice Agents - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
-| 02 | **Product Wire · Cline** | Products & Agents | ◈ | ● HIGH | [Cline AI Setup: 12 Steps, 60 Min [2026]](https://news.google.com/rss/articles/CBMibkFVX3lxTFBmcEI3RzVsbi1IalpKblNBSTYtZTBfVmVrbWNnZEUxLXUxZnpYckQ0ZW5Yb1VYR3lWS0lGeVJwamN1Ym9kVW5TNUxvRmtFOThsTGpNSnl0YXFIaWRMLWpFUDZsOTJjTUkxMFFwcnJB?oc=5) |
-| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [OpenAi claims to have proved that the Exponential Time Hypothesis is false, invalidating many past results that relied on it being true.](https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/) |
-| 04 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [Google AI Constant Errors](https://www.reddit.com/r/artificial/comments/1xgb9at/google_ai_constant_errors/) |
-| 05 | **Cloudflare AI** | Frontier Models | ◈ | ● HIGH | [Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang - Cloudflare Blog](https://news.google.com/rss/articles/CBMiakFVX3lxTFBfQXpCbEt5VnltbU56MjU0SHdvdm1uQmphTjJjSC1KLUNCdGZhUzBEZTJMT09uN0otanVZSURQblJ3TTZpRDFWbG8wSTNPQVBSWXNBMWMxNE5OTDVMUDd5NTFxZEUzWTZCcnc?oc=5) |
-| 06 | **OpenAI News** | Safety & Security | ◈ | ● HIGH | [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra) |
-| 07 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [Anthropic is burning gas to feed the AI boom](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk) |
-| 08 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
-| 09 | **The Register · provider monitor** | Frontier Models | ◈ | ● HIGH | [Alibaba's Qwen AI caught trying to contact server in China](https://news.google.com/rss/articles/CBMitAFBVV95cUxOMExUejU2dkFxX2s5V09haXptOTRudmh4a3FxT0Zld2ZwYzhGTHkzTExXTmlZdWY3eDVIOHJfUnMtSmd1Rnk2UnQ0b3BLUjllREl4Vm1hOWRZSnBrZXVLeHhYUVVZQzgyQlJ6SVhfRGJrdVBoOWE3V2gxdjdJMXBIY3BVQlUwMnhWaFN3d1dQbkRQSFNmaDloSnRURWZLR3VJOVBMMDF3WExwREdjZmZ3Q3hTY3M?oc=5) |
-| 10 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures](https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 12 | **Artificial Analysis** | Frontier Models | ◈ | ● HIGH | [GPT-6.1 Terra Models - Intelligence, Performance & Price Comparison - Artificial Analysis](https://news.google.com/rss/articles/CBMia0FVX3lxTE5KLU1xb0JqWnNab0p5a1N0VVRnaDIyUVhGU1hkSUxoSVBCZ0twcEt5UzBwalM5MjN2Rm1Dbnc5cDc1TTgyTkoxbU1Nb1hVN2dlYVpoVGNnTnNSRGdhbG1GVlJaSEl1ZzZNN0ow?oc=5) |
+| 01 | **Artificial Analysis** | Frontier Models | ◈ | ● HIGH | [Claude Haiku 5.5 (max) - Intelligence, Performance & Price Analysis - Artificial Analysis](https://news.google.com/rss/articles/CBMiY0FVX3lxTE93bkE3Z0FZckhFNTNKdHhkU0tPekNXVVBWV2lPb05WZm56U040dVc4QW9MYnRxVE9CU1BOcTg2VlZNeUdMejk4U3pRR0tOMjJUak00NDl0bmFaN1BDQTc5TlFmQQ?oc=5) |
+| 02 | **Product Wire · IBM watsonx** | Products & Agents | ◈ | ● HIGH | [IBM watsonx Orchestrate advances enterprise AI agent management with new capabilities at TechXchange 2026](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaTBVekNjS2VEb2lndl92NHhfVHEtRGVtVTZDa0EwUXJEMkVXeDFOZmU5aHY3a2tfSzU3RkRYdVpqM1FQRTBtZkxISVA4TlRqdmN1UXlzX0ppLXBHblVEcVJTbFV6VW12VWNpbEJJRzJkbTUyV1Y0RjVRUmRYckx3eFNVVF9oN3h0SVBybGMtd0cxdGRWaUl5UHh6NzBoTHRfNmRJQmRpMmRwWmw5akFPWWxXTXVJQm1rcVNOYmlHSmE0a1lxSUxhTWJlcmRLdGt5NnJLYzFCQTFWaTA?oc=5) |
+| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion](https://arxiv.org/abs/2610.33096) |
+| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives](https://arxiv.org/abs/2610.33097) |
+| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting](https://arxiv.org/abs/2610.33103) |
+| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities](https://arxiv.org/abs/2610.33105) |
+| 07 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation](https://arxiv.org/abs/2610.33112) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Optimal Correction Sets for Provable Redress of Contestable Causal Discovery](https://arxiv.org/abs/2610.33138) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [AOS-Bench: Can LLM Agents Manage Dynamic Workloads?](https://arxiv.org/abs/2610.33178) |
+| 10 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning](https://arxiv.org/abs/2610.33180) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Isharah-Selfie: Continuous Sign Language Recognition Dataset for One-handed Signing](https://arxiv.org/abs/2610.33200) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding](https://arxiv.org/abs/2610.33205) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
