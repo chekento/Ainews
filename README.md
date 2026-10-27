@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-27 04:50 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-27 10:23 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Artificial Analysis** | Frontier Models | ◈ | ● HIGH | [Claude Haiku 5.5 (max) - Intelligence, Performance & Price Analysis - Artificial Analysis](https://news.google.com/rss/articles/CBMiY0FVX3lxTE93bkE3Z0FZckhFNTNKdHhkU0tPekNXVVBWV2lPb05WZm56U040dVc4QW9MYnRxVE9CU1BOcTg2VlZNeUdMejk4U3pRR0tOMjJUak00NDl0bmFaN1BDQTc5TlFmQQ?oc=5) |
-| 02 | **Product Wire · IBM watsonx** | Products & Agents | ◈ | ● HIGH | [IBM watsonx Orchestrate advances enterprise AI agent management with new capabilities at TechXchange 2026](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaTBVekNjS2VEb2lndl92NHhfVHEtRGVtVTZDa0EwUXJEMkVXeDFOZmU5aHY3a2tfSzU3RkRYdVpqM1FQRTBtZkxISVA4TlRqdmN1UXlzX0ppLXBHblVEcVJTbFV6VW12VWNpbEJJRzJkbTUyV1Y0RjVRUmRYckx3eFNVVF9oN3h0SVBybGMtd0cxdGRWaUl5UHh6NzBoTHRfNmRJQmRpMmRwWmw5akFPWWxXTXVJQm1rcVNOYmlHSmE0a1lxSUxhTWJlcmRLdGt5NnJLYzFCQTFWaTA?oc=5) |
-| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion](https://arxiv.org/abs/2610.33096) |
-| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives](https://arxiv.org/abs/2610.33097) |
-| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting](https://arxiv.org/abs/2610.33103) |
-| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities](https://arxiv.org/abs/2610.33105) |
-| 07 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation](https://arxiv.org/abs/2610.33112) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Optimal Correction Sets for Provable Redress of Contestable Causal Discovery](https://arxiv.org/abs/2610.33138) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [AOS-Bench: Can LLM Agents Manage Dynamic Workloads?](https://arxiv.org/abs/2610.33178) |
-| 10 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Propensities Please: Exposing Alignment-Faking LLMs using Synthetic Document Finetuning](https://arxiv.org/abs/2610.33180) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Isharah-Selfie: Continuous Sign Language Recognition Dataset for One-handed Signing](https://arxiv.org/abs/2610.33200) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Scaling Qualitative Analysis with Large Language Models: Development and Validation of the Smart Coder Framework for Human-LLM Collaborative Coding](https://arxiv.org/abs/2610.33205) |
+| 01 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model](https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/) |
+| 02 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips](https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/) |
+| 03 | **LlamaIndex Blog** | Industry | ◈ | ● HIGH | [Introducing OCRia-1 - LlamaIndex](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PYjkzSUpfVVZWQVFTdy1CM2R6WHB1Q1B1NlZENmVBWnZxR3NfMmR3SmZEc0huc0oyM1Z1YlRkcGlOTF9kQUNOVWdFZTdtTE5KWWpoUjRPUQ?oc=5) |
+| 04 | **Product Wire · Cohere Command** | Products & Agents | ◈ | ● HIGH | [Command a being formed from thousands of leaves in Leafborn](https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVU5OG1qbUxES3F3VE1Rb210UUZLT0FnMk9walFWOWZXSmpjZEtxY1NneG9PUHFvSkhXZmc0eW8ycUhLY1FudG5weG5XSURyZnJaeGVQMl9RNnFIS042dW13T1RDR2gzcGpBbktvYXB5WmlFbElpNlRDSl9ValI4LU84N2FlUTliaVlLUWJoMDVMRWhWOVdTUjZOVmxWNnc?oc=5) |
+| 05 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
+| 06 | **WIRED AI** | Products & Agents | 🖼️ | ● HIGH | [I Tested Every Major AI Agent for a Day. Here’s the Best One](https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/) |
+| 07 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [To those who have a paid AI subscription: which one do you use, what do you use it for, and is it worth it? Also, for those who use the free versions, how useful is it for you?](https://www.reddit.com/r/artificial/comments/1xgnu8m/to_those_who_have_a_paid_ai_subscription_which/) |
+| 08 | **Product Wire · Transformers** | Products & Agents | ◈ | ● HIGH | [How solid-state transformers could help power the AI boom](https://news.google.com/rss/articles/CBMigwFBVV95cUxOaVJDS2FFNndjWTI4QjVpeVRjTkcwZW1Sa1g4M2o1MUVQekxvVVI0TzFyOVlVR1BhekE0ZXE2QUwxT0YwdmpLeHB0LTdWT3BNSXlha0F3VlBZUXJrTEtmRFBHUW5xYXAtY0VkMkZtdzJyeXM0b0Qyd3dTZ1dyM0dicU81VdIBiAFBVV95cUxPbFM1UWpKTkpMVjFRbEdVTXdsR3ltTTMtTnhkVTZRcmNIMjBETUFyNmk1bmdqR1UtT2VYV0IxX1lLa0l6c1A5aDZQVTUydE9yeTNNRGhLQU9XZVUxYVdvbWd3ZzhBVmdqTndNNUFzQ0tqb21PaWpVQXZULU1PT1NwVW90eEVPU1pZ?oc=5) |
+| 09 | **Luma AI** | Industry | ◈ | ● HIGH | [AI Product Placement: Lifestyle Scenes Without a Shoot - lumalabs.ai](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxOHU2WkJ5Q3pNYTN0aVd1R3ZOY0dLbThYeFUtbFJDbTZUbTBSR3c2ZGhRbHFFcmVLTzhoUVVkY055eFJBdTB5TS1ZdFBRUXpqcUtVUklnMFg?oc=5) |
+| 10 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [mejor IA gratuita?](https://www.reddit.com/r/artificial/comments/1xgn2po/mejor_ia_gratuita/) |
+| 11 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Voxtral 3: Speech-to-Text, TTS & Voice Agents - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
+| 12 | **Product Wire · SAP Joule** | Products & Agents | ◈ | ● HIGH | [Major SAP Joule update prepares agents for complex processes](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlZmZFBhRWFhUGxPTWlEWkdjcTgxU2xzMUxDNW5nc2dEZ2NWeHh4VDEwZy1OQjlyV25acE1IWTFxRE1kOVFhVmZDWEVjeWt1d2xkR0trZUFlNWxFbjlheWxHb3lSaU9tcTcxWUxvaU1zSVR4QXRLVWdIMlNCUkl3bjlHSXhadnlwUXFPaERXdmZGeHE3Njk3Sl9CYWJOS2pvS3Q0UlZlUTBrMFRUcGVCYg?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
