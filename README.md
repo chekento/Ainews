@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-27 23:58 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-28 05:25 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Frontier Models | ◈ | ● HIGH | [Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/) |
-| 02 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [how do you picture your life or workday if ai suddenly vanished?🤖](https://www.reddit.com/r/artificial/comments/1xh84gr/how_do_you_picture_your_life_or_workday_if_ai/) |
-| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [What's a task you wish AI could handle from start to finish without needing you to check its work?](https://www.reddit.com/r/artificial/comments/1xh7qbq/whats_a_task_you_wish_ai_could_handle_from_start/) |
-| 04 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [The data center boom has an upside: innovation for the US grid](https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/) |
-| 05 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [I think about switching form codex to Claude Am I doing a mistake?](https://www.reddit.com/r/artificial/comments/1xh7hy3/i_think_about_switching_form_codex_to_claude_am_i/) |
-| 06 | **Product Wire · Tableau AI** | Products & Agents | ◈ | ● HIGH | [What does Salesforce mean for Tableau AI features?](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFYOXpmeFlxNUtPY051MG03VzRXZjN0d0pzVWRmejUwZWFpTUhvdzVOb0laRlJaZzc4RVBYWnpNOTF2MDNnQXBMbW9pdFlnMUw1U2p5c19HenN3a3d6eUt3V25BSUtLTjExZzFieEZZVHRxdFFqT3k2MHRCeXVEV0lueWZPLXNrc2t0Vm1MLVBGaDQ?oc=5) |
-| 07 | **LlamaIndex Blog** | Industry | ◈ | ● HIGH | [Introducing OCRia-1 - LlamaIndex](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PYjkzSUpfVVZWQVFTdy1CM2R6WHB1Q1B1NlZENmVBWnZxR3NfMmR3SmZEc0huc0oyM1Z1YlRkcGlOTF9kQUNOVWdFZTdtTE5KWWpoUjRPUQ?oc=5) |
-| 08 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 09 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Bank of America kindly asks that you don’t share your banking password with your AI assistant](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/) |
-| 10 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Context Engineering - DeepLearning.AI](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWEJReFlDbnlOdXU4TlROUzA2cWpYSlIwSFlmNDNBTzIxdGhFSDVkVFFaZkU4aFh6RTQ2QklWQllPdDdpaDYxTDVIa1R4YTAzLUhjTWl0UUhOYTBoNE9kTmhoVHM3dw?oc=5) |
-| 11 | **TechCrunch AI** | Compliance & Ethics | ◈ | ● HIGH | [Who’s really in charge at Anthropic after the IPO?](https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 01 | **Product Wire · Tableau AI** | Products & Agents | ◈ | ● HIGH | [What does Salesforce mean for Tableau AI features?](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFYOXpmeFlxNUtPY051MG03VzRXZjN0d0pzVWRmejUwZWFpTUhvdzVOb0laRlJaZzc4RVBYWnpNOTF2MDNnQXBMbW9pdFlnMUw1U2p5c19HenN3a3d6eUt3V25BSUtLTjExZzFieEZZVHRxdFFqT3k2MHRCeXVEV0lueWZPLXNrc2t0Vm1MLVBGaDQ?oc=5) |
+| 02 | **LlamaIndex Blog** | Industry | ◈ | ● HIGH | [Introducing OCRia-1 - LlamaIndex](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PYjkzSUpfVVZWQVFTdy1CM2R6WHB1Q1B1NlZENmVBWnZxR3NfMmR3SmZEc0huc0oyM1Z1YlRkcGlOTF9kQUNOVWdFZTdtTE5KWWpoUjRPUQ?oc=5) |
+| 03 | **Intel AI** | Industry | ◈ | ● HIGH | [Building America's Capacity to Innovate - Intel](https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHY0M0R6SzIyUll1M2hhMEFlSjNsbVFPSUZ0NUFwd2tmM2lRNHFtRlhzZmlGMlp6cW9ZWFFVUEZaN3Q1UGsybUVSTmpHWFd0WDJlNWZYUnBtNS1oVlI1ejQ5Q3FVQWtiTXRaSGVCNno3TWZiOFMycllTNXhFS3l2U3ZKOGVaTlBXNDQwSFQtV3hvampQNjVkRVVYdk00TmNB?oc=5) |
+| 04 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Making machines that can listen](https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028) |
+| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Counting the Bandages: On measuring the time that AI saves](https://arxiv.org/abs/2610.35942) |
+| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases](https://arxiv.org/abs/2610.35984) |
+| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://arxiv.org/abs/2610.36077) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction](https://arxiv.org/abs/2610.36100) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction](https://arxiv.org/abs/2610.36116) |
+| 10 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [From Structural Feedback to Prompt Policies: Learning Faithful Text-to-Image Prompt Editors](https://arxiv.org/abs/2610.36146) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Don't Pick a Winner: Knowledge Conflicts Need a Prior, Not a Rule](https://arxiv.org/abs/2610.36169) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Learning Human Sports Motion Feasibility via Quantile Regression on Tracking Data](https://arxiv.org/abs/2610.36183) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
