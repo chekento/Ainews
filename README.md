@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-28 17:19 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-28 21:53 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]](https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/) |
-| 02 | **Product Wire · Claude for Enterprise** | Products & Agents | ◈ | ● HIGH | [Schwab offers $4,800 credit to cover Claude enterprise seat cost for RIAs](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWDZja0Nkb0lYVGRsLUNkbjlvUGRkZXRwUFE5aTVHdkZpcUtNa1psd1Z0cHFDV1NkRU5IYy1KZ0IwWHROX1ZrOE9aSEVSUnNadnd5dXZZMDJtZDZXMVB1MW51YkVVRDZQVXQtcHY2Z0ZranVXa3dwTENHU3Yta3RkRjhvVHBqdGpRV2NxQklNZTQ5dDliS0p5OHQ4aE12T2ZnVlItZ1JRbUVJd1FRN054ajI0OV93c1drMWVVMDhrUWtTQQ?oc=5) |
-| 03 | **Google DeepMind** | Frontier Models | ◈ | ● HIGH | [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms](https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/) |
-| 05 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Google opens Android development to third-party AI agents and unveils new Gemini APIs](https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/) |
-| 06 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Could AI detection eventually become a fundamentally unsolvable problem, similar to the halting problem? [D]](https://www.reddit.com/r/MachineLearning/comments/1xhtabq/could_ai_detection_eventually_become_a/) |
-| 07 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 08 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms](https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence) |
-| 09 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform](https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/) |
-| 10 | **Product Wire · Tableau AI** | Products & Agents | ◈ | ● HIGH | [What does Salesforce mean for Tableau AI features?](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFYOXpmeFlxNUtPY051MG03VzRXZjN0d0pzVWRmejUwZWFpTUhvdzVOb0laRlJaZzc4RVBYWnpNOTF2MDNnQXBMbW9pdFlnMUw1U2p5c19HenN3a3d6eUt3V25BSUtLTjExZzFieEZZVHRxdFFqT3k2MHRCeXVEV0lueWZPLXNrc2t0Vm1MLVBGaDQ?oc=5) |
-| 11 | **Reddit · r/MachineLearning** | Products & Agents | ◈ | ● HIGH | [How do you start with Agentic AI for a specific use case? [D]](https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/) |
-| 12 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Claude for Legal now verifies sources automatically, then hands the file to a lawyer](https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/) |
+| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Google expands AI Search ads globally as core ad growth slows](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [LLMs are significantly better at finding mistakes in papers than trained human reviewers](https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/) |
+| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Microsoft recorded $10 billion in revenue from OpenAI](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/) |
+| 04 | **The Verge AI** | Open Source | 🖼️ | ● HIGH | [Akai is embracing vibe-coded mods with an open-source MPC](https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key) |
+| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Microsoft hits 10 quarters of record- breaking revenue in a row](https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/) |
+| 06 | **Reuters AI & Technology** | Industry | ◈ | ● HIGH | [NEWSLETTER: Should you invest in Anthropic? Five takeaways from its S-1 - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxQc0k1aFM3cXppSjREQmI3Y3phQzItVW5CdXQ2Y21sN3pnRDd0YWp5YjdWNFJieVFwa2daeVhpV1NTWHNYT21CSm9LOW9hVDByaF9mSlY3VU9NNnliWW9vak43OGwzRnZTa2FVeXdob3hZejZ1R3BWSHpRTFljY0RTaWhnRUNmZ1J5M1B6eDNoSV92LTAxTFpsVi12OHVScWdKc0RXbDJUWF9SX3lzZEZjSWptSmtDRVJ2cXFxcDN3?oc=5) |
+| 07 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [GitHub just announced a major overhaul of Copilot, 'evolving' to focus on an agentic future](https://www.reddit.com/r/artificial/comments/1xi0dcg/github_just_announced_a_major_overhaul_of_copilot/) |
+| 08 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Hochul signs AI chatbot and baby monitor regulations](https://www.reddit.com/r/artificial/comments/1xi04ex/hochul_signs_ai_chatbot_and_baby_monitor/) |
+| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [OpenAI reportedly plans to buy Google's AI chips (TPUs) — rivals becoming each other's suppliers](https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips/) |
+| 10 | **Reuters · provider monitor** | Open Source | ◈ | ● HIGH | [EXCLUSIVE: US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQi1pQlpXMFg0djlmZFhkcGFlc3hJWmxKNXIzeFlTOWRxSXd5YWtCX1FRdUdlWWM1NEZxQVpOWktKbVkyWWR1aFRhbFd3SnRRcW5SZTJ0YXRvQTZ6MjlmVmFMVThhSldFTUpseWRtblVrel8tM0VISmVOVmdVend5UTFOTHhKazBXalpIOHVUdkVmcm5YdTI4UWk3MUJObk9GMzRYOEpkeEFXVnhwZXc?oc=5) |
+| 11 | **MIT Technology Review AI** | Products & Agents | 🖼️ | ● HIGH | [Creating AI value with enterprise context](https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/) |
+| 12 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [I made an interactive AI city that shows how life changes from 1956 to 2050](https://www.reddit.com/r/artificial/comments/1xhzg1v/i_made_an_interactive_ai_city_that_shows_how_life/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
