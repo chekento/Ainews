@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-28 11:33 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-28 17:19 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic](https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/) |
-| 02 | **The Decoder** | Industry | 🖼️ | ● HIGH | [AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense](https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/) |
-| 03 | **Product Wire · Tableau AI** | Products & Agents | ◈ | ● HIGH | [What does Salesforce mean for Tableau AI features?](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFYOXpmeFlxNUtPY051MG03VzRXZjN0d0pzVWRmejUwZWFpTUhvdzVOb0laRlJaZzc4RVBYWnpNOTF2MDNnQXBMbW9pdFlnMUw1U2p5c19HenN3a3d6eUt3V25BSUtLTjExZzFieEZZVHRxdFFqT3k2MHRCeXVEV0lueWZPLXNrc2t0Vm1MLVBGaDQ?oc=5) |
-| 04 | **WIRED AI** | Products & Agents | 🖼️ | ● HIGH | [Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed](https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/) |
-| 05 | **OpenAI News** | Products & Agents | ◈ | ● HIGH | [Legora is building the agentic operating system for legal work](https://openai.com/index/legora-agentic-operating-system-for-legal-work) |
-| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [dashboard usage page - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 08 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Voxtral 3: Speech-to-Text, TTS & Voice Agents - mistral.ai](https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5) |
-| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Philologists have reasoned from fragmentary evidence for 200 years. LLMs still confabulate when context is missing.](https://www.reddit.com/r/artificial/comments/1xhj4rf/philologists_have_reasoned_from_fragmentary/) |
-| 10 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
-| 11 | **Product Wire · Gemini API** | Products & Agents | ◈ | ● HIGH | [Google now saves Gemini API requests by default for new paid projects](https://news.google.com/rss/articles/CBMifkFVX3lxTE03a3BMb245ak85a0lDc0ltTHctM0duUEVaUDRsRzdyYnlGcFBoYnNHMDh0NC1NbURzUHJmbzlMdURneVI4WE82VzljVFlab2oxMk41aWpVTHhFWUE1SjBubWp1Zi01SmtYVjVXWUdoODFBcjh1MDFQaS1rRjFsQQ?oc=5) |
-| 12 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [AI Emergency Alerts Are Coming. Humans Might Not Be Ready](https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/) |
+| 01 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]](https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/) |
+| 02 | **Product Wire · Claude for Enterprise** | Products & Agents | ◈ | ● HIGH | [Schwab offers $4,800 credit to cover Claude enterprise seat cost for RIAs](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWDZja0Nkb0lYVGRsLUNkbjlvUGRkZXRwUFE5aTVHdkZpcUtNa1psd1Z0cHFDV1NkRU5IYy1KZ0IwWHROX1ZrOE9aSEVSUnNadnd5dXZZMDJtZDZXMVB1MW51YkVVRDZQVXQtcHY2Z0ZranVXa3dwTENHU3Yta3RkRjhvVHBqdGpRV2NxQklNZTQ5dDliS0p5OHQ4aE12T2ZnVlItZ1JRbUVJd1FRN054ajI0OV93c1drMWVVMDhrUWtTQQ?oc=5) |
+| 03 | **Google DeepMind** | Frontier Models | ◈ | ● HIGH | [Gemini 4 Carbon: Our next frontier model](https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms](https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/) |
+| 05 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Google opens Android development to third-party AI agents and unveils new Gemini APIs](https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/) |
+| 06 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Could AI detection eventually become a fundamentally unsolvable problem, similar to the halting problem? [D]](https://www.reddit.com/r/MachineLearning/comments/1xhtabq/could_ai_detection_eventually_become_a/) |
+| 07 | **Engadget AI** | Industry | ◈ | ◐ MED | [AI - Engadget](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaWppekJIanAxREhUcFNSaWlEMmRCYzVJd1dNZWhYQkEwaEpxaHJPRU9FaWdvZi1PM0lib0FnMEFYT3RUQjd2eFF6YXFKQQ?oc=5) |
+| 08 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms](https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence) |
+| 09 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform](https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/) |
+| 10 | **Product Wire · Tableau AI** | Products & Agents | ◈ | ● HIGH | [What does Salesforce mean for Tableau AI features?](https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFYOXpmeFlxNUtPY051MG03VzRXZjN0d0pzVWRmejUwZWFpTUhvdzVOb0laRlJaZzc4RVBYWnpNOTF2MDNnQXBMbW9pdFlnMUw1U2p5c19HenN3a3d6eUt3V25BSUtLTjExZzFieEZZVHRxdFFqT3k2MHRCeXVEV0lueWZPLXNrc2t0Vm1MLVBGaDQ?oc=5) |
+| 11 | **Reddit · r/MachineLearning** | Products & Agents | ◈ | ● HIGH | [How do you start with Agentic AI for a specific use case? [D]](https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/) |
+| 12 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Claude for Legal now verifies sources automatically, then hands the file to a lawyer](https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
