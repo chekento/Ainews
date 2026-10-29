@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-29 15:30 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-29 20:30 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Paris-based Mistral releases "Le Chonk," a strong coding model that still trails China overall](https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/) |
-| 02 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [✨ New Course! Enroll in Loop Engineering with LangChain Deep Agents - DeepLearning.AI](https://news.google.com/rss/articles/CBMihgFBVV95cUxPN25lUzFKNjVBem5vS0picFAyQVYxQ3pCcDBhRllhd1VMZHhILVFKRlJUVllWYnU2a0NXbloyVjlxQzhhVVFXVU5JeVBnanFQRWVEZGF6QnhjdHhvMG1QcndVcGFSMFdPZGJiVlQzLVR0dEdLWTZVU0V1NUZrN1E4T1BGWEp3QQ?oc=5) |
-| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Insurance tech just got a $2B AI deal. Are our rates cooked?](https://www.reddit.com/r/artificial/comments/1ximm2m/insurance_tech_just_got_a_2b_ai_deal_are_our/) |
-| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [AI has come for Arizona’s water](https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc) |
-| 05 | **WIRED AI** | Products & Agents | ◈ | ● HIGH | [The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself](https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/) |
-| 06 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The NYT Cooking app is testing AI recipe modifications](https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool) |
-| 07 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round](https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/) |
-| 08 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
-| 09 | **The Decoder** | Open Source | 🖼️ | ● HIGH | [US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices](https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/) |
-| 10 | **WIRED AI** | Products & Agents | 🖼️ | ● HIGH | [Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race](https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/) |
-| 11 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [Anthropic is asking Wall Street to believe in AGI](https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview) |
-| 12 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [A one-person studio shipped a Steam demo of a 12-chapter FPS coded by AI agents in 20 working days. Here is what the agents could and could not do.](https://www.reddit.com/r/artificial/comments/1xikfco/a_oneperson_studio_shipped_a_steam_demo_of_a/) |
+| 01 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [How the UK Amazon Quick User Group grew in 2026](https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/) |
+| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [As search traffic dries up, Reddit announces it’s shifting to a logged-in experience](https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/) |
+| 03 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Rivian expands joint venture with VW to include AI assistant](https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/) |
+| 04 | **ZDNET AI** | Open Source | ◈ | ● HIGH | [Mistral's Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra - ZDNET](https://news.google.com/rss/articles/CBMic0FVX3lxTE1oUDdGckVKYzJobVpZMk5HeFFpX1Z5U0FRQnRoQTJfeEZXaHRCRHVwLUluQWNJSDVKcHI5VFhPR3NvSDdvbUNhZ2JUbGN1SjVmeGltaVVDMTc2ODVnU1dGbXVUMGFCLWVKbVhIOExJZllTZnM?oc=5) |
+| 05 | **The Decoder** | Industry | 🖼️ | ● HIGH | [OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up](https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/) |
+| 06 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [OpenAI-backed Thrive Holdings acquires ADT](https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/) |
+| 07 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [Google unveils Gemini 4 Carbon, a cybersecurity-focused frontier model — and vetted defenders get it first](https://www.reddit.com/r/artificial/comments/1xiuc3w/google_unveils_gemini_4_carbon_a/) |
+| 08 | **The Decoder** | Research | 🖼️ | ● HIGH | [Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds](https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/) |
+| 09 | **The New York Times · provider monitor** | Frontier Models | ◈ | ● HIGH | [Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5) |
+| 10 | **شبكة تواصل الإخبارية · provider monitor** | Industry | ◈ | ● HIGH | [Retirement planning made simple: How Kwala Intel AI helps you build a financial roadmap](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOTFhSQzBySHBzUkhTM3UyR2tCYmZRc1hGVnVkY1FmZ1FTRG40TUxmTlg1QjJ6ZlpYV2g2RlZicVQwZmNpYXptdmVtOE92Z2RiV0cw?oc=5) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Meta quietly launches an AI fashion app called Style Sketch](https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/) |
+| 12 | **The Verge AI** | Research | 🖼️ | ● HIGH | [You can generate and edit Google Docs files directly in Gemini chats now](https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
