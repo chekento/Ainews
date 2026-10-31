@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-31 19:30 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-31 22:46 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Anthropic's watermark rollout leaves a loophole on two older Claude models](https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/) |
-| 02 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks](https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/) |
-| 03 | **Nous Research** | Research | ◈ | ● HIGH | [Hermes Mobile Beta - Hermes Agent](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wR2JFUXc0RmVjV1BySHZPTnJzQ2ZiWHh4dXY2bDA4T0luTFhGYXo0SlVYd1dFRDJGcmI1YUxPRGxVREQ4TkVneUdqOV94TjBva2xVM2tVbw?oc=5) |
-| 04 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
-| 05 | **Product Wire · PydanticAI** | Products & Agents | ◈ | ● HIGH | [Pydantic AI v2.64.0 Adds Sticky Model Fallback for Conversation Continuity](https://news.google.com/rss/articles/CBMinAFBVV95cUxOT0YtdV9jVDVFZ1lhb0QwV0J4YjA3Rkx5TnB6OG54ZGotckc3Mlo2VWNxZVNPd1pWWGZSS2RNM19Fbi1YME10SndpOE5FTW91UWhQOF9ZWjZjOVZKUDFURXNwTEx4Vy1rSWk4bEEydE9tUm80Y2dIVnZwc2ZJTTBMOEwtSURWNkZUa3FfUmdIeGE0RVU4VTBib2ludDE?oc=5) |
-| 06 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [Would you trust an emergency alert written by AI?](https://www.reddit.com/r/artificial/comments/1xkf72z/would_you_trust_an_emergency_alert_written_by_ai/) |
-| 07 | **The Decoder** | Research | 🖼️ | ● HIGH | [OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits](https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/) |
-| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/) |
-| 09 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [I built an AI Tamagotchi before Meta could](https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code) |
-| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 11 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)](https://www.reddit.com/r/artificial/comments/1xkd5nv/academic_survey_employees_working_in_germany/) |
-| 12 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Beekeeping tips and wrestling advice can train AI models to sabotage oversight](https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/) |
+| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Really impressed with AI language translation](https://www.reddit.com/r/artificial/comments/1xknbji/really_impressed_with_ai_language_translation/) |
+| 02 | **Product Wire · xAI API** | Products & Agents | ◈ | ● HIGH | [xAI adds invisible text watermarking to Grok API models](https://news.google.com/rss/articles/CBMiakFVX3lxTFBrVVNoS1c1dUpTemd3Y2VtUDlMaXBOQ182bHM1cHlNYjZ4N0ZZWGpjcnlpbzVRYjFnWU1Ld1M3M3MwWVpLc0FXSENUWVpMeEFha2lyaVBTcGZrNlhwQ3dtVV9vcUNFMWs3R0E?oc=5) |
+| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Dear Sam, My RAM Is None of Your Business.](https://www.reddit.com/r/artificial/comments/1xkmtyp/dear_sam_my_ram_is_none_of_your_business/) |
+| 04 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [We have access to the most powerful AI in history, yet I sometimes have absolutely no idea what to do with it. Is that a lack of imagination?](https://www.reddit.com/r/artificial/comments/1xkmqw1/we_have_access_to_the_most_powerful_ai_in_history/) |
+| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Descartes' Demon Is Back, and This Time It's Targeting AI](https://www.reddit.com/r/artificial/comments/1xkmkdl/descartes_demon_is_back_and_this_time_its/) |
+| 06 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/) |
+| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/) |
+| 10 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/) |
+| 11 | **IAPP AI Governance Center** | Compliance & Ethics | ◈ | ● HIGH | [certifications - IAPP - IAPP](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VdjluRGlkSzRHZ28yb2xhUnlTZUoxNVVDcUZOMFdrQm5BSU1VVlg4SWdDYjQtVjdPdFdBN0xpU09fQkJNLUtiSXpfZk5tamMz?oc=5) |
+| 12 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [Where the heck is Ilya?](https://www.reddit.com/r/artificial/comments/1xkkw6n/where_the_heck_is_ilya/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
