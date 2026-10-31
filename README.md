@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-31 08:47 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-31 15:15 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
-| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 03 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](https://arxiv.org/abs/2610.37720) |
-| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure](https://arxiv.org/abs/2610.37731) |
-| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions](https://arxiv.org/abs/2610.37732) |
-| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery](https://arxiv.org/abs/2610.37739) |
-| 07 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [WebAnything: From the Wild Web to Scalable Agent Environments](https://arxiv.org/abs/2610.37786) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs](https://arxiv.org/abs/2610.37809) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis](https://arxiv.org/abs/2610.37830) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening](https://arxiv.org/abs/2610.37849) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Evaluating and improving AI agents for sequencing protocol understanding](https://arxiv.org/abs/2610.37851) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Seq@K: Evaluating Language Models Under Sequential Feedback](https://arxiv.org/abs/2610.37859) |
+| 01 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Beekeeping tips and wrestling advice can train AI models to sabotage oversight](https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/) |
+| 02 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
+| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 05 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims](https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/) |
+| 06 | **The Decoder** | Infrastructure | 🖼️ | ◐ MED | [Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams](https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/) |
+| 07 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/) |
+| 08 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Google Deepmind creates a global map of forests with satellite data and AI](https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/) |
+| 09 | **WIRED AI** | Research | 🖼️ | ● HIGH | [An AI Agent Injected Drugs Into a Live Mouse’s Brain](https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/) |
+| 10 | **The Decoder** | Industry | 🖼️ | ● HIGH | [OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite](https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/) |
+| 11 | **Liquid AI** | Industry | ◈ | ● HIGH | [- Liquid AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OOVNFRl95eUJOQ3psYUcxOVFhZDlsZGVpUzlNVmMzbkVrRV9vZ1VkQmxYQldQNWhaR21pVnZFOUNZMkk3X3ZZUmNFVQ?oc=5) |
+| 12 | **Product Wire · Grok** | Products & Agents | ◈ | ● HIGH | [Elon Musk actually follows through on Grok AI adaptation of 'The Odyssey'](https://news.google.com/rss/articles/CBMic0FVX3lxTE1pcmdod25lTDRmVlpaR0dGWnBfVWtLNEdPWlhHQmlvQUlMcm4wclhpR1JOcy1iWFFBMTZEZDFCZ1ZocTVZZjdYbzZVMDdvUWNQMkhNeHBEYVZPOF9uMk13c05rUGN3S0hjejRRZWJwNGFiMVU?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
