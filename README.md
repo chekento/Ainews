@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-31 15:15 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-31 19:30 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Beekeeping tips and wrestling advice can train AI models to sabotage oversight](https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/) |
-| 02 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
-| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 05 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims](https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/) |
-| 06 | **The Decoder** | Infrastructure | 🖼️ | ◐ MED | [Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams](https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/) |
-| 07 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/) |
-| 08 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Google Deepmind creates a global map of forests with satellite data and AI](https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/) |
-| 09 | **WIRED AI** | Research | 🖼️ | ● HIGH | [An AI Agent Injected Drugs Into a Live Mouse’s Brain](https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/) |
-| 10 | **The Decoder** | Industry | 🖼️ | ● HIGH | [OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite](https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/) |
-| 11 | **Liquid AI** | Industry | ◈ | ● HIGH | [- Liquid AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OOVNFRl95eUJOQ3psYUcxOVFhZDlsZGVpUzlNVmMzbkVrRV9vZ1VkQmxYQldQNWhaR21pVnZFOUNZMkk3X3ZZUmNFVQ?oc=5) |
-| 12 | **Product Wire · Grok** | Products & Agents | ◈ | ● HIGH | [Elon Musk actually follows through on Grok AI adaptation of 'The Odyssey'](https://news.google.com/rss/articles/CBMic0FVX3lxTE1pcmdod25lTDRmVlpaR0dGWnBfVWtLNEdPWlhHQmlvQUlMcm4wclhpR1JOcy1iWFFBMTZEZDFCZ1ZocTVZZjdYbzZVMDdvUWNQMkhNeHBEYVZPOF9uMk13c05rUGN3S0hjejRRZWJwNGFiMVU?oc=5) |
+| 01 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Anthropic's watermark rollout leaves a loophole on two older Claude models](https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/) |
+| 02 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks](https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/) |
+| 03 | **Nous Research** | Research | ◈ | ● HIGH | [Hermes Mobile Beta - Hermes Agent](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wR2JFUXc0RmVjV1BySHZPTnJzQ2ZiWHh4dXY2bDA4T0luTFhGYXo0SlVYd1dFRDJGcmI1YUxPRGxVREQ4TkVneUdqOV94TjBva2xVM2tVbw?oc=5) |
+| 04 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
+| 05 | **Product Wire · PydanticAI** | Products & Agents | ◈ | ● HIGH | [Pydantic AI v2.64.0 Adds Sticky Model Fallback for Conversation Continuity](https://news.google.com/rss/articles/CBMinAFBVV95cUxOT0YtdV9jVDVFZ1lhb0QwV0J4YjA3Rkx5TnB6OG54ZGotckc3Mlo2VWNxZVNPd1pWWGZSS2RNM19Fbi1YME10SndpOE5FTW91UWhQOF9ZWjZjOVZKUDFURXNwTEx4Vy1rSWk4bEEydE9tUm80Y2dIVnZwc2ZJTTBMOEwtSURWNkZUa3FfUmdIeGE0RVU4VTBib2ludDE?oc=5) |
+| 06 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [Would you trust an emergency alert written by AI?](https://www.reddit.com/r/artificial/comments/1xkf72z/would_you_trust_an_emergency_alert_written_by_ai/) |
+| 07 | **The Decoder** | Research | 🖼️ | ● HIGH | [OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits](https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/) |
+| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI reportedly lowers funding target for new round](https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/) |
+| 09 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [I built an AI Tamagotchi before Meta could](https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code) |
+| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 11 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)](https://www.reddit.com/r/artificial/comments/1xkd5nv/academic_survey_employees_working_in_germany/) |
+| 12 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Beekeeping tips and wrestling advice can train AI models to sabotage oversight](https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
