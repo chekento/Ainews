@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-31 02:14 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-31 08:47 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **ZDNET AI** | Open Source | ◈ | ● HIGH | [Mistral's Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra - ZDNET](https://news.google.com/rss/articles/CBMic0FVX3lxTE1oUDdGckVKYzJobVpZMk5HeFFpX1Z5U0FRQnRoQTJfeEZXaHRCRHVwLUluQWNJSDVKcHI5VFhPR3NvSDdvbUNhZ2JUbGN1SjVmeGltaVVDMTc2ODVnU1dGbXVUMGFCLWVKbVhIOExJZllTZnM?oc=5) |
-| 02 | **Product Wire · Llama** | Products & Agents | ◈ | ● HIGH | [llama ai for youtube App Download for Android](https://news.google.com/rss/articles/CBMiT0FVX3lxTE12TnVSTEhZR2hHVGdsZjRac3Y4RDdMMm1LaDNZclRMQlNRN253WVRCNzFIbUV0ZVpuNWdaN3FtNDFGTU5POXdpaXhOVl9Xd1U?oc=5) |
-| 03 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia](https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/) |
-| 04 | **Reddit · r/artificial** | Infrastructure | ◈ | ● HIGH | [Fewer tokens? Anyone else noticing the big dogs’ AI efficiency push?](https://www.reddit.com/r/artificial/comments/1xjx6oi/fewer_tokens_anyone_else_noticing_the_big_dogs_ai/) |
-| 05 | **Product Wire · Ray-Ban Meta AI** | Products & Agents | ◈ | ● HIGH | [Ray-Ban Meta AI glasses are officially coming to the Philippines](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbktoblpfYkk5NmJ3NGlPbXVEajlJMmJMZkRwOXY2WTA3SWV3VkdUM2JUeW4xMnhfc2NkRHZFVGJtSlpvMVppbDVwX0hscXFIN1RlUEx1TnEzSWVvamJWVTY2NnZneDV5WEhwdlRvbF9OMXJiRjVPSHV5c3JlcUxxRkNnVFhzWTFZZFJxblUzUERWbkxkWUpTXw?oc=5) |
-| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [I found this screenshot from 2022 from an old ai chatbot. does anyone recognise it?](https://www.reddit.com/r/artificial/comments/1xjvucl/i_found_this_screenshot_from_2022_from_an_old_ai/) |
-| 07 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [AI agents said “done” when nothing actually happened, and making them think harder didn’t help](https://www.reddit.com/r/artificial/comments/1xjutvc/ai_agents_said_done_when_nothing_actually/) |
-| 08 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Ollie, a privacy-focused AI assistant, is shutting down](https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/) |
-| 09 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams](https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/) |
-| 10 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Apple Intelligence is finally coming to China with iOS 27.3](https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3) |
-| 11 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [The biggest names in AI are backing a new way to opt out of scraping](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out) |
-| 12 | **Product Wire · Ray-Ban Meta AI** | Products & Agents | ◈ | ● HIGH | [Facebook parent company donates Ray-Ban Meta AI glasses to legally blind West Michigan veterans](https://news.google.com/rss/articles/CBMihgJBVV95cUxQc0Vrb3V5bnRxRE5TdjJZbVJ0VU5VTjRqNWFLbEN6RWwtc0o4N21ybG5pY3hjaG80THNqanNHemRWVHp5RmpPb05Dd2ZaajgtR1IzOTdvVnB3aVVmaU1nV3NVdU1FbVpVa04yOFZ1dXBNR1R3enlOQVFZTEo3QXh4X0dFUWxkclFVU3VfT2lOejRJdVNjS2xlalFnT1g4TmZPNTRfOFMtVGNIdXR3MzNBeXlTVFVvNWVtOWlhTE9sTUcwX1l2ZlhfaFUwM1ExbEp4YzlEbzlycUxQQzQ0a3R1VTlXdVdZX29DY0dSWE9DeTlmX0dFMDZRUlE4TnNtcUsxcXRObnJn?oc=5) |
+| 01 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
+| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 03 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes](https://arxiv.org/abs/2610.37720) |
+| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure](https://arxiv.org/abs/2610.37731) |
+| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions](https://arxiv.org/abs/2610.37732) |
+| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery](https://arxiv.org/abs/2610.37739) |
+| 07 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [WebAnything: From the Wild Web to Scalable Agent Environments](https://arxiv.org/abs/2610.37786) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs](https://arxiv.org/abs/2610.37809) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis](https://arxiv.org/abs/2610.37830) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening](https://arxiv.org/abs/2610.37849) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Evaluating and improving AI agents for sequencing protocol understanding](https://arxiv.org/abs/2610.37851) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Seq@K: Evaluating Language Models Under Sequential Feedback](https://arxiv.org/abs/2610.37859) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
