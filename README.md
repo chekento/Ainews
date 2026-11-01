@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-10-31 22:46 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-01 02:06 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Really impressed with AI language translation](https://www.reddit.com/r/artificial/comments/1xknbji/really_impressed_with_ai_language_translation/) |
-| 02 | **Product Wire · xAI API** | Products & Agents | ◈ | ● HIGH | [xAI adds invisible text watermarking to Grok API models](https://news.google.com/rss/articles/CBMiakFVX3lxTFBrVVNoS1c1dUpTemd3Y2VtUDlMaXBOQ182bHM1cHlNYjZ4N0ZZWGpjcnlpbzVRYjFnWU1Ld1M3M3MwWVpLc0FXSENUWVpMeEFha2lyaVBTcGZrNlhwQ3dtVV9vcUNFMWs3R0E?oc=5) |
-| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Dear Sam, My RAM Is None of Your Business.](https://www.reddit.com/r/artificial/comments/1xkmtyp/dear_sam_my_ram_is_none_of_your_business/) |
-| 04 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [We have access to the most powerful AI in history, yet I sometimes have absolutely no idea what to do with it. Is that a lack of imagination?](https://www.reddit.com/r/artificial/comments/1xkmqw1/we_have_access_to_the_most_powerful_ai_in_history/) |
-| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Descartes' Demon Is Back, and This Time It's Targeting AI](https://www.reddit.com/r/artificial/comments/1xkmkdl/descartes_demon_is_back_and_this_time_its/) |
-| 06 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/) |
-| 10 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Judge allows NAACP lawsuit over xAI data center pollution to move forward](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/) |
-| 11 | **IAPP AI Governance Center** | Compliance & Ethics | ◈ | ● HIGH | [certifications - IAPP - IAPP](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VdjluRGlkSzRHZ28yb2xhUnlTZUoxNVVDcUZOMFdrQm5BSU1VVlg4SWdDYjQtVjdPdFdBN0xpU09fQkJNLUtiSXpfZk5tamMz?oc=5) |
-| 12 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [Where the heck is Ilya?](https://www.reddit.com/r/artificial/comments/1xkkw6n/where_the_heck_is_ilya/) |
+| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [If You Could Automate One Task in Your Business, What Would It Be?](https://www.reddit.com/r/artificial/comments/1xkoyue/if_you_could_automate_one_task_in_your_business/) |
+| 03 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
+| 04 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [As AI output is becoming more indistinguishable from human made output i have this one burning question. (just an amateur who's interested)](https://www.reddit.com/r/artificial/comments/1xknviq/as_ai_output_is_becoming_more_indistinguishable/) |
+| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Really impressed with AI language translation](https://www.reddit.com/r/artificial/comments/1xknbji/really_impressed_with_ai_language_translation/) |
+| 06 | **Product Wire · xAI API** | Products & Agents | ◈ | ● HIGH | [xAI adds invisible text watermarking to Grok API models](https://news.google.com/rss/articles/CBMiakFVX3lxTFBrVVNoS1c1dUpTemd3Y2VtUDlMaXBOQ182bHM1cHlNYjZ4N0ZZWGpjcnlpbzVRYjFnWU1Ld1M3M3MwWVpLc0FXSENUWVpMeEFha2lyaVBTcGZrNlhwQ3dtVV9vcUNFMWs3R0E?oc=5) |
+| 07 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Dear Sam, My RAM Is None of Your Business.](https://www.reddit.com/r/artificial/comments/1xkmtyp/dear_sam_my_ram_is_none_of_your_business/) |
+| 08 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [We have access to the most powerful AI in history, yet I sometimes have absolutely no idea what to do with it. Is that a lack of imagination?](https://www.reddit.com/r/artificial/comments/1xkmqw1/we_have_access_to_the_most_powerful_ai_in_history/) |
+| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Descartes' Demon Is Back, and This Time It's Targeting AI](https://www.reddit.com/r/artificial/comments/1xkmkdl/descartes_demon_is_back_and_this_time_its/) |
+| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/) |
+| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
