@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-02 00:33 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-02 06:43 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
 | 01 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
-| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Feds find small businesses that use AI are more likely to hire](https://www.reddit.com/r/artificial/comments/1xli21l/feds_find_small_businesses_that_use_ai_are_more/) |
-| 03 | **TradingView · provider monitor** | Industry | ◈ | ● HIGH | [Weekly Recap: Tencent (700) WeChat MAUs 1.439B and Hunyuan AI Hy4 models](https://news.google.com/rss/articles/CBMiywFBVV95cUxPWng0ZnZjOC1INDlYR18zbVZLbm9PVmF3ZXFrVWpXanpaYTgzc3M5LUN5N0N5OUdUcDdlcVRDOHg0N3dfa1RPdndjNUNJTl91X25SN1EybjZrbXR2c0NTNW5kXzhHdG1RdDhpdVR3cjRDZmJxUFdTclpnMFFtUzhYcXlRS1FiZzY4Wmh4dVJkQkg1cDRlSVhiTFhuZVRZRXo5WXNaLUhDYjN4ZE1KbkRVbnpYNm40Tkc0TGRMZXUxVFNIREVxTTN5T2RhRQ?oc=5) |
-| 04 | **Liquid AI** | Industry | ◈ | ● HIGH | [- Liquid AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OOVNFRl95eUJOQ3psYUcxOVFhZDlsZGVpUzlNVmMzbkVrRV9vZ1VkQmxYQldQNWhaR21pVnZFOUNZMkk3X3ZZUmNFVQ?oc=5) |
-| 05 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [OpenAI might rebrand its data centers as ‘AI compute campuses’](https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/) |
-| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 07 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [OpenAI is now capping how many paid ChatGPT accounts you can have per device and payment card](https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/) |
-| 10 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Grok Bot users ran out of a week’s usage overnight, and Elon Musk says the agent was costing too much](https://www.reddit.com/r/artificial/comments/1xlfd9v/grok_bot_users_ran_out_of_a_weeks_usage_overnight/) |
-| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [AI can make tech CEOs’ lives easier. What about everyone else?](https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/) |
-| 12 | **IAPP AI Governance Center** | Compliance & Ethics | ◈ | ● HIGH | [certifications - IAPP - IAPP](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VdjluRGlkSzRHZ28yb2xhUnlTZUoxNVVDcUZOMFdrQm5BSU1VVlg4SWdDYjQtVjdPdFdBN0xpU09fQkJNLUtiSXpfZk5tamMz?oc=5) |
+| 02 | **Product Wire · Kimi** | Products & Agents | ◈ | ● HIGH | [New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value](https://news.google.com/rss/articles/CBMifEFVX3lxTE93OElTMGR4MzhRckpfc04xZkp1RmNBTkFpN0JVRDFjTmc1QXFZV3lxZDFIWG1jakRuNkEyb1ZNRzRTeGJvSkNVcndtQzVEY1pIWGt1ZjJIMkJzY0ZWVUF4RWgtQ3dCR190amVpRjZkYlJTcWVDQjgtWXFYb0Q?oc=5) |
+| 03 | **Stability AI** | Industry | ◈ | ● HIGH | [- Stability AI Platform](https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4dlotd2xUTzRQbkdFQ1dCRFRPTUxpd3RqNEhBSEVXT19sLWRMbU5qRk9SQWQyemZZV0tIdHlfZk9mZDJvbVpjOGpWYWJjeXBfVjdYWm5SWQ?oc=5) |
+| 04 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [How to handle object deduplication across multiple camera angles using YOLO (especially for tiny 20x22px crops) across isolated user sessions? [D]](https://www.reddit.com/r/MachineLearning/comments/1xloo4i/how_to_handle_object_deduplication_across/) |
+| 05 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [Automatic Construction of Strong Simple Baselines](https://arxiv.org/abs/2610.40700) |
+| 06 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [Bayesian Distribution System State Estimation with Flow Matching](https://arxiv.org/abs/2610.40728) |
+| 07 | **arXiv cs.LG** | Compliance & Ethics | ◈ | ● HIGH | [Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection](https://arxiv.org/abs/2610.40732) |
+| 08 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [Unsupervised Feature Selection Using Local Intrinsic Dimensionality -- Extended Version](https://arxiv.org/abs/2610.40736) |
+| 09 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [Certified Behavioral Retention for Continual Adaptation with Held-Out Anchors](https://arxiv.org/abs/2610.40740) |
+| 10 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [AutoHebb: Self-Modifying Neural Networks that Zero-Shot Infer and Continually Learn](https://arxiv.org/abs/2610.40757) |
+| 11 | **arXiv cs.LG** | Safety & Security | ◈ | ● HIGH | [Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation](https://arxiv.org/abs/2610.40857) |
+| 12 | **arXiv cs.LG** | Safety & Security | ◈ | ● HIGH | [FARO: Function-Space Adaptive Return-to-Risk Optimization via Cross-Block Equal-Risk-Contribution Budget Allocation](https://arxiv.org/abs/2610.40858) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
