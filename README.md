@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-02 06:43 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-02 16:59 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
-| 02 | **Product Wire · Kimi** | Products & Agents | ◈ | ● HIGH | [New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value](https://news.google.com/rss/articles/CBMifEFVX3lxTE93OElTMGR4MzhRckpfc04xZkp1RmNBTkFpN0JVRDFjTmc1QXFZV3lxZDFIWG1jakRuNkEyb1ZNRzRTeGJvSkNVcndtQzVEY1pIWGt1ZjJIMkJzY0ZWVUF4RWgtQ3dCR190amVpRjZkYlJTcWVDQjgtWXFYb0Q?oc=5) |
-| 03 | **Stability AI** | Industry | ◈ | ● HIGH | [- Stability AI Platform](https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4dlotd2xUTzRQbkdFQ1dCRFRPTUxpd3RqNEhBSEVXT19sLWRMbU5qRk9SQWQyemZZV0tIdHlfZk9mZDJvbVpjOGpWYWJjeXBfVjdYWm5SWQ?oc=5) |
-| 04 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [How to handle object deduplication across multiple camera angles using YOLO (especially for tiny 20x22px crops) across isolated user sessions? [D]](https://www.reddit.com/r/MachineLearning/comments/1xloo4i/how_to_handle_object_deduplication_across/) |
-| 05 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [Automatic Construction of Strong Simple Baselines](https://arxiv.org/abs/2610.40700) |
-| 06 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [Bayesian Distribution System State Estimation with Flow Matching](https://arxiv.org/abs/2610.40728) |
-| 07 | **arXiv cs.LG** | Compliance & Ethics | ◈ | ● HIGH | [Don't Just Impute, Detect: Task-Aware Diffusion Pipelines for Edge Anomaly Detection](https://arxiv.org/abs/2610.40732) |
-| 08 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [Unsupervised Feature Selection Using Local Intrinsic Dimensionality -- Extended Version](https://arxiv.org/abs/2610.40736) |
-| 09 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [Certified Behavioral Retention for Continual Adaptation with Held-Out Anchors](https://arxiv.org/abs/2610.40740) |
-| 10 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [AutoHebb: Self-Modifying Neural Networks that Zero-Shot Infer and Continually Learn](https://arxiv.org/abs/2610.40757) |
-| 11 | **arXiv cs.LG** | Safety & Security | ◈ | ● HIGH | [Frozen in Time: How a Physics Foundation Model Forgets Under Sim-to-Real Adaptation](https://arxiv.org/abs/2610.40857) |
-| 12 | **arXiv cs.LG** | Safety & Security | ◈ | ● HIGH | [FARO: Function-Space Adaptive Return-to-Risk Optimization via Cross-Block Equal-Risk-Contribution Budget Allocation](https://arxiv.org/abs/2610.40858) |
+| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Suggestions for an Emerging Technology Theme for a College Tech Event](https://www.reddit.com/r/artificial/comments/1xm2l58/suggestions_for_an_emerging_technology_theme_for/) |
+| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’](https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/) |
+| 03 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Anthropic grows revenue twelvefold but posts $23 billion loss](https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/) |
+| 04 | **TechCrunch AI** | Frontier Models | ◈ | ● HIGH | [Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/) |
+| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Almost half of all new Steam games use AI now](https://www.reddit.com/r/artificial/comments/1xm0tga/almost_half_of_all_new_steam_games_use_ai_now/) |
+| 06 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts](https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/) |
+| 07 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Gulf investors bet on AI, space tech](https://www.reddit.com/r/artificial/comments/1xlzxdx/gulf_investors_bet_on_ai_space_tech/) |
+| 08 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
+| 09 | **OpenAI News** | Infrastructure | ◈ | ● HIGH | [Introducing the Grid Protectors Program](https://openai.com/index/grid-protectors-program) |
+| 10 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition](https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/) |
+| 11 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Dell XPS Googlebook Review: Beautiful Hardware For A Useless Platform](https://www.reddit.com/r/artificial/comments/1xlz1su/dell_xps_googlebook_review_beautiful_hardware_for/) |
+| 12 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [let's guess what it is. here are all the clues i have for this](https://www.reddit.com/r/artificial/comments/1xlygec/lets_guess_what_it_is_here_are_all_the_clues_i/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
