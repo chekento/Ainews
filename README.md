@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-03 14:36 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-03 20:36 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **IEEE Spectrum AI** | Industry | 🖼️ | ● HIGH | [How a Kenyan Startup Is Rethinking AI for Small Businesses](https://spectrum.ieee.org/ai-small-business-mobile-money-startup) |
-| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4](https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/) |
-| 03 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase](https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/) |
+| 01 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Apple starts giving Siri AI access to third-party apps](https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps) |
+| 02 | **The Decoder** | Research | 🖼️ | ● HIGH | [OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week](https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/) |
+| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Google says students in schools that ban AI won't have access to Search](https://www.reddit.com/r/artificial/comments/1xn34ud/google_says_students_in_schools_that_ban_ai_wont/) |
+| 04 | **The Decoder** | Research | 🖼️ | ◐ MED | [Rapid LLM development is outrunning the research meant to explain it, study finds](https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/) |
 | 05 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [✨ New Course! Enroll in Loop Engineering with LangChain Deep Agents - DeepLearning.AI](https://news.google.com/rss/articles/CBMihgFBVV95cUxPN25lUzFKNjVBem5vS0picFAyQVYxQ3pCcDBhRllhd1VMZHhILVFKRlJUVllWYnU2a0NXbloyVjlxQzhhVVFXVU5JeVBnanFQRWVEZGF6QnhjdHhvMG1QcndVcGFSMFdPZGJiVlQzLVR0dEdLWTZVU0V1NUZrN1E4T1BGWEp3QQ?oc=5) |
-| 06 | **Tom's Hardware AI** | Frontier Models | ◈ | ● HIGH | [Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 — frontier AI model is also the least likely to hallucinate, benchmarks claim - Tom's Hardware](https://news.google.com/rss/articles/CBMivwJBVV95cUxOTWhTVENnM3JSMkhHSWh6bDNNcVh4Nk9PRXJsUkJKSG9rLTRmNTB4ZWRydEctZnJFWWJvVWpKOU40VkhhWkdVTTdXZHU3WmxCRmd4czZ2WDF5OE5NNXJvY0FIVl80S1BNWXh0SFBDNFpBT1FXWldXaTQ3NWM5aGN0VmR2Q3VKRWE4bHctVW9OODFxbGwtaDZ5ZFY3a21wZ1oxaHJpRDJrUW12Ykd0VkMzcy1MZmJoeFlRaHdscHhaak91SkhncnY1Z0tOVFRGWWFBMVlKSWM4TzQ1NjVMdzU4bjI2ajJ6YWY4c2tLZnZOa2ZkSmd4eWNUc2ZtQUxfZ2k0dk92eDEyLTJHU0tMRG9kVWhTOUZIYnJBLVZkZ0dyaWdWeUNVczF2SDhWWmZSSXZaMUNobE9xcmQ3cTJZdFZN?oc=5) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 09 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Anthropic's Message Threads cut time to first token by 35 percent for long conversations](https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/) |
-| 10 | **Anthropic News** | Safety & Security | ◈ | ● HIGH | [Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5) |
-| 11 | **The Decoder** | Infrastructure | 🖼️ | ◐ MED | [Huawei tells customers to find their own AI chip memory, effectively outsourcing procurement to the black market](https://the-decoder.com/huawei-tells-customers-to-find-their-own-ai-chip-memory-effectively-outsourcing-procurement-to-the-black-market/) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 06 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [AI inference startup Fal doubles its valuation to $16B as demand surges](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/) |
+| 07 | **MIT News AI** | Infrastructure | 🖼️ | ● HIGH | [Building connections across the research infrastructure](https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103) |
+| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Midterm elections 2026: all the news](https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news) |
+| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Google to shut off search for schools that opt-out of AI](https://www.reddit.com/r/artificial/comments/1xn22y7/google_to_shut_off_search_for_schools_that_optout/) |
+| 10 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Apple’s latest watchOS beta includes its new always-on Audio Intelligence features](https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Netflix’s new AI Discover tab helps you find something to watch based on your mood](https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/) |
+| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [OpenAI says ChatGPT is catching up to Google in search](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
