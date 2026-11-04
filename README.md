@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-04 15:42 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-04 21:48 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
-| 02 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Looking to join research group / lab [R]](https://www.reddit.com/r/MachineLearning/comments/1xnr05k/looking_to_join_research_group_lab_r/) |
-| 03 | **Anthropic News** | Safety & Security | ◈ | ● HIGH | [Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5) |
-| 04 | **The Decoder** | Research | 🖼️ | ● HIGH | [Anthropic's new prototype proves which model wrote an AI response without exposing its weights](https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/) |
-| 05 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’](https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments) |
-| 06 | **OpenAI News** | Industry | ◈ | ● HIGH | [OpenAI to acquire Pierre Computer Company, Inc.](https://openai.com/index/openai-to-acquire-pierre) |
-| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Those Jeff Bezos hair transplant photos are very fake](https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk) |
-| 08 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Loop Engineering with LangChain Deep Agents - DeepLearning.AI](https://news.google.com/rss/articles/CBMihgFBVV95cUxPN25lUzFKNjVBem5vS0picFAyQVYxQ3pCcDBhRllhd1VMZHhILVFKRlJUVllWYnU2a0NXbloyVjlxQzhhVVFXVU5JeVBnanFQRWVEZGF6QnhjdHhvMG1QcndVcGFSMFdPZGJiVlQzLVR0dEdLWTZVU0V1NUZrN1E4T1BGWEp3QQ?oc=5) |
-| 09 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google](https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/) |
-| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston](https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/) |
-| 11 | **MIT Technology Review AI** | Products & Agents | 🖼️ | ● HIGH | [Securing the agentic enterprise with data lineage](https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [17 better ways Elon Musk could have wasted $446 million](https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich) |
+| 02 | **Anthropic News** | Safety & Security | ◈ | ● HIGH | [Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5) |
+| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI is already trying to shape the 2028 election](https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/) |
+| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Is there an AI I can train to play games on my phone?](https://www.reddit.com/r/artificial/comments/1xo0azq/is_there_an_ai_i_can_train_to_play_games_on_my/) |
+| 05 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Meta acquires AI coding startup Conductor](https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/) |
+| 06 | **Ars Technica AI** | Industry | 🖼️ | ● HIGH | [Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”](https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/) |
+| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [My therapist thinks I should chuck the Amazon Bee Frontier out a window](https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables) |
+| 08 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms](https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/) |
+| 09 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Gemini for Home now plugs into AT&T’s smart security system](https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system) |
+| 10 | **Stability AI** | Industry | ◈ | ● HIGH | [What's new in Stable Audio: November 2026 Release Notes - Stability AI](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmJ5T2IzRm5kSkFQREZiZUxvVHpRanUtbms5NEphRFFXTnFPU2tXUVpnWFJidWMwbHNYcWpYZnRfWEs4LXNic21EMWFZZHBsNF9RNTBWZUpqbzFaSlUtS0xHbWNZVEJ2WGt5QmRXSTQwM05OUFFubzVFSEJtNXAxVDd3MFFJOHpa?oc=5) |
+| 11 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out](https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/) |
+| 12 | **The Decoder** | Industry | 🖼️ | ● HIGH | [ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model](https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
