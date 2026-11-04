@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-04 00:52 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-04 07:26 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The biggest modding site in PC gaming is taking a stance on AI](https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures) |
-| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [AI Is a Narcissist with Empathy ! And We're Falling in Love With It.](https://www.reddit.com/r/artificial/comments/1xnaavg/ai_is_a_narcissist_with_empathy_and_were_falling/) |
-| 03 | **Product Wire · Udio** | Products & Agents | ◈ | ● HIGH | [MLC Fires Back Against Udio Stream-Data Subpoena, Citing Costs](https://news.google.com/rss/articles/CBMifkFVX3lxTE5rSHlJbGxtOGlIYVRyMDdZaE5ySzd4YUE0VG1YZ1djaFlHdW5IN1pXVmxYRzVUTzVLaFo3SGFmaUg2NE16MkotTEVMRkxLTnU5NE9hTl9mdHpjSElrSURvNk90WDFfZVBVQUFCMnJFN01MQ01YVVNNMFNMSTY3Zw?oc=5) |
-| 04 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
+| 01 | **Product Wire · Pika** | Products & Agents | ◈ | ● HIGH | [Pika H3 Flex Brings More Control to AI Video Generation](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEdZcWtDdDRiSExjTG5abVE4c1h3Z1A0TWp5Wm52eU9FMF9pSEtUV1AzRlhCMTh1VUZxUWdTLVRvSlVxZTAzMUdaaXBwemVSOWtoa3ZXOF9fTXB4ZUFMbEJrTEdGUlp2YldneWxiUUt1dlBCdXBsUnk3b0hFMnVOTVU1TnI?oc=5) |
+| 02 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Helpfulness and harmlessness are two opposed forces that RLHF never reconciles. A pre-Socratic modelled the exact dynamic 2,450 years ago.[D]](https://www.reddit.com/r/MachineLearning/comments/1xnhwz6/helpfulness_and_harmlessness_are_two_opposed/) |
+| 03 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
+| 04 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Visa Situation for NeurIPS Sydney Attendees [D]](https://www.reddit.com/r/MachineLearning/comments/1xnh0uh/visa_situation_for_neurips_sydney_attendees_d/) |
 | 05 | **Anthropic News** | Safety & Security | ◈ | ● HIGH | [Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5) |
-| 06 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Please stop asking me when the AI bubble will pop](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds) |
+| 06 | **Yahoo Finance · provider monitor** | Industry | ◈ | ● HIGH | [Apple AI tools come to China after two-year delay](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQVRLSVd1SXdPQWlpMEZHdjZydWpycW1QTU5OY2R4WVpUZ29pRWo0OGNXYWtoa2RicUM0VFZzYWs3MUg1bzZrYzgxeDF4MVdOV21iSUk5OU5tTG9ZRUExam9SbDVSZFhuajJRQU85U2pZOHBNOEttMU5kZlBQbUFhWmFXY2VrUlBJdzIyRURZUUU5YUk?oc=5) |
 | 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Midterm elections 2026: all the news](https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news) |
-| 08 | **Perplexity** | Industry | ◈ | ● HIGH | [Free Perplexity Pro with Paypal - Perplexity](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xZlZpTURTUzBKSkw3NlpfcXAteHZMMWZjSjdHMmFDa1ZhRTVHLVZmLW95UUd6czV3cGhhQks0NEpKYTNGUmFKYld2dl9XNDFyRWExdjhzX3kyYThLUjk5MzJn?oc=5) |
-| 09 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [✨ New Course! Enroll in Loop Engineering with LangChain Deep Agents - DeepLearning.AI](https://news.google.com/rss/articles/CBMihgFBVV95cUxPN25lUzFKNjVBem5vS0picFAyQVYxQ3pCcDBhRllhd1VMZHhILVFKRlJUVllWYnU2a0NXbloyVjlxQzhhVVFXVU5JeVBnanFQRWVEZGF6QnhjdHhvMG1QcndVcGFSMFdPZGJiVlQzLVR0dEdLWTZVU0V1NUZrN1E4T1BGWEp3QQ?oc=5) |
-| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Anthropic is working on a system to prove AI models’ identity](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/) |
-| 11 | **Product Wire · Segment Anything** | Products & Agents | ◈ | ● HIGH | [Sam Sepah On The Future Of AI, Deaf Innovation And The Right To Privacy](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVpiTnJzXzhBQV9VQXNZS2JMQXlzR2YzdHg5X0huZEYyZXdBeU81X2txVlFCS3FDR2lHUjh3Y2dNR0J4MFFka0c3WVFzTnhCTEhUWDRKS0JkVkx5cjZRSlZTOUlpZkZLV2xUa1M2Y05wVHNvSnZyMGU0S2dlZkJ2SzVlRTVkM2dTVUV4ZEhBWUJUZUx1cE5VZm5LaXlhdnlDWHR2MkhTN3pfQTA0VkRBWjRnWVctbFU1bXRRTWJsTzY1d2s?oc=5) |
-| 12 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Data centers are turning to old jet engines as the wait for power grows](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/) |
+| 08 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering](https://arxiv.org/abs/2303.12212) |
+| 09 | **arXiv cs.CL** | Research | ◈ | ● HIGH | [From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings](https://arxiv.org/abs/2611.00172) |
+| 10 | **arXiv cs.CL** | Research | ◈ | ● HIGH | [MEMENTO: Learning Context Management for Long Context Processing Agents](https://arxiv.org/abs/2611.00244) |
+| 11 | **arXiv cs.CL** | Research | ◈ | ● HIGH | [Cross-Lingual Persona Effects in LLM Negotiation](https://arxiv.org/abs/2611.00300) |
+| 12 | **arXiv cs.CL** | Safety & Security | ◈ | ● HIGH | [GAVAGAI: Referential Alignment for Infant-Scale Vision-Language Models via Balanced Optimal Transport](https://arxiv.org/abs/2611.00319) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
