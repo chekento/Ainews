@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-03 20:36 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-04 00:52 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Apple starts giving Siri AI access to third-party apps](https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps) |
-| 02 | **The Decoder** | Research | 🖼️ | ● HIGH | [OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week](https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/) |
-| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Google says students in schools that ban AI won't have access to Search](https://www.reddit.com/r/artificial/comments/1xn34ud/google_says_students_in_schools_that_ban_ai_wont/) |
-| 04 | **The Decoder** | Research | 🖼️ | ◐ MED | [Rapid LLM development is outrunning the research meant to explain it, study finds](https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/) |
-| 05 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [✨ New Course! Enroll in Loop Engineering with LangChain Deep Agents - DeepLearning.AI](https://news.google.com/rss/articles/CBMihgFBVV95cUxPN25lUzFKNjVBem5vS0picFAyQVYxQ3pCcDBhRllhd1VMZHhILVFKRlJUVllWYnU2a0NXbloyVjlxQzhhVVFXVU5JeVBnanFQRWVEZGF6QnhjdHhvMG1QcndVcGFSMFdPZGJiVlQzLVR0dEdLWTZVU0V1NUZrN1E4T1BGWEp3QQ?oc=5) |
-| 06 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [AI inference startup Fal doubles its valuation to $16B as demand surges](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/) |
-| 07 | **MIT News AI** | Infrastructure | 🖼️ | ● HIGH | [Building connections across the research infrastructure](https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103) |
-| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Midterm elections 2026: all the news](https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news) |
-| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Google to shut off search for schools that opt-out of AI](https://www.reddit.com/r/artificial/comments/1xn22y7/google_to_shut_off_search_for_schools_that_optout/) |
-| 10 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Apple’s latest watchOS beta includes its new always-on Audio Intelligence features](https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta) |
-| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Netflix’s new AI Discover tab helps you find something to watch based on your mood](https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/) |
-| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [OpenAI says ChatGPT is catching up to Google in search](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search) |
+| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The biggest modding site in PC gaming is taking a stance on AI](https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [AI Is a Narcissist with Empathy ! And We're Falling in Love With It.](https://www.reddit.com/r/artificial/comments/1xnaavg/ai_is_a_narcissist_with_empathy_and_were_falling/) |
+| 03 | **Product Wire · Udio** | Products & Agents | ◈ | ● HIGH | [MLC Fires Back Against Udio Stream-Data Subpoena, Citing Costs](https://news.google.com/rss/articles/CBMifkFVX3lxTE5rSHlJbGxtOGlIYVRyMDdZaE5ySzd4YUE0VG1YZ1djaFlHdW5IN1pXVmxYRzVUTzVLaFo3SGFmaUg2NE16MkotTEVMRkxLTnU5NE9hTl9mdHpjSElrSURvNk90WDFfZVBVQUFCMnJFN01MQ01YVVNNMFNMSTY3Zw?oc=5) |
+| 04 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
+| 05 | **Anthropic News** | Safety & Security | ◈ | ● HIGH | [Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5) |
+| 06 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Please stop asking me when the AI bubble will pop](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds) |
+| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Midterm elections 2026: all the news](https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news) |
+| 08 | **Perplexity** | Industry | ◈ | ● HIGH | [Free Perplexity Pro with Paypal - Perplexity](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xZlZpTURTUzBKSkw3NlpfcXAteHZMMWZjSjdHMmFDa1ZhRTVHLVZmLW95UUd6czV3cGhhQks0NEpKYTNGUmFKYld2dl9XNDFyRWExdjhzX3kyYThLUjk5MzJn?oc=5) |
+| 09 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [✨ New Course! Enroll in Loop Engineering with LangChain Deep Agents - DeepLearning.AI](https://news.google.com/rss/articles/CBMihgFBVV95cUxPN25lUzFKNjVBem5vS0picFAyQVYxQ3pCcDBhRllhd1VMZHhILVFKRlJUVllWYnU2a0NXbloyVjlxQzhhVVFXVU5JeVBnanFQRWVEZGF6QnhjdHhvMG1QcndVcGFSMFdPZGJiVlQzLVR0dEdLWTZVU0V1NUZrN1E4T1BGWEp3QQ?oc=5) |
+| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Anthropic is working on a system to prove AI models’ identity](https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/) |
+| 11 | **Product Wire · Segment Anything** | Products & Agents | ◈ | ● HIGH | [Sam Sepah On The Future Of AI, Deaf Innovation And The Right To Privacy](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVpiTnJzXzhBQV9VQXNZS2JMQXlzR2YzdHg5X0huZEYyZXdBeU81X2txVlFCS3FDR2lHUjh3Y2dNR0J4MFFka0c3WVFzTnhCTEhUWDRKS0JkVkx5cjZRSlZTOUlpZkZLV2xUa1M2Y05wVHNvSnZyMGU0S2dlZkJ2SzVlRTVkM2dTVUV4ZEhBWUJUZUx1cE5VZm5LaXlhdnlDWHR2MkhTN3pfQTA0VkRBWjRnWVctbFU1bXRRTWJsTzY1d2s?oc=5) |
+| 12 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Data centers are turning to old jet engines as the wait for power grows](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
