@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-04 07:26 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-04 15:42 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Product Wire · Pika** | Products & Agents | ◈ | ● HIGH | [Pika H3 Flex Brings More Control to AI Video Generation](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEdZcWtDdDRiSExjTG5abVE4c1h3Z1A0TWp5Wm52eU9FMF9pSEtUV1AzRlhCMTh1VUZxUWdTLVRvSlVxZTAzMUdaaXBwemVSOWtoa3ZXOF9fTXB4ZUFMbEJrTEdGUlp2YldneWxiUUt1dlBCdXBsUnk3b0hFMnVOTVU1TnI?oc=5) |
-| 02 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Helpfulness and harmlessness are two opposed forces that RLHF never reconciles. A pre-Socratic modelled the exact dynamic 2,450 years ago.[D]](https://www.reddit.com/r/MachineLearning/comments/1xnhwz6/helpfulness_and_harmlessness_are_two_opposed/) |
-| 03 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
-| 04 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Visa Situation for NeurIPS Sydney Attendees [D]](https://www.reddit.com/r/MachineLearning/comments/1xnh0uh/visa_situation_for_neurips_sydney_attendees_d/) |
-| 05 | **Anthropic News** | Safety & Security | ◈ | ● HIGH | [Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5) |
-| 06 | **Yahoo Finance · provider monitor** | Industry | ◈ | ● HIGH | [Apple AI tools come to China after two-year delay](https://news.google.com/rss/articles/CBMikwFBVV95cUxQQVRLSVd1SXdPQWlpMEZHdjZydWpycW1QTU5OY2R4WVpUZ29pRWo0OGNXYWtoa2RicUM0VFZzYWs3MUg1bzZrYzgxeDF4MVdOV21iSUk5OU5tTG9ZRUExam9SbDVSZFhuajJRQU85U2pZOHBNOEttMU5kZlBQbUFhWmFXY2VrUlBJdzIyRURZUUU5YUk?oc=5) |
-| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Midterm elections 2026: all the news](https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news) |
-| 08 | **arXiv cs.LG** | Research | ◈ | ● HIGH | [Community detection in complex networks via node similarity, graph representation learning, and hierarchical clustering](https://arxiv.org/abs/2303.12212) |
-| 09 | **arXiv cs.CL** | Research | ◈ | ● HIGH | [From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings](https://arxiv.org/abs/2611.00172) |
-| 10 | **arXiv cs.CL** | Research | ◈ | ● HIGH | [MEMENTO: Learning Context Management for Long Context Processing Agents](https://arxiv.org/abs/2611.00244) |
-| 11 | **arXiv cs.CL** | Research | ◈ | ● HIGH | [Cross-Lingual Persona Effects in LLM Negotiation](https://arxiv.org/abs/2611.00300) |
-| 12 | **arXiv cs.CL** | Safety & Security | ◈ | ● HIGH | [GAVAGAI: Referential Alignment for Infant-Scale Vision-Language Models via Balanced Optimal Transport](https://arxiv.org/abs/2611.00319) |
+| 01 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
+| 02 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Looking to join research group / lab [R]](https://www.reddit.com/r/MachineLearning/comments/1xnr05k/looking_to_join_research_group_lab_r/) |
+| 03 | **Anthropic News** | Safety & Security | ◈ | ● HIGH | [Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5) |
+| 04 | **The Decoder** | Research | 🖼️ | ● HIGH | [Anthropic's new prototype proves which model wrote an AI response without exposing its weights](https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/) |
+| 05 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’](https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments) |
+| 06 | **OpenAI News** | Industry | ◈ | ● HIGH | [OpenAI to acquire Pierre Computer Company, Inc.](https://openai.com/index/openai-to-acquire-pierre) |
+| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Those Jeff Bezos hair transplant photos are very fake](https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk) |
+| 08 | **DeepLearning.AI The Batch** | Industry | ◈ | ● HIGH | [Loop Engineering with LangChain Deep Agents - DeepLearning.AI](https://news.google.com/rss/articles/CBMihgFBVV95cUxPN25lUzFKNjVBem5vS0picFAyQVYxQ3pCcDBhRllhd1VMZHhILVFKRlJUVllWYnU2a0NXbloyVjlxQzhhVVFXVU5JeVBnanFQRWVEZGF6QnhjdHhvMG1QcndVcGFSMFdPZGJiVlQzLVR0dEdLWTZVU0V1NUZrN1E4T1BGWEp3QQ?oc=5) |
+| 09 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google](https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/) |
+| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston](https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/) |
+| 11 | **MIT Technology Review AI** | Products & Agents | 🖼️ | ● HIGH | [Securing the agentic enterprise with data lineage](https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/) |
+| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
