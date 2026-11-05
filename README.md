@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-04 21:48 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-05 02:15 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [17 better ways Elon Musk could have wasted $446 million](https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich) |
-| 02 | **Anthropic News** | Safety & Security | ◈ | ● HIGH | [Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5) |
-| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI is already trying to shape the 2028 election](https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/) |
-| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Is there an AI I can train to play games on my phone?](https://www.reddit.com/r/artificial/comments/1xo0azq/is_there_an_ai_i_can_train_to_play_games_on_my/) |
-| 05 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Meta acquires AI coding startup Conductor](https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/) |
-| 06 | **Ars Technica AI** | Industry | 🖼️ | ● HIGH | [Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”](https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/) |
-| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [My therapist thinks I should chuck the Amazon Bee Frontier out a window](https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables) |
-| 08 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms](https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/) |
-| 09 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Gemini for Home now plugs into AT&T’s smart security system](https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system) |
-| 10 | **Stability AI** | Industry | ◈ | ● HIGH | [What's new in Stable Audio: November 2026 Release Notes - Stability AI](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmJ5T2IzRm5kSkFQREZiZUxvVHpRanUtbms5NEphRFFXTnFPU2tXUVpnWFJidWMwbHNYcWpYZnRfWEs4LXNic21EMWFZZHBsNF9RNTBWZUpqbzFaSlUtS0xHbWNZVEJ2WGt5QmRXSTQwM05OUFFubzVFSEJtNXAxVDd3MFFJOHpa?oc=5) |
-| 11 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out](https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/) |
-| 12 | **The Decoder** | Industry | 🖼️ | ● HIGH | [ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model](https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/) |
+| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Apple is reportedly cutting budgets for its internal AI usage](https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/) |
+| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 03 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [After the midterms, a bigger clash over data centers could be coming](https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/) |
+| 04 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [When LLMs edit neural weights directly, how do we version-control them? Announcing wpgit & Weight-Space Software Engineering (Paper + Code)](https://www.reddit.com/r/artificial/comments/1xo54c3/when_llms_edit_neural_weights_directly_how_do_we/) |
+| 05 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
+| 06 | **Product Wire · Ideogram AI** | Products & Agents | ◈ | ● HIGH | [Images 2.6 vs Ideogram 4.5: Why the Specialist Costs More](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RbWM2WW9NaWIxX0xQLVZuZkZSZUdLUk1jUWZpZUNuVnZsNTJHeHFILTFETV9mS3JWeWxKSXpCVl9hLUJHazFfY0VsSDFLMTl5RGQwSmU1RXZWSTZxcWl0QnlGSjE0ZzZ1?oc=5) |
+| 07 | **Anthropic News** | Safety & Security | ◈ | ● HIGH | [Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5) |
+| 08 | **Perplexity** | Industry | ◈ | ● HIGH | [Free Perplexity Pro with Paypal - Perplexity](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xZlZpTURTUzBKSkw3NlpfcXAteHZMMWZjSjdHMmFDa1ZhRTVHLVZmLW95UUd6czV3cGhhQks0NEpKYTNGUmFKYld2dl9XNDFyRWExdjhzX3kyYThLUjk5MzJn?oc=5) |
+| 09 | **WIRED AI** | Infrastructure | ◈ | ● HIGH | [The Blue Wave Has Tech Bros Scrambling for Data Centers in Space](https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/) |
+| 10 | **Reuters AI & Technology** | Industry | ◈ | ◐ MED | [NEWSLETTER: In midterm ballot measures, voters send a message to AI builders - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxNallWOEU2by0wRExyWXN4NUl2MEtUTEFnN2wyRTZyQlc1cnJncGFQb0xWYm5xNnBoSU1maEsyalhsYUdqck5Ca2Qta0dlZHBha0p3R3BuaEtubHoxT1ZhT0hKc3lZRDRsVXN4dDlZR2R3aFhKcEVNMnRreVJSWXhiM1ptRTQyWm9hempneFVZZEVIT0NCeG9uUFJUTmdPdjdlZElzRm9QcHFBa3BUckVPczNGYWhtclpZOHVEUFh1cmgxdmxM?oc=5) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [AI PACs spent millions trying to shape Congress — here’s how they fared](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/) |
+| 12 | **TII Falcon** | Industry | ◈ | ● HIGH | [Falcon - Technology Innovation Institute](https://news.google.com/rss/articles/CBMiREFVX3lxTE03b0VKOG9OdjF1M0pWN0ZRNGpyTDVCVGNRWnR3S1RqMDRDdzlEa1VtLXFUQWtJVXJaWmNUYXgxVjlheFFG?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
