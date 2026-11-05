@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-05 17:57 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-05 23:32 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Product Wire · ChatGPT Search** | Products & Agents | ◈ | ● HIGH | [ChatGPT Search Hits 20% Of Google’s Query Volume, OpenAI Says](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRi00VEVTUjJObWdXNGNHYl9TeVRQZnBGVFA3d01KbFFuRS1fX1lLc2dYVlQ0NzUtNWRoZzVFSTJINkp6YnlQYTY3dXZRRmFHa2pLZWRaREZyMVVwUFFWNERqN2JOQ2F5SEhER1NRQlZLUWgyR19MRjJhVDAteGJnUzl5RUFUeDU3TENnU0dkWnJHT0NneWV1amZkLVVUdmpIbll1S0wxMzkzZkNCN1pNTlhicktPaEVFVGxJ?oc=5) |
-| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Are We Entering A Bubble With Ai-Gaming?](https://www.reddit.com/r/artificial/comments/1xoo6p5/are_we_entering_a_bubble_with_aigaming/) |
-| 03 | **Google DeepMind** | Frontier Models | ◈ | ● HIGH | [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/) |
-| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [The missing AI number](https://www.reddit.com/r/artificial/comments/1xonjvm/the_missing_ai_number/) |
-| 05 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark](https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/) |
-| 06 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’](https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/) |
-| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Axiom Math wants to keep AI slop out of mathematics](https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/) |
-| 08 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Plugin4Shell Lets Repository Owners Swap Pinned Agents Across LLMS](https://www.reddit.com/r/artificial/comments/1xomjwt/plugin4shell_lets_repository_owners_swap_pinned/) |
-| 09 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Tencent releases Hy4 with vision and computer use, claims second place among Chinese AI models](https://the-decoder.com/tencent-releases-hy4-with-vision-and-computer-use-claims-second-place-among-chinese-ai-models/) |
-| 10 | **Reddit · r/artificial** | Frontier Models | ◈ | ● HIGH | [Remember when OpenAI released the GPT-6 Astra advert and we experienced something new. I decided to build my own platform doing the same thing.](https://www.reddit.com/r/artificial/comments/1xomidm/remember_when_openai_released_the_gpt6_astra/) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 12 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
+| 01 | **DeepLearning.AI The Batch** | Products & Agents | ◈ | ● HIGH | [Evaluating and Improving Agentic Applications - DeepLearning.AI](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUdmX1YwUXBMZFBoTE03b2VmVlJkeXA1dUpyTlFiMU9QcHZrUVRKeWZPQ3hhbGNpTmtOTzhPNW1LVEx2UThnWmRoNTMwTkwza3RlR1BsTEoyZnFpcy1Ba2xwTGFrNEYxMEZkaHBfMl9XSmEteGE5YzNGb3BnQlNfamQ4OTJicnJz?oc=5) |
+| 02 | **Reddit · r/artificial** | Infrastructure | ◈ | ● HIGH | [Is the AI market correction about technology, politics, or both?](https://www.reddit.com/r/artificial/comments/1xoxdqr/is_the_ai_market_correction_about_technology/) |
+| 03 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Muse has a voice mode now](https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar) |
+| 04 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Airbnb says it’s launching an AI travel agent in the first half of 2027](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/) |
+| 05 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Is anyone using LLMs daily to build expertise in a specific field ?](https://www.reddit.com/r/artificial/comments/1xowfk2/is_anyone_using_llms_daily_to_build_expertise_in/) |
+| 06 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Large 4 (Le Chonk) is now open weight - mistral.ai](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmcTVuLWp4c3dYY2lGelVhaG9GdnRZdDlpcEIxLUhjcTJRZ0dCbFRxMVdTaFNfT1NTYXdDMWFVRXRBMzA3MnBUS2paNmZETlV6bGtlWmlGdw?oc=5) |
+| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Perplexity launches its own take on AI agents for work](https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 10 | **Product Wire · Segment Anything** | Products & Agents | ◈ | ● HIGH | [Sam Altman Backtracked on His Most Absurd AI Claim Yet. Sort of](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZEtqbU5kV29vVEFsZ3JnYU5WRE0xNDZPVUdxWm40MW12MlZuR1NTbFplQkIyc3pQdG5yU2xtemRoSHFtQWo1Nk5vNTNmU010VnZteUlfTkZPMjQ2TDB1bzlvbmVlQjVyRHpnVVpWN2FiWkxkTkItbWpTUnNyUVNYYXp6SVNwNmVKNWNaRkVIa25MV2xTRXhfX0ZrU0pIbUU4M1Jxcw?oc=5) |
+| 11 | **Ars Technica AI** | Frontier Models | 🖼️ | ● HIGH | [Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable](https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/) |
+| 12 | **WIRED AI** | Frontier Models | 🖼️ | ● HIGH | [Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not](https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
