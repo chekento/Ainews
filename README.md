@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-06 18:21 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-06 23:27 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **AWS Machine Learning** | Infrastructure | ◈ | ● HIGH | [SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints](https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/) |
-| 02 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [How a Blue Wave midterm might reshape the AI industry](https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/) |
-| 03 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [arXiv Endorsement [D]](https://www.reddit.com/r/MachineLearning/comments/1xpjdk9/arxiv_endorsement_d/) |
-| 04 | **AWS Machine Learning** | Research | ◈ | ● HIGH | [Taxonomy of agentic primitives in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/) |
-| 05 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/) |
-| 06 | **US AI Czar & AI Force Watch** | Compliance & Ethics | ◈ | ● HIGH | [Democrats planning flood of AI bills when they take control of Congress - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5) |
-| 07 | **AWS Machine Learning** | Research | ◈ | ● HIGH | [Serverless MCP server for AI agent data lake access on Amazon ECS Fargate](https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/) |
-| 08 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/) |
-| 09 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1](https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/) |
-| 10 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Big Tech lost big in the 2026 election](https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast) |
-| 11 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [AI is the new dating dealbreaker](https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity) |
-| 12 | **Nous Research** | Research | ◈ | ● HIGH | [claude-subscription-directsdk \| Hermes Marketplace - Hermes Agent](https://news.google.com/rss/articles/CBMihgFBVV95cUxQblktNzlQNktLRXNJdmVwTTd3WV95OTUwOVJGdEZkUkFHOXpMbXpkMUFFeDdYNUd0ejliWmQxLVVjZGpNQ1Izcjc4YTYyeERyVzFRRUhnc29Hc2E3WWQ4bVBCa2dKTEJMenpaVUoxdXpKMVJJMFlEY1FGTnBuZk1LZlRKWUIxdw?oc=5) |
+| 01 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [China reportedly recruited AI exec to spy on Jensen Huang](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy) |
+| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) |
+| 03 | **GitHub AI & ML** | Products & Agents | ◈ | ● HIGH | [Beyond code generation: A developer’s guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/) |
+| 04 | **US AI Czar & AI Force Watch** | Compliance & Ethics | ◈ | ● HIGH | [Democrats planning flood of AI bills when they take control of Congress - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5) |
+| 05 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [AI is the new dating dealbreaker](https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity) |
+| 06 | **Reddit · r/MachineLearning** | Robotics & Embodied AI | ◈ | ● HIGH | [Looking to connect with people working on Embodied AI, Humanoid Robotics & Cognitive Architectures. [D]](https://www.reddit.com/r/MachineLearning/comments/1xpp7z5/looking_to_connect_with_people_working_on/) |
+| 07 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 08 | **Reddit · r/MachineLearning** | Compliance & Ethics | ◈ | ● HIGH | [What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]](https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/) |
+| 09 | **Reddit · r/MachineLearning** | Open Source | ◈ | ● HIGH | [Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]](https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/) |
+| 10 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [CASP-DREAM TAP Challenge: TCR + peptide-MHC activation prediction with unseen test peptides [N]](https://www.reddit.com/r/MachineLearning/comments/1xpn4gp/caspdream_tap_challenge_tcr_peptidemhc_activation/) |
+| 11 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy) |
+| 12 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
