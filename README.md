@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-06 23:27 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-07 03:07 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [China reportedly recruited AI exec to spy on Jensen Huang](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy) |
-| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) |
-| 03 | **GitHub AI & ML** | Products & Agents | ◈ | ● HIGH | [Beyond code generation: A developer’s guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/) |
-| 04 | **US AI Czar & AI Force Watch** | Compliance & Ethics | ◈ | ● HIGH | [Democrats planning flood of AI bills when they take control of Congress - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5) |
-| 05 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [AI is the new dating dealbreaker](https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity) |
-| 06 | **Reddit · r/MachineLearning** | Robotics & Embodied AI | ◈ | ● HIGH | [Looking to connect with people working on Embodied AI, Humanoid Robotics & Cognitive Architectures. [D]](https://www.reddit.com/r/MachineLearning/comments/1xpp7z5/looking_to_connect_with_people_working_on/) |
-| 07 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 08 | **Reddit · r/MachineLearning** | Compliance & Ethics | ◈ | ● HIGH | [What exactly is the relationship between ML academia and industry/big tech nowadays (2026)? [D]](https://www.reddit.com/r/MachineLearning/comments/1xponb2/what_exactly_is_the_relationship_between_ml/) |
-| 09 | **Reddit · r/MachineLearning** | Open Source | ◈ | ● HIGH | [Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]](https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/) |
-| 10 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [CASP-DREAM TAP Challenge: TCR + peptide-MHC activation prediction with unseen test peptides [N]](https://www.reddit.com/r/MachineLearning/comments/1xpn4gp/caspdream_tap_challenge_tcr_peptidemhc_activation/) |
-| 11 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [All the latest updates on AI data centers](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy) |
-| 12 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces) |
+| 01 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/) |
+| 02 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 03 | **Axios AI** | Industry | ◈ | ● HIGH | [Anthropic's falling IPO valuation raises stakes for broader AI trade - Axios](https://news.google.com/rss/articles/CBMidkFVX3lxTE4yTl96WG92c29IdFAtUW9FWXhGRDNRaFhyVXVEb1ZWMHNTTzRpcTk4cVBYbGJQSGc4S1R0c0RXSnVuUVA4LUJZc19IeGlzb3dlZFo2TWFxb3JNd0I1Q29mcXpKQ3hLS3Jka1VIRFp0aE1rTzlMN0E?oc=5) |
+| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation) |
+| 05 | **Bloomberg.com · provider monitor** | Infrastructure | ◈ | ● HIGH | [Neocloud Groq Aims to Double Value to $8 Billion Amid AI Selloff](https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWJOMnVOVXFtUmhZNW90dmJQa2ZXUmx2bUtIV3ZPTmlYRWlxdnFiTDFDd085S3hCMEcxYVhpUk9wZm5lRThxZnBhSUJQczhXRlZvN0tkSFRfZG1iWHU1dkR0ZWJQemFLeGotVVBnZDdfdXFQWXBIX05pZ043VTlIeV9PU2ptRVNrWlJtZ2FFNmY3RWhjejFHdU5OV21feS1zUVRWOW5jM1owbDFtNE0wanQtMHU?oc=5) |
+| 06 | **Reddit · r/LocalLLaMA** | Industry | ◈ | ● HIGH | [Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas](https://www.reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million/) |
+| 07 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [China reportedly recruited AI exec to spy on Jensen Huang](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy) |
+| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 10 | **Reddit · r/LocalLLaMA** | Products & Agents | ◈ | ● HIGH | [I'm going to try to turn a 4B model into a genuinely useful coding agent that can compete with much larger models](https://www.reddit.com/r/LocalLLaMA/comments/1xppw37/im_going_to_try_to_turn_a_4b_model_into_a/) |
+| 11 | **GitHub AI & ML** | Products & Agents | ◈ | ● HIGH | [Beyond code generation: A developer’s guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/) |
+| 12 | **US AI Czar & AI Force Watch** | Compliance & Ethics | ◈ | ● HIGH | [Democrats planning flood of AI bills when they take control of Congress - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
