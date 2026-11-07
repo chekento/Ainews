@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-07 16:48 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-07 20:48 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [UK banks invest in hiring as benefits from AI remain elusive](https://www.reddit.com/r/artificial/comments/1xqat0v/uk_banks_invest_in_hiring_as_benefits_from_ai/) |
-| 02 | **The Decoder** | Research | 🖼️ | ● HIGH | [Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs](https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/) |
-| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [“I can’t help with killing you” said the AI toy.](https://www.reddit.com/r/artificial/comments/1xqactu/i_cant_help_with_killing_you_said_the_ai_toy/) |
-| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Professor returns from lunch to find AI deleted year’s worth of lecture notes](https://www.reddit.com/r/artificial/comments/1xq9os9/professor_returns_from_lunch_to_find_ai_deleted/) |
-| 05 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake](https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review) |
-| 06 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The US let Nvidia sell chips to an empty office in China](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government) |
-| 07 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [The gap between open and closed AI models in cyber capabilities keeps shrinking](https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/) |
-| 08 | **Perplexity** | Industry | ◈ | ● HIGH | [Teammates work for you - Perplexity](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YN2RtR0RXczRNR2lCeFc1T2tycWdKU0x0TWRrNWxLMzBUQV9WZ1BIcERxemx4RW8tV3dTUjUtQXQ0aWZxaWtEUjJIb3g0YU1EWUpnQi1lN2xFRlk?oc=5) |
-| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Curious AInough](https://www.reddit.com/r/artificial/comments/1xq8xje/curious_ainough/) |
-| 10 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 11 | **Engadget AI** | Industry | ◈ | ● HIGH | [China's Main Intelligence Agency Reportedly Recruited The Spy Who Targeted NVIDIA's CEO - Engadget](https://news.google.com/rss/articles/CBMingFBVV95cUxOVWZlRGU3ZDE2bE9SVVZVVVg2N2I0Ukl5Q2xqVDZDUHo5T1dmT3NfWkszY0IyNXZYdnpHaHlSMjdKeGJaR0hrMFo4QzFfbXBHbHYySVZoVF84dUw4RWFYTGJEVFp0am1zcGp5VUh0Nk5abmRURDJLbUJudDU5QkI5V2xFUXlDOTdfRGo3ZUZDRTJhOVNmczU4U3ZkbUpNZw?oc=5) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 01 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Combinatorial Optimization with Pointer Networks: Theory, Benchmarks, and Limitations [P]](https://www.reddit.com/r/MachineLearning/comments/1xqgg4v/combinatorial_optimization_with_pointer_networks/) |
+| 02 | **Product Wire · garak** | Products & Agents | ◈ | ● HIGH | [Garak: LLM Vulnerability Scanner & Probing Guide](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WM0N0dWhhUzh6WmpCN3BUbFJIZU5lRHp6WWRrdXNpNFp1WWhkN3A4Q1pJTjk2WTkwOGlHM1ItWlNhWlRnLVE?oc=5) |
+| 03 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
+| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 05 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 06 | **Perplexity** | Industry | ◈ | ● HIGH | [Teammates work for you - Perplexity](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YN2RtR0RXczRNR2lCeFc1T2tycWdKU0x0TWRrNWxLMzBUQV9WZ1BIcERxemx4RW8tV3dTUjUtQXQ0aWZxaWtEUjJIb3g0YU1EWUpnQi1lN2xFRlk?oc=5) |
+| 07 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation](https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/) |
+| 08 | **Liquid AI** | Industry | ◈ | ● HIGH | [Console - Liquid AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OOVNFRl95eUJOQ3psYUcxOVFhZDlsZGVpUzlNVmMzbkVrRV9vZ1VkQmxYQldQNWhaR21pVnZFOUNZMkk3X3ZZUmNFVQ?oc=5) |
+| 09 | **Product Wire · Evaluate** | Products & Agents | ◈ | ● HIGH | [Data Science Initiative Talk: David Vidmar - "How Should We Evaluate AI in Medicine?"](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoeWN3SUtaeUtYSWlCeGIzUXBhWHFVZEE1WTVldU85RVhVMEpFMTNaSWlqOVFVSDVYbHExcEtuaV9DWkZuSjlDSVlvaWVKeV9EajNIc0kwNUJROHd5OWFuYk9TQVRzRzA?oc=5) |
+| 10 | **ISO AI Standards** | Industry | ◈ | ● HIGH | [ISO/IEC AWI TR 27258 - ISO](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuUTY0dFZTNnVMSGlJa0J2blNxTTFocWsxdzNlQ3BaaElqSmJrOHlqc0lRN1p2Tms3a1NHYXVkcmdVaG1tR0JkTmhUTkU1VWNS?oc=5) |
+| 11 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds](https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/) |
+| 12 | **The Decoder** | Research | 🖼️ | ● HIGH | [Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs](https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
