@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-07 10:38 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-07 16:48 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Decoder** | Compliance & Ethics | 🖼️ | ◐ MED | [Google's AI detects high blood pressure from a regular smartwatch without a cuff](https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/) |
-| 02 | **The Decoder** | Industry | 🖼️ | ● HIGH | [OpenAI lands an $11 billion funding round, but has to court dentists for more capital](https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/) |
-| 03 | **Mila** | Industry | ◈ | ● HIGH | [Ariana Olivier - Mila - Quebec Artificial Intelligence Institute](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3T3dvcmxqanRVY0RjNlhJZkEtSk5QUlk0U1NpRjY3YkJLZ2FWaDRCdi1aaTlEdktSVGtMb2xmQWNKRlQteW1QNXd2QnJrcmF4RzhfRFREV1pXMXM?oc=5) |
-| 04 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Are ICLR 2027 reviews unusually shallow this year, or is it just me? [D]](https://www.reddit.com/r/MachineLearning/comments/1xq1f1m/are_iclr_2027_reviews_unusually_shallow_this_year/) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 06 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]](https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/) |
-| 07 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]](https://www.reddit.com/r/MachineLearning/comments/1xpzqjy/iclr27_received_a_review_that_seems_to_be_for_an/) |
-| 08 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 01 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [UK banks invest in hiring as benefits from AI remain elusive](https://www.reddit.com/r/artificial/comments/1xqat0v/uk_banks_invest_in_hiring_as_benefits_from_ai/) |
+| 02 | **The Decoder** | Research | 🖼️ | ● HIGH | [Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs](https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/) |
+| 03 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [“I can’t help with killing you” said the AI toy.](https://www.reddit.com/r/artificial/comments/1xqactu/i_cant_help_with_killing_you_said_the_ai_toy/) |
+| 04 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Professor returns from lunch to find AI deleted year’s worth of lecture notes](https://www.reddit.com/r/artificial/comments/1xq9os9/professor_returns_from_lunch_to_find_ai_deleted/) |
+| 05 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake](https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review) |
+| 06 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The US let Nvidia sell chips to an empty office in China](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government) |
+| 07 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [The gap between open and closed AI models in cyber capabilities keeps shrinking](https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/) |
+| 08 | **Perplexity** | Industry | ◈ | ● HIGH | [Teammates work for you - Perplexity](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YN2RtR0RXczRNR2lCeFc1T2tycWdKU0x0TWRrNWxLMzBUQV9WZ1BIcERxemx4RW8tV3dTUjUtQXQ0aWZxaWtEUjJIb3g0YU1EWUpnQi1lN2xFRlk?oc=5) |
+| 09 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Curious AInough](https://www.reddit.com/r/artificial/comments/1xq8xje/curious_ainough/) |
 | 10 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 11 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [ICLR27 math and stats paper review experience [D]](https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/) |
-| 12 | **Liquid AI** | Industry | ◈ | ● HIGH | [Console - Liquid AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OOVNFRl95eUJOQ3psYUcxOVFhZDlsZGVpUzlNVmMzbkVrRV9vZ1VkQmxYQldQNWhaR21pVnZFOUNZMkk3X3ZZUmNFVQ?oc=5) |
+| 11 | **Engadget AI** | Industry | ◈ | ● HIGH | [China's Main Intelligence Agency Reportedly Recruited The Spy Who Targeted NVIDIA's CEO - Engadget](https://news.google.com/rss/articles/CBMingFBVV95cUxOVWZlRGU3ZDE2bE9SVVZVVVg2N2I0Ukl5Q2xqVDZDUHo5T1dmT3NfWkszY0IyNXZYdnpHaHlSMjdKeGJaR0hrMFo4QzFfbXBHbHYySVZoVF84dUw4RWFYTGJEVFp0am1zcGp5VUh0Nk5abmRURDJLbUJudDU5QkI5V2xFUXlDOTdfRGo3ZUZDRTJhOVNmczU4U3ZkbUpNZw?oc=5) |
+| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
