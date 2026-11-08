@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-08 13:49 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-08 18:45 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good](https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/) |
-| 02 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts](https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/) |
-| 03 | **Product Wire · vLLM** | Products & Agents | ◈ | ● HIGH | [LLM Inference Monitoring: vLLM, 13 Steps, 60 Min [2026]](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZkxZZXgxb3RaaXdqa2ctcnpubXF5eXk5bjc5RVJJeEZrYUhEMFdPbU1RamxlR0xnX3Z2cWFPTURDZkxPRkc2UVVaaV9QR1BHRnpjYWZyaGhfaHBlZ1doYjJqa3ltR2NsaU40RmJKNWl3eC03NkpjX0tDXzdjSUg4VzBQbWtJRWdhUkc0QVBWS2ExQQ?oc=5) |
-| 04 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 01 | **Reddit · r/MachineLearning** | Open Source | ◈ | ● HIGH | [Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier [N]](https://www.reddit.com/r/MachineLearning/comments/1xr4hkm/artificial_analysis_multimodal_decision_model/) |
+| 02 | **Reddit · r/MachineLearning** | Compliance & Ethics | ◈ | ● HIGH | [I merged attention and MLP processing into a single gated Transformer block. GAP [R]](https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/) |
+| 03 | **shattered.io · provider monitor** | Products & Agents | ◈ | ● HIGH | [Revolut Cuts AI Coding Costs 10x With GLM-5.3 [2026]](https://news.google.com/rss/articles/CBMiekFVX3lxTE9QZ0NZSkZHeDhtWm1VU3QzMGhJNDVqVTQ4aGxYWW96UmRaVUNSdzlmTURidy1BTDNpVVNEYjFxOWRKejhfb1NMdndXZHE0Vm9ucUlkZ3FSNm5ldDZNNElhakVLbGFaeUVndmpuYzVaZ3lSV3JEOHhRT0Jn?oc=5) |
+| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Elvis and Eminem rights holders are suing Suno](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit) |
+| 05 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
 | 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 07 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [World Models Will Soon Be Inescapable. Here’s What You Need to Know](https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/) |
-| 08 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 09 | **Product Wire · GLM** | Products & Agents | ◈ | ● HIGH | [GLM 5.5: Why It Never Shipped and What Comes Next](https://news.google.com/rss/articles/CBMiQkFVX3lxTE93VUo2SU45Wnc0RXc0OGVSSzRZWGFXaXlHdjg3ZktkSFFBMks0RFpIX1pITW8xa0ZDY3UzZUdObXlDZw?oc=5) |
-| 10 | **The Decoder** | Research | 🖼️ | ● HIGH | [AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test](https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/) |
-| 11 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 12 | **Luma AI** | Products & Agents | ◈ | ● HIGH | [Luma API Platform - platform.lumalabs.ai](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzeHBuaGs5ZlpXMjlKUVVUbDBoTlVXb3pFbVpOcEotRDBSU3g3cTUzRlp5RVhNSjhOV3p4RGNlMlN0NEE?oc=5) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 08 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 09 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 10 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News](https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/) |
+| 11 | **Engadget AI** | Industry | ◈ | ◐ MED | [The Game Reverse Engineering Community Is The Latest Casualty Of AI - Engadget](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRnhKWjJhOTdYYWI5ZnhfVDNycFltcmdrTENkRFhzSFA4MUo2MkU5dXdMcmlNMDVNdDduRmlCVlZhSWpFUHpqNm9pUnZlQXNqQl93U2RPeGRPSGktaWowWG9BR21JMkRPTUtvSFZhSFRvVFhrSXdSa014ejRzUlZZa0YyZFIxUndpemZlc2hsY1I?oc=5) |
+| 12 | **CNBC AI** | Products & Agents | ◈ | ● HIGH | [Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations - CNBC](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RZG5rV1RvYWVvM1lzN1ZTVkd1RVhXSW5GbGc1WERLUzdyRUk3WUczLTVwdUNNdnVRWmpYSTdhWkViRl9SRS1pandpUUJocDQ0eDlwSi1tQV80dEJQcWlDMXZn?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
