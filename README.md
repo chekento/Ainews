@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-07 20:48 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-08 00:24 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Combinatorial Optimization with Pointer Networks: Theory, Benchmarks, and Limitations [P]](https://www.reddit.com/r/MachineLearning/comments/1xqgg4v/combinatorial_optimization_with_pointer_networks/) |
-| 02 | **Product Wire · garak** | Products & Agents | ◈ | ● HIGH | [Garak: LLM Vulnerability Scanner & Probing Guide](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WM0N0dWhhUzh6WmpCN3BUbFJIZU5lRHp6WWRrdXNpNFp1WWhkN3A4Q1pJTjk2WTkwOGlHM1ItWlNhWlRnLVE?oc=5) |
-| 03 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 01 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
+| 02 | **Quasa.io · provider monitor** | Products & Agents | ◈ | ● HIGH | [Canva AI or Adobe Firefly? Choose by Finished-Asset Workflow](https://news.google.com/rss/articles/CBMijwFBVV95cUxQWDNSekRFZjAyMGM0TUdlRk9rRWdvZHZkcmRnTC13UURhYl9Kc0d3ZXJiYlJjeDFDWmR6a191a1FyMWVBV1lETXgzYVNDQ1BvZE9GRXZxTXFrdmtvYVlfc2F4QnZIelhUN1dPTnB4NGU3N1Jqb2hrWkVNTUd0UHd1cDcwRGREclZiV0lOOFVfWQ?oc=5) |
+| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage Dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/) |
 | 05 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 06 | **Perplexity** | Industry | ◈ | ● HIGH | [Teammates work for you - Perplexity](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YN2RtR0RXczRNR2lCeFc1T2tycWdKU0x0TWRrNWxLMzBUQV9WZ1BIcERxemx4RW8tV3dTUjUtQXQ0aWZxaWtEUjJIb3g0YU1EWUpnQi1lN2xFRlk?oc=5) |
-| 07 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation](https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/) |
-| 08 | **Liquid AI** | Industry | ◈ | ● HIGH | [Console - Liquid AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OOVNFRl95eUJOQ3psYUcxOVFhZDlsZGVpUzlNVmMzbkVrRV9vZ1VkQmxYQldQNWhaR21pVnZFOUNZMkk3X3ZZUmNFVQ?oc=5) |
-| 09 | **Product Wire · Evaluate** | Products & Agents | ◈ | ● HIGH | [Data Science Initiative Talk: David Vidmar - "How Should We Evaluate AI in Medicine?"](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoeWN3SUtaeUtYSWlCeGIzUXBhWHFVZEE1WTVldU85RVhVMEpFMTNaSWlqOVFVSDVYbHExcEtuaV9DWkZuSjlDSVlvaWVKeV9EajNIc0kwNUJROHd5OWFuYk9TQVRzRzA?oc=5) |
-| 10 | **ISO AI Standards** | Industry | ◈ | ● HIGH | [ISO/IEC AWI TR 27258 - ISO](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuUTY0dFZTNnVMSGlJa0J2blNxTTFocWsxdzNlQ3BaaElqSmJrOHlqc0lRN1p2Tms3a1NHYXVkcmdVaG1tR0JkTmhUTkU1VWNS?oc=5) |
-| 11 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds](https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/) |
-| 12 | **The Decoder** | Research | 🖼️ | ● HIGH | [Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs](https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/) |
+| 06 | **Axios AI** | Industry | ◈ | ● HIGH | [Anthropic's falling IPO valuation raises stakes for broader AI trade - Axios](https://news.google.com/rss/articles/CBMidkFVX3lxTE4yTl96WG92c29IdFAtUW9FWXhGRDNRaFhyVXVEb1ZWMHNTTzRpcTk4cVBYbGJQSGc4S1R0c0RXSnVuUVA4LUJZc19IeGlzb3dlZFo2TWFxb3JNd0I1Q29mcXpKQ3hLS3Jka1VIRFp0aE1rTzlMN0E?oc=5) |
+| 07 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/) |
+| 08 | **Stability AI** | Industry | ◈ | ● HIGH | [Billing - Stability AI Platform - Stability AI Platform](https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wdGxjd2VyT0tKNGdfN2pYM1VENEY3MG82UGxSYmZpREhxV29jZktBdzJWV3cxampGSWxkalU4M2t0UnI5U2VYMGhEdnoyTzhWSi1ZRTNvYkRERjg?oc=5) |
+| 09 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Combinatorial Optimization with Pointer Networks: Theory, Benchmarks, and Limitations [P]](https://www.reddit.com/r/MachineLearning/comments/1xqgg4v/combinatorial_optimization_with_pointer_networks/) |
+| 10 | **Product Wire · garak** | Products & Agents | ◈ | ● HIGH | [Garak: LLM Vulnerability Scanner & Probing Guide](https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WM0N0dWhhUzh6WmpCN3BUbFJIZU5lRHp6WWRrdXNpNFp1WWhkN3A4Q1pJTjk2WTkwOGlHM1ItWlNhWlRnLVE?oc=5) |
+| 11 | **Luma AI** | Products & Agents | ◈ | ● HIGH | [Luma API Platform - platform.lumalabs.ai](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzeHBuaGs5ZlpXMjlKUVVUbDBoTlVXb3pFbVpOcEotRDBSU3g3cTUzRlp5RVhNSjhOV3p4RGNlMlN0NEE?oc=5) |
+| 12 | **Product Wire · ChatGPT Edu** | Products & Agents | ◈ | ● HIGH | [Three Australian Universities Plan Wider ChatGPT Edu Access](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4VkhLaDlHVjZFZTN0UVI4dHBQZExxOXc0bzNNQjNSMlRtMHhNUWJZQjViSWZrTkFZQV9KYnI4Z0Q3R1NZZjRvRmdEdjN2cUJvZW8zRl81UlNkaTg?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
