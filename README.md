@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-11 07:00 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-11 15:04 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
 | 01 | **OpenAI News** | Compliance & Ethics | ◈ | ● HIGH | [Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless) |
-| 02 | **OpenAI News** | Industry | ◈ | ● HIGH | [ChatGPT Plus for veterans and servicemembers](https://openai.com/index/chatgpt-plus-for-veterans) |
-| 03 | **DeepLearning.AI The Batch** | Products & Agents | ◈ | ● HIGH | [Evaluating and Improving Agentic Applications - DeepLearning.AI](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUdmX1YwUXBMZFBoTE03b2VmVlJkeXA1dUpyTlFiMU9QcHZrUVRKeWZPQ3hhbGNpTmtOTzhPNW1LVEx2UThnWmRoNTMwTkwza3RlR1BsTEoyZnFpcy1Ba2xwTGFrNEYxMEZkaHBfMl9XSmEteGE5YzNGb3BnQlNfamQ4OTJicnJz?oc=5) |
-| 04 | **Product Wire · Continue** | Products & Agents | ◈ | ● HIGH | [U.S. Stocks Rally on Divided Government as AI Wobbles Continue](https://news.google.com/rss/articles/CBMirAFBVV95cUxQcWlNLV9lYnhkTnhjMlBRNEVoX0ZsM1lmV1NJc1puOVk5V21sNVhYdmF1Q19wbmJzNjBxMmFnbEhZejF4SHhIZFF6SFBhWm45amMtMUxndmZ2aDEtUUZJUEJmTGR2OUtOeTV0M1N3a1h6SGQyNUFMU2dXWndJUlJUVUNJYnFnX0diQnNNUDNLZlU3Uy0tdU1lMk90MEhVWER2cXdMM09zZW5JYWc0?oc=5) |
+| 02 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [OpenAI’s ‘shepherds’ affirm blockbuster physics result](https://www.reddit.com/r/artificial/comments/1xtk09r/openais_shepherds_affirm_blockbuster_physics/) |
+| 03 | **Google DeepMind** | Industry | 🖼️ | ● HIGH | [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/) |
+| 04 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth](https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/) |
 | 05 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
-| 06 | **Reddit · r/MachineLearning** | Frontier Models | ◈ | ● HIGH | [Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R]](https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/) |
-| 07 | **CNBC AI** | Industry | ◈ | ◐ MED | [U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says - CNBC](https://news.google.com/rss/articles/CBMicEFVX3lxTFBORGNIaVNVRlc0ZlQ3VGZhTTE4YjJ0dFgyektfQjByZEUwVExVNUpkaGplOFFfRlo0YXNuQ3BQb0xyZ3NGYVZJSTdfZC1QRW5zWE1nZGN2WGZKVk0wcEdTWkZCMUFoM25MeTlhZktFWVc?oc=5) |
-| 08 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model](https://huggingface.co/blog/qvac/botpsy) |
-| 09 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [Auditable Human-Agent Teams for Autonomous X-ray Experimentation](https://arxiv.org/abs/2611.12933) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery](https://arxiv.org/abs/2611.12934) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring](https://arxiv.org/abs/2611.12935) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding](https://arxiv.org/abs/2611.12936) |
+| 06 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days](https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/) |
+| 07 | **IEEE Spectrum AI** | Industry | 🖼️ | ● HIGH | [When Does It Actually Make Sense to Put AI Into Products?](https://spectrum.ieee.org/human-centered-ai-product-design) |
+| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads](https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/) |
+| 09 | **The Decoder** | Industry | 🖼️ | ● HIGH | [US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs](https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/) |
+| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
