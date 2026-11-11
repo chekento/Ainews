@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-11 15:04 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-11 21:51 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
 | 01 | **OpenAI News** | Compliance & Ethics | ◈ | ● HIGH | [Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless) |
-| 02 | **Reddit · r/artificial** | Compliance & Ethics | ◈ | ● HIGH | [OpenAI’s ‘shepherds’ affirm blockbuster physics result](https://www.reddit.com/r/artificial/comments/1xtk09r/openais_shepherds_affirm_blockbuster_physics/) |
-| 03 | **Google DeepMind** | Industry | 🖼️ | ● HIGH | [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/) |
-| 04 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth](https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/) |
-| 05 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
-| 06 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days](https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/) |
-| 07 | **IEEE Spectrum AI** | Industry | 🖼️ | ● HIGH | [When Does It Actually Make Sense to Put AI Into Products?](https://spectrum.ieee.org/human-centered-ai-product-design) |
-| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads](https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/) |
-| 09 | **The Decoder** | Industry | 🖼️ | ● HIGH | [US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs](https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/) |
-| 10 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 12 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 02 | **Reddit · r/MachineLearning** | Robotics & Embodied AI | ◈ | ● HIGH | [I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]](https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/) |
+| 03 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [The attendee’s guide to the AWS re:Invent 2026 AI/ML track](https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/) |
+| 04 | **AWS Machine Learning** | Research | ◈ | ● HIGH | [Automating AWS Agent Registry updates with push-based architecture](https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/) |
+| 05 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [How DXC Technology built a multi-model AI substrate on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/) |
+| 06 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Have people given up on ICLR reviews? [D]](https://www.reddit.com/r/MachineLearning/comments/1xtt0px/have_people_given_up_on_iclr_reviews_d/) |
+| 07 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
+| 08 | **גלובס · provider monitor** | Frontier Models | ◈ | ● HIGH | [AI21 Labs on track at last?](https://news.google.com/rss/articles/CBMic0FVX3lxTE1jZl9LTGF3bmMyRW5ZOFJjU3pDX3V2SUFKNHFfSUhyejgzS3JNcmFxOURTMG5jYnBZazVYUm5PQUxDeEZuMGF3Qml2VXhWNHlGQWhFX0FnYkNxdVZpUHVZNmo5VThpSjBSanpnT1NFMEp0MXc?oc=5) |
+| 09 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Why the data center you dread might never even be built](https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/) |
+| 10 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass](https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/) |
+| 11 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Meta is losing its longtime head of infrastructure](https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/) |
+| 12 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [How backlash and red tape continue to slow data centers post-Blue Wave](https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
