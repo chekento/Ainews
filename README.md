@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-11 21:51 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-12 02:50 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **OpenAI News** | Compliance & Ethics | ◈ | ● HIGH | [Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless) |
-| 02 | **Reddit · r/MachineLearning** | Robotics & Embodied AI | ◈ | ● HIGH | [I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]](https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/) |
-| 03 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [The attendee’s guide to the AWS re:Invent 2026 AI/ML track](https://aws.amazon.com/blogs/machine-learning/the-attendees-guide-to-the-aws-reinvent-2026-ai-ml-track/) |
-| 04 | **AWS Machine Learning** | Research | ◈ | ● HIGH | [Automating AWS Agent Registry updates with push-based architecture](https://aws.amazon.com/blogs/machine-learning/automating-aws-agent-registry-updates-with-push-based-architecture/) |
-| 05 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [How DXC Technology built a multi-model AI substrate on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-dxc-technology-built-a-multi-model-ai-substrate-on-amazon-bedrock/) |
-| 06 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [Have people given up on ICLR reviews? [D]](https://www.reddit.com/r/MachineLearning/comments/1xtt0px/have_people_given_up_on_iclr_reviews_d/) |
-| 07 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
-| 08 | **גלובס · provider monitor** | Frontier Models | ◈ | ● HIGH | [AI21 Labs on track at last?](https://news.google.com/rss/articles/CBMic0FVX3lxTE1jZl9LTGF3bmMyRW5ZOFJjU3pDX3V2SUFKNHFfSUhyejgzS3JNcmFxOURTMG5jYnBZazVYUm5PQUxDeEZuMGF3Qml2VXhWNHlGQWhFX0FnYkNxdVZpUHVZNmo5VThpSjBSanpnT1NFMEp0MXc?oc=5) |
-| 09 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Why the data center you dread might never even be built](https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/) |
-| 10 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass](https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/) |
-| 11 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Meta is losing its longtime head of infrastructure](https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/) |
-| 12 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [How backlash and red tape continue to slow data centers post-Blue Wave](https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/) |
+| 01 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
+| 02 | **Product Wire · Notion AI** | Products & Agents | ◈ | ● HIGH | [Fireworks AI breach hit storage holding Notion AI chats](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVhoSGprdFREcFhZWWRLR2t4RW9nbS1LVlYydlRpbVpjSk5jUlYtZi1qRDNwTmdSX0lEQ1N0cS1IWjZPM0JKVUw2SGhYMW5TREQzbF9XdFV1U3VmbllIYlJXckE4WGNBU3VRaUd2VEQ0TUpGYUpzeEF1SDlKSDhvSW9KaU4wXzZQS3JCSEtzTm5FeDhRSXRqZGZhRVpXTFBrdzRQY2lkYnhxNFdISVl3T25uaEtjNHlzaW5QN2N5Y1dreXlPR1llbVhn?oc=5) |
+| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 05 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Build autonomous AI agents with Amazon Bedrock and Spring AI](https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/) |
+| 06 | **DeepLearning.AI The Batch** | Products & Agents | ◈ | ● HIGH | [Evaluating and Improving Agentic Applications - DeepLearning.AI](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUdmX1YwUXBMZFBoTE03b2VmVlJkeXA1dUpyTlFiMU9QcHZrUVRKeWZPQ3hhbGNpTmtOTzhPNW1LVEx2UThnWmRoNTMwTkwza3RlR1BsTEoyZnFpcy1Ba2xwTGFrNEYxMEZkaHBfMl9XSmEteGE5YzNGb3BnQlNfamQ4OTJicnJz?oc=5) |
+| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Nvidia is reportedly preparing to fire Jensen Huang](https://www.theverge.com/tech/1031652/jensen-huang-rumor) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 09 | **OpenAI News** | Compliance & Ethics | ◈ | ● HIGH | [Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless) |
+| 10 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/) |
+| 11 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 12 | **AWS Machine Learning** | Compliance & Ethics | ◈ | ● HIGH | [OpenAI Codex on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
