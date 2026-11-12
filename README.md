@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-12 02:50 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-12 10:53 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
-| 02 | **Product Wire · Notion AI** | Products & Agents | ◈ | ● HIGH | [Fireworks AI breach hit storage holding Notion AI chats](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVhoSGprdFREcFhZWWRLR2t4RW9nbS1LVlYydlRpbVpjSk5jUlYtZi1qRDNwTmdSX0lEQ1N0cS1IWjZPM0JKVUw2SGhYMW5TREQzbF9XdFV1U3VmbllIYlJXckE4WGNBU3VRaUd2VEQ0TUpGYUpzeEF1SDlKSDhvSW9KaU4wXzZQS3JCSEtzTm5FeDhRSXRqZGZhRVpXTFBrdzRQY2lkYnhxNFdISVl3T25uaEtjNHlzaW5QN2N5Y1dreXlPR1llbVhn?oc=5) |
-| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 05 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Build autonomous AI agents with Amazon Bedrock and Spring AI](https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/) |
-| 06 | **DeepLearning.AI The Batch** | Products & Agents | ◈ | ● HIGH | [Evaluating and Improving Agentic Applications - DeepLearning.AI](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUdmX1YwUXBMZFBoTE03b2VmVlJkeXA1dUpyTlFiMU9QcHZrUVRKeWZPQ3hhbGNpTmtOTzhPNW1LVEx2UThnWmRoNTMwTkwza3RlR1BsTEoyZnFpcy1Ba2xwTGFrNEYxMEZkaHBfMl9XSmEteGE5YzNGb3BnQlNfamQ4OTJicnJz?oc=5) |
-| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Nvidia is reportedly preparing to fire Jensen Huang](https://www.theverge.com/tech/1031652/jensen-huang-rumor) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 09 | **OpenAI News** | Compliance & Ethics | ◈ | ● HIGH | [Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless) |
-| 10 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/) |
-| 11 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 12 | **AWS Machine Learning** | Compliance & Ethics | ◈ | ● HIGH | [OpenAI Codex on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/) |
+| 01 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently](https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/) |
+| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Nvidia is reportedly preparing to fire Jensen Huang](https://www.theverge.com/tech/1031652/jensen-huang-rumor) |
+| 03 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out](https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/) |
+| 04 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Australia's proposed AI safety bill would force frontier model makers to open up to independent testing](https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/) |
+| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.reddit.com/r/artificial/comments/1xu8l1b/united_airlines_bans_ai_agents_from_booking/) |
+| 06 | **OpenAI News** | Industry | ◈ | ● HIGH | [Holiday Extras is rethinking what it can build with Codex](https://openai.com/business/customer-stories/holidays-extras-codex) |
+| 07 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Manus scrapped traditional coding interviews and cut engineer hiring to half its peak; PMs now write code](https://www.reddit.com/r/artificial/comments/1xu7wfm/manus_scrapped_traditional_coding_interviews_and/) |
+| 08 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 10 | **Reddit · r/artificial** | Open Source | ◈ | ● HIGH | [Powerful open source/open wight AI recommendations](https://www.reddit.com/r/artificial/comments/1xu6r3y/powerful_open_sourceopen_wight_ai_recommendations/) |
+| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 12 | **Product Wire · Llama** | Products & Agents | ◈ | ● HIGH | [Meta Llama Learns by Deleting 0.05% of Weights: 3,600x Less](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdC1VcTdIbUFYb0xCT1hXZDZhTXprNFJiV3VLNjVXTEZYMDE4YzNtQjF1cjhJUjlyQkdoa1ZWckQ1Vl80Z2NZM0s0NFlSTTVvNlZlbFFzTG5lUm4xMUhzSWNFVlpEbmFScWdEVkt0bS1Ma0s1NFkxR2VHdVNwVEZ2S2R1dy1Tamk5TWRGbw?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
