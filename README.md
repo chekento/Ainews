@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-12 10:53 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-12 18:48 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently](https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/) |
-| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Nvidia is reportedly preparing to fire Jensen Huang](https://www.theverge.com/tech/1031652/jensen-huang-rumor) |
-| 03 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out](https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/) |
-| 04 | **The Decoder** | Compliance & Ethics | 🖼️ | ● HIGH | [Australia's proposed AI safety bill would force frontier model makers to open up to independent testing](https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/) |
-| 05 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.reddit.com/r/artificial/comments/1xu8l1b/united_airlines_bans_ai_agents_from_booking/) |
-| 06 | **OpenAI News** | Industry | ◈ | ● HIGH | [Holiday Extras is rethinking what it can build with Codex](https://openai.com/business/customer-stories/holidays-extras-codex) |
-| 07 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Manus scrapped traditional coding interviews and cut engineer hiring to half its peak; PMs now write code](https://www.reddit.com/r/artificial/comments/1xu7wfm/manus_scrapped_traditional_coding_interviews_and/) |
-| 08 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 10 | **Reddit · r/artificial** | Open Source | ◈ | ● HIGH | [Powerful open source/open wight AI recommendations](https://www.reddit.com/r/artificial/comments/1xu6r3y/powerful_open_sourceopen_wight_ai_recommendations/) |
-| 11 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 12 | **Product Wire · Llama** | Products & Agents | ◈ | ● HIGH | [Meta Llama Learns by Deleting 0.05% of Weights: 3,600x Less](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdC1VcTdIbUFYb0xCT1hXZDZhTXprNFJiV3VLNjVXTEZYMDE4YzNtQjF1cjhJUjlyQkdoa1ZWckQ1Vl80Z2NZM0s0NFlSTTVvNlZlbFFzTG5lUm4xMUhzSWNFVlpEbmFScWdEVkt0bS1Ma0s1NFkxR2VHdVNwVEZ2S2R1dy1Tamk5TWRGbw?oc=5) |
+| 01 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Optimizing cost per task and proving agent ROI on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/) |
+| 02 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Building a self-service LLM gateway with Amazon Bedrock and LiteLLM](https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/) |
+| 03 | **TechCrunch AI** | Open Source | ◈ | ● HIGH | [Jensen Huang’s exit puts Nvidia’s support for open source in question](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/) |
+| 04 | **Product Wire · NVIDIA Isaac** | Products & Agents | ◈ | ● HIGH | [News: Agile ONE SN: Compact Humanoid Built on NVIDIA Isaac GR00T](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSUtBYVdraHdSY1ZpRlU4SFYzU2FveGJ1QzF0anFqdXIxZjMzNm9pN0lXbjdVVHZGUGl5b3lmdUIzbTZ1STJScm5xRlctb2llS3NBTVV6SXROWlR2QkRjTW5kckt4bmw2alJuQXVwUkZqeVlJQ05fMDBnOUFfNjNNblMtel9lWTFiVHk5bzd5dHdaS25sM05sVWdqRnUyajVuNTdiQVpsNktNZExScGVXTzJ0cXpTbnJPX3RET3hSbVF4OFRPY2wzZGJZQQ?oc=5) |
+| 05 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Oh, Palantir is ‘progressive’ now, is it?](https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video) |
+| 06 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight](https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/) |
+| 07 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
+| 08 | **Google DeepMind** | Frontier Models | ◈ | ● HIGH | [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) |
+| 09 | **Google AI Blog** | Frontier Models | 🖼️ | ● HIGH | [Google Search gets a major upgrade with Gemini 4 Hydrogen](https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/) |
+| 10 | **AWS Machine Learning** | Infrastructure | ◈ | ● HIGH | [Run agents securely and efficiently with the next generation AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/) |
+| 11 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month](https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/) |
+| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The Jensen Huang scandal is hardly over](https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
