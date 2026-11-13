@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-12 18:48 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-13 00:07 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Optimizing cost per task and proving agent ROI on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/) |
-| 02 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Building a self-service LLM gateway with Amazon Bedrock and LiteLLM](https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/) |
-| 03 | **TechCrunch AI** | Open Source | ◈ | ● HIGH | [Jensen Huang’s exit puts Nvidia’s support for open source in question](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/) |
-| 04 | **Product Wire · NVIDIA Isaac** | Products & Agents | ◈ | ● HIGH | [News: Agile ONE SN: Compact Humanoid Built on NVIDIA Isaac GR00T](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSUtBYVdraHdSY1ZpRlU4SFYzU2FveGJ1QzF0anFqdXIxZjMzNm9pN0lXbjdVVHZGUGl5b3lmdUIzbTZ1STJScm5xRlctb2llS3NBTVV6SXROWlR2QkRjTW5kckt4bmw2alJuQXVwUkZqeVlJQ05fMDBnOUFfNjNNblMtel9lWTFiVHk5bzd5dHdaS25sM05sVWdqRnUyajVuNTdiQVpsNktNZExScGVXTzJ0cXpTbnJPX3RET3hSbVF4OFRPY2wzZGJZQQ?oc=5) |
-| 05 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Oh, Palantir is ‘progressive’ now, is it?](https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video) |
-| 06 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight](https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/) |
-| 07 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
-| 08 | **Google DeepMind** | Frontier Models | ◈ | ● HIGH | [Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/) |
-| 09 | **Google AI Blog** | Frontier Models | 🖼️ | ● HIGH | [Google Search gets a major upgrade with Gemini 4 Hydrogen](https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/) |
-| 10 | **AWS Machine Learning** | Infrastructure | ◈ | ● HIGH | [Run agents securely and efficiently with the next generation AgentCore runtime](https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/) |
-| 11 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month](https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/) |
-| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The Jensen Huang scandal is hardly over](https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling) |
+| 01 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Build Enterprise Agents, Workflows & Apps in Mistral Studio - mistral.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5) |
+| 02 | **Product Wire · Text Embeddings Inference** | Products & Agents | ◈ | ● HIGH | [“They Said Tei Had Gender-Reassignment Surgery in Thailand” ... Na Yoon-kwon Reveals the Full Story Behind Same-Sex Dating Rumors](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WRDNwNDhPdUJhM0ZTRmlBOXl3bExpOTRMS0I3OXkzRjNfLWVna3Y2SXNPT3RTdlg3dENyLVBScVpGT0ZFVWl1NlZBWTFBdFZyQko1VVp3?oc=5) |
+| 03 | **GitHub AI & ML** | Products & Agents | ◈ | ● HIGH | [Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 06 | **Product Wire · Snowflake Cortex AI** | Products & Agents | ◈ | ● HIGH | [Inkling 2 Small from Thinking Machines Lab Is Now Available in Snowflake Cortex Training](https://news.google.com/rss/articles/CBMiggFBVV95cUxQbzhUNHpYdkU3cG45SXJES09IX2FLdFRKSlFBamtlRFIyMlVDQk5ISHN3ZnBTZ1E3OFNDUHRBdGxqb1owT3VuMzh5MlVLZWJ5djJydXdwLTgxUFJNSmR4bzNPcER2anJLZkxaNUNVZVF5WkRvUWxubjNZejRTdGhJM29B?oc=5) |
+| 07 | **WIRED AI** | Infrastructure | 🖼️ | ● HIGH | [Silicon Valley Is Still Defending Jensen Huang](https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/) |
+| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Muse can now place calls to US businesses — if you pay](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/) |
+| 09 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?](https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/) |
+| 10 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Deploy frontier AI models on AWS Trainium with SGLang-Neuron](https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/) |
+| 11 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [Google’s new Gemini model is better at understanding complicated questions](https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen) |
+| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Nvidia CEO Jensen Huang has resigned. What happens next?](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
