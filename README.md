@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-14 09:19 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-14 16:01 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 03 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Google used 29 AI agents to build a 50-task benchmark for causal reasoning](https://www.reddit.com/r/artificial/comments/1xvwdwz/google_used_29_ai_agents_to_build_a_50task/) |
-| 04 | **Product Wire · AI Gateway** | Products & Agents | ◈ | ● HIGH | [Falcon AI Gateway Provides One Control Point for AI Traffic](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTdUZE9hNTlPNWpiNFNJMW9rZTUwR2ttbXR1NzJ5ZWM3LXhWWnFyQ0tDOEpuUFNoVHk4STYxc2NxRHZrbWJOeTAxeVV3VVFLQ3F4QV9ZSWdldzlzSThDRmhVUU9jVGJ3YkRmUlF1eEVaa3FsSi1hS1hGMW5KZHJwWG1qVWM5bFhDWWIxT1poaGRqUEkw?oc=5) |
-| 05 | **Google Research** | Safety & Security | ◈ | ◐ MED | [Manifest-Assisted Retrieval in Artificial Intelligence Search: Evidence Gaps and a Security Evaluation Framework for llms.txt - Google Research](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQlFzTDBtQUNpNU5vZF9acDBES2phNDVMU0JjdkVsbHZ2YmREQkx0VDRJMjRyaDYxXzYtdml2cTdEcHlyZ2NKQ0tBQWk1X3BxOGRuYXZKN3dtQnZMOFhxdHczd2M4djVxaWx4ZWR6SndDVWlOYWNVcktYTDBZSmE4c1N5dnc4ejRFTENNT3JjVEIwQVB2emVSTGZ0Q21KU09naEhJa3ZDY0xla1l1ZTVmTzNIdk5DaFJ5UnlvdHBJYXJobTVEUlNmZ2QxQTZVak55clVESzBfU3JVOFhsTUZqX2IycGc4cFcw?oc=5) |
-| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [AI usage and detection survey](https://www.reddit.com/r/artificial/comments/1xvu63h/ai_usage_and_detection_survey/) |
-| 07 | **KBTX News 3 · provider monitor** | Industry | ◈ | ● HIGH | [Palmyra falls to Centralia in district championship](https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2xKaGcxc19GR0dMQWVVOG9wUlI5WFFuenFYS0JhSDZVMHNqTDg2S3d1UF9SVUMxYkpyMGItNWliVWN0RThISXFxUXdHaUt1TFZ2T1pHUnRsVVA0UmtEcUNsNG5uRmlFZXRTNFpQeXI2Y0FUQ3hSb1BrVUxaVTlaLTRSZk1qZEVaOHlBUUpEcVpNY3Z5a1hoTDBTUjAzRXRx?oc=5) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets](https://arxiv.org/abs/2611.14544) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Cleaning an Agent's History Hurts When the World Still Holds the Error](https://arxiv.org/abs/2611.14654) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Together Compiler: Continual Compilation for AI Inference](https://arxiv.org/abs/2611.14681) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [When Should Semantic Priors Enter Partially-Identified Causal Discovery?](https://arxiv.org/abs/2611.14736) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [SynthCorp: A Platform for Creating Benchmarks for Data Agents](https://arxiv.org/abs/2611.14765) |
+| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Jensen Huang and the decline of the visionary showman founder CEO](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo) |
+| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 03 | **Reddit · r/artificial** | Robotics & Embodied AI | ◈ | ● HIGH | [Requiem for a robot: the AI users mourning chatbots that may have harmed them](https://www.reddit.com/r/artificial/comments/1xw2k13/requiem_for_a_robot_the_ai_users_mourning/) |
+| 04 | **WIRED AI** | Industry | ◈ | ● HIGH | [Beware the New AI-Fueled Ransomware Boom](https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/) |
+| 05 | **Axios AI** | Industry | ◈ | ◐ MED | [AI's anti-change agents - Axios](https://news.google.com/rss/articles/CBMidkFVX3lxTE9ldUJGUWpQTWRUUU9MMnJ1Ty1obmhRTUpzZkwyZWZrUEp2Vkg5VkNIY1ZIc2NCZVp4YTd5Q1VBUXlVeXhDdS1TRnNxT1RjVkRYS2R4TDRVUkNYUDgwNGFDbkNVN3hIZkk3OTROVldfd2cwcE5xM0E?oc=5) |
+| 06 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Beware of numes.ai](https://www.reddit.com/r/artificial/comments/1xvzz1e/beware_of_numesai/) |
+| 07 | **Google Research** | Research | ◈ | ◐ MED | [Convergence of LLM Integration and Edge Intelligence in Decentralized IoT Ecosystems - Google Research](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ21QekVDOFFWVTlDcDRWNUN2WHpudmlESW9qZzlHSUJzRjBPcFJsNmVhNlNTMGRPYjVTVndCOEFHVTZ0Yy1QOW5Ndl8tSXoyTG5HdFk5ZncyR01GeFJ4WUJRZE5PUV9sWlZiRzFuUHp2ZFBUNDJjZEJhaUtrZE4tTVFGbkphX2JxeTRBdHVhQldkc1FubzllYmdOd2gxb0xwZmg2T3lSWmktV0hRODVDSXVlTU4?oc=5) |
+| 08 | **WIRED AI** | Industry | ◈ | ● HIGH | [No Pilots. Few Air Traffic Controllers. What Could Go Wrong?](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 10 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 11 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Business / Sales - Executive Briefing Accreditation issued by Mistral AI to Jérôme Fournier - learn.mistral.ai](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YdHl6ZWltMGNJLVAzT1JNb2xndzJleEp5R0MxSGZnU0ZBOGpXTnpuT0J5c0hxY1NTMzZ1cjBkazlZRTNQcEdCRTNwSEdKMVllNDdYR0NqYkkxc01idm4wWENTdng?oc=5) |
+| 12 | **Epoch AI** | Safety & Security | ◈ | ● HIGH | [Cyber vulnerabilities - Epoch AI](https://news.google.com/rss/articles/CBMiPkFVX3lxTFBuTkRiRVB4TlhwNTlaX2pzWnFyYmxNdjZMSkRFOGVIUzItaFpJTEN6dFdkY3hFWENCdW1meHBB?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
