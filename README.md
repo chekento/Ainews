@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-13 21:54 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-14 02:14 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **AWS Machine Learning** | Infrastructure | ◈ | ● HIGH | [OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures](https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/) |
-| 02 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [ICML 2027 Changes [D]](https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/) |
-| 03 | **CNBC AI** | Safety & Security | ◈ | ◐ MED | [AI risks are the biggest threat to the financial system, Fed survey finds - CNBC](https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1luSGcydUl6NE15cEcydlNhSnRuNjNjVHdMQldrQjRYcXpLZ3FfbnNrWndndDNTaUowRWJ6NDg0dUdaN084LW00YU4tNEhPTXh6Ymx3WVFpZk5MQTgwVFpMX1o4cFdXT2lCQi1xSzlncG9mUkpDa0xTUF9BY2E3cXVnS2fSAYoBQVVfeXFMTmZFcVNQMElxVkdHNTFNMVBOYTg0SGVKNm5ISHM5N3pGUUxKSE5Za2ZuMmZNb3RnY0FpVWxNbWtIdXFIdm0wOWVIa3FXWVJJaVhhTHBzOVpJbzVnY2VGZk04WE5aRHVBdjdkRlVpSm1VQXo1ckRPRTV4aDNjNGJNeGlhSXZ4ZEhIa1dR?oc=5) |
-| 04 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [I have trained a model to predict my blood sugar [P]](https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/) |
-| 05 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you](https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet) |
-| 06 | **Scale AI Blog** | Industry | ◈ | ● HIGH | [Account Executive, Army - Scale AI](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5FWXRieFNmQV9sQnJCcG1KbDlkXzJkMFRkeWhOaDktZXNIMFlDSTdCMEFlZDlmMzlaZ3RqSFl5SUNZUHpHemFkOEpMVEM?oc=5) |
-| 07 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Business / Sales - Executive Briefing Accreditation issued by Mistral AI to Timothy McNamee - learn.mistral.ai](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ESWJ6R3VvVVcwV0F5emJhOGpQdllvVmw3V2E1MndsLU4zYTFYM1BVel9JdUJFdVpTZGJFOHlDZF9lQnkzZUI1cnFmcUd6R0hfUDhuZjJoaDVrVGxRd1JzU1owR2Y?oc=5) |
-| 08 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life](https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/) |
+| 01 | **Reddit · r/artificial** | Robotics & Embodied AI | ◈ | ● HIGH | [Mark Zuckerberg wants AI walking around your home, do you? \| BBC News](https://www.reddit.com/r/artificial/comments/1xvq2xe/mark_zuckerberg_wants_ai_walking_around_your_home/) |
+| 02 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [Did AI ground US flights? DHS is looking at the FAA's new AI tool](https://www.reddit.com/r/artificial/comments/1xvnyzp/did_ai_ground_us_flights_dhs_is_looking_at_the/) |
+| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search) |
+| 05 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Studio Workflows - Tech Specialization issued by Mistral AI to Chris Royles - learn.mistral.ai](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4VjhOeVVPOU05VFBSX1ZQbFdSY1dUNnJ2eW5CQWxlQ3dTQjA5eFJ2TE1DcHNoVFoxaUxQNFVzZnl3NkhFTldkc1FyeG1GWFRoQzV2cFZsM3BIek1nT3Zvd3R1SzQ?oc=5) |
+| 06 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1](https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 08 | **Product Wire · NVIDIA NIM** | Products & Agents | ◈ | ● HIGH | [SGLang and NVIDIA NIM: Advancing Enterprise Inference Together](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oTWVSS1FCUFlnS0xhVnROLWZWZUdfRDlNSUVaMnZOMEJId3RxT3puV2h2b3ltZ0Y5TEJQWVA2U0VkWUJEUGJWNEZzZi1HT2JDOWpoZExHZXpweTBsc2VlbjVXcFBTUQ?oc=5) |
 | 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 10 | **Luma AI** | Products & Agents | ◈ | ● HIGH | [Luma API Platform - platform.lumalabs.ai](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzeHBuaGs5ZlpXMjlKUVVUbDBoTlVXb3pFbVpOcEotRDBSU3g3cTUzRlp5RVhNSjhOV3p4RGNlMlN0NEE?oc=5) |
-| 11 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/) |
-| 12 | **AWS Machine Learning** | Infrastructure | ◈ | ● HIGH | [Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot](https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/) |
+| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/) |
+| 11 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard](https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/) |
+| 12 | **Product Wire · Typeface** | Products & Agents | ◈ | ● HIGH | [Stop Guessing Fonts: Identify Any Typeface Fast](https://news.google.com/rss/articles/CBMihgFBVV95cUxPMko3WHVBbG1vZXFDVC1nbWZDZUlON2cxTkg3QTNlMHZ3UnJfVkE5LVY4Qkh3TW91N1lGdUlnb2hLa0FNRFo0TDZQNTRqRmVXZG8tc0w4dzhFckg3ZXphMV82Q29OVmFlVG1rNFR6Ujk4UnlyVFZfRDVhOHRnc0xaWUJBSkEzUQ?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
