@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-14 16:01 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-14 20:36 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Jensen Huang and the decline of the visionary showman founder CEO](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo) |
-| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 03 | **Reddit · r/artificial** | Robotics & Embodied AI | ◈ | ● HIGH | [Requiem for a robot: the AI users mourning chatbots that may have harmed them](https://www.reddit.com/r/artificial/comments/1xw2k13/requiem_for_a_robot_the_ai_users_mourning/) |
-| 04 | **WIRED AI** | Industry | ◈ | ● HIGH | [Beware the New AI-Fueled Ransomware Boom](https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/) |
-| 05 | **Axios AI** | Industry | ◈ | ◐ MED | [AI's anti-change agents - Axios](https://news.google.com/rss/articles/CBMidkFVX3lxTE9ldUJGUWpQTWRUUU9MMnJ1Ty1obmhRTUpzZkwyZWZrUEp2Vkg5VkNIY1ZIc2NCZVp4YTd5Q1VBUXlVeXhDdS1TRnNxT1RjVkRYS2R4TDRVUkNYUDgwNGFDbkNVN3hIZkk3OTROVldfd2cwcE5xM0E?oc=5) |
-| 06 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Beware of numes.ai](https://www.reddit.com/r/artificial/comments/1xvzz1e/beware_of_numesai/) |
-| 07 | **Google Research** | Research | ◈ | ◐ MED | [Convergence of LLM Integration and Edge Intelligence in Decentralized IoT Ecosystems - Google Research](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ21QekVDOFFWVTlDcDRWNUN2WHpudmlESW9qZzlHSUJzRjBPcFJsNmVhNlNTMGRPYjVTVndCOEFHVTZ0Yy1QOW5Ndl8tSXoyTG5HdFk5ZncyR01GeFJ4WUJRZE5PUV9sWlZiRzFuUHp2ZFBUNDJjZEJhaUtrZE4tTVFGbkphX2JxeTRBdHVhQldkc1FubzllYmdOd2gxb0xwZmg2T3lSWmktV0hRODVDSXVlTU4?oc=5) |
-| 08 | **WIRED AI** | Industry | ◈ | ● HIGH | [No Pilots. Few Air Traffic Controllers. What Could Go Wrong?](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 10 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 11 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Business / Sales - Executive Briefing Accreditation issued by Mistral AI to Jérôme Fournier - learn.mistral.ai](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YdHl6ZWltMGNJLVAzT1JNb2xndzJleEp5R0MxSGZnU0ZBOGpXTnpuT0J5c0hxY1NTMzZ1cjBkazlZRTNQcEdCRTNwSEdKMVllNDdYR0NqYkkxc01idm4wWENTdng?oc=5) |
-| 12 | **Epoch AI** | Safety & Security | ◈ | ● HIGH | [Cyber vulnerabilities - Epoch AI](https://news.google.com/rss/articles/CBMiPkFVX3lxTFBuTkRiRVB4TlhwNTlaX2pzWnFyYmxNdjZMSkRFOGVIUzItaFpJTEN6dFdkY3hFWENCdW1meHBB?oc=5) |
+| 01 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [ICLR 2027 Initial Review Scores ranked by University [N]](https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/) |
+| 02 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [Anthropic CEO Amodei admits "there's a huge uncertainty in what's going to happen next year" days before a record IPO](https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/) |
+| 03 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Anonymous GitHub not working [D]](https://www.reddit.com/r/MachineLearning/comments/1xw9m5h/anonymous_github_not_working_d/) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Sign in - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 07 | **The Decoder** | Research | 🖼️ | ● HIGH | [Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol](https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 09 | **Product Wire · DSPy** | Products & Agents | ◈ | ● HIGH | [Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy](https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3FLaENtaU9WNDY3bG1kclh3N0lHNWZCQnFLcnhaUU1VUVZjZlQxUHhmZ1hITF9EeENiUGwtRmpCSXhDbTI3djJOdU45SEJoNzdtaVB2ZEhtTlNIV29fWXY2SF9fNnF1MVFGVnJxY0ZTcXllZ2ZlZVdoSzZCaGwtMEppTkFZV0nSAYcBQVVfeXFMT29xS2hDbWlPVjQ2N2xtZHJYdzdJRzVmQkJxS3J4WlFNVVFWY2ZUMVB4ZmdYSExfRHhDYlBsLUZqQkl4Q20yN3YyTnVOOUhCaDc3bWlQdmRIbU5TSFdvX1l2NkhfXzZxdTFRRlZycWNGU3F5ZWdmZWVXaEs2QmhsLTBKaU5BWVdJ?oc=5) |
+| 10 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Anthropic says outdated prompting habits are slowing down Claude Opus 5.5](https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/) |
+| 11 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Asian governments react to Nvidia CEO Jensen Huang’s exit](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/) |
+| 12 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Business / Sales Essentials Accreditation issued by Mistral AI to Avanish Tiwari - learn.mistral.ai](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LR2w2Z1psMnNJc3RjZVdFWFp4WDZmbTBObzBLV3hldm9aeUt4SlFGMzJQZ01JV1hyRUNGbUQ3b3BQTS1lQWpwQlk1Z0NJbXFCbUZFOEdfcm9WM0gwTm1pZy1sX2s?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
