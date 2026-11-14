@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-14 02:14 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-14 09:19 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/artificial** | Robotics & Embodied AI | ◈ | ● HIGH | [Mark Zuckerberg wants AI walking around your home, do you? \| BBC News](https://www.reddit.com/r/artificial/comments/1xvq2xe/mark_zuckerberg_wants_ai_walking_around_your_home/) |
-| 02 | **Reddit · r/artificial** | Safety & Security | ◈ | ● HIGH | [Did AI ground US flights? DHS is looking at the FAA's new AI tool](https://www.reddit.com/r/artificial/comments/1xvnyzp/did_ai_ground_us_flights_dhs_is_looking_at_the/) |
-| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Login Login - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Amazon has a plan to index the world’s online shopping data](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search) |
-| 05 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Mistral Studio Workflows - Tech Specialization issued by Mistral AI to Chris Royles - learn.mistral.ai](https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4VjhOeVVPOU05VFBSX1ZQbFdSY1dUNnJ2eW5CQWxlQ3dTQjA5eFJ2TE1DcHNoVFoxaUxQNFVzZnl3NkhFTldkc1FyeG1GWFRoQzV2cFZsM3BIek1nT3Zvd3R1SzQ?oc=5) |
-| 06 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1](https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 08 | **Product Wire · NVIDIA NIM** | Products & Agents | ◈ | ● HIGH | [SGLang and NVIDIA NIM: Advancing Enterprise Inference Together](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oTWVSS1FCUFlnS0xhVnROLWZWZUdfRDlNSUVaMnZOMEJId3RxT3puV2h2b3ltZ0Y5TEJQWVA2U0VkWUJEUGJWNEZzZi1HT2JDOWpoZExHZXpweTBsc2VlbjVXcFBTUQ?oc=5) |
-| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/) |
-| 11 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard](https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/) |
-| 12 | **Product Wire · Typeface** | Products & Agents | ◈ | ● HIGH | [Stop Guessing Fonts: Identify Any Typeface Fast](https://news.google.com/rss/articles/CBMihgFBVV95cUxPMko3WHVBbG1vZXFDVC1nbWZDZUlON2cxTkg3QTNlMHZ3UnJfVkE5LVY4Qkh3TW91N1lGdUlnb2hLa0FNRFo0TDZQNTRqRmVXZG8tc0w4dzhFckg3ZXphMV82Q29OVmFlVG1rNFR6Ujk4UnlyVFZfRDVhOHRnc0xaWUJBSkEzUQ?oc=5) |
+| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 03 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Google used 29 AI agents to build a 50-task benchmark for causal reasoning](https://www.reddit.com/r/artificial/comments/1xvwdwz/google_used_29_ai_agents_to_build_a_50task/) |
+| 04 | **Product Wire · AI Gateway** | Products & Agents | ◈ | ● HIGH | [Falcon AI Gateway Provides One Control Point for AI Traffic](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTdUZE9hNTlPNWpiNFNJMW9rZTUwR2ttbXR1NzJ5ZWM3LXhWWnFyQ0tDOEpuUFNoVHk4STYxc2NxRHZrbWJOeTAxeVV3VVFLQ3F4QV9ZSWdldzlzSThDRmhVUU9jVGJ3YkRmUlF1eEVaa3FsSi1hS1hGMW5KZHJwWG1qVWM5bFhDWWIxT1poaGRqUEkw?oc=5) |
+| 05 | **Google Research** | Safety & Security | ◈ | ◐ MED | [Manifest-Assisted Retrieval in Artificial Intelligence Search: Evidence Gaps and a Security Evaluation Framework for llms.txt - Google Research](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQlFzTDBtQUNpNU5vZF9acDBES2phNDVMU0JjdkVsbHZ2YmREQkx0VDRJMjRyaDYxXzYtdml2cTdEcHlyZ2NKQ0tBQWk1X3BxOGRuYXZKN3dtQnZMOFhxdHczd2M4djVxaWx4ZWR6SndDVWlOYWNVcktYTDBZSmE4c1N5dnc4ejRFTENNT3JjVEIwQVB2emVSTGZ0Q21KU09naEhJa3ZDY0xla1l1ZTVmTzNIdk5DaFJ5UnlvdHBJYXJobTVEUlNmZ2QxQTZVak55clVESzBfU3JVOFhsTUZqX2IycGc4cFcw?oc=5) |
+| 06 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [AI usage and detection survey](https://www.reddit.com/r/artificial/comments/1xvu63h/ai_usage_and_detection_survey/) |
+| 07 | **KBTX News 3 · provider monitor** | Industry | ◈ | ● HIGH | [Palmyra falls to Centralia in district championship](https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2xKaGcxc19GR0dMQWVVOG9wUlI5WFFuenFYS0JhSDZVMHNqTDg2S3d1UF9SVUMxYkpyMGItNWliVWN0RThISXFxUXdHaUt1TFZ2T1pHUnRsVVA0UmtEcUNsNG5uRmlFZXRTNFpQeXI2Y0FUQ3hSb1BrVUxaVTlaLTRSZk1qZEVaOHlBUUpEcVpNY3Z5a1hoTDBTUjAzRXRx?oc=5) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets](https://arxiv.org/abs/2611.14544) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Cleaning an Agent's History Hurts When the World Still Holds the Error](https://arxiv.org/abs/2611.14654) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Together Compiler: Continual Compilation for AI Inference](https://arxiv.org/abs/2611.14681) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [When Should Semantic Priors Enter Partially-Identified Causal Discovery?](https://arxiv.org/abs/2611.14736) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [SynthCorp: A Platform for Creating Benchmarks for Data Agents](https://arxiv.org/abs/2611.14765) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
