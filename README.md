@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-15 07:05 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-15 14:41 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/MachineLearning** | Frontier Models | ◈ | ● HIGH | [LongMemEval-S: 96.0% with the official judge, and what top-5 vs top-20 retrieval changes [R]](https://www.reddit.com/r/MachineLearning/comments/1xwnloh/longmemevals_960_with_the_official_judge_and_what/) |
-| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 04 | **Tech Times · provider monitor** | Industry | ◈ | ● HIGH | [Ear-Cuff Earphones at $31: HACRAY CuffAir Adds Luminous Silver; Roa Cites 10,000-Test Wire](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRU94TTdQYVdGSmdKS2dJcDdLTHhkZm50OUlfaUhfdU5OQlpBbHNhdHZfN0h5alJYZG5oUXJ0eE50aUdhbnMtNTduRnFIZVhHVW1IR2pSM0tObXZJb2RVdUM2c3lfVWtJcGRxSTBReldJWURtVUdoWGFEOHZOWWE1a0xJcWNlckZUTnQ5SlJqb2g5NXczc0xRX0tMVmQyVlpNTW9QWVIwMWN5R0lhaVduV3Y3LVhrQUc5QU12a0xpbTBpdUlVNjZhVFNwanNvc1Q1anNuXw?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Sign in - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 06 | **Product Wire · Jasper AI** | Products & Agents | ◈ | ● HIGH | [Frost advisory for Coastal Jasper for Sunday](https://news.google.com/rss/articles/CBMickFVX3lxTFBQdGd1R2plRU9PLXZDNEQ2Z0xWalpReHpCRWZtS1F0R21TNzhMQzVUZmxXaWp3T2UtNlZPV1NGSWEtTXNYdS0zTlhRTHUxT1VfZkkwWjAyXzNGSG1CNFdOcHhzNGtRX2M0RFRZN0hTOUJjQQ?oc=5) |
-| 07 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/) |
-| 08 | **Reddit · r/MachineLearning** | Open Source | ◈ | ● HIGH | [ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]](https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/) |
-| 09 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/) |
-| 11 | **Product Wire · Project Mariner** | Products & Agents | ◈ | ● HIGH | [Gemini Agent inherits Project Mariner technology after its closure](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSm82Y1dkbnZGa0tNM0c5RTA5Y3J3dDdHRVZJWnVnVHZWc3dwNmQ5WjY3STlpQUJKQm1QUFJZZ2Flb2NpcV9PQXl5TlVCVWlJSzc5Nms3T0s5TXFyM3ViWWpWNlVzdWN6Sm5OM3lNWEdhdzJ5QkYtRW91Nm54S2kxVGlEb3NKZkJ1STVGdzhNSjZIRGVrRmNBdmt4QUI0M0RfLWRKelFGcHM4WGVLZ2c?oc=5) |
-| 12 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [ICLR 2027 Initial Review Scores ranked by University [N]](https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/) |
+| 01 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Meituan open-sourced LongCat-2.5, a 1.6T agent model, and the only deploy guide is for Huawei NPUs, not Nvidia](https://www.reddit.com/r/artificial/comments/1xwx2hc/meituan_opensourced_longcat25_a_16t_agent_model/) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [Building with AI is now easier but trust takes further testing.](https://www.reddit.com/r/artificial/comments/1xwwrm0/building_with_ai_is_now_easier_but_trust_takes/) |
+| 03 | **Reddit · r/artificial** | Research | ◈ | ● HIGH | [Are AI leaderboards even worth taking seriously anymore?](https://www.reddit.com/r/artificial/comments/1xwwdhv/are_ai_leaderboards_even_worth_taking_seriously/) |
+| 04 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [AI DJs Completely Kill My Groove](https://www.wired.com/story/ai-djs-completely-kill-my-groove/) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 06 | **Reddit · r/artificial** | Products & Agents | ◈ | ● HIGH | [Local Computer use with Row-Bot](https://www.reddit.com/r/artificial/comments/1xwswp5/local_computer_use_with_rowbot/) |
+| 07 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets](https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 09 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Australia's central bank finds AI hitting young workers first, especially in software and customer service](https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/) |
+| 10 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU](https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/) |
+| 11 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 12 | **The Hacker News · provider monitor** | Frontier Models | ◈ | ● HIGH | [Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0pVd0VKNnk2Vmpxalp6amtSaFlvX0Vpd0NOQkNZVldpTjRYdzQyZHd2c2IwdmhEdm5RNElZWXJ6bWtMVGhlemhGX0FqM0d3Vnp3MWRvWUNxTGJwMnV3Ymx0cy1TbWJJMVliVi1HM0xaUExCZ0FQU3NOMEJWWHJhaGZ3?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
