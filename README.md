@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-14 20:36 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-15 00:13 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [ICLR 2027 Initial Review Scores ranked by University [N]](https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/) |
-| 02 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [Anthropic CEO Amodei admits "there's a huge uncertainty in what's going to happen next year" days before a record IPO](https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/) |
-| 03 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Anonymous GitHub not working [D]](https://www.reddit.com/r/MachineLearning/comments/1xw9m5h/anonymous_github_not_working_d/) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Sign in - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 07 | **The Decoder** | Research | 🖼️ | ● HIGH | [Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol](https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 09 | **Product Wire · DSPy** | Products & Agents | ◈ | ● HIGH | [Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy](https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3FLaENtaU9WNDY3bG1kclh3N0lHNWZCQnFLcnhaUU1VUVZjZlQxUHhmZ1hITF9EeENiUGwtRmpCSXhDbTI3djJOdU45SEJoNzdtaVB2ZEhtTlNIV29fWXY2SF9fNnF1MVFGVnJxY0ZTcXllZ2ZlZVdoSzZCaGwtMEppTkFZV0nSAYcBQVVfeXFMT29xS2hDbWlPVjQ2N2xtZHJYdzdJRzVmQkJxS3J4WlFNVVFWY2ZUMVB4ZmdYSExfRHhDYlBsLUZqQkl4Q20yN3YyTnVOOUhCaDc3bWlQdmRIbU5TSFdvX1l2NkhfXzZxdTFRRlZycWNGU3F5ZWdmZWVXaEs2QmhsLTBKaU5BWVdJ?oc=5) |
-| 10 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [Anthropic says outdated prompting habits are slowing down Claude Opus 5.5](https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/) |
-| 11 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Asian governments react to Nvidia CEO Jensen Huang’s exit](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/) |
-| 12 | **Mistral AI** | Frontier Models | ◈ | ● HIGH | [Business / Sales Essentials Accreditation issued by Mistral AI to Avanish Tiwari - learn.mistral.ai](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LR2w2Z1psMnNJc3RjZVdFWFp4WDZmbTBObzBLV3hldm9aeUt4SlFGMzJQZ01JV1hyRUNGbUQ3b3BQTS1lQWpwQlk1Z0NJbXFCbUZFOEdfcm9WM0gwTm1pZy1sX2s?oc=5) |
+| 01 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/) |
+| 02 | **Reddit · r/MachineLearning** | Open Source | ◈ | ● HIGH | [ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]](https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/) |
+| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Sign in - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 04 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
+| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/) |
+| 06 | **Product Wire · Project Mariner** | Products & Agents | ◈ | ● HIGH | [Gemini Agent inherits Project Mariner technology after its closure](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSm82Y1dkbnZGa0tNM0c5RTA5Y3J3dDdHRVZJWnVnVHZWc3dwNmQ5WjY3STlpQUJKQm1QUFJZZ2Flb2NpcV9PQXl5TlVCVWlJSzc5Nms3T0s5TXFyM3ViWWpWNlVzdWN6Sm5OM3lNWEdhdzJ5QkYtRW91Nm54S2kxVGlEb3NKZkJ1STVGdzhNSjZIRGVrRmNBdmt4QUI0M0RfLWRKelFGcHM4WGVLZ2c?oc=5) |
+| 07 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [ICLR 2027 Initial Review Scores ranked by University [N]](https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Dashboard billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 09 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 10 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [Anthropic CEO Amodei admits "there's a huge uncertainty in what's going to happen next year" days before a record IPO](https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/) |
+| 11 | **AI71** | Industry | ◈ | ● HIGH | [Ask for Banking - ai71](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RTlEzdFVrczlQSmtGcldWVFdQVVpjWnNjV0QxSy1iTHRSVXk5UFdLWkxpcVRQal9rbEowbTJRSG1DOE9lVEZ5Y1ZlVQ?oc=5) |
+| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
