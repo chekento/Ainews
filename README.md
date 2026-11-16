@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-16 00:18 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-16 07:11 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/) |
-| 02 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Hands-on ML Orchestration Tutorial with Airflow3 [P]](https://www.reddit.com/r/MachineLearning/comments/1xxa13x/handson_ml_orchestration_tutorial_with_airflow3_p/) |
-| 03 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Anyone working in AML / transaction monitoring / sanctions screening using ML? Looking for advice on where to start [R]](https://www.reddit.com/r/MachineLearning/comments/1xx9za4/anyone_working_in_aml_transaction_monitoring/) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 05 | **OpenAI News** | Compliance & Ethics | ◈ | ● HIGH | [A step toward defining the Standard Model on a lattice](https://openai.com/index/step-toward-defining-the-standard-model) |
-| 06 | **OpenAI News** | Research | ◈ | ● HIGH | [Our new blog for science](https://openai.com/index/our-new-blog-for-science) |
-| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Is bad news for Jensen Huang also bad news for the AI industry?](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/) |
-| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Jensen Huang might be plotting a return and more of the latest Nvidia drama](https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed) |
-| 09 | **Designboom · provider monitor** | Industry | ◈ | ● HIGH | [two luminous eggs nestle inside hand-woven metal frame on old shipyard mast in estonia](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0tPOGhPZDNkNnlxNkJPbDA2ZDdoanc2Vk1BS3VPZHR0RTVqTVd3ZmpXajJ6MGdhTUlTcEJ6anZ1XzJ3V05lWjIzdEV1dzZZNHBhczNacUUyR0t1S2RmamNWMm8yaDdpZ1QzVTJaaVNMWHRYZTd1VlhKVnUzSkVFVWpKbktYdVhxY0x0anVRbG5QSXJPb1B0U3B4MmdFZkY4aHdKUXZuNmJ3OGJFVDF0RFhKUl91c1RSNlA5MDMyMFFuNE0?oc=5) |
-| 10 | **Replicate Blog** | Industry | ◈ | ● HIGH | [Sign in with GitHub - Replicate - Replicate](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ycUI4NGc0Vm9xazZBNEZGaU5YQVdNYi1LZFY1OUZqbEsta0dHRFlsQ2RTNHFFTnNYazBYUWZ6VDFEdnd0U3k5U19nVQ?oc=5) |
-| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [SNL gathers all the tech tycoons for a lesson in dating and spycraft](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/) |
-| 12 | **Semafor AI** | Industry | ◈ | ◐ MED | [‘Silicon Valley’ showrunner on how the HBO comedy predicted today’s tech drama - Semafor](https://news.google.com/rss/articles/CBMixwFBVV95cUxNQTRyUWhVR3lRSVc4VDN5WnBMQkcxUDc2dFgzdk8yV2xrQUNUd0V0QTk2NWhWUy1NenJJQlpmRUJ2LS0yQkhuQ1MtU05IVWRIWEhsanVGbHk1bzZqcmdZN2lqeE10ZFNTQmdVWUVMWV9ZVzNEb3dILVNLTnlSUDg1Rk9xNGRlVFpsekF0UEp1YzA4UldZZUdrYkM2b0tBSlRDY3hTeDRwbEFzbVgyYWNWTWhqdkVxaG4wNGpYVmlXeGd4RGJoZm1F?oc=5) |
+| 01 | **Reddit · r/LocalLLaMA** | Frontier Models | ◈ | ● HIGH | [New AA ranking Qwen3.8-FN better than GLM-5.3-Flash?](https://www.reddit.com/r/LocalLLaMA/comments/1xxibeh/new_aa_ranking_qwen38fn_better_than_glm53flash/) |
+| 02 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](https://arxiv.org/abs/2611.17338) |
+| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs](https://arxiv.org/abs/2611.17339) |
+| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [LoRAWeaver: Directional Adapter Routing in LoRA Representation Space](https://arxiv.org/abs/2611.17340) |
+| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction](https://arxiv.org/abs/2611.17341) |
+| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [An Operationalization of Opaque Serial Depth](https://arxiv.org/abs/2611.17495) |
+| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Advancing Quantization for R&R Models with Microscaling Formats](https://arxiv.org/abs/2611.17501) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent](https://arxiv.org/abs/2611.17515) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Model Annealing: Data-Efficient Learning through Review and Consolidation](https://arxiv.org/abs/2611.17524) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation](https://arxiv.org/abs/2611.17532) |
+| 11 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents](https://arxiv.org/abs/2611.17539) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI](https://arxiv.org/abs/2611.17564) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
