@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-16 07:11 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-16 17:21 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/LocalLLaMA** | Frontier Models | ◈ | ● HIGH | [New AA ranking Qwen3.8-FN better than GLM-5.3-Flash?](https://www.reddit.com/r/LocalLLaMA/comments/1xxibeh/new_aa_ranking_qwen38fn_better_than_glm53flash/) |
-| 02 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors](https://arxiv.org/abs/2611.17338) |
-| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs](https://arxiv.org/abs/2611.17339) |
-| 04 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [LoRAWeaver: Directional Adapter Routing in LoRA Representation Space](https://arxiv.org/abs/2611.17340) |
-| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction](https://arxiv.org/abs/2611.17341) |
-| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [An Operationalization of Opaque Serial Depth](https://arxiv.org/abs/2611.17495) |
-| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Advancing Quantization for R&R Models with Microscaling Formats](https://arxiv.org/abs/2611.17501) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent](https://arxiv.org/abs/2611.17515) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Model Annealing: Data-Efficient Learning through Review and Consolidation](https://arxiv.org/abs/2611.17524) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation](https://arxiv.org/abs/2611.17532) |
-| 11 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents](https://arxiv.org/abs/2611.17539) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI](https://arxiv.org/abs/2611.17564) |
+| 01 | **Product Wire · NVIDIA Omniverse** | Products & Agents | ◈ | ● HIGH | [Rockwell Automation Integrates NVIDIA Omniverse into Emulate3D to Advance Industrial Simulation and AI-Powered Factory Design](https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5UGRuX1hEM3R0ZmQtbDd3MzhYLVc4cms3R3gzWVdoTllKeG1MdGFFRXpIcC1pNmQ3Rk80ejNLb0ZHZGg1SnFPdFVIZGpHRVdKX2pqOUxNNVFpTDN5?oc=5) |
+| 02 | **Reddit · r/artificial** | Industry | ◈ | ● HIGH | [What you want from a conscious AI is what you never got from people](https://www.reddit.com/r/artificial/comments/1xxv2yy/what_you_want_from_a_conscious_ai_is_what_you/) |
+| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’](https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/) |
+| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The Nvidia scandal isn’t slowing down](https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down) |
+| 05 | **AWS Machine Learning** | Research | ◈ | ● HIGH | [Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore/) |
+| 06 | **TechCrunch AI** | Research | ◈ | ● HIGH | [OpenAI will embed Apollo researchers to investigate AI subversion](https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/) |
+| 07 | **IEEE Spectrum AI** | Research | 🖼️ | ● HIGH | [AI Companies Develop Decision Models to Avoid Hallucinations](https://spectrum.ieee.org/typesafe-ai-hallucination-decision-models) |
+| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM](https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/) |
+| 09 | **KOLN \| Nebraska Local News, Weather, Sports \| Lincoln, NE · provider monitor** | Safety & Security | ◈ | ● HIGH | [Trooper runs to safety before pickup hits patrol cruiser near Palmyra](https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGFFWmdoSXFGb1ZrWDIzYzllb1VlamZmWlJ5NFZMbUJ0RFlUVGw1cDNvS19xcHlUbGl0OXRqdHZzYmMwcnEzVHZBUThvOHFGREduV053Y0RydnJNUnM2S1JQbUZKYldzdkxWR1JlbXFobmZZQ3N1c0t0UUxnZkNsTlJZMHBpMmVaZXl2RUtvSG13MkNOcU9pLVNwVm0ybVFrRXIxU9IBuAFBVV95cUxQek5RNTlwd0F3dnlWVGZmRHJjRFNBSVY0SGhaOE5DSUgyeW1hZUQ0NHZkelNERFBxdGx6RjR0RzR5cUN5TDRRTG1xdlZKMXp5V3dNYzdWdVlxWjBBT3dGMENsblJrT1dOdEZndzVhZkgyVEdKZHFRTTdQUVc0ano2WmZCTHJSOU91WTUxaXhsNVl0X0tkNnlUYlBRbjZlZlF6bHh1M0FKaDV6Y0tRUnBpRmNyOV84UGh4?oc=5) |
+| 10 | **The Decoder** | Open Source | 🖼️ | ● HIGH | [Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices](https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/) |
+| 11 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Audible is trying to make it easier to find audiobooks you’ll actually like](https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability) |
+| 12 | **US AI Czar & AI Force Watch** | Compliance & Ethics | ◈ | ● HIGH | [US to curb China's access to AI chips as Trump heads to Asia - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
