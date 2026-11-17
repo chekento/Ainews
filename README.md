@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-17 09:02 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-17 18:25 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Curated list of resources: Theory and Code for learning Distributed Training for beginners [P]](https://www.reddit.com/r/MachineLearning/comments/1xyf6pr/curated_list_of_resources_theory_and_code_for/) |
-| 02 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [ICLR 2027: PCs ran an AI detector on reviews, peer review is cooked [D]](https://www.reddit.com/r/MachineLearning/comments/1xyf1tq/iclr_2027_pcs_ran_an_ai_detector_on_reviews_peer/) |
-| 03 | **Reddit · r/MachineLearning** | Frontier Models | ◈ | ● HIGH | [CVPR Pre-submission Review [D]](https://www.reddit.com/r/MachineLearning/comments/1xye5j2/cvpr_presubmission_review_d/) |
-| 04 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [We logged 621k changes from 127k papers' ablations: 26% didn't help by the papers' own numbers [P]](https://www.reddit.com/r/MachineLearning/comments/1xybvju/we_logged_621k_changes_from_127k_papers_ablations/) |
-| 05 | **MIT News AI** | Products & Agents | 🖼️ | ● HIGH | [Q&A: Why building math muscles remains important in the AI era](https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117) |
-| 06 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Learning the language of machine learning](https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117) |
-| 07 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Why are ViTs so popular? [D]](https://www.reddit.com/r/MachineLearning/comments/1xyb8q6/why_are_vits_so_popular_d/) |
-| 08 | **Cerebras Blog** | Industry | ◈ | ● HIGH | [High-level code, wafer-scale performance - Cerebras](https://news.google.com/rss/articles/CBMid0FVX3lxTE5haWtOUnlJVzhQakZTYmlHaFhMaVNaaDVMZ0hHTmNkZElOWXlVQlRvYk5WNnUwc2JJOWRhVzNmR0t1Y2RhXzZuVWtEWjd2S3hxd1pab2toWmRINFZFeTdrc1FEUUE1QTN0aFRaeFY0anNUTXVWM0FB?oc=5) |
-| 09 | **Product Wire · Optimum** | Products & Agents | ◈ | ● HIGH | [Optimum Puts Off $100 Million Interest Payment Amid Debt Negotiations](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQjdEM3JrY25yc01xTDQ4eUJUQnNKYUtUOWtJSW43ZU5pZEc4MWM2NGpEaXdXYkNNT3hSbkNHTVVWRTF4SFhhN1IxYkx5SDJ3Nm1iRzQ1OUVoaFhSRzZSc1VPcUZPZUFNa3h6d1VDNGhNY0FPeXJpNF9ueGRENFdMWFVlNVF3Sm1PUzFXdC1zMVFYSWhtNkpENkliay1OU1BZR2c?oc=5) |
-| 10 | **OpenAI News** | Safety & Security | ◈ | ● HIGH | [Strengthening NATO and allied cyber defenses with AI](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai) |
-| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Cybersecurity AI startup Corma reaches $1B valuation in about 3 months](https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/) |
-| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Tech leaders are convinced that Jensen Huang’s exit was a plot against him](https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories) |
+| 01 | **TechCrunch AI** | Research | ◈ | ● HIGH | [As decision model use skyrockets, is customization is the next frontier?](https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/) |
+| 02 | **AWS Machine Learning** | Open Source | ◈ | ● HIGH | [Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/) |
+| 03 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Pedestal AI raises $4.7 million to agentify the supply chain](https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/) |
+| 04 | **Product Wire · Claude API** | Products & Agents | ◈ | ● HIGH | [Anthropic Launches Linked Billing Beta for Claude API Apps](https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVhTbU5LdzhLaTRaSTJxUWxrRnBqOGJKdGZkZVp1Tm9aRlJTSzdzX18zSDdZYzAtT0JtSVVlTnBEOGFjTXZ2b1NIX3Z6dC00TkdWTmNiOWZmSlNMVDdlemJKZGg5M0hQODJ6YkdmUm9tcnpHZTdVZDNsczdVQlZEQmJZeGE0Vmc?oc=5) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 06 | **OpenAI News** | Products & Agents | ◈ | ● HIGH | [Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol) |
+| 07 | **TechCrunch AI** | Frontier Models | ◈ | ● HIGH | [Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop](https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/) |
+| 08 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [AI models can be tricked into identifying civilians as military targets by telling them it’s a game](https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/) |
+| 09 | **AI Magazine · provider monitor** | Industry | ◈ | ● HIGH | [Midjourney: Zero VC, AI Image Models and a Meta Licence Deal](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdFFsbGw2TUtKSU52RDBJLTVubFBQT19iMHVsS2FIa0hNTkFyYUlmUjFJSGJPWHNBb05Fb0ZpeGRhQllIMzNEbUdJZExuTzY5V3F6eXIwQUwtcHl4RXNYQk50VDFsVC1Rdm9ic1AxU0prWWZVLU14Tk9VbVF2LVZiVFBMMkRmM05MVEpweXUtSQ?oc=5) |
+| 10 | **AWS Machine Learning** | Safety & Security | ◈ | ● HIGH | [Your complete guide to AWS Quick at AWS re:Invent 2026](https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/) |
+| 11 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/) |
+| 12 | **Google AI Blog** | Frontier Models | 🖼️ | ● HIGH | [Put Gemini to work for you](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
