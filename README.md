@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-17 01:00 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-17 09:02 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Product Wire · Diffusers** | Products & Agents | ◈ | ● HIGH | [Air Diffusers Market To 2035: Energy-Efficient HVAC Demand Drives Growth - News and Statistics](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXVHLWt4MkZYMkFVaTNmY0xjS2Y1bUZ1RkZkQlJFaHhDVnBzTmZmWHhtZGVwXzczWVJRb1FwVXJuVEdqZDNVdXhUWjNSOVVISWc4NmtLWTFOWThpUXRJVy1zcGx0UXpkMWJ3M21jeU5WZUJ5MUhHNU1IOFhZOXFIZmI4RjhMUDZZOUxYYWs4QmozVFl3QTFidDR2V0xjb2xnZGMxdHdDWV9rV3ZsLTZv?oc=5) |
-| 02 | **Reddit · r/LocalLLaMA** | Research | ◈ | ● HIGH | [Your daily dose of Qwopium:](https://www.reddit.com/r/LocalLLaMA/comments/1xy4xsx/your_daily_dose_of_qwopium/) |
-| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Cybersecurity AI startup Corma reaches $1B valuation in about 3 months](https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/) |
-| 04 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Tech leaders are convinced that Jensen Huang’s exit was a plot against him](https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Sign in - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 06 | **The Verge AI** | Compliance & Ethics | 🖼️ | ● HIGH | [California sues OpenAI over rogue AI hacking incidents](https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 08 | **NVIDIA AI Blog** | Products & Agents | 🖼️ | ● HIGH | [NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab](https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/) |
-| 09 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Sam Altman says he wants everyone ‘to have a lot of RAM’](https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor) |
-| 10 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/) |
-| 11 | **AWS Machine Learning** | Research | ◈ | ● HIGH | [How Duco transforms financial data automation with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-duco-transforms-financial-data-automation-with-amazon-bedrock-agentcore/) |
-| 12 | **US AI Czar & AI Force Watch** | Compliance & Ethics | ◈ | ● HIGH | [US to curb China's access to AI chips as Trump heads to Asia - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5) |
+| 01 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Curated list of resources: Theory and Code for learning Distributed Training for beginners [P]](https://www.reddit.com/r/MachineLearning/comments/1xyf6pr/curated_list_of_resources_theory_and_code_for/) |
+| 02 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [ICLR 2027: PCs ran an AI detector on reviews, peer review is cooked [D]](https://www.reddit.com/r/MachineLearning/comments/1xyf1tq/iclr_2027_pcs_ran_an_ai_detector_on_reviews_peer/) |
+| 03 | **Reddit · r/MachineLearning** | Frontier Models | ◈ | ● HIGH | [CVPR Pre-submission Review [D]](https://www.reddit.com/r/MachineLearning/comments/1xye5j2/cvpr_presubmission_review_d/) |
+| 04 | **Reddit · r/MachineLearning** | Research | ◈ | ● HIGH | [We logged 621k changes from 127k papers' ablations: 26% didn't help by the papers' own numbers [P]](https://www.reddit.com/r/MachineLearning/comments/1xybvju/we_logged_621k_changes_from_127k_papers_ablations/) |
+| 05 | **MIT News AI** | Products & Agents | 🖼️ | ● HIGH | [Q&A: Why building math muscles remains important in the AI era](https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117) |
+| 06 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Learning the language of machine learning](https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117) |
+| 07 | **Reddit · r/MachineLearning** | Industry | ◈ | ● HIGH | [Why are ViTs so popular? [D]](https://www.reddit.com/r/MachineLearning/comments/1xyb8q6/why_are_vits_so_popular_d/) |
+| 08 | **Cerebras Blog** | Industry | ◈ | ● HIGH | [High-level code, wafer-scale performance - Cerebras](https://news.google.com/rss/articles/CBMid0FVX3lxTE5haWtOUnlJVzhQakZTYmlHaFhMaVNaaDVMZ0hHTmNkZElOWXlVQlRvYk5WNnUwc2JJOWRhVzNmR0t1Y2RhXzZuVWtEWjd2S3hxd1pab2toWmRINFZFeTdrc1FEUUE1QTN0aFRaeFY0anNUTXVWM0FB?oc=5) |
+| 09 | **Product Wire · Optimum** | Products & Agents | ◈ | ● HIGH | [Optimum Puts Off $100 Million Interest Payment Amid Debt Negotiations](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQjdEM3JrY25yc01xTDQ4eUJUQnNKYUtUOWtJSW43ZU5pZEc4MWM2NGpEaXdXYkNNT3hSbkNHTVVWRTF4SFhhN1IxYkx5SDJ3Nm1iRzQ1OUVoaFhSRzZSc1VPcUZPZUFNa3h6d1VDNGhNY0FPeXJpNF9ueGRENFdMWFVlNVF3Sm1PUzFXdC1zMVFYSWhtNkpENkliay1OU1BZR2c?oc=5) |
+| 10 | **OpenAI News** | Safety & Security | ◈ | ● HIGH | [Strengthening NATO and allied cyber defenses with AI](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Cybersecurity AI startup Corma reaches $1B valuation in about 3 months](https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/) |
+| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Tech leaders are convinced that Jensen Huang’s exit was a plot against him](https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
