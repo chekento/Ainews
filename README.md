@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-17 18:25 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-18 01:14 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Research | ◈ | ● HIGH | [As decision model use skyrockets, is customization is the next frontier?](https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/) |
-| 02 | **AWS Machine Learning** | Open Source | ◈ | ● HIGH | [Reason over time-series data with OpenTSLM on Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/reason-over-time-series-data-with-opentslm-on-amazon-sagemaker-jumpstart/) |
-| 03 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Pedestal AI raises $4.7 million to agentify the supply chain](https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/) |
-| 04 | **Product Wire · Claude API** | Products & Agents | ◈ | ● HIGH | [Anthropic Launches Linked Billing Beta for Claude API Apps](https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVhTbU5LdzhLaTRaSTJxUWxrRnBqOGJKdGZkZVp1Tm9aRlJTSzdzX18zSDdZYzAtT0JtSVVlTnBEOGFjTXZ2b1NIX3Z6dC00TkdWTmNiOWZmSlNMVDdlemJKZGg5M0hQODJ6YkdmUm9tcnpHZTdVZDNsczdVQlZEQmJZeGE0Vmc?oc=5) |
+| 01 | **Semafor AI** | Industry | ◈ | ◐ MED | [Recent AI cyberattacks are part of a ‘short period of transition,’ says Yann LeCun - Semafor](https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmVrelhLWUpYOTVNWC1weXpIVU1fejY4eENnUzN6Sll0VEQ3NHh3LVBvdWM0a1ZBT0lyQXNJVE12ZU9wQWJVV0FNb3l5MXAtMWhsaTNHNS14N2R2bXRBN0o1ZUtTdUV2bjMybzUzX2U2Uy1udHdvLVFrYUZoLTZwZVBORHRRMlhrdUJhY1hPTUVRZldXWmF5VkJvdTVkQzZtREpKZ0dtMmFSQ3BqeXNHbkM2bFNwYUFMUURELXozTQ?oc=5) |
+| 02 | **Google Research** | Research | ◈ | ● HIGH | [Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings - Google Research](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWlZ5MDFya1p2MU04WC1jcUxfSEtVa0VMRWJ3SUhDMHk3NDJlV284YVBkY3Y4dUFRREs4S2FWVE44dlBxbEJBY3UtUm1NOENHUnJ4aG9SdWVFdFhkdllpa2NMekF3RGh1VnQ5VXh0VG1CbWI1X21BSlZidkJ0d3daSlh0ZjBQd3UyT3Q1ZHlVRFlOLWFZWDgyWFhTbVRyRy1NQVlrX29iZXRjUkpCRGpwSjNTRDlETU5jdGphaUpyWDctdFFXSDgwd2ZHcUZoWGlJQVhFVU9QMTZaUDVVemR2dzlvMWRTWlZa?oc=5) |
+| 03 | **Product Wire · Harvey AI** | Products & Agents | ◈ | ● HIGH | [Harvey Legal AI Rolls Out Across More Than 20 SK Group Affiliates](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUlQZ21zQy01bExmRUdObkwydUs3YjFsaDllMTFheVpseUl5aXY4bF9xMEtlaDRfWTJRWjRqbzJDLWJseGItQjhWem5xdnlWODRhcTBRODZzbWhpQlVtSFVwcEhlaGFpMmQ5RWhJZExvOE92aVFXUm02MFVuOFZ2Zy1TUUVzaHNHd0xvX3BiVTQ0dDc5aWR3?oc=5) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Nvidia promises that revenue will keep soaring — for now](https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/) |
 | 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 06 | **OpenAI News** | Products & Agents | ◈ | ● HIGH | [Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol) |
-| 07 | **TechCrunch AI** | Frontier Models | ◈ | ● HIGH | [Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop](https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/) |
-| 08 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [AI models can be tricked into identifying civilians as military targets by telling them it’s a game](https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/) |
-| 09 | **AI Magazine · provider monitor** | Industry | ◈ | ● HIGH | [Midjourney: Zero VC, AI Image Models and a Meta Licence Deal](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdFFsbGw2TUtKSU52RDBJLTVubFBQT19iMHVsS2FIa0hNTkFyYUlmUjFJSGJPWHNBb05Fb0ZpeGRhQllIMzNEbUdJZExuTzY5V3F6eXIwQUwtcHl4RXNYQk50VDFsVC1Rdm9ic1AxU0prWWZVLU14Tk9VbVF2LVZiVFBMMkRmM05MVEpweXUtSQ?oc=5) |
-| 10 | **AWS Machine Learning** | Safety & Security | ◈ | ● HIGH | [Your complete guide to AWS Quick at AWS re:Invent 2026](https://aws.amazon.com/blogs/machine-learning/your-complete-guide-to-aws-quick-at-aws-reinvent-2026/) |
-| 11 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [How LoanPro built an agentic AI loan servicing assistant with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-loanpro-built-an-agentic-ai-loan-servicing-assistant-with-amazon-bedrock-agentcore/) |
-| 12 | **Google AI Blog** | Frontier Models | 🖼️ | ● HIGH | [Put Gemini to work for you](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/) |
+| 06 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Not even Sam Altman is safe from AI deepfakes on Instagram](https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Satya Nadella says he’s AGI-pilled now](https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now) |
+| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Nvidia is abandoning China after Jensen Huang’s ouster](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/) |
+| 10 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference](https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/) |
+| 11 | **TechCrunch AI** | Open Source | ◈ | ● HIGH | [Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit](https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/) |
+| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing](https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
