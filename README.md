@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-18 09:02 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-18 17:56 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 02 | **Product Wire · Ideogram AI** | Products & Agents | ◈ | ● HIGH | [Kling Image 4.0 vs Ideogram 4.5: who owns the text now](https://news.google.com/rss/articles/CBMib0FVX3lxTE44WktILTZHSFlOR2JUS3A3QjluVzdka2ZqcFVuQk1RaFJCNkoxaEtGckV1VU5fUUhTa1V2NVZCSURybExIMzgxSmhnRnlDaUhiZWlick9ZaU1ZY05YTGxRbU5qTklmS3FsdElvR1d5WQ?oc=5) |
-| 03 | **Product Wire · Typeface** | Products & Agents | ◈ | ● HIGH | [Helvetica: The Typeface Everyone Respects but Nobody Questions](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNWVwb2NvOGFXUENhSDNIY1FGY19GUEtVVGprdG1LRXQ3WUtrQWlvbkZaWjlBY0ZKQ1JLb0hZUDczMzh1eDJPOFcyaFUwNTRPejZZZy04QndYUDRJM0w3X1NYZGZ1ckh3X3VuSjVnT0NCTGNwNmV2WXV4SUs0RThNQnlMYXBxc21CcnRIdA?oc=5) |
-| 04 | **Semafor AI** | Industry | ◈ | ◐ MED | [Semafor Silicon Valley & The World - Semafor](https://news.google.com/rss/articles/CBMieEFVX3lxTE1LaXVhbWVwREVqZ2tkTTRpTUpoelJGSkxWOVhVN2htLThuRlRCVUtPSDVsTHNBOE56YW5CMENYTWk3aS1fQVd4QzJVeFJUNXByaXpZVWpFbFdDdDlpOTN5ZGtxX1p3M3NPZ0ZBSWFBQlpzSFFVaVF5eQ?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 06 | **404 Media AI** | Research | ◈ | ◐ MED | [Massive New Study Shows How Young People Feel About AI Companions - 404 Media](https://news.google.com/rss/articles/CBMib0FVX3lxTFBBS19Od1hxaEVWeVVyRHRLMW9jSVd5V1J6M1dHOE1Hc3hRRUNSd3Z0N2Y4Nlh6anpaSHBaNmZsMzBKTU1OaHB6Q21iaWtaRmo5NzQ1cGl6dUd2U0FFMGp6cWtObEp4YTlXSUxjb3habw?oc=5) |
-| 07 | **AP News AI Policy** | Compliance & Ethics | ◈ | ● HIGH | [China’s Xi and other Asian leaders say Asia-Pacific must embrace open trade, fair growth - AP News](https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDAtWFFGbDFuZ1pfbzdfUHUyYmM5QktTRkR5WndiUXpoenF6cE9VbGQ4ZE84MzY0czJoZFE3cWJXYm81ZDZtUlJzZU5sS3lueWFVV2ZBT2NtVXlkTVJ4N0NUXzhkaXRxUWRVRldGRUFTMERMcXVYcGtaWFI2bnFfY3U0YUFlenRnajRaZ2hOc3h3OFcteFYySg?oc=5) |
-| 08 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Over a Third of Gen Z-ers Rely on AI for Friendship](https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/) |
-| 09 | **MIT News AI** | Research | 🖼️ | ● HIGH | [Helping AI text detectors keep up with changing conditions](https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118) |
-| 10 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](https://arxiv.org/abs/2611.21682) |
-| 11 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability](https://arxiv.org/abs/2611.21799) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR](https://arxiv.org/abs/2611.21827) |
+| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Disney’s new Star Wars animatronics interact with guests using AI](https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai) |
+| 02 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity](https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/) |
+| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [More banks says customers using AI agents are on their own — even if they get hacked](https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/) |
+| 04 | **Product Wire · NVIDIA Cosmos** | Products & Agents | ◈ | ● HIGH | [Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos](https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3pDcVc5RjRoM2ZyakFpQ2ZFTTk3aWxQb3VpQk9KNHFhamxvQzNHQkt1UktzQ2d6Nkp4YVZIVDd1cDFrRWtaMnl5Q29EampCRy0zazFqY1Y4MWxPSjhzcHlkX01OQmdTM0NwN1FZRWgya2NQUXdpNFB2bDI3Y0x5UERFeHplYnNhSFJrODF6TW1nM1V3aUliQ3pCZ084dU1hM3VTVDd3ZFM1eHVzRllz?oc=5) |
+| 05 | **Google AI Blog** | Frontier Models | 🖼️ | ● HIGH | [The Gemini app is now available on lower-memory Android devices.](https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/) |
+| 06 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Sam Altman warns against a future where AI, not humans, calls the shots](https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/) |
+| 07 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool](https://www.wired.com/story/artex-ai-hacking-tools/) |
+| 08 | **Intel AI** | Infrastructure | ◈ | ● HIGH | [Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure - Intel](https://news.google.com/rss/articles/CBMiswFBVV95cUxPR25VQ25fNmdMY2ZLdlNEVy1qZ2c2bnlIRmJfZVZReGlKSnVtTmVSS0dqZGJxXzNVMmlPQ0NVZTRzT1g3b3lKQWNzTldLTEU1OTNZNEc0cGc1YTFxRG1rNkJLTk05OXpEYXNSZ0NBd0dZUVB4cW1HZHdPUkFDQ1N0QlUwcFBDZnpwSDdLUmRDa19oeFZRY3hWd0xzZXlud2REUU12eG1ncEJFMDRmQ0dRZ2dxdw?oc=5) |
+| 09 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Will Wright’s next game uses AI to map your memories](https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview) |
+| 10 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Remember the frontier AI pause? Chip companies don’t either](https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’](https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/) |
+| 12 | **Center for AI Safety** | Compliance & Ethics | ◈ | ● HIGH | [Anthropic is Not a Safe AI Company - Center for AI Safety (CAIS)](https://news.google.com/rss/articles/CBMiZkFVX3lxTE11eUNHSUVwZEpXNmc0V1ZNZ05Bd0hXcnFZNGtIVEkyS25nT1FKSllnYXFZQUMtS1MxWUMzeERqY1EwaEUtZWlnQkhsaU1GbUZfajY1R2pFekk5eDJQS3laVnhDV2wtUQ?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
