@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-18 01:14 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-18 09:02 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Semafor AI** | Industry | ◈ | ◐ MED | [Recent AI cyberattacks are part of a ‘short period of transition,’ says Yann LeCun - Semafor](https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmVrelhLWUpYOTVNWC1weXpIVU1fejY4eENnUzN6Sll0VEQ3NHh3LVBvdWM0a1ZBT0lyQXNJVE12ZU9wQWJVV0FNb3l5MXAtMWhsaTNHNS14N2R2bXRBN0o1ZUtTdUV2bjMybzUzX2U2Uy1udHdvLVFrYUZoLTZwZVBORHRRMlhrdUJhY1hPTUVRZldXWmF5VkJvdTVkQzZtREpKZ0dtMmFSQ3BqeXNHbkM2bFNwYUFMUURELXozTQ?oc=5) |
-| 02 | **Google Research** | Research | ◈ | ● HIGH | [Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings - Google Research](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWlZ5MDFya1p2MU04WC1jcUxfSEtVa0VMRWJ3SUhDMHk3NDJlV284YVBkY3Y4dUFRREs4S2FWVE44dlBxbEJBY3UtUm1NOENHUnJ4aG9SdWVFdFhkdllpa2NMekF3RGh1VnQ5VXh0VG1CbWI1X21BSlZidkJ0d3daSlh0ZjBQd3UyT3Q1ZHlVRFlOLWFZWDgyWFhTbVRyRy1NQVlrX29iZXRjUkpCRGpwSjNTRDlETU5jdGphaUpyWDctdFFXSDgwd2ZHcUZoWGlJQVhFVU9QMTZaUDVVemR2dzlvMWRTWlZa?oc=5) |
-| 03 | **Product Wire · Harvey AI** | Products & Agents | ◈ | ● HIGH | [Harvey Legal AI Rolls Out Across More Than 20 SK Group Affiliates](https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUlQZ21zQy01bExmRUdObkwydUs3YjFsaDllMTFheVpseUl5aXY4bF9xMEtlaDRfWTJRWjRqbzJDLWJseGItQjhWem5xdnlWODRhcTBRODZzbWhpQlVtSFVwcEhlaGFpMmQ5RWhJZExvOE92aVFXUm02MFVuOFZ2Zy1TUUVzaHNHd0xvX3BiVTQ0dDc5aWR3?oc=5) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Nvidia promises that revenue will keep soaring — for now](https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/) |
+| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 02 | **Product Wire · Ideogram AI** | Products & Agents | ◈ | ● HIGH | [Kling Image 4.0 vs Ideogram 4.5: who owns the text now](https://news.google.com/rss/articles/CBMib0FVX3lxTE44WktILTZHSFlOR2JUS3A3QjluVzdka2ZqcFVuQk1RaFJCNkoxaEtGckV1VU5fUUhTa1V2NVZCSURybExIMzgxSmhnRnlDaUhiZWlick9ZaU1ZY05YTGxRbU5qTklmS3FsdElvR1d5WQ?oc=5) |
+| 03 | **Product Wire · Typeface** | Products & Agents | ◈ | ● HIGH | [Helvetica: The Typeface Everyone Respects but Nobody Questions](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNWVwb2NvOGFXUENhSDNIY1FGY19GUEtVVGprdG1LRXQ3WUtrQWlvbkZaWjlBY0ZKQ1JLb0hZUDczMzh1eDJPOFcyaFUwNTRPejZZZy04QndYUDRJM0w3X1NYZGZ1ckh3X3VuSjVnT0NCTGNwNmV2WXV4SUs0RThNQnlMYXBxc21CcnRIdA?oc=5) |
+| 04 | **Semafor AI** | Industry | ◈ | ◐ MED | [Semafor Silicon Valley & The World - Semafor](https://news.google.com/rss/articles/CBMieEFVX3lxTE1LaXVhbWVwREVqZ2tkTTRpTUpoelJGSkxWOVhVN2htLThuRlRCVUtPSDVsTHNBOE56YW5CMENYTWk3aS1fQVd4QzJVeFJUNXByaXpZVWpFbFdDdDlpOTN5ZGtxX1p3M3NPZ0ZBSWFBQlpzSFFVaVF5eQ?oc=5) |
 | 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 06 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Not even Sam Altman is safe from AI deepfakes on Instagram](https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Satya Nadella says he’s AGI-pilled now](https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Nvidia is abandoning China after Jensen Huang’s ouster](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/) |
-| 10 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference](https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/) |
-| 11 | **TechCrunch AI** | Open Source | ◈ | ● HIGH | [Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit](https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/) |
-| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing](https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang) |
+| 06 | **404 Media AI** | Research | ◈ | ◐ MED | [Massive New Study Shows How Young People Feel About AI Companions - 404 Media](https://news.google.com/rss/articles/CBMib0FVX3lxTFBBS19Od1hxaEVWeVVyRHRLMW9jSVd5V1J6M1dHOE1Hc3hRRUNSd3Z0N2Y4Nlh6anpaSHBaNmZsMzBKTU1OaHB6Q21iaWtaRmo5NzQ1cGl6dUd2U0FFMGp6cWtObEp4YTlXSUxjb3habw?oc=5) |
+| 07 | **AP News AI Policy** | Compliance & Ethics | ◈ | ● HIGH | [China’s Xi and other Asian leaders say Asia-Pacific must embrace open trade, fair growth - AP News](https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDAtWFFGbDFuZ1pfbzdfUHUyYmM5QktTRkR5WndiUXpoenF6cE9VbGQ4ZE84MzY0czJoZFE3cWJXYm81ZDZtUlJzZU5sS3lueWFVV2ZBT2NtVXlkTVJ4N0NUXzhkaXRxUWRVRldGRUFTMERMcXVYcGtaWFI2bnFfY3U0YUFlenRnajRaZ2hOc3h3OFcteFYySg?oc=5) |
+| 08 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Over a Third of Gen Z-ers Rely on AI for Friendship](https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/) |
+| 09 | **MIT News AI** | Research | 🖼️ | ● HIGH | [Helping AI text detectors keep up with changing conditions](https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118) |
+| 10 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](https://arxiv.org/abs/2611.21682) |
+| 11 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability](https://arxiv.org/abs/2611.21799) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR](https://arxiv.org/abs/2611.21827) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
