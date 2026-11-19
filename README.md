@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-19 00:13 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-19 07:50 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips](https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/) |
-| 02 | **Product Wire · Google Flow** | Products & Agents | ◈ | ● HIGH | [Flow AI Video Expands Multi-Model Creation for Short-Form and Product Campaigns](https://news.google.com/rss/articles/CBMivgFBVV95cUxORGl4Y28xa1BYSUZ6VFRnSHdncU1kaHJNQ3JlUkF3NGtuUHlISGlZMDZpcTNpRk83WGZJeXBKT3BxWF9QYkdCNm1ZZHE1Rmx5MHpuYXBLbnZ0bW5WeTdXTkdLaTlWcUU2NXVXTFk1a1VZUEtsOUkzVVZsd1dsYlIyek5YenM1LWVWc3JQMGVVWi1ra2FkeXgxc3pTVFJPemFSSlpQWjNmal9zMzAwUWNvOGtkdzJZeFNXVFJVTV9B?oc=5) |
-| 03 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’](https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’](https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/) |
-| 05 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [The nation’s largest school districts consider ditching Google Search](https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google) |
-| 06 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/) |
-| 07 | **The Defiant · provider monitor** | Industry | ◈ | ● HIGH | [Report: ByteDance AI Sales Strain Microsoft–OpenAI Ties](https://news.google.com/rss/articles/CBMikgFBVV95cUxNQzBzY25UbWoySm1WN1F5eXNHQkItVl9OZ1gwMERXM1F1N3VUWGVjY3RJbkhnY21keDgzeFc1RzlpR3dxSWxkRUlyeDZvYVFsSlJ4YkowLUN4Rlk4OVBmZ1M3VTRtcVNEVlNQbkJQY2t2eVk1WG92QW9zZTltdHM0QW5FaW53b2F1ZmNvQnZ2enJldw?oc=5) |
-| 08 | **AWS Machine Learning** | Infrastructure | ◈ | ● HIGH | [Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Satya Nadella predicts AI agents will reshuffle the economics of the web](https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/) |
-| 10 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Introducing the Amazon SageMaker JumpStart Model Leaderboard](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/) |
-| 11 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Nvidia’s rise, visualized](https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang) |
-| 12 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This](https://www.wired.com/story/guys-really-we-got-this/) |
+| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Sign in - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
+| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 04 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](https://arxiv.org/abs/2611.21682) |
+| 05 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability](https://arxiv.org/abs/2611.21799) |
+| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR](https://arxiv.org/abs/2611.21827) |
+| 07 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research](https://arxiv.org/abs/2611.21832) |
+| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding](https://arxiv.org/abs/2611.21925) |
+| 10 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [SLED: Sensor SLicing from Edge to Datacenter](https://arxiv.org/abs/2611.21937) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking](https://arxiv.org/abs/2611.21946) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators](https://arxiv.org/abs/2611.21948) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
