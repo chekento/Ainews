@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-18 17:56 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-19 00:13 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Disney’s new Star Wars animatronics interact with guests using AI](https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai) |
-| 02 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity](https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/) |
-| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [More banks says customers using AI agents are on their own — even if they get hacked](https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/) |
-| 04 | **Product Wire · NVIDIA Cosmos** | Products & Agents | ◈ | ● HIGH | [Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos](https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3pDcVc5RjRoM2ZyakFpQ2ZFTTk3aWxQb3VpQk9KNHFhamxvQzNHQkt1UktzQ2d6Nkp4YVZIVDd1cDFrRWtaMnl5Q29EampCRy0zazFqY1Y4MWxPSjhzcHlkX01OQmdTM0NwN1FZRWgya2NQUXdpNFB2bDI3Y0x5UERFeHplYnNhSFJrODF6TW1nM1V3aUliQ3pCZ084dU1hM3VTVDd3ZFM1eHVzRllz?oc=5) |
-| 05 | **Google AI Blog** | Frontier Models | 🖼️ | ● HIGH | [The Gemini app is now available on lower-memory Android devices.](https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/) |
-| 06 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Sam Altman warns against a future where AI, not humans, calls the shots](https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/) |
-| 07 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool](https://www.wired.com/story/artex-ai-hacking-tools/) |
-| 08 | **Intel AI** | Infrastructure | ◈ | ● HIGH | [Microsoft and Intel deepen collaboration to deliver differentiated Azure infrastructure - Intel](https://news.google.com/rss/articles/CBMiswFBVV95cUxPR25VQ25fNmdMY2ZLdlNEVy1qZ2c2bnlIRmJfZVZReGlKSnVtTmVSS0dqZGJxXzNVMmlPQ0NVZTRzT1g3b3lKQWNzTldLTEU1OTNZNEc0cGc1YTFxRG1rNkJLTk05OXpEYXNSZ0NBd0dZUVB4cW1HZHdPUkFDQ1N0QlUwcFBDZnpwSDdLUmRDa19oeFZRY3hWd0xzZXlud2REUU12eG1ncEJFMDRmQ0dRZ2dxdw?oc=5) |
-| 09 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Will Wright’s next game uses AI to map your memories](https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview) |
-| 10 | **The Verge AI** | Safety & Security | 🖼️ | ● HIGH | [Remember the frontier AI pause? Chip companies don’t either](https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models) |
-| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’](https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/) |
-| 12 | **Center for AI Safety** | Compliance & Ethics | ◈ | ● HIGH | [Anthropic is Not a Safe AI Company - Center for AI Safety (CAIS)](https://news.google.com/rss/articles/CBMiZkFVX3lxTE11eUNHSUVwZEpXNmc0V1ZNZ05Bd0hXcnFZNGtIVEkyS25nT1FKSllnYXFZQUMtS1MxWUMzeERqY1EwaEUtZWlnQkhsaU1GbUZfajY1R2pFekk5eDJQS3laVnhDV2wtUQ?oc=5) |
+| 01 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips](https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/) |
+| 02 | **Product Wire · Google Flow** | Products & Agents | ◈ | ● HIGH | [Flow AI Video Expands Multi-Model Creation for Short-Form and Product Campaigns](https://news.google.com/rss/articles/CBMivgFBVV95cUxORGl4Y28xa1BYSUZ6VFRnSHdncU1kaHJNQ3JlUkF3NGtuUHlISGlZMDZpcTNpRk83WGZJeXBKT3BxWF9QYkdCNm1ZZHE1Rmx5MHpuYXBLbnZ0bW5WeTdXTkdLaTlWcUU2NXVXTFk1a1VZUEtsOUkzVVZsd1dsYlIyek5YenM1LWVWc3JQMGVVWi1ra2FkeXgxc3pTVFJPemFSSlpQWjNmal9zMzAwUWNvOGtkdzJZeFNXVFJVTV9B?oc=5) |
+| 03 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’](https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’](https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/) |
+| 05 | **The Verge AI** | Frontier Models | 🖼️ | ● HIGH | [The nation’s largest school districts consider ditching Google Search](https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google) |
+| 06 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit](https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/) |
+| 07 | **The Defiant · provider monitor** | Industry | ◈ | ● HIGH | [Report: ByteDance AI Sales Strain Microsoft–OpenAI Ties](https://news.google.com/rss/articles/CBMikgFBVV95cUxNQzBzY25UbWoySm1WN1F5eXNHQkItVl9OZ1gwMERXM1F1N3VUWGVjY3RJbkhnY21keDgzeFc1RzlpR3dxSWxkRUlyeDZvYVFsSlJ4YkowLUN4Rlk4OVBmZ1M3VTRtcVNEVlNQbkJQY2t2eVk1WG92QW9zZTltdHM0QW5FaW53b2F1ZmNvQnZ2enJldw?oc=5) |
+| 08 | **AWS Machine Learning** | Infrastructure | ◈ | ● HIGH | [Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/) |
+| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Satya Nadella predicts AI agents will reshuffle the economics of the web](https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/) |
+| 10 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Introducing the Amazon SageMaker JumpStart Model Leaderboard](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/) |
+| 11 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Nvidia’s rise, visualized](https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang) |
+| 12 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This](https://www.wired.com/story/guys-really-we-got-this/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
