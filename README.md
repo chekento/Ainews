@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-19 07:50 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-19 17:16 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Sign in - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 04 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models](https://arxiv.org/abs/2611.21682) |
-| 05 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability](https://arxiv.org/abs/2611.21799) |
-| 06 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR](https://arxiv.org/abs/2611.21827) |
-| 07 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research](https://arxiv.org/abs/2611.21832) |
-| 08 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding](https://arxiv.org/abs/2611.21925) |
-| 10 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [SLED: Sensor SLicing from Edge to Datacenter](https://arxiv.org/abs/2611.21937) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Conserved Verdicts, Drifting Commitments: Identifying Harmful Overthinking](https://arxiv.org/abs/2611.21946) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Honest Brokers in AI Regulation: How Public Comments Introduce Evidence to Regulators](https://arxiv.org/abs/2611.21948) |
+| 01 | **Product Wire · Gemma** | Products & Agents | ◈ | ● HIGH | [Multi-Turn Agentic Reinforcement Learning with Tunix and Gemma 4 on Google TPUs](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXMySEFEWDhWQ3J1NmFtTlNvTkFnaldjWUh4ZXZDYlRzdHZNTmFxbzVoQVppaGd3ZURqaVBiNTZhdTF6YUYzUWlSVFhYakJWemZYNVg4eERhS2l4emdyVUE5Zk8xMXRtVG5PbzFVWkNIejJ4M1NnRHJmbGNwR3pvbmlPbkQtRnBpMXB2bks2R2RwTDRpZlh5VDAyeGFpSDM4TDdoSXJ0c3lNMTlkcGlnVWs1LTA?oc=5) |
+| 02 | **The Decoder** | Infrastructure | 🖼️ | ● HIGH | [Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears](https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/) |
+| 03 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Anthropic starts trading on Wall Street](https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq) |
+| 04 | **Google AI Blog** | Industry | 🖼️ | ● HIGH | [Walter Isaacson on curiosity and creativity in the AI age.](https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/) |
+| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories](https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/) |
+| 06 | **WIRED AI** | Safety & Security | 🖼️ | ● HIGH | [Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents](https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/) |
+| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price](https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/) |
+| 08 | **AWS Machine Learning** | Infrastructure | ◈ | ● HIGH | [Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/introducing-enhanced-observability-in-amazon-sagemaker-hyperpod-to-diagnose-gpu-training-issues/) |
+| 09 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Nvidia’s rise, visualized](https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang) |
+| 10 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development](https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/) |
+| 11 | **AWS Machine Learning** | Open Source | ◈ | ● HIGH | [Using NVIDIA Run:ai GPU Fractioning on Amazon EKS](https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks/) |
+| 12 | **CNET AI** | Industry | ◈ | ● HIGH | [Amid Anthropic’s IPO, Google, Microsoft and OpenAI Drop New AI Models - CNET](https://news.google.com/rss/articles/CBMimwFBVV95cUxORnhfSEI1RENvMW1jMExyT2ZQSjNabEF3dGgxQjc2RHVacnJYN2VadzJMSURlTDhNbk05aHJ5cXBMbWZRWFJjZ3U2WUwyMkhBRDZlQVdWc19tV3BxQ3Q0amxxWnpLUDdSU3JiQmVzamU4RURlTlZDZmxkZDBLUmFYZjJJM3dnWnR1RnpQRHdPdk42RjhjZ0pLTW90SQ?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
