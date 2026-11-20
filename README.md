@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-19 23:45 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-20 06:58 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Product Wire · Gemini API** | Products & Agents | ◈ | ● HIGH | [Google opens Genie 4 world model to developers in Gemini API](https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2h2ZmI3a2ZqUkNQTDVBXzVXVExTUVhlVGhPNVZkQUxFSzQxUXZzSTg5TkJ5TWpDOTZQVjNZUVJ3RGhQY21Tekg2Qmh1QjBubnlBWVV1bnRRVl9ZVTVuTFh1dU5xRUZ1SC1MSzV1djVxNDdpdm05SEI3N0tURGs4OVRSVFBWTlpGd3lkdUF4RVgwOHBISDNB?oc=5) |
-| 02 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Apple is hiring engineers to build its own AI agent](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing) |
-| 03 | **AWS Machine Learning** | Research | ◈ | ● HIGH | [Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Sign in - Cursor - Cursor](https://news.google.com/rss/articles/CBMiPEFVX3lxTE1CZFFnLWFwdVBkc0Y4VkFpaFFBVzJkRk9KNk85dktTS2RucTFnODVNS2FkRUVLOTEzM3RQSQ?oc=5) |
-| 05 | **Together AI Blog** | Infrastructure | ◈ | ● HIGH | [Introducing Together Storage Accelerator: fast, free data caching for your GPU cluster - Together AI](https://news.google.com/rss/articles/CBMieEFVX3lxTE1tTThxNVZMb1FWZ2VlRmoxUXA3YnU3Uk1jMDVJQ3daMzJ3NjJYb29zeFN5WUVfWlo2YUtudTAwLVB1c0xIRWxzMVNfUm5PX3dha2tUc090Q1BVcDFKbmgyYXhnaXg2a09XdzBPU3dMWDFTRHVoTllGTA?oc=5) |
-| 06 | **AWS Machine Learning** | Compliance & Ethics | ◈ | ● HIGH | [How the BMW Group governs hundreds of agents across thousands of developers](https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/) |
-| 07 | **AWS Machine Learning** | Industry | ◈ | ● HIGH | [Run your whole selling business in AWS Quick](https://aws.amazon.com/blogs/machine-learning/run-your-whole-selling-business-in-aws-quick/) |
-| 08 | **MIT News AI** | Research | 🖼️ | ● HIGH | [AI helps researchers investigate how thousands of medical studies share code](https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119) |
-| 09 | **AppleInsider · provider monitor** | Industry | ◈ | ● HIGH | [Apple AI agents are coming to help you code, browse, & perform tasks](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFBXUUp2bThFaUo3WkRLOTQ2MWdPSzhOc1dCNU9PMlphdndKM1JvM3YyZVZhS2pyeUpMQnJOYkNPSENYYUMwT3Q0YWgwQWdiRDVPdVBxS2s3UnNVU0hwTTdfSHVxZ1ZzNkRhRzFRRjFORnJoelBmQnBnQ2o5ck1fR3RPUFFuMl9mdHF3ZGdWbk53clE4X3ZDUFM1c01HeW1BN2JuV2RMbktwTDQ?oc=5) |
-| 10 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [A brief history of Nvidia’s recent stock fluctuations](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings) |
-| 11 | **Product Wire · Gemini app** | Products & Agents | ◈ | ● HIGH | [Google’s Gemini App Can Now Operate Apple Desktop Computers](https://news.google.com/rss/articles/CBMitwFBVV95cUxNU0ZyYlM0VXdvZDcxQWxITTNoMm9UX01CWnRiWDQ2TVNKbUpiOHA2Z2lYWGdYczVHNFByWldNMmZKeU9nUDNXdmJZN3lpWldrblMxREpjbEZuSURYdGxJQ0lqTWkwaFhGdXByZV9xTlpjYWpYWTFBMVVYZ09sQ2dUYXpVUXV2b1FlZmpYMVJBYUhuQmMzX2lQT0VJWHA4T1VYeEREckt2U0J3TVcxQXI4UjlMQjF0aFU?oc=5) |
-| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Meta’s new Muse Charm device may cost $300](https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/) |
+| 01 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Human-AI Mutualism Is Unstable under Capability Asymmetry](https://arxiv.org/abs/2611.23322) |
+| 02 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Training Language Models for Introspective Oversight](https://arxiv.org/abs/2611.23365) |
+| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Where the Tokens Go: Heat, Entropy and Error in Agentic Coding](https://arxiv.org/abs/2611.23375) |
+| 04 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs](https://arxiv.org/abs/2611.23398) |
+| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding](https://arxiv.org/abs/2611.23410) |
+| 06 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops](https://arxiv.org/abs/2611.23445) |
+| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese](https://arxiv.org/abs/2611.23454) |
+| 08 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items](https://arxiv.org/abs/2611.23456) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance](https://arxiv.org/abs/2611.23476) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations](https://arxiv.org/abs/2611.23480) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs](https://arxiv.org/abs/2611.23483) |
+| 12 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [BOS Summary: The First Token Matters](https://arxiv.org/abs/2611.23508) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
