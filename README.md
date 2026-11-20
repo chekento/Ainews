@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-20 06:58 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-20 16:02 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Human-AI Mutualism Is Unstable under Capability Asymmetry](https://arxiv.org/abs/2611.23322) |
-| 02 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Training Language Models for Introspective Oversight](https://arxiv.org/abs/2611.23365) |
-| 03 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Where the Tokens Go: Heat, Entropy and Error in Agentic Coding](https://arxiv.org/abs/2611.23375) |
-| 04 | **arXiv cs.AI** | Infrastructure | ◈ | ● HIGH | [HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs](https://arxiv.org/abs/2611.23398) |
-| 05 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding](https://arxiv.org/abs/2611.23410) |
-| 06 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops](https://arxiv.org/abs/2611.23445) |
-| 07 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese](https://arxiv.org/abs/2611.23454) |
-| 08 | **arXiv cs.AI** | Safety & Security | ◈ | ● HIGH | [VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items](https://arxiv.org/abs/2611.23456) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance](https://arxiv.org/abs/2611.23476) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations](https://arxiv.org/abs/2611.23480) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs](https://arxiv.org/abs/2611.23483) |
-| 12 | **arXiv cs.AI** | Compliance & Ethics | ◈ | ● HIGH | [BOS Summary: The First Token Matters](https://arxiv.org/abs/2611.23508) |
+| 01 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others](https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/) |
+| 02 | **MIT News AI** | Industry | 🖼️ | ● HIGH | [Following the “mathocalypse,” mathematicians consider the future](https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120) |
+| 03 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Apple is hiring engineers to build its own AI agent](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing) |
+| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 05 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Apple joins the race for AI agents that control your device while raising new barriers for competitors](https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [The fallout from Nvidia’s Jensen Huang scandal continues](https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/) |
+| 08 | **The Decoder** | Robotics & Embodied AI | 🖼️ | ● HIGH | [Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup](https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/) |
+| 09 | **The Verge AI** | Research | 🖼️ | ● HIGH | [Signal is blocking Gemini and Siri AI from reading your screen](https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app) |
+| 10 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [A brief history of Nvidia’s recent stock fluctuations](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings) |
+| 11 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The week everything fell apart](https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast) |
+| 12 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Six AI-powered gadgets that could make your home office smarter](https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
