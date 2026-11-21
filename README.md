@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-21 19:04 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-21 23:45 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/) |
-| 03 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 04 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Nvidia researchers argue huge AI context windows are a dead end](https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/) |
-| 05 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion](https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/) |
-| 06 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Is selling an AI version of your face to this microdrama startup the future of Hollywood?](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/) |
-| 07 | **Product Wire · Typeface** | Products & Agents | ◈ | ● HIGH | [Ukraine designed its own national typeface so it doesn’t have to use Russian fonts](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXR4NTdrajZuOUJNdHMxWlhjZ3YwUFRaT0ZqcmNsWFk0WTh0OXlrSlBiNXlNREZ6VjlOYVdoQUlVSlZaRnhBVVAySzlVbUdlVnJXWDktMGhCNnRfVElMSVp1dUpFYVlQTjZ1ZDR2Mkg0V0F0OHJlNDl2di1XTl9TM3NUdVd3X0ZmYzZpVExWR0I0Y3lnQ2pIRGx3?oc=5) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 09 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [Fireworks Nexus - Fireworks AI](https://news.google.com/rss/articles/CBMiQEFVX3lxTE84QTQ1cmU5c0ZCbjNNb0VVYkR4Q2Jqb095WHhZb0R3UFpRV0VGa3dGQWQwWHI4dzRCMFVfUUJwbUs?oc=5) |
-| 10 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 11 | **Engadget AI** | Compliance & Ethics | ◈ | ◐ MED | [Etsy Says It Will Not Use Sellers' Content To Train AI After They Revolt Over Policy Changes - Engadget](https://news.google.com/rss/articles/CBMiekFVX3lxTE1TTUU3RDVJcHh2QXVIZjZQQ0xaVW54bWp1X0dRT1N6UDdvd1M4V2UyVkt1aXcteFEwckFLeFJ5RFVfRUpTOUpGa0NvWWZQZjh1N3JfWHRBLXdkZHQ2Y3FmRWtqcVQ1N1BWNnZLWnJPQnhjOWV0YmRhcDVB?oc=5) |
-| 12 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions](https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/) |
+| 01 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/) |
+| 02 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [Fireworks Nexus - Fireworks AI](https://news.google.com/rss/articles/CBMiQEFVX3lxTE84QTQ1cmU5c0ZCbjNNb0VVYkR4Q2Jqb095WHhZb0R3UFpRV0VGa3dGQWQwWHI4dzRCMFVfUUJwbUs?oc=5) |
+| 03 | **Intel · provider monitor** | Industry | ◈ | ● HIGH | [Congratulations to Intel AI Global Impact Festival Winners](https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU9wTk1aajNBOW1yRkllankxbGRaQ0ZWbTV3TVhXdDhobXp4ZVVXNUs5aS1Hdl91V0NBdnlXWGxGMGg4VkxOV2NkWm5YbXI4SlBXb3J2TldJSFNnZXlDOWN0Nm1YYmJRUENyLWJkbW9tN2VVTmtfcmFHYV9WdVB5anVvTUdfZHdPaFZSUWdPeEh2a1psX2pYWmlMcGxxcjNJM08tNlIwcUw3V1pxOW1nUGZtREt0WlZrc3ZKT1hn?oc=5) |
+| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 05 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [A tale of two Nvidias](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 07 | **WSJ · provider monitor** | Industry | ◈ | ● HIGH | [States Move to Block Disney’s Bid for Character.ai Assets](https://news.google.com/rss/articles/CBMiogFBVV95cUxOZnlfb1p5NXhDX1h4QUVHMmlPeTFYOEpMclRXTmlBNWVaUzFWU2tfN0V4ZVdWOFRfWl9HbWdkYTVXVGRSM3JyX0RtWjBGMVZNcE1qX2htZE5fOXN0Zk92akV3Y2ZBQjJOcHctTkJMdVZkOFJUcWoyUFhrY3NLcjVuS3N4UHkxUFdPdzZOUHVTOGd5YjhYZDREYkswZHZkVXRfSEE?oc=5) |
+| 08 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots) |
+| 09 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 10 | **Luma AI** | Products & Agents | ◈ | ● HIGH | [Luma API Platform - platform.lumalabs.ai](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzeHBuaGs5ZlpXMjlKUVVUbDBoTlVXb3pFbVpOcEotRDBSU3g3cTUzRlp5RVhNSjhOV3p4RGNlMlN0NEE?oc=5) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Here are the top AI agents that can live in your text messages](https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/) |
+| 12 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Nvidia researchers argue huge AI context windows are a dead end](https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
