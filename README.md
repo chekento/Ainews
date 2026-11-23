@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-22 20:59 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-23 01:32 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Product Wire · NVIDIA Isaac** | Products & Agents | ◈ | ● HIGH | [Nvidia expands Isaac robotics platform with new humanoid and AI development tools](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ3dVOHhUYzFCTXh2OFkyUWhSRnNuV0NyVHFyTENBYVlNZ21sU1FyR1JNQTR5UEVTS0VObEg1RVNEa2YxejdTZFBMZGk5UWFPeVhmRjdtS1ExSnJTMXlObHpfS240TFVwV29tZHdIdW9sQW44NE9vNF82UVZlaXR4QmdtRVVETjVPZkJLa29iTk12b1lrVnoyV2pXUkNpVlh0cDVjUTRxRzJ2UFJPTWNqbV9vMVpTVU1saWxrWTNHVjFRbVBxa2FoYWpyeU9tSFBxdjU5WA?oc=5) |
-| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Why data centers are at the center of the Big Tech backlash](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 05 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music) |
-| 06 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 07 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [From elevenlabs.io - ElevenLabs](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hMHg5TUJUWDM5WlMtS0NmMnM3LTl6R25SZE93YWVBZnJCRkF5dEJLcFd4RHVQWkJzYU9xaHYtTWZocWdTTWtsWS04V3hMb05hRHJ3SGd3?oc=5) |
-| 08 | **The Decoder** | Products & Agents | 🖼️ | ◐ MED | [AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace](https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/) |
-| 09 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog](https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/) |
-| 10 | **The Decoder** | Research | 🖼️ | ● HIGH | [AI is getting better faster than experts can reliably test whether new systems are safe, METR warns](https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/) |
-| 11 | **The Decoder** | Safety & Security | 🖼️ | ● HIGH | [Security researchers show how cheap AI inference providers steal keys and snoop on users](https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/) |
-| 12 | **The Decoder** | Industry | 🖼️ | ◐ MED | [Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct](https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/) |
+| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO](https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/) |
+| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [We haven’t seen the last of the major tech outages](https://www.theverge.com/tech/1039851/major-tech-outages) |
+| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 04 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 05 | **Luma AI** | Products & Agents | ◈ | ● HIGH | [Luma API Platform - platform.lumalabs.ai](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzeHBuaGs5ZlpXMjlKUVVUbDBoTlVXb3pFbVpOcEotRDBSU3g3cTUzRlp5RVhNSjhOV3p4RGNlMlN0NEE?oc=5) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/) |
+| 08 | **Product Wire · NVIDIA Isaac** | Products & Agents | ◈ | ● HIGH | [Nvidia expands Isaac robotics platform with new humanoid and AI development tools](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ3dVOHhUYzFCTXh2OFkyUWhSRnNuV0NyVHFyTENBYVlNZ21sU1FyR1JNQTR5UEVTS0VObEg1RVNEa2YxejdTZFBMZGk5UWFPeVhmRjdtS1ExSnJTMXlObHpfS240TFVwV29tZHdIdW9sQW44NE9vNF82UVZlaXR4QmdtRVVETjVPZkJLa29iTk12b1lrVnoyV2pXUkNpVlh0cDVjUTRxRzJ2UFJPTWNqbV9vMVpTVU1saWxrWTNHVjFRbVBxa2FoYWpyeU9tSFBxdjU5WA?oc=5) |
+| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Why data centers are at the center of the Big Tech backlash](https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/) |
+| 10 | **The Verge AI** | Products & Agents | 🖼️ | ● HIGH | [Binding of Isaac developer removes AI music from Repentance Plus](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music) |
+| 11 | **Sakana AI** | Industry | ◈ | ● HIGH | [- Sakana AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Db3Z5SVBMckN2dGNnOXhTbUo4RXEwNGFDUWdydU9kT21LTG8zRnA0ajkxTG9pN3JKODhXVGp4Y0phUWdvZ29ZVWdObw?oc=5) |
+| 12 | **The Decoder** | Products & Agents | 🖼️ | ◐ MED | [AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace](https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
