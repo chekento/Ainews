@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-24 05:53 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-24 17:29 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **AWS Machine Learning** | Products & Agents | ◈ | ● HIGH | [Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/) |
-| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 04 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 05 | **Law360 · provider monitor** | Industry | ◈ | ● HIGH | [Midjourney Fights Uphill To Trim Studios' AI Infringement Suit](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DdkZCQ2N1XzZPakdxNk1IcnhuMzJTOWYtZU1sQ3N0MzYyS0tZRzFFZ0Iyc0tDQVY5NHFnaXVMdXN3RnE1ZFlYRGRXYjBUeEgxMmhoVG9B0gFWQVVfeXFMT0N2RkJDY3VfNk9qR3E2TUhyeG4zMlM5Zi1lTWxDc3QzNjJLS1lHMUVnQjJzS0NBVjk0cWdpdUx1c3dGcTVkWVhEZFdiMFR4SDEyaGhUb0E?oc=5) |
-| 06 | **Conference & Meetings World · provider monitor** | Industry | ◈ | ● HIGH | [Nebius Inflection AI Expert Forum 2026](https://news.google.com/rss/articles/CBMibEFVX3lxTE1JMU1XNG1rbm1xcDNYeXlQWDdmSE9RRm03Z1hQS3NaTzNvd1U3eXhYanhaNGRSMFJPUTJjaUpJUEx6WkRXTTZyWXpRQkhBWEVRbHdPNkNTangzZ04zcW42ZFltaXpJNnJNOVVrTA?oc=5) |
-| 07 | **Product Wire · UiPath AI** | Products & Agents | ◈ | ● HIGH | [GeekWire Studios: UiPath AI Breakthrough Award Winner Spotlight 2026 \| One NZ](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHhieEM0c0ZlS192b0pyZ1czNks1am1iNUhQdzVQTnBpSUd1ZFI4dW9HOWhWdmFWLTJKZEZtN3d5YWJ1YTg3NWs5ZGNXMGRKdHZ2MDRWckx6Nkh4Wk42aFEwaWpiN3lKNXk5M1dqMjJuVnpsWmpRNV8yZFMzSnR1b1p6TFRHUjQ0NTdjWGFTR1F3dUljUFloeTNDODYwTFByNUdSWnRST2ZMdnhGaVNyQzg5aw?oc=5) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Spending dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WMzdSQmkyTm5lRkx5eWR1ZXFLSTV1TG5JQnlPX3BTWXdwVnZfYnEwbVZoNXo3V3hTLTVpenpFUVYyd1lMb3FXY00zX1RRQQ?oc=5) |
-| 09 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [Fireworks Nexus - Fireworks AI](https://news.google.com/rss/articles/CBMiQEFVX3lxTE84QTQ1cmU5c0ZCbjNNb0VVYkR4Q2Jqb095WHhZb0R3UFpRV0VGa3dGQWQwWHI4dzRCMFVfUUJwbUs?oc=5) |
-| 10 | **Luma AI** | Products & Agents | ◈ | ● HIGH | [Luma API Platform - platform.lumalabs.ai](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzeHBuaGs5ZlpXMjlKUVVUbDBoTlVXb3pFbVpOcEotRDBSU3g3cTUzRlp5RVhNSjhOV3p4RGNlMlN0NEE?oc=5) |
-| 11 | **Intel AI** | Industry | ◈ | ● HIGH | [Congratulations to Intel AI Global Impact Festival Winners - Intel](https://news.google.com/rss/articles/CBMivgFBVV95cUxQcU9wTk1aajNBOW1yRkllankxbGRaQ0ZWbTV3TVhXdDhobXp4ZVVXNUs5aS1Hdl91V0NBdnlXWGxGMGg4VkxOV2NkWm5YbXI4SlBXb3J2TldJSFNnZXlDOWN0Nm1YYmJRUENyLWJkbW9tN2VVTmtfcmFHYV9WdVB5anVvTUdfZHdPaFZSUWdPeEh2a1psX2pYWmlMcGxxcjNJM08tNlIwcUw3V1pxOW1nUGZtREt0WlZrc3ZKT1hn?oc=5) |
-| 12 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Tech leaders are celebrating Jensen Huang’s return](https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay) |
+| 01 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Meta brings its Muse AI assistant directly into Instagram DMs](https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/) |
+| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) |
+| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming](https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/) |
+| 04 | **LlamaIndex Blog** | Industry | ◈ | ● HIGH | [Introducing OCRia-nano-1 - LlamaIndex](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RNUE5T3E0aWlFSXpaSngyaktqOGZkSy1wV3pBaXlOdDBmdHFJcWJQY0g1azBkdEFNR0hobnpqZHQ2LTNTV2lNZHpNa0NZYzVMR3lJZzA4UTAzbDNUcFNjUkdkbkh2Zw?oc=5) |
+| 05 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance) |
+| 06 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Nvidia CEO Jensen Huang is back. What happens next?](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang) |
+| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Jensen Huang deepfakes are the hot new AI slop](https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes) |
+| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Why a Crusoe investor is betting on solar and batteries to power future AI data centers](https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/) |
+| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Pinterest will now let parents limit the AI-generated content their teens see](https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/) |
+| 10 | **Google AI Blog** | Frontier Models | 🖼️ | ● HIGH | [How Gemini is changing the game for Golden State's organization and fans.](https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/) |
+| 11 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving](https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/) |
+| 12 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race](https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
