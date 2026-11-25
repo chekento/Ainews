@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-25 01:32 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-25 10:22 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/) |
-| 02 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 03 | **WIRED AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Jensen Huang’s Return Shows Nvidia Is Too Big to Police](https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/) |
-| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Jensen Huang still thinks a succession plan creates unnecessary hierarchy](https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Spending dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WMzdSQmkyTm5lRkx5eWR1ZXFLSTV1TG5JQnlPX3BTWXdwVnZfYnEwbVZoNXo3V3hTLTVpenpFUVYyd1lMb3FXY00zX1RRQQ?oc=5) |
+| 01 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga) |
+| 02 | **Product Wire · Typeface** | Products & Agents | ◈ | ● HIGH | [Like italics, but backwards: Inside Yury Ostromentsky’s inverted typeface series, Backslanted](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMi1BYld6ZFJvdWVZUXNSeXBiVFM0TDVWS1B0QWpnSDlPTzUyZ0Y0TnVLM19YYjl3aTJ1eDhrSHNmRkVNOGF2eFQ1RTRYVExqWDR1aHBDdU4xUUVpMlE4bS1OSmFmeFI2Q0NKV1I3NFB2bjZNNFdrQ3VxbTlkOHZrbFJjOW9Vdy12OFVMQ0NTUGI3UGtTQV9LOG9WY1M?oc=5) |
+| 03 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 04 | **Ollama Blog** | Industry | ◈ | ● HIGH | [inkling-2-mini - Ollama](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YakJoUVlWWlczX0hWaklMTUl6Q1RiMFJqaHhfY2xaeHJSRXJ1dWtSb2J0dDV5bi1XSTBuYTh0U3ZBX2M1MjdvTHpBcnUwejB5LWw0?oc=5) |
+| 05 | **AP News AI Policy** | Compliance & Ethics | ◈ | ● HIGH | [Asian stocks mostly decline as AI shares tumble after a retreat on Wall Street - AP News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVFZQmxpUGVXLUtXYzR6ZzYzX0Njd0I2bzBVbkJMb2JhcDJkRHJnVGV5eC1Ma0o2djdvZUhROXVpYjRzbTVQUGliYlRINU1kdnJVOXpRd21KdlJYcFQySlR5aWRCc0ZLMjZESjdYOWlrZEpiR0owcTRILVhqNVZZeGtweUNoM21XQndPZEl4Ym1OeTQ?oc=5) |
 | 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy](https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/) |
-| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 09 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Nvidia CEO Jensen Huang is back. What happens next?](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang) |
-| 10 | **TechCrunch AI** | Research | ◈ | ● HIGH | [Even the best AI agents struggle with everyday life](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/) |
-| 11 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Walmart teams up with Meta to bring Black Friday deals to AI agent Muse](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/) |
-| 12 | **Luma AI** | Products & Agents | ◈ | ● HIGH | [Luma API Platform - platform.lumalabs.ai](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzeHBuaGs5ZlpXMjlKUVVUbDBoTlVXb3pFbVpOcEotRDBSU3g3cTUzRlp5RVhNSjhOV3p4RGNlMlN0NEE?oc=5) |
+| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 08 | **Product Wire · Le Chat** | Products & Agents | ◈ | ● HIGH | [Delta FM raffles tickets for the avant-première of Le Chat chapeauté](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT3U1V1RLS3hqcWxGQUE5ZjZDVkxmRV9DSWo0YmJsbFdHUWc5VnJXamtIUjNnbElxU1NaektlclV4Skc1UjZuX1A5eUlmSUZ5ZzNzZnVSTDhJbmRZWDVZSmJqT3VZcTR3ak10RjFZT3dmTDhWNnVLM09EbjZ0aXNNNFV2ZG1VUWVaTjUwakpNTTV1YjlzSWtqV2FpMlJvRGhJVjFvcmFrdGdka3RJNnNV?oc=5) |
+| 09 | **Ollama Blog** | Industry | ◈ | ● HIGH | [llamaindex ocria-1 - Ollama](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BbUVWRU9QRnYxdUlkaDNCRG5xOGZsRHRqSGJBenVZeEQxUUU0X2hiLW9yV3JRLW1IRVd3bzd2SFJqM1lHWE1wdzIzUDNoZw?oc=5) |
+| 10 | **OpenRouter Blog** | Products & Agents | ◈ | ● HIGH | [Solar Mini 4.5 (Preview) - API Pricing & Providers - OpenRouter](https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zSWcweTFHR0FGTEZZTS1XRHVYa0RmSWlxRE41V3JYM19xWHJPS0djMlhIajBHaW5nbE9HMnQxTXFhYjlydS1zSW51RlBUTGt0YWlOQ3JCZw?oc=5) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/) |
+| 12 | **WIRED AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Jensen Huang’s Return Shows Nvidia Is Too Big to Police](https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
