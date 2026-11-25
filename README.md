@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-24 17:29 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-25 01:32 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Meta brings its Muse AI assistant directly into Instagram DMs](https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/) |
-| 02 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [The New York Times warns photographers not to update Photoshop over AI features](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features) |
-| 03 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming](https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/) |
-| 04 | **LlamaIndex Blog** | Industry | ◈ | ● HIGH | [Introducing OCRia-nano-1 - LlamaIndex](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RNUE5T3E0aWlFSXpaSngyaktqOGZkSy1wV3pBaXlOdDBmdHFJcWJQY0g1azBkdEFNR0hobnpqZHQ2LTNTV2lNZHpNa0NZYzVMR3lJZzA4UTAzbDNUcFNjUkdkbkh2Zw?oc=5) |
-| 05 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance) |
-| 06 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Nvidia CEO Jensen Huang is back. What happens next?](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang) |
-| 07 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Jensen Huang deepfakes are the hot new AI slop](https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes) |
-| 08 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Why a Crusoe investor is betting on solar and batteries to power future AI data centers](https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/) |
-| 09 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Pinterest will now let parents limit the AI-generated content their teens see](https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/) |
-| 10 | **Google AI Blog** | Frontier Models | 🖼️ | ● HIGH | [How Gemini is changing the game for Golden State's organization and fans.](https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/) |
-| 11 | **WIRED AI** | Industry | 🖼️ | ● HIGH | [Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving](https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/) |
-| 12 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race](https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/) |
+| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/) |
+| 02 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 03 | **WIRED AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Jensen Huang’s Return Shows Nvidia Is Too Big to Police](https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/) |
+| 04 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Jensen Huang still thinks a succession plan creates unnecessary hierarchy](https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Spending dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WMzdSQmkyTm5lRkx5eWR1ZXFLSTV1TG5JQnlPX3BTWXdwVnZfYnEwbVZoNXo3V3hTLTVpenpFUVYyd1lMb3FXY00zX1RRQQ?oc=5) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 07 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy](https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/) |
+| 08 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 09 | **The Verge AI** | Industry | 🖼️ | ● HIGH | [Nvidia CEO Jensen Huang is back. What happens next?](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang) |
+| 10 | **TechCrunch AI** | Research | ◈ | ● HIGH | [Even the best AI agents struggle with everyday life](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/) |
+| 11 | **TechCrunch AI** | Products & Agents | ◈ | ● HIGH | [Walmart teams up with Meta to bring Black Friday deals to AI agent Muse](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/) |
+| 12 | **Luma AI** | Products & Agents | ◈ | ● HIGH | [Luma API Platform - platform.lumalabs.ai](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzeHBuaGs5ZlpXMjlKUVVUbDBoTlVXb3pFbVpOcEotRDBSU3g3cTUzRlp5RVhNSjhOV3p4RGNlMlN0NEE?oc=5) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
