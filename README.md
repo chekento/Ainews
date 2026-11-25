@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-25 10:22 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-25 20:06 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga) |
-| 02 | **Product Wire · Typeface** | Products & Agents | ◈ | ● HIGH | [Like italics, but backwards: Inside Yury Ostromentsky’s inverted typeface series, Backslanted](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMi1BYld6ZFJvdWVZUXNSeXBiVFM0TDVWS1B0QWpnSDlPTzUyZ0Y0TnVLM19YYjl3aTJ1eDhrSHNmRkVNOGF2eFQ1RTRYVExqWDR1aHBDdU4xUUVpMlE4bS1OSmFmeFI2Q0NKV1I3NFB2bjZNNFdrQ3VxbTlkOHZrbFJjOW9Vdy12OFVMQ0NTUGI3UGtTQV9LOG9WY1M?oc=5) |
-| 03 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 04 | **Ollama Blog** | Industry | ◈ | ● HIGH | [inkling-2-mini - Ollama](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YakJoUVlWWlczX0hWaklMTUl6Q1RiMFJqaHhfY2xaeHJSRXJ1dWtSb2J0dDV5bi1XSTBuYTh0U3ZBX2M1MjdvTHpBcnUwejB5LWw0?oc=5) |
-| 05 | **AP News AI Policy** | Compliance & Ethics | ◈ | ● HIGH | [Asian stocks mostly decline as AI shares tumble after a retreat on Wall Street - AP News](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdVFZQmxpUGVXLUtXYzR6ZzYzX0Njd0I2bzBVbkJMb2JhcDJkRHJnVGV5eC1Ma0o2djdvZUhROXVpYjRzbTVQUGliYlRINU1kdnJVOXpRd21KdlJYcFQySlR5aWRCc0ZLMjZESjdYOWlrZEpiR0owcTRILVhqNVZZeGtweUNoM21XQndPZEl4Ym1OeTQ?oc=5) |
-| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 07 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 08 | **Product Wire · Le Chat** | Products & Agents | ◈ | ● HIGH | [Delta FM raffles tickets for the avant-première of Le Chat chapeauté](https://news.google.com/rss/articles/CBMirwFBVV95cUxNT3U1V1RLS3hqcWxGQUE5ZjZDVkxmRV9DSWo0YmJsbFdHUWc5VnJXamtIUjNnbElxU1NaektlclV4Skc1UjZuX1A5eUlmSUZ5ZzNzZnVSTDhJbmRZWDVZSmJqT3VZcTR3ak10RjFZT3dmTDhWNnVLM09EbjZ0aXNNNFV2ZG1VUWVaTjUwakpNTTV1YjlzSWtqV2FpMlJvRGhJVjFvcmFrdGdka3RJNnNV?oc=5) |
-| 09 | **Ollama Blog** | Industry | ◈ | ● HIGH | [llamaindex ocria-1 - Ollama](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BbUVWRU9QRnYxdUlkaDNCRG5xOGZsRHRqSGJBenVZeEQxUUU0X2hiLW9yV3JRLW1IRVd3bzd2SFJqM1lHWE1wdzIzUDNoZw?oc=5) |
-| 10 | **OpenRouter Blog** | Products & Agents | ◈ | ● HIGH | [Solar Mini 4.5 (Preview) - API Pricing & Providers - OpenRouter](https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zSWcweTFHR0FGTEZZTS1XRHVYa0RmSWlxRE41V3JYM19xWHJPS0djMlhIajBHaW5nbE9HMnQxTXFhYjlydS1zSW51RlBUTGt0YWlOQ3JCZw?oc=5) |
-| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/) |
-| 12 | **WIRED AI** | Compliance & Ethics | 🖼️ | ● HIGH | [Jensen Huang’s Return Shows Nvidia Is Too Big to Police](https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/) |
+| 01 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/) |
+| 02 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/) |
+| 03 | **TechCrunch AI** | Research | ◈ | ● HIGH | [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/) |
+| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 06 | **Hugging Face Blog** | Open Source | ◈ | ● HIGH | [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents) |
+| 07 | **US AI Czar & AI Force Watch** | Compliance & Ethics | ◈ | ● HIGH | [Jensen Huang's return to Nvidia fuels Washington fight over China's chip access - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3BLV01MMXl1a2FaazhNYWFseVlPZ2g0ZnBwdnI5aFdkV1pHR19QdzZQWDk4YlJMOFZtZk9PbVlwbmU1WXpXWjFHaHVfX3c0SVd5WHFRM0s3eW9EcUE1S1RTYUFxLXBvQmthZFFNYkFNRy1EeHNyM2gyT0prRzNPWEVPaGVGMFo2c1E1eTljc212bU5qY3EtdnlDN01WSTdnRjZOYkZKdW1lcmttSlcwazFrSFlidExMay1iTHlXaW1TQVBIUVE?oc=5) |
+| 08 | **The Decoder** | Industry | 🖼️ | ● HIGH | [OpenAI wants companies to trust it with sensitive work by promising not to look at their data](https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/) |
+| 09 | **TechCrunch AI** | Safety & Security | ◈ | ● HIGH | [Want to buy your kid an AI toy this Christmas? Not in New York](https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/) |
+| 10 | **The Verge AI** | Infrastructure | 🖼️ | ● HIGH | [FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers) |
+| 11 | **TechCrunch AI** | Industry | ◈ | ● HIGH | [Character.AI’s plan to auction off users’ private chats challenged by state AGs](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) |
+| 12 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.](https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
