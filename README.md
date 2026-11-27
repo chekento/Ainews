@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-27 04:05 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-27 13:45 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [Audio Detector - ElevenLabs - ElevenLabs](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZSFdJbWdpZmxoZnpGZTcxb0pOWGZuMU9ZdEVwUVZJX3BzNEdkQlNsazNZaXp2M2tZbE9xc1h3UEV5SVluLXowaHZCR213b2VUcWc?oc=5) |
-| 02 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 03 | **Runway News** | Products & Agents | ◈ | ● HIGH | [One API for AI Video, Image and Audio - Runway Dev](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDJmMUdoMURNdld3XzlMUDFzcFJxbWtUSHZIdHMxOHZXMDBveml1WkdwbTY3Q0dLRjFlWG5BN3JscmxEWjlOcDFpaVotakFFZ2pBdVItYlREWkpTZFpubl80Znd1LTgwRkhvWGVkangzVWVmR0liZzcxZnBOQm15UQ?oc=5) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 01 | **Product Wire · Devin** | Products & Agents | ◈ | ● HIGH | [peak shopping season focused Gap Inc. plugs into Cognition's Devin AI agent](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUVp1VkpFYVRYZlR6WnFqaE9hSHZ0XzdLczBSS1l3T3ZUWl9ITkttRHp1Xy1SRlcyemhfY3MtbDk0cXE2MUFKbmp6d3FrdkFfVDBZSE1QbHNvRVd6RFZDVy1PUERQYnU4ajlXWm1zS3NZUHUxNGw3T3lxUzFEYVBCUngwaFpTSzh2OHp3U1JNdU1GSDdST2tiTWxzUnVuckZUZEdrWDdNM1R2OUJpS1o5RlNDdlFzR3pXSWw2REF1cVA2MTc3Wk5FZm14Y2tHS3VBNjVHOWtTT05VZG13VWZkV3FPRy1KRVFfSWlUS2YzMUExdzNTYUEwQWthZWFrWGM?oc=5) |
+| 02 | **MLQ.ai · provider monitor** | Industry | ◈ | ● HIGH | [Krafton, Aleph Alpha and Ant's inclusionAI post open-weight MoE models](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFJMd1VVSGI0NWx1Q3FqYmN1WlhiSk1HT1poM2dMNWJLUnlxUUtjZndxQjk1dG04SExQdzlkejZMZk5SbTdwRnZHU1NaVHdyWVdvSTdQSTR4c0VwYWgtWlc4bWRxeWt1TTQ5VmI1TGswR3U5cGI5eVR4eENMUUFaaHR0TWRWalpjNXRwVG5CRzlQU1k?oc=5) |
+| 03 | **Product Wire · Diffusers** | Products & Agents | ◈ | ● HIGH | [Best Waterless Diffusers for Your Home](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Vdzh4TndSaUhiZG1maWpDWTBwamxPYkN5UkRlVXNWTEdVRmRMbm9NZWhvcjB0dVhYNG15OVFnUTNsbzhWb0VoVmR1b0l1eXREUWlNa2swV3Y0YlZFNkFueEdR?oc=5) |
+| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
 | 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Spending dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WMzdSQmkyTm5lRkx5eWR1ZXFLSTV1TG5JQnlPX3BTWXdwVnZfYnEwbVZoNXo3V3hTLTVpenpFUVYyd1lMb3FXY00zX1RRQQ?oc=5) |
-| 06 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
-| 07 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [Migrate to Fireworks - Fireworks AI Docs](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MM09nY0x3TExtelpzSVRYTlF1bUdPLTM0ZUJZUXpSZTRqYUNOVV9xTDRUS19KM3lsaC1DamxzdTJneURLdTV5bGd2RUpwZ1NDaUJxTDBSV25pV2xrVFZXMHdhcGM1cjZX?oc=5) |
-| 08 | **Sakana AI** | Industry | ◈ | ● HIGH | [- Sakana AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Db3Z5SVBMckN2dGNnOXhTbUo4RXEwNGFDUWdydU9kT21LTG8zRnA0ajkxTG9pN3JKODhXVGp4Y0phUWdvZ29ZVWdObw?oc=5) |
-| 09 | **TechCrunch AI** | Infrastructure | ◈ | ● HIGH | [Nvidia hits pause on chip shipments to Southeast Asia](https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/) |
-| 10 | **The Decoder** | Industry | 🖼️ | ● HIGH | [Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it](https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/) |
-| 11 | **The Decoder** | Frontier Models | 🖼️ | ● HIGH | [GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error](https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/) |
-| 12 | **Sammy Fans · provider monitor** | Frontier Models | ◈ | ● HIGH | [Samsung Galaxy AI cloud in One UI 9.5 could run Gemma 4, Qwen 3.6, and FLUX.2 privately](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUFBSHJlVy02SW90MkhpZldadlVmU242ZU8xSmVVZHpOZFdaWERYOGMxbEcyTzVMM2tNQXIwY2ZnWnp5b21keWUxWHVyc0hYelRyVFJOUDhCaEE1MzNMNXBuczlfdHkzSnV3ZXJlX1BrZW4zMjRmaFlGQl9pdHF0RDd30gGCAUFVX3lxTE1tQUFIcmVXLTZJb3QySGlmV1p2VWZTbjZlTzFKZVVkek5kV1pYRFg4YzFsRzJPNUwza01BcjBjZmdaenlvbWR5ZTFYdXJzSFh6VHJUUk5QOEJoQTUzM0w1cG5zOV90eTNKdXdlcmVfUGtlbjMyNGZoWUZCX2l0cXREN3c?oc=5) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 07 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 08 | **WIRED AI** | Infrastructure | 🖼️ | ● HIGH | [A New Breed of Chip Runs AI Models Using Waves of Light](https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/) |
+| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Context Scaling: A New Frontier of AI Scaling](https://arxiv.org/abs/2611.33160) |
+| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection](https://arxiv.org/abs/2611.33161) |
+| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics](https://arxiv.org/abs/2611.33165) |
+| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [General-Purpose Decision Models for AI Configuration Tuning](https://arxiv.org/abs/2611.33190) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
