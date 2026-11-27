@@ -93,22 +93,22 @@ Search supports `source:`, `provider:`, `cat:`, `tag:`, `type:`, `after:`, `befo
 <!-- LATEST_AI_NEWS:START -->
 ## 🔴 Live AI Intelligence
 
-**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-27 13:45 UTC**
+**160 registered sources · 61 provider monitors · AI-only filter v4 · snapshot 2026-11-27 22:38 UTC**
 
 | # | Source | Desk | Media | AI relevance | Headline |
 |---:|---|---|:---:|---|---|
-| 01 | **Product Wire · Devin** | Products & Agents | ◈ | ● HIGH | [peak shopping season focused Gap Inc. plugs into Cognition's Devin AI agent](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUVp1VkpFYVRYZlR6WnFqaE9hSHZ0XzdLczBSS1l3T3ZUWl9ITkttRHp1Xy1SRlcyemhfY3MtbDk0cXE2MUFKbmp6d3FrdkFfVDBZSE1QbHNvRVd6RFZDVy1PUERQYnU4ajlXWm1zS3NZUHUxNGw3T3lxUzFEYVBCUngwaFpTSzh2OHp3U1JNdU1GSDdST2tiTWxzUnVuckZUZEdrWDdNM1R2OUJpS1o5RlNDdlFzR3pXSWw2REF1cVA2MTc3Wk5FZm14Y2tHS3VBNjVHOWtTT05VZG13VWZkV3FPRy1KRVFfSWlUS2YzMUExdzNTYUEwQWthZWFrWGM?oc=5) |
-| 02 | **MLQ.ai · provider monitor** | Industry | ◈ | ● HIGH | [Krafton, Aleph Alpha and Ant's inclusionAI post open-weight MoE models](https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFJMd1VVSGI0NWx1Q3FqYmN1WlhiSk1HT1poM2dMNWJLUnlxUUtjZndxQjk1dG04SExQdzlkejZMZk5SbTdwRnZHU1NaVHdyWVdvSTdQSTR4c0VwYWgtWlc4bWRxeWt1TTQ5VmI1TGswR3U5cGI5eVR4eENMUUFaaHR0TWRWalpjNXRwVG5CRzlQU1k?oc=5) |
-| 03 | **Product Wire · Diffusers** | Products & Agents | ◈ | ● HIGH | [Best Waterless Diffusers for Your Home](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Vdzh4TndSaUhiZG1maWpDWTBwamxPYkN5UkRlVXNWTEdVRmRMbm9NZWhvcjB0dVhYNG15OVFnUTNsbzhWb0VoVmR1b0l1eXREUWlNa2swV3Y0YlZFNkFueEdR?oc=5) |
-| 04 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
-| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Spending dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WMzdSQmkyTm5lRkx5eWR1ZXFLSTV1TG5JQnlPX3BTWXdwVnZfYnEwbVZoNXo3V3hTLTVpenpFUVYyd1lMb3FXY00zX1RRQQ?oc=5) |
-| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
-| 07 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
-| 08 | **WIRED AI** | Infrastructure | 🖼️ | ● HIGH | [A New Breed of Chip Runs AI Models Using Waves of Light](https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/) |
-| 09 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Context Scaling: A New Frontier of AI Scaling](https://arxiv.org/abs/2611.33160) |
-| 10 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection](https://arxiv.org/abs/2611.33161) |
-| 11 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics](https://arxiv.org/abs/2611.33165) |
-| 12 | **arXiv cs.AI** | Research | ◈ | ● HIGH | [General-Purpose Decision Models for AI Configuration Tuning](https://arxiv.org/abs/2611.33190) |
+| 01 | **Fireworks AI Blog** | Industry | ◈ | ● HIGH | [- Fireworks AI](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93ek5kR1VZc0V4clZPdm9CeGZONnI4aXlKa2lmZmpZVDM3cktiU2lqM2Uta0dNS1pEMWl5MndnOUY2V0hJN2VUMnZZRQ?oc=5) |
+| 02 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [Audio Detector - ElevenLabs - ElevenLabs](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZSFdJbWdpZmxoZnpGZTcxb0pOWGZuMU9ZdEVwUVZJX3BzNEdkQlNsazNZaXp2M2tZbE9xc1h3UEV5SVluLXowaHZCR213b2VUcWc?oc=5) |
+| 03 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Usage dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA1d2R6RlhlT0NrNmlHMUkwSVltYzVJMm5CUzRPOEZHSGdPbzJxNzFBOWlPZGVaekVvVFBkZ3VVa0pyRmRtWUdKTnlB?oc=5) |
+| 04 | **The Decoder** | Industry | 🖼️ | ● HIGH | [OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers](https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/) |
+| 05 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Billing - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nV25Pa3V2bElCcXUwYzEwSlpmc0picHR5YlRKM0xoZnNhZXliY19hVWNvVms0X29kLWdSaHJ1YjhTYlZMcHdybXMyUGY?oc=5) |
+| 06 | **Cursor Blog** | Industry | ◈ | ● HIGH | [Spending dashboard - Cursor - Cursor](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WMzdSQmkyTm5lRkx5eWR1ZXFLSTV1TG5JQnlPX3BTWXdwVnZfYnEwbVZoNXo3V3hTLTVpenpFUVYyd1lMb3FXY00zX1RRQQ?oc=5) |
+| 07 | **ElevenLabs Blog** | Industry | ◈ | ● HIGH | [- ElevenLabs](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYWlDajk4Z0hPblMwemNiMUZYam1qeEpZQmttTnRxX0ZOSm52dTE2TDFPdDZ1dEl6TUJsZzV4YXZSTEJKeXJMMm9lUzdZdjFkOUhodGVkSVJURDRQNXhUVWVR?oc=5) |
+| 08 | **Vector Institute** | Industry | ◈ | ● HIGH | [Vector researchers advance AI with 124 accepted papers at NeurIPS 2026 - Vector Institute](https://news.google.com/rss/articles/CBMifkFVX3lxTE11MDRhckVTY3dTZzFhcWszUm9hN1puMWRaS1lZSXVQMkRhY2N3ZHV4MjVzMmk5QXZKUDE0MmRZWGo3UXFpd0ROQkRYeThNUjlaSndVcjUzOFFsei1rZDl3UkRJR0p0YzNWQ0tONjlpWVhJUVp1eWZkaVhuVVU4dw?oc=5) |
+| 09 | **Mila** | Industry | ◈ | ● HIGH | [Impact Report 2025-2026 - Mila - Quebec Artificial Intelligence Institute](https://news.google.com/rss/articles/CBMidkFVX3lxTE8xSVVuY1B6U0tDTUxRYUlvZV8yXzhLazMzZGowbnJYZGM4czNiWlFCSXp4bXFZTEl1bVp0Ml9raTBwY0FMa1FVOEZFTTJIa0I2S2RMaFV5Mm1ZT0luTUFJZnQ3VzFvaXVLMnRaUXZ4ZFcwdzFtenc?oc=5) |
+| 10 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [OpenAI is building "Athena" data platform to cut down on AI agent guesswork](https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/) |
+| 11 | **Product Wire · Transformers** | Products & Agents | ◈ | ● HIGH | [Blokees Rolls Out Ultra Magnus with New Transformers Wheels Model Kit](https://news.google.com/rss/articles/CBMirAFBVV95cUxOMzIwS1MyT2ZBZzVjVHU2aGxtS2ROTXZzbmc3TThSTlJlQkNMc3dsUFE4TWI2NjI0c1g3ajJWWERiV2FzTGVqaVIwVzVhbVhKRUpxeTBxdWpSVlZYRWxNRWFfYndwTGR5UGNRUFdScGUydDMyb29JUnZ0Smdla1R3Z3VGWHpiMFNlUVVPVXdkQzVfTHVQdl9ya3NTU3NpMi1ySmhxY0lwNXF3YlFi?oc=5) |
+| 12 | **The Decoder** | Products & Agents | 🖼️ | ● HIGH | [Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?](https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/) |
 
 [→ Full generated dataset](data/news.json) · [→ Core sources](config/sources.json) · [→ Extended sources](config/sources-extra.json) · [→ Full transparency catalog](PRIVACY-SOURCES.md)
 
